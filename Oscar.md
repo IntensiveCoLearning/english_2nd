@@ -65,7 +65,7 @@ timezone: Asia/Shanghai
 
 A eco-lifelong learner.
 
-Hope to develop a habit of naturally using English every day through IntensiveCoLearning，especially in listening and speaking. And to surf🏄‍♀️ better in the Web3 world. Enjoy this challenging vibe and become cooler 🆒. 
+Hope to develop a habit of naturally using English every day through IntensiveCoLearning，especially in listening and speaking. And to surf🏄‍♀️ better in the Web3 world. Enjoy this challenging vibe and become cooler. 
 
 ## Do you think you will finish the whole CoLearning program?
 
