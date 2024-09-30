@@ -12,7 +12,7 @@
 - 每期残酷共学以 4 周为一个周期，第一周为共学启动报名和熟悉共学规则，第二周到第四周将正式启动共学（为期 21 天），中途不得加入。
 - 共学方向包括不限于：英语、区块链、以太坊、Web3 技术、DAO、加密思潮等，自由自主发起。内容包括不限于：视频、书籍、文章、课程、实战。
 
-报名方式是完全基于 GitHub 的流程，通过提交 **PR** 进行申请，合并 PR 之后拥有更新权限，更新到自己的 Markdown 笔记下面。如果你不熟悉 GitHub 和 Git 的操作，请先自行学习。通常还会有一个小型的 TG 交流群方便交流。关于更多「残酷共学」的相关介绍请参见[这里](https://forum.lxdao.io/t/topic/1654)，关于更多正在发生的残酷共学请参见 [IntensiveCoLearning GitHub ](https://intensivecolearn.ing/)页面。
+报名方式是完全基于 GitHub 的流程，通过提交 **PR** 进行申请，合并 PR 之后拥有更新权限，更新到自己的 Markdown 笔记下面。如果你不熟悉 GitHub 和 Git 的操作，这里有个[参考指南](https://www.notion.so/lxdao/GitHub-53fca5ba49bb40c69e4e40e69f58f416)。关于更多「残酷共学」的相关介绍请参见[这里](https://forum.lxdao.io/t/topic/1654)，关于更多正在发生的残酷共学请参见 [IntensiveCoLearning GitHub ](https://intensivecolearn.ing/)页面。如果你有对"残酷共学"项目有疑问或者想法，请到 [IntensiveCoLearning](https://t.me/LXDAO/6215) TG 频道联系我们。有关英语残酷共学讨论请在 [EnglishIntensiveCoLearning ](https://t.me/LXDAO/6912) TG 频道交流。
 
 ## 英语残酷共学 2nd 🚀
 
