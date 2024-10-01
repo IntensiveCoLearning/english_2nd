@@ -57,6 +57,11 @@ Personal hobbies include: driving, traveling, and watching the sunset.]
 
 ### 2024.10.02
 
+今天主要练习是一小时的菲律宾外交一对一，主要讨论了两个口语话题：Shopping 和 Paper books or E-Books
+
+我感觉主要的问题是想法是有的，时长也可以到达要求，做到回答+解释+延伸，但就是用的词汇很低级，正在准备丰富自己的词汇；
+今天仅仅听了 15 分钟阅读课，感觉老师一直在强调词汇的重要性，可能今天发烧的原因，阅读课和单词都没坚持下去多少，只记住 be fond of、time comsuming，pricey 这些口语对话中的替换词。
+明天希望能听完第一节阅读课，并背完明天的 20单词加上剩下的 15 个单词。
 
 
 ### 2024.10.03
