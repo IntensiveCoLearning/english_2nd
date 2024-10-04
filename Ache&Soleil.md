@@ -97,6 +97,9 @@ I am Ache, I am a member of the LXDAO governance group. After participating in t
 ## 笔记证明 Notes Proof
 
 <!-- Content_START --> 
+### 2024.10.04
+
+Teaming up with Soleil, I think we can complete this study together.
 
 ### 2024.10.08
 
