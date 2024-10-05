@@ -64,6 +64,7 @@ timezone: Asia/Shanghai
 Qi
 
 [Your self-introduction should include your nickname, profession, and motivation for learning English to ensure that everyone can clearly understand your situation.]
+
 hello,everyone.you can call me Qi, I'm a full stack enginner. I have been work for 5 years. 
 TO into the web3 bussiness and look forward to a remote job is my motivation for learning English.
 I'm glad to meet you.
@@ -72,6 +73,7 @@ I'm glad to meet you.
 ## Do you think you will finish the whole CoLearning program?
 
 [Yes 100% or Maybe xx%]
+
 Yes
 
 
