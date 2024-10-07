@@ -29,7 +29,7 @@ Yes 100%
 - 其它：扩展资料或其它你认为适合自己的英语学习资料。
 - A16z Crypto school: https://a16zcrypto.com/accelerator/library/
 - 华语加密思潮内容：关于信任的内容 https://mp.weixin.qq.com/s/tqMrD1qbYPH9HHXHM0BLbA
-- 
+- 信任的进化小游戏（英文版）https://ncase.me/trust/ 
 
 
 **CP 组队：**  希望大家主动认识，互相监督学习和打卡，好好享受这 21 天英语共学之旅。
@@ -55,7 +55,38 @@ Yes 100%
 <!-- Content_START --> 
 
 ### 2024.10.07
-今日先熟悉一下GitHub的使用方式以及大概了解下这21天内需要学习使用的教材难度。
+今日熟悉了一下GitHub的操作以及大概了解下这21天内需要学习使用的教材。
+
+Achievement1：完成阅读第一遍A Programmer's Guide to English
+tips：
+1.学习时做好 Benchmark 并设置目标，先做当前状态的记录，并设置一个目标和期限。 比如说测试目前的词汇量，朗读材料并做好录音，方便之后回顾。
+2.扩充自己的语料库，其中包含多种口音的声音（可以用网站youglish)；不同词性和时态下，不同的发音；同义词及其对比、反义词等；语料相关的俚语、文化、衍生词等；相关的常见固定搭配和用法；名词的单复数形态和动词的各种时态变形及其发音规则。
+3.把学习的流程走通，音标要准确，够熟，利用好资源YouTube，netflix等，利用好影子跟读，做好精听和泛听。（精听可以用本次学习的材料，泛听可无字幕刷YouTube或者听播客，看美剧都可以）
+4.语言学习是以月、年为单位计算的，在学习的过程中，确实只有多练习，这个过程中在一开始会对笨拙的自己很沮丧，但这很正常，在正确的道路上坚持下去就会有改变。
+
+在我阅读的这本书的时候，想到了最近阅读的李笑来《1000小时英语》，这篇文章和李笑来的书很多底层逻辑是一样的，比如说音标很重要，音素作为语言的最小单位，需要花很多的精力去攻克。但两者不同的是，李笑来的书重点讲述了语言的本质，以及如何在AI时代量身定做的学习计划，我觉得AI在语言教育上，完全是划时代的产物game changer,现在真的没借口说学不好英文了，由于内容比较多，以后有机会可以分享一下具体的学习技巧，在书里，他主要是讲了“道“的部分，在这里也一并附上GitHub的阅读链接。https://1000h.org/training-tasks/kick-off.html
+
+Achievement2：完成了Daily English Dictation 1-
+
+#1 "Mother teresa dies in Calcutta India."
+原文 "Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta, India. She was 87 years old."
+* 本篇中我的疑惑点主要在 'calcutta'这个地名，主要在于现有的语音库里没有相关的内容，所以听了好几遍也听不出是什么。后面才知道是是Calcutta加尔各答,这是我为数不多知道的印度的城市.这还是多年前我读的一篇帖子里提到，来自世界各地的志愿者前往Calcutta，参与Mother Teresa 创办的仁爱传教会的项目，其中最著名的志愿服务地点之一是“垂死者之家（home for the dying destitutes.）”，目的是为那些无家可归、并重且临终的人提供关爱和尊严。我当时看了非常感触，无法想象人们是如何生存，又是如何的离开这个世界。那些亲历的志愿者又会如何看待死亡，人性与苦难的关系。也因此对印度的这个城市有所印象，今天第一次知道原来这个城市的英文名就叫calcutta。
+在学习中，我觉得很重要的一部分是如何把学到的东西纳入自己的认知体系中，并产生关联。因为我们的大脑非常耗能，它会想尽一切办法“省电”，于是，一切和我们“无关，没用”的事物都会被大脑所无情抛弃，所以说，在学习的过程中，需要多把新内容和已有的神经连接起来，形成新的节点，才能更好地记忆。
+
+* 其次，在历史记叙中，使用现在时态（dies而不是died）是一种常见的叙述手法，被称为“历史现在时” (historical present tesnse)
+"When you associate the past history, when they tell you the history going back in time, you're living at the point. So you can say Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta, India."
+这种手法可以使事件显得更加生动，仿佛让人感到自己正在亲身经历这些事件，回到了那个时间点，感受到事情的紧迫和现实，增加了叙事的临场感和紧张感。
+例如：In 1969, Neil Armstrong steps onto the surface of the moon and says, “That’s one small step for man, one giant leap for mankind.”
+	•	用“steps”而不是“stepped”让读者仿佛亲眼目睹阿姆斯特朗踏上月球的瞬间。
+
+#2 7Hs法
+原文:
+“Jerry, what time do you have? “
+”I have five o'clock.”
+* 本篇难度不大,老师提出了7Hs法则很常见, he, her, him, his, had, has, have 有这7个词连读的时候,母语者说得快的时候直接去掉H的发音,比如本句 “I ave five o'clock.”
+
+#3 "There are three things I have learned never to discuss with people. Religion, politicas, and the Great Pumpkin."
+感觉小朋友的牙还没长齐,有点口齿不清,略微含糊,但还能听明白.
 
 
 ### 2024.10.08
