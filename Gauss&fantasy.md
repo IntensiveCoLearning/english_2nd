@@ -1,6 +1,6 @@
 ---
 > timezone: Pacific/Auckland
----
+> ---
 
 # [Gauss]
 
