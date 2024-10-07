@@ -28,6 +28,7 @@ Yes 100%
 - [**每日英语听写 Daily English Dictation 1-400**](https://www.bilibili.com/video/BV1U7411a7xG?p=3&vd_source=bc0666711d2280c24d54945ab9c11146) 「听写」对于「听和说」是最有效的方式 ❤️ 预计 18 天，进度是每天至少 2-5 节，每次听写尽量写出来具体的内容，可以总结生词/概述所学/复盘。最后 1 天对本期残酷共学复盘总结
 - 其它：扩展资料或其它你认为适合自己的英语学习资料。
 - A16z Crypto school: https://a16zcrypto.com/accelerator/library/
+- 华语加密思潮内容：关于信任的内容 https://mp.weixin.qq.com/s/tqMrD1qbYPH9HHXHM0BLbA
 - 
 
 
@@ -52,6 +53,10 @@ Yes 100%
 ## 笔记证明 Notes Proof
 
 <!-- Content_START --> 
+
+### 2024.10.07
+今日先熟悉一下GitHub的使用方式以及大概了解下这21天内需要学习使用的教材难度。
+
 
 ### 2024.10.08
 
