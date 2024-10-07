@@ -66,7 +66,7 @@ timezone: Asia/Shanghai
 
 ## Do you think you will finish the whole CoLearning program?
 
-[Yes 100% or Maybe xx%]
+[Yes 100% ]
 
 ---
 
