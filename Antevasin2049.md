@@ -57,7 +57,7 @@ Yes 100%
 ### 2024.10.07
 今日熟悉了一下GitHub的操作以及大概了解下这21天内需要学习使用的教材。
 
-Achievement1：完成阅读第一遍A Programmer's Guide to English
+Achievement1：完成阅读A Programmer's Guide to English
 tips：
 1.学习时做好 Benchmark 并设置目标，先做当前状态的记录，并设置一个目标和期限。 比如说测试目前的词汇量，朗读材料并做好录音，方便之后回顾。
 2.扩充自己的语料库，其中包含多种口音的声音（可以用网站youglish)；不同词性和时态下，不同的发音；同义词及其对比、反义词等；语料相关的俚语、文化、衍生词等；相关的常见固定搭配和用法；名词的单复数形态和动词的各种时态变形及其发音规则。
@@ -66,7 +66,7 @@ tips：
 
 在我阅读的这本书的时候，想到了最近阅读的李笑来《1000小时英语》，这篇文章和李笑来的书很多底层逻辑是一样的，比如说音标很重要，音素作为语言的最小单位，需要花很多的精力去攻克。但两者不同的是，李笑来的书重点讲述了语言的本质，以及如何在AI时代量身定做的学习计划，我觉得AI在语言教育上，完全是划时代的产物game changer,现在真的没借口说学不好英文了，由于内容比较多，以后有机会可以分享一下具体的学习技巧，在书里，他主要是讲了“道“的部分，在这里也一并附上GitHub的阅读链接。https://1000h.org/training-tasks/kick-off.html
 
-Achievement2：完成了Daily English Dictation 1-
+Achievement2：完成了Daily English Dictation #1-#3
 
 #1 "Mother teresa dies in Calcutta India."
 原文 "Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta, India. She was 87 years old."
@@ -76,8 +76,7 @@ Achievement2：完成了Daily English Dictation 1-
 * 其次，在历史记叙中，使用现在时态（dies而不是died）是一种常见的叙述手法，被称为“历史现在时” (historical present tesnse)
 "When you associate the past history, when they tell you the history going back in time, you're living at the point. So you can say Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta, India."
 这种手法可以使事件显得更加生动，仿佛让人感到自己正在亲身经历这些事件，回到了那个时间点，感受到事情的紧迫和现实，增加了叙事的临场感和紧张感。
-例如：In 1969, Neil Armstrong steps onto the surface of the moon and says, “That’s one small step for man, one giant leap for mankind.”
-	•	用“steps”而不是“stepped”让读者仿佛亲眼目睹阿姆斯特朗踏上月球的瞬间。
+例如：In 1969, Neil Armstrong steps onto the surface of the moon and says, “That’s one small step for man, one giant leap for mankind.” 用“steps”而不是“stepped”让读者仿佛亲眼目睹阿姆斯特朗踏上月球的瞬间。
 
 #2 7Hs法
 原文:
