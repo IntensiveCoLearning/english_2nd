@@ -61,12 +61,12 @@ timezone: Asia/Shanghai
 > 正式开始前请确保你在身体上和精神上都处于合适的状态，请刻意练习，残酷面对 🆒。 报名需要按要求认真填写下面 [ YourName ] 自我介绍部分，方便大家互相认识，报名通过审核即可开始自主学习。
 
 # [your name]
+Hello everyone, my name is Huo Shixiong, and I am on an exciting journey into the world of web3. I am passionate about blockchain technology, decentralized finance (DeFi), and the transformative potential of this emerging industry.I am committed to continuous learning and growth, and I am excited about the opportunities that lie ahead. I am open to new experiences and always ready to contribute my insights and perspectives to the community.
 
-[Your self-introduction should include your nickname, profession, and motivation for learning English to ensure that everyone can clearly understand your situation.]
 
 ## Do you think you will finish the whole CoLearning program?
 
-[Yes 100% or Maybe xx%]
+Yes 100%.
 
 ---
 
