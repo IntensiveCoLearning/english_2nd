@@ -101,8 +101,10 @@ m
 <!-- Content_START --> 
 
 ### 2024.10.08
-
-
+	bilibili eveyday study English. study at 12:00 to 13:00
+	What time do you have?
+	https://www.youtube.com/shorts/YS2Yhbn2NXQ 动词 crush  spill bend roll squash squeeze pour drag twist smash wring shatter
+	
 
 ### 2024.10.09
 
