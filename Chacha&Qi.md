@@ -1,5 +1,5 @@
 ---
-timezone: Asia/Shanghai # 中国标准时间 (UTC+8)
+timezone: Asia/Shanghai
 ---
 
 > ⚠️本打卡表默认为北京时间 UTC+8 时区，正确格式如下：
@@ -54,17 +54,28 @@ timezone: Asia/Shanghai # 中国标准时间 (UTC+8)
 >
 > timezone: Asia/Bangkok # 中南半岛时间 (UTC+7)
 
+
+
 # 英语残酷共学第 2 期残酷指引
 
 > 正式开始前请确保你在身体上和精神上都处于合适的状态，请刻意练习，残酷面对 🆒。 报名需要按要求认真填写下面 [ YourName ] 自我介绍部分，方便大家互相认识，报名通过审核即可开始自主学习。
 
 # [your name]
+Chacha
 
-Paxon Qiao 乔鹏军， Web3开发者，区块链技术爱好者，现居住于中国陕西，对Web3、区块链、智能合约、去中心化应用开发等领域有深入研究和实践。学习英语是我个人的兴趣爱好，希望通过共学，提高自己的英语水平，同时也能结识更多的朋友。
+[Your self-introduction should include your nickname, profession, and motivation for learning English to ensure that everyone can clearly understand your situation.]
+
+Hello,everyone.you can call me Chacha, I'm a full stack enginner. I have been working for almost 10 years since I graduated,
+I really want to practice my oral English through this way, and I have been learning English for more than 1 year,
+I'm glad to meet you.
+
 
 ## Do you think you will finish the whole CoLearning program?
 
-yes
+[Yes 100% or Maybe xx%]
+
+Yes
+
 
 ---
 
@@ -88,109 +99,40 @@ yes
 
 ⚠️ **当你提交笔记时，请注意本文档格式，否则打卡可能会失败：**
 
-- 笔记证明 Notes Proof 下方的 `<!-- Content_START -->` 和`<!-- Content_END -->` 不要删除。
+- 笔记证明 Notes Proof 下方的 `<!-- Content_START -->` 和` <!-- Content_END -->` 不要删除。
 - 每天的学习证明记录格式：以时间年月日 `### 2024.10.08` 作为标题开头，以此类推。
 
 ---
 
 ## 笔记证明 Notes Proof
 
-<!-- Content_START -->
+<!-- Content_START --> 
 
 ### 2024.10.08
+1. Listened this *Jamie xx on The Zane Lowe Show* on Apple music. https://music.apple.com/cn/station/jamie-xx/ra.1767640265?l=en-GB
+This is a really good episode and it plays some of music that I really love it.
+2. I learned some new vocabulary on Baicizhan, this a really good app that I've been using for couple of months, I highly recommend this App
 
-笔记内容
+<img width="200" alt="Chacha 10-08" src="./img/Chacha-10-8.JPG" />
 
 ### 2024.10.09
 
-笔记内容
+
 
 ### 2024.10.10
 
-笔记内容
 
-### 2024.10.11
 
-笔记内容
+### 2024.10.09
 
-### 2024.10.12
 
-笔记内容
 
-### 2024.10.13
+### 2024.10.10
 
-笔记内容
 
-### 2024.10.14
 
-笔记内容
 
-### 2024.10.15
 
-笔记内容
 
-### 2024.10.16
-
-笔记内容
-
-### 2024.10.17
-
-笔记内容
-
-### 2024.10.18
-
-笔记内容
-
-### 2024.10.19
-
-笔记内容
-
-### 2024.10.20
-
-笔记内容
-
-### 2024.10.21
-
-笔记内容
-
-### 2024.10.22
-
-笔记内容
-
-### 2024.10.23
-
-笔记内容
-
-### 2024.10.24
-
-笔记内容
-
-### 2024.10.25
-
-笔记内容
-
-### 2024.10.26
-
-笔记内容
-
-### 2024.10.27
-
-笔记内容
-
-### 2024.10.28
-
-笔记内容
-
-### 2024.10.29
-
-笔记内容
-
-### 2024.10.30
-
-笔记内容
-
-### 2024.10.31
-
-笔记内容
 
 <!-- Content_END -->
