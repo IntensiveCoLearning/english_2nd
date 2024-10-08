@@ -121,7 +121,10 @@ Don't ever let somebody tell you you can't do something. 别让人告诉你你�
 
 
 ### 2024.10.09
-
+ i just spilled something on my carpet. Unfortunately,in my office right in the middle.
+So now, l have to spend a few minutes tring to get the stain out. i've been using this new
+charcoal toothpaste,l really like it,but i was picking stuff up off mu office floor when Sawyer called me. "Mom i need you",and l said"i'll be there in a second".And of cource, some charcoal toothpaste fell out of my mouth right onto the floor
+我刚刚把东西洒在了我的地毯上。很不幸，就在我办公室的正中间。现在我得花几分钟试图把污渍弄掉。我最近在用一种新的竹炭牙膏，我真的很喜欢它。但就在我从办公室地上捡东西时，Sawyer给我打了电话。"妈妈，我需要你"，我说"我马上过去"。当然，有些竹炭牙膏从我嘴里掉出来，正好掉在了地上。
 
 
 ### 2024.10.10
