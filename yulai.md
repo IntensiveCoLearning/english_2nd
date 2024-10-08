@@ -47,7 +47,7 @@ timezone: Asia/Shanghai
 <!-- Content_START --> 
 
 ### 2024.10.08
-
+阅读了「A-Programmers-Guide-to-English 」，作者分享了自己学习英语的方法，过程挺仔细的。只是过于偏向练习，不太符合我的风格。后续应该会花一周时间学习「从 0 开始学习英语语法 」，一周时间学习「The Web3 Glossary」。等学完后，再看如何安排。
 
 
 ### 2024.10.09
