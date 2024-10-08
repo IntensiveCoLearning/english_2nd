@@ -113,8 +113,6 @@ Yes
    <img width="200" alt="Chacha 10-08" src="./img/QI164.jpeg" />
 3. https://a-programmers-guide-to-english.harryyu.me/training/Thinking.html
 
-test
-
 ### 2024.10.09
 
 ### 2024.10.10
