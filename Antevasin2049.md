@@ -68,7 +68,7 @@ tips：
 
 **Achievement2：完成了Daily English Dictation #1-#3**
 
-#1 "Mother teresa dies in Calcutta India."
+**#1 "Mother teresa dies in Calcutta India."**
 原文 "Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta, India. She was 87 years old."
 * 本篇中我的疑惑点主要在 'calcutta'这个地名，主要在于现有的语音库里没有相关的内容，所以听了好几遍也听不出是什么。后面才知道是是Calcutta加尔各答,这是我为数不多知道的印度的城市.这还是多年前我读的一篇帖子里提到，来自世界各地的志愿者前往Calcutta，参与Mother Teresa 创办的仁爱传教会的项目，其中最著名的志愿服务地点之一是“垂死者之家（home for the dying destitutes.）”，目的是为那些无家可归、并重且临终的人提供关爱和尊严。我当时看了非常感触，无法想象人们是如何生存，又是如何的离开这个世界。那些亲历的志愿者又会如何看待死亡，人性与苦难的关系。也因此对印度的这个城市有所印象，今天第一次知道原来这个城市的英文名就叫calcutta。
 在学习中，我觉得很重要的一部分是如何把学到的东西纳入自己的认知体系中，并产生关联。因为我们的大脑非常耗能，它会想尽一切办法“省电”，于是，一切和我们“无关，没用”的事物都会被大脑所无情抛弃，所以说，在学习的过程中，需要多把新内容和已有的神经连接起来，形成新的节点，才能更好地记忆。
@@ -78,10 +78,7 @@ tips：
 这种手法可以使事件显得更加生动，仿佛让人感到自己正在亲身经历这些事件，回到了那个时间点，感受到事情的紧迫和现实，增加了叙事的临场感和紧张感。
 例如：In 1969, Neil Armstrong steps onto the surface of the moon and says, “That’s one small step for man, one giant leap for mankind.” 用“steps”而不是“stepped”让读者仿佛亲眼目睹阿姆斯特朗踏上月球的瞬间。
 
-
-
-### 2024.10.08
-#2 7Hs法
+**#2 7Hs法**
 原文:
 “Jerry, what time do you have? “
 ”I have five o'clock.”
@@ -90,6 +87,31 @@ tips：
 #3 "There are three things I have learned never to discuss with people. Religion, politicas, and the Great Pumpkin."
 感觉小朋友的牙还没长齐,有点口齿不清,略微含糊,但还能听明白.
 
+
+### 2024.10.08 
+
+**Achievemen1：完成了Daily English Dictation #4-#6**
+**#4 “Don't ever let somebody tell you, you can't do something.”**
+这里有两个把说的更像母语者的重点，一个是老师说“something”的时候，一般读的很快就成了 “sump'n”
+还有一点是强音和弱音连读的时候，省略弱音，比如can't,就需要省略“t”
+强音：S,N,L
+弱音：d,t,th
+
+Practice sentences:
+"Don't let her tell you that you can't do it." → "Don' let 'er tell ya tha' you can' do it."
+"Something's wrong, isn't it?" → "Sump'n's wrong, isn' it?"
+
+**#5 "I have come here 
+to chew bubblegum 
+and kick ass, 
+and I'm all out of bubblegum."**
+
+这一句看似简单，实则有很多发音技巧，尤其是最后一句“and I'm all out of bubblegum” 应该读成“and I ahm all outta bubblegum ”
+我觉得这个学习教材挺不错的，再有了一定基础之后再来学习，刻意训练一段时间，发音应该会更加自然。
+当然还是需要更多的练习。
+
+**#6 “The secreat of life is just live any moment.”**
+这句比较简单，没什么好补充的
 
 ### 2024.10.09
 
