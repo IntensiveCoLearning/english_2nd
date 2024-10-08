@@ -47,7 +47,10 @@ Maybe 60%
 <!-- Content_START --> 
 
 ### 2024.10.08
-
+2024 Nobel Prize in physics
+1. https://www.sciencenews.org/article/nobel-physics-2024-machine-learning
+2. https://edition.cnn.com/2024/10/08/science/nobel-prize-physics-hopfield-hinton-machine-learning-intl/index.html
+3. https://www.nytimes.com/2024/10/08/science/nobel-prize-physics.html 
 
 
 ### 2024.10.09
