@@ -100,7 +100,7 @@ timezone: Asia/Shanghai
 <!-- Content_START --> 
 
 ### 2024.10.08
-
+Mather teresa,who received the Noble Peace Prize for her work on behalf of the poor ,dies in calcuha, india.she was 87 years old  
 
 
 ### 2024.10.09
