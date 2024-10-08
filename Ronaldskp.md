@@ -100,7 +100,24 @@ timezone: Asia/Shanghai
 <!-- Content_START --> 
 
 ### 2024.10.08
+P2：
+Mother Teresa,who received a Nobel Peace Prize for her work on behalf of the poor ,dies in Calcutta India. She was 87years old.
+on behalf of＝for
+Nobel Peace Prize诺贝尔和平奖 
+Calcutta：加尔各答（印度城市）
 
+P3:
+Jerry,what time do you have? Jerry，现在几点了？ 
+I have 5 o'clock. 5点了。
+
+P4:
+There are 3things I've learned Never to discussed with people:religion,politics and the Great Pumpkin. 在我所学的事物中有三件事不能和他人讨论：宗教，政治和南瓜大王。 
+religion:宗教 
+politics：政治 
+the Great Pumpkin:南瓜大王（万圣节代表人物，类似于圣诞节中的圣诞老人）
+
+P5:
+Don't ever let somebody tell you you can't do something. 别让人告诉你你不能成事。
 
 
 ### 2024.10.09
