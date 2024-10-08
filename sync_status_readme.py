@@ -93,12 +93,12 @@ def find_date_in_content(content, local_date):
     date_patterns = [
         r'###\s*' + local_date.strftime("%Y.%m.%d"),
         r'###\s*' + local_date.strftime("%Y.%m.%d").replace('.0', '.'),
-        r'###\s*' +
-        local_date.strftime("%m.%d").lstrip('0').replace('.0', '.'),
+        r'###\s*' + local_date.strftime("%m.%d").lstrip('0').replace('.0', '.'),
         r'###\s*' + local_date.strftime("%Y/%m/%d"),
-        r'###\s*' +
-        local_date.strftime("%m/%d").lstrip('0').replace('/0', '/'),
-        r'###\s*' + local_date.strftime("%m.%d").zfill(5)
+        r'###\s*' + local_date.strftime("%m/%d").lstrip('0').replace('/0', '/'),
+        r'###\s*' + local_date.strftime("%m.%d").zfill(5),
+        r'###\s*' + local_date.strftime("%Y.%m.%d"),  # 新增：完整年月日格式
+        r'###\s*' + local_date.strftime("%m.%d")      # 新增：保留前导零的月日格式
     ]
     combined_pattern = '|'.join(date_patterns)
     return re.search(combined_pattern, content)
