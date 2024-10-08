@@ -102,8 +102,7 @@ I am Ache, I am a member of the LXDAO governance group. After participating in t
 Teaming up with Soleil, I think we can complete this study together.
 
 ### 2024.10.08
-
-
+https://www.notion.so/10-8-119cdef3640d805bafd5fb36d9ca9177
 
 ### 2024.10.09
 
