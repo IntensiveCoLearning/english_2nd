@@ -104,7 +104,15 @@ Hope to develop a habit of naturally using English every day through IntensiveCo
 
 ### 2024.10.08
 
+Listening and Learning English expression：
 
+`Hello everyone，I'm Jiang Yun. The owner of the HangWei Noodle Shop.`Our shop has always been **downstairs** from Alipay ’s office. We always move to **wherever** the Alipay office is . `We’ve witnessed how Alipay has grown into Ant Group`.All these years,Ant Group’s staff ordered **countless** bowls of our noodles,I can proudly say that our noodles helped feed many of their innovations and ideas.I was only 26 years old `when Alipay was founded`.At that time , my husband and I had just moved to Hangzhou for a few years.and we were still using an old-fashioned cash register.When we moved our noodle shop to the downstairs of the Alipay building, not only did we make noodles for them，we also became their “guinea pigs”。They would take all their new creations to my shop for testing. See. these are the payment tools they’d asked me to try out.`I know over 80 million businesses and 1 billion users are using Alipay`.`I never imagined that as a noodle shop owner, I can help change the world too!`
+
+- owner：[/'әunә/]() 老板
+- We’ve witnessed how Alipay has grown into Ant Group. 我们亲眼看着支付宝成长为蚂蚁集团。
+- innovation [/ɪnə'veɪʃ(ə)n/]() 创新
+- creation [/kriː'eɪʃ(ə)n/]() 创作
+- billion 十亿
 
 ### 2024.10.09
 
