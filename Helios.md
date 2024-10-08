@@ -101,7 +101,7 @@ timezone: Asia/Shanghai
 
 ### 2024.10.08
 
-看完了《A Programmer's Guide to English》然后做了Benchmark
+看完了《A Programmer's Guide to English》然后做了Benchmark。
 
 ### 2024.10.09
 
