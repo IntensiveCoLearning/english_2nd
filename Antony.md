@@ -47,6 +47,8 @@ Yes 100%
 
 ### 2024.10.08
 
+精聽這個影片 0:00~1:27 https://youtu.be/TjPFZaMe2yw?si=p6NeqbMWX3WxThTR
+
 
 
 ### 2024.10.09
