@@ -48,7 +48,31 @@ timezone: Asia/Taipei
 
 <!-- Content_START --> 
 
-<!-- ### 2024.10.08 -->
+### 2024.10.08
 
+- 大約花了 30 分鐘左右閱讀 README.md 提到的 [A-Programmers-Guide-to-English](https://a-programmers-guide-to-english.harryyu.me/)
+- 這個讀物主要是著重學習在語言學習的方法論
+- 感覺這個讀物的價值沒有上週看李笑來老師所寫的 [Everyone can use English](https://github.com/ZuodaoTech/everyone-can-use-english/blob/main/book/README.md) 的價值高
+- 大約花了 60 分鐘左右閱讀 README.md 提到的 [**从 0 开始学习英语语法**](https://hzpt-inet-club.github.io/english-note/) (感覺有一些內容是勘誤?)
+- 觀點形容詞：表示對某事某物的看法
+- 描繪形容詞：表示對事物本身的特徵
+- ![](https://hzpt-inet-club.github.io/english-note/adjectiveToNoun/8.png)
+- 形容詞相當於中文的「...的」，副詞相當於中文的「...地」
+  - 使用場景：「漂亮的花朵」、「花朵漂亮地綻放了」
+- 一般情況下，副詞要放在動詞後面
+- 但是如果副詞放後面會產生歧義，則需要放在動詞前面
+  - 例句: He **kissed** the girl **tenderly** living next door ❌
+  - 讀者不知道 **tenderly** 究竟是修飾 kissed 還是 living 呢？
+  - 看起來像是修飾 living，但這樣就會是一個很奇怪的句子
+  - He **tenderly** **kissed** the girl living next door ✅
+- 副詞的適用場景:
+  - 先找到被修飾的詞是哪一個
+  - 判斷被修飾的詞是名詞還是其他詞(形容詞、副詞、動詞)
+  - 是名詞就需要用形容詞
+    - 形容詞: A **beautiful** flower. (beautiful 是形容詞、flower 是副詞)
+  - 其他詞就用副詞
+    - 動詞: She **quickly** watered the flower. (副詞 quickly 修飾動詞 watered)
+    - 形容詞: A **very** beautiful flower. (副詞 very 修飾形容詞 beautiful)
+    - 副詞: She watered the flower quite **carefully**. (副詞 quite 修飾副詞 carefully)
 
 <!-- Content_END -->
