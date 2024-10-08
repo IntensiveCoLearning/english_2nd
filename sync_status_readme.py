@@ -8,9 +8,9 @@ import logging
 
 # Constants
 START_DATE = datetime.fromisoformat(os.environ.get(
-    'START_DATE', '2024-06-24T00:00:00+00:00')).replace(tzinfo=pytz.UTC)
+    'START_DATE', '2024-10-08T00:00:00+00:00')).replace(tzinfo=pytz.UTC)
 END_DATE = datetime.fromisoformat(os.environ.get(
-    'END_DATE', '2024-07-14T23:59:59+00:00')).replace(tzinfo=pytz.UTC)
+    'END_DATE', '2024-10-28T23:59:59+00:00')).replace(tzinfo=pytz.UTC)
 DEFAULT_TIMEZONE = 'Asia/Shanghai'
 FILE_SUFFIX = os.environ.get('FILE_SUFFIX', '.md')
 README_FILE = 'README.md'
@@ -200,7 +200,7 @@ def check_weekly_status(user_status, date, user_tz):
 def get_all_user_files():
     exclude_prefixes = ('template', 'readme')
     return [f[:-len(FILE_SUFFIX)] for f in os.listdir('.')
-            if f.lower().endswith(FILE_SUFFIX.lower()) 
+            if f.lower().endswith(FILE_SUFFIX.lower())
             and not f.lower().startswith(exclude_prefixes)]
 
 
