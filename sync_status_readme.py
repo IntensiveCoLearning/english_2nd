@@ -80,13 +80,33 @@ def get_user_timezone(file_content):
     return pytz.timezone(DEFAULT_TIMEZONE)
 
 
+# def extract_content_between_markers(file_content):
+#     start_index = file_content.find(Content_START_MARKER)
+#     end_index = file_content.find(Content_END_MARKER)
+#     if start_index == -1 or end_index == -1:
+#         logging.warning("Content_START_MARKER markers not found in the file")
+#         return ""
+#     return file_content[start_index + len(Content_START_MARKER):end_index].strip()
+
+
 def extract_content_between_markers(file_content):
-    start_index = file_content.find(Content_START_MARKER)
-    end_index = file_content.find(Content_END_MARKER)
-    if start_index == -1 or end_index == -1:
-        logging.warning("Content_START_MARKER markers not found in the file")
+    first_start = file_content.find(Content_START_MARKER)
+    if first_start == -1:
+        logging.warning("Content_START_MARKER not found in the file")
         return ""
-    return file_content[start_index + len(Content_START_MARKER):end_index].strip()
+    
+    # 从第一个标记之后开始搜索第二个标记对
+    second_start = file_content.find(Content_START_MARKER, first_start + len(Content_START_MARKER))
+    if second_start == -1:
+        logging.warning("Second Content_START_MARKER not found in the file")
+        return ""
+    
+    end_index = file_content.find(Content_END_MARKER, second_start)
+    if end_index == -1:
+        logging.warning("Content_END_MARKER not found after second start marker")
+        return ""
+    
+    return file_content[second_start + len(Content_START_MARKER):end_index].strip()
 
 
 def find_date_in_content(content, local_date):
