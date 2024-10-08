@@ -78,6 +78,9 @@ tips：
 这种手法可以使事件显得更加生动，仿佛让人感到自己正在亲身经历这些事件，回到了那个时间点，感受到事情的紧迫和现实，增加了叙事的临场感和紧张感。
 例如：In 1969, Neil Armstrong steps onto the surface of the moon and says, “That’s one small step for man, one giant leap for mankind.” 用“steps”而不是“stepped”让读者仿佛亲眼目睹阿姆斯特朗踏上月球的瞬间。
 
+
+
+### 2024.10.08
 #2 7Hs法
 原文:
 “Jerry, what time do you have? “
@@ -86,10 +89,6 @@ tips：
 
 #3 "There are three things I have learned never to discuss with people. Religion, politicas, and the Great Pumpkin."
 感觉小朋友的牙还没长齐,有点口齿不清,略微含糊,但还能听明白.
-
-
-### 2024.10.08
-
 
 
 ### 2024.10.09
