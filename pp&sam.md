@@ -105,9 +105,9 @@ timezone: Asia/Shanghai
 <!-- Content_START --> 
 
 ### 2024.10.08
-# A-Programmers-Guide-to-English
+A-Programmers-Guide-to-English
 > finish reading.plugin to download:欧路词库、anki、7000新词list、chrome插件...
-# Daily English Dictation 1-400 day1&daya2
+Daily English Dictation 1-400 day1&daya2
 > day1:mother teresa,who received a nobel peace prize for her work on behalf of\for the poor,dies in calcutta,india-she was 87 years old.
 > day2:jerry,what time do you have? i have 5 o'clock. 当遇到s,n,l,的时候，d,t,th连读(弱化)
 
