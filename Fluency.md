@@ -100,7 +100,9 @@ timezone: Asia/Shanghai
 <!-- Content_START --> 
 
 ### 2024.10.08
-
+![image](https://github.com/user-attachments/assets/57f4793c-a921-48bc-9ee8-7371a644402f)
+![image](https://github.com/user-attachments/assets/11cb0851-c6ab-4fff-8d00-e5ef987e8773)
+今天时间紧张，阅读了半个多小时的专业英文文献，提升了自己的阅读水平，也掌握了一些常用词，获得了自我提升
 
 
 ### 2024.10.09
