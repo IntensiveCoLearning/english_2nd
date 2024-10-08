@@ -60,22 +60,13 @@ timezone: Asia/Shanghai
 
 > 正式开始前请确保你在身体上和精神上都处于合适的状态，请刻意练习，残酷面对 🆒。 报名需要按要求认真填写下面 [ YourName ] 自我介绍部分，方便大家互相认识，报名通过审核即可开始自主学习。
 
-# [your name]
-Chacha
+# [Hugo Leung]
 
-[Your self-introduction should include your nickname, profession, and motivation for learning English to ensure that everyone can clearly understand your situation.]
-
-Hello,everyone.you can call me Chacha, I'm a full stack enginner. I have been working for almost 10 years since I graduated,
-I really want to practice my oral English through this way, and I have been learning English for more than 1 year,
-I'm glad to meet you.
-
+Hope to learn english in anyway, interact with people with same purpose and take part in web3.
 
 ## Do you think you will finish the whole CoLearning program?
 
-[Yes 100% or Maybe xx%]
-
-Yes
-
+[99%]
 
 ---
 
@@ -109,12 +100,8 @@ Yes
 <!-- Content_START --> 
 
 ### 2024.10.08
-1. Listened this *Jamie xx on The Zane Lowe Show* on Apple music. https://music.apple.com/cn/station/jamie-xx/ra.1767640265?l=en-GB
-This is a really good episode and it playes some of music that I really love it.
-2. I learned some new vocabulary on Baicizhan, this a really good app that I've been using for couple of months, 
-I highly recommend this App
 
-<img width="200" src="./img/Chacha-10-8.JPG" />
+
 
 ### 2024.10.09
 
