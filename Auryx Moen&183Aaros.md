@@ -10,7 +10,7 @@ timezone: Asia/Shanghai
 
 # Auryx Moen
 
-This is Auryx Moen,nothing more than a ordinary and friendly one, but with a complicated inner being sealed and hidden deep within, waiting for discovered. 
+This is Auryx Moen,nothing more than a ordinary and friendly one, but with a complicated inner being sealed and hidden deep within, waiting to be discovered. 
 Currently I am an undergraduate in bupt, majoring in communication engineering.I am here for adding social contact to English learning. 
 Learn English, for the great world hidden behind it, for different possibilities in future as well.
 
