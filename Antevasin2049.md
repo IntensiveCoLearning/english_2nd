@@ -68,7 +68,7 @@ tips：
 
 **Achievement2：完成了Daily English Dictation #1-#3**
 
-**#1 "Mother teresa dies in Calcutta India."**
+*#1 "Mother teresa dies in Calcutta India."*
 原文 "Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta, India. She was 87 years old."
 * 本篇中我的疑惑点主要在 'calcutta'这个地名，主要在于现有的语音库里没有相关的内容，所以听了好几遍也听不出是什么。后面才知道是是Calcutta加尔各答,这是我为数不多知道的印度的城市.这还是多年前我读的一篇帖子里提到，来自世界各地的志愿者前往Calcutta，参与Mother Teresa 创办的仁爱传教会的项目，其中最著名的志愿服务地点之一是“垂死者之家（home for the dying destitutes.）”，目的是为那些无家可归、并重且临终的人提供关爱和尊严。我当时看了非常感触，无法想象人们是如何生存，又是如何的离开这个世界。那些亲历的志愿者又会如何看待死亡，人性与苦难的关系。也因此对印度的这个城市有所印象，今天第一次知道原来这个城市的英文名就叫calcutta。
 在学习中，我觉得很重要的一部分是如何把学到的东西纳入自己的认知体系中，并产生关联。因为我们的大脑非常耗能，它会想尽一切办法“省电”，于是，一切和我们“无关，没用”的事物都会被大脑所无情抛弃，所以说，在学习的过程中，需要多把新内容和已有的神经连接起来，形成新的节点，才能更好地记忆。
@@ -89,8 +89,8 @@ tips：
 
 
 ### 2024.10.08 
+Achievemen：完成了Daily English Dictation #4-#6
 
-**Achievemen1：完成了Daily English Dictation #4-#6**
 **#4 “Don't ever let somebody tell you, you can't do something.”**
 这里有两个把说的更像母语者的重点，一个是老师说“something”的时候，一般读的很快就成了 “sump'n”
 还有一点是强音和弱音连读的时候，省略弱音，比如can't,就需要省略“t”
