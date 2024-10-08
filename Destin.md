@@ -60,8 +60,7 @@ timezone: Asia/Shanghai
 
 > 正式开始前请确保你在身体上和精神上都处于合适的状态，请刻意练习，残酷面对 🆒。 报名需要按要求认真填写下面 [ YourName ] 自我介绍部分，方便大家互相认识，报名通过审核即可开始自主学习。
 
-# [your name]
-Destin is my name.
+# [Destin]
 [I have strong passion and energy, am willing to invest in learning, and will do my job conscientiously and responsibly. 
 I am willing to face challenges, and difficulties are inevitable in learning, which will only motivate me rather than defeat me.
 I am good at communication, have an outgoing and positive personality, and am easy to get along with. 
@@ -102,9 +101,17 @@ I hope to progress together with everyone.]
 <!-- Content_START --> 
 
 ### 2024.10.08
-
-
-
+Cambridge Dictionary词典
+单词重复训练
+发音和听力训练方法:
+1.音标要刷到熟练、准确为止
+2.通过 Google 翻译识别纠音
+3.通过 Youtube 学习,youtube视频
+ International Phonetic Alphabet (IPA) | English Pronunciation
+4.影子跟读，播放一段英语听力，错开几秒或者同时照着文本、模仿声音进行跟读。
+5.精听和泛听
+英语思维训练
+通过转述进行训练
 ### 2024.10.09
 
 
