@@ -109,7 +109,7 @@ Yes
 
 1. Listened this _Jamie xx on The Zane Lowe Show_ on Apple music. https://music.apple.com/cn/station/jamie-xx/ra.1767640265?l=en-GB
    This is a really good episode and it plays some of music that I really love it.
-2. I learned some new vocabulary on Baicizhan, this a really good app that I've been using for couple of months, I highly recommend this App
+2. I learned some new vocabulary on Baicizhan, this a really good app that I've been using for couple of months, I highly recommend this App.
 
 <img width="200" alt="Chacha 10-08" src="./img/Chacha-10-8.JPG" />
 
