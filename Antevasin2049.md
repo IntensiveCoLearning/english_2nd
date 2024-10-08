@@ -6,7 +6,7 @@ timezone: Asia/Shanghai
 
 > 正式开始前请确保你在身体上和精神上都处于合适的状态，请刻意练习，残酷面对 🆒。 报名需要按要求认真填写下面 [ YourName ] 自我介绍部分，方便大家互相认识，报名通过审核即可开始自主学习。
 
-# [Antevasin2049.]
+# [Antevasin2049]
 
 Hi, I’m Antevasin2049. I’m currently focused on improving my English, aiming to speak more fluently and accurately. In terms of listening,
 my goal is to understand 95% of original videos without subtitles. 
