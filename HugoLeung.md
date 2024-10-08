@@ -100,7 +100,8 @@ Hope to learn english in anyway, interact with people with same purpose and take
 <!-- Content_START --> 
 
 ### 2024.10.08
-
+# Pratice 1 : Daily English Dictation
+We need to listen more about the connected speech and the stress part of the speech
 
 
 ### 2024.10.09
