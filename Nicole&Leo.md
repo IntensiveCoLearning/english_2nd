@@ -52,7 +52,11 @@ Fooo shoo! 100%
 <!-- Content_START --> 
 
 ### 2024.10.08
-
+1. Learning material: https://www.ted.com/talks/sal_khan_how_ai_could_save_not_destroy_education?subtitle=en
+2. Key point:
+   - guardrails:a railing guarding usually against danger.
+   - We're at the cusp of using AI for probably the biggest positive transformation that has edecation has ever seen.
+   - It says tutorial 1-to-1 with the asterisks, like, that right distribution, a two standard-deviation improvement.
 
 
 ### 2024.10.09
