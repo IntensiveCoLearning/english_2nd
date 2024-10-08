@@ -52,6 +52,7 @@ LXDAO Host 的英语残酷共学第 2 期将继续加强**听和说**的训练�
 
 - [**美语音标**](https://book.douban.com/subject/4201317/ ) 系统学习英语的第一步，就是要纠正错误的发音（易错音、难发音）
 - [**The Web3 Glossary**](https://unstoppabledomains.com/blog/categories/web3-101/article/the-web3-glossary) Web3 英语词汇
+- [Words Commonly Mispronounced by Chinese Programmers](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) 点击🔊收听正确读音
 - [**EICL1st**](https://github.com/IntensiveCoLearning/english) 第 1 期英语残酷共学小伙伴笔记参考
 
 👏 当然我们也期待各位参与的小伙伴分享自己的学习资料及经验进行补充，适合自己的最重要。我们在这里的所有学习笔记及项目开发都将是开源的，持续连接更多人更方便的学习。
