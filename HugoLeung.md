@@ -66,7 +66,7 @@ Hope to learn english in anyway, interact with people with same purpose and take
 
 ## Do you think you will finish the whole CoLearning program?
 
-[Yes 100% or Maybe xx%]
+[99%]
 
 ---
 
