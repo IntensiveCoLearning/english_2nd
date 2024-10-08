@@ -50,7 +50,21 @@ Maybe76.49%, maybe.
 <!-- Content_START --> 
 
 ### 2024.10.08
-
+Learning materials: https://a-programmers-guide-to-english.harryyu.me/make-a-program/
+The essence of language is spread of one`s idea,thought,emotion and anything that carris information.Every language has specified rules.The rules arrange the information in sentence.
+The language used for exchanging of information must be accepted by each sides, otherwise communication would be of no funcation. That is what language learning for. 
+This article mentioned "How to creating a program that recongnize English", containing voice visual input and output. But now there have been GPT and many other multimodels existing. Models store billions of vectors in its metrix, which is called neural network.
+Take GPT for example, as far as I know, once take a input, the LLM(Large Language Model)generate a letter, then predict the most possible letter after it,Then do it again and again, until the answer is completed.
+The way how to train GPT is that, approxmately speaking, throw conversation of real humans to its metrix as much as possible.Then somehow arrange them in form.
+Does not seems like have anything to do with actual English learning... At least it might bring some inspiration.
+According the auther of this article, the English learning(or English Exam preparing)is really chill, tough and intense.To be honest, I dont want to learn anything under great pressure, I rather want to learn it in a peaceful and enjoyable way. Maybe it a little too ideal?
+Rest of article is full of personal learning experience and conclusion. I dont really take interest in them. So I basically skip it.
+Reflecting my total time along wiht English, over 85% is reading(Thanks to thousands of exam ive taken), about 15% is listening, literaly about 1% of all is talking, while most of them is imagaining or kind of self-talking!
+I can remember that there is time when I was playing Destiny 2(Video game), My friend and I run into a English speaker. That guy was not familiar with that dungeon mechanism, so I tried to taught him. I can speak relatively fluently while I put all my mind in it.But in combat, I lost my word. I cant even speak a completed sentence in chill combat. From that time I found that I didnt make English a instinct like mother tougue, in other words, really far form it. I need put all my mind into it while speaking English.
+But if so, how can I learn something through English, while English takes all my mind from the very beginning?
+So I need to make English one of my instinct. The most efficient way I can imagaine is using English like a real language. Or in other words, use it to connecting others?
+I have nothing to do with extrovert, so it is quite a challenge to me. Unfortunately it is where the daily concern and depression come from while not busy.
+Meanwhile, I am also tired of forcing and whiping myself to do anything. So I just let it go.
 
 
 ### 2024.10.09
