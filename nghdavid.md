@@ -54,7 +54,8 @@ Maybe 60%
 
 
 ### 2024.10.09
-
+CNN 10
+https://www.youtube.com/watch?v=_fKb-8DxUDw 
 
 
 ### 2024.10.10
