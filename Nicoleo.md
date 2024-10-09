@@ -60,11 +60,19 @@ Fooo shoo! 100%
 
 
 ### 2024.10.09
-1. Key point:
+1.Learning material:
+- https://www.ted.com/talks/mark_abraham_the_power_of_personalization_in_the_age_of_ai/transcript?subtitle=en
+- https://mp.weixin.qq.com/s/ng7b_Pe2dxbPyjpAqFkdVg
+2. Key point:
    - chime in 附和
      - He always chimes in with his boss's opinion.
-    
-   - 
+   - sounds simple on paper
+   - fidelity 忠诚；忠实
+   - myopically adv 近视地；缺乏远见地
+   - simmering adj 即将爆发的
+     - But I do have to think underlying a lot of this simmering anger in a sense of not being heard, of being a cog in an unresponsive, impersonal world.
+   - impersonal adj 没有人情味的
+     - His manner was cool and impersonal.
 
 
 ### 2024.10.10
