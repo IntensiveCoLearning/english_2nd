@@ -105,8 +105,39 @@ timezone: Asia/Shanghai
 
 
 ### 2024.10.09
+D1
+What I heard:
+Mother Thresa, who received Noble Peace Price for her work on behalf of poor, dies in ... India, she was 87 years old.
+What he said:
+Mother Teresa,who received a Nobel Peace Prize for her work on behalf of the poor ,dies in Calcutta India. She was 87 years old.
+Notes:
+Calcutta 地名：加尔各答
 
+D2
+Jerry what time do you have? I have five o'clock.
+Notes:
+7Hs： He,her,him,his,had,has,have 在语速较快时，H 不发音
 
+D3
+What I heard:
+There are 3 things that I learn never to discuss with people: … politics, and  great...
+What he said:
+There are 3 things I've learned Never to discussed with people:religion,politics and the Great Pumpkin.
+Notes:
+Religion
+Pumpkin
+
+D4
+Don't ever let somebody tell you, you can't do something.
+
+D5
+What I heard:
+I have come here to ... and kick ass, and I am all out of …
+What he said:
+I have come here to chew bubblegum and kick ass and I'm all out of bubblegum.
+Notes:
+Chew：嚼
+Bubblegum：口香糖
 
 ### 2024.10.10
 
