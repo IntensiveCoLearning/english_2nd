@@ -106,9 +106,13 @@ Hope to develop a habit of naturally using English every day through IntensiveCo
 
 Listening and Learning English expression：
 
+Story 1：The owner of the HangWei Noodle Shop
+
 `Hello everyone，I'm Jiang Yun. The owner of the HangWei Noodle Shop.`Our shop has always been **downstairs** from Alipay ’s office. We always move to **wherever** the Alipay office is . `We’ve witnessed how Alipay has grown into Ant Group`.All these years,Ant Group’s staff ordered **countless** bowls of our noodles,I can proudly say that our noodles helped feed many of their innovations and ideas.I was only 26 years old `when Alipay was founded`.At that time , my husband and I had just moved to Hangzhou for a few years.and we were still using an old-fashioned cash register.When we moved our noodle shop to the downstairs of the Alipay building, not only did we make noodles for them，we also became their “guinea pigs”。They would take all their new creations to my shop for testing. See. these are the payment tools they’d asked me to try out.`I know over 80 million businesses and 1 billion users are using Alipay`.`I never imagined that as a noodle shop owner, I can help change the world too!`
 
-- owner：[/'әunә/]() 老板
+Notes：
+
+- owner [/'әunә/]() 老板
 - We’ve witnessed how Alipay has grown into Ant Group. 我们亲眼看着支付宝成长为蚂蚁集团。
 - innovation [/ɪnə'veɪʃ(ə)n/]() 创新
 - creation [/kriː'eɪʃ(ə)n/]() 创作
@@ -116,7 +120,24 @@ Listening and Learning English expression：
 
 ### 2024.10.09
 
+Listening and Learning English expression：
 
+Story 2：Accessible payment experience consultant
+
+`Many people would think that visually impaired people like us are unable to use the internet or smartphones.`**Actually** with screen-reading **software**, we can do many different things. Alipay is an example，It offers over 1000 **daily life service**s and more than 2 million **mini program**s. we can **even** say **the mobile internet** has given us **a new pair of** eyes. Back when Alipay removed the Android **version** of password keyboard reading **function**s,`I got so upset.I wrote them a complaint letter`, To my surprise, Alipay **responded** very quickly, `they fixed the problems promptly`. I **along with** two other visually impaired buddies of mine, were invited to test their beta versions and `offer suggestions on their products`.At that moment, `I felt like we were building the internet version of tactile paving together` .As I see it, Alipay is not only helping people like me who cannot see but also helping those who cannot see their ways through other challenges in their lives.For instance ,more than 70% of adults in China do not have a credit card, but now , `they can use products such as Huabei to manage their lives with more flexibility`.The threshold of wealth management was high，More than 500 million people in china have never bought any financial products，but now , even with just 1RMB ,you can invest in Yu’ebao. From zero to one, all these changes make our lives brighter and full of hope. we believe everybody can have a colorful and free-spirited digital life.
+
+Notes：
+
+- Accessible payment experience consultant  可访问的支付体验顾问、无障碍支付
+- visually impaired 视力障碍的
+- screen-reading  software 读屏软件
+- promptly [**/'prɑmptli/**](cmd://Speak/_us_/) 及时地
+- buddy **[/'bʌdi/](/'bʌdi/) **伙伴
+- tactile paving   **[/'tæktaɪl/](/'tæktaɪl/)** **[/'peɪvɪŋ/](/'peɪvɪŋ/) **能触知的道路
+- flexibility [**/ˌfleksɪˈbɪlɪtɪ/**]() 灵活性
+- wealth management 理财/财富管理
+- financial products 理财产品
+- threshold **[/'θreʃəʊld/](/'θreʃəʊld/) **门槛
 
 ### 2024.10.10
 
