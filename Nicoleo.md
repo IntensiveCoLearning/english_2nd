@@ -73,6 +73,8 @@ Fooo shoo! 100%
      - But I do have to think underlying a lot of this simmering anger in a sense of not being heard, of being a cog in an unresponsive, impersonal world.
    - impersonal adj 没有人情味的
      - His manner was cool and impersonal.
+   - be riddled with 充满，充斥；be riddled with errors 漏洞百出
+     - The articles written by AI are riddled with errors.
 
 
 ### 2024.10.10
