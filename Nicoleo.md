@@ -60,7 +60,11 @@ Fooo shoo! 100%
 
 
 ### 2024.10.09
-
+1. Key point:
+   - chime in 附和
+     - He always chimes in with his boss's opinion.
+    
+   - 
 
 
 ### 2024.10.10
