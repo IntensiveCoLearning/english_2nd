@@ -145,6 +145,143 @@ Today we read the guide-- A Programmers Guide to English. This guide is ideal fo
 
 ### 2024.10.09
 
+**October 10 Reading: Starting from Scratch to Learn English Grammar**
+
+We began with the basics of grammar, starting with parts of speech and sentence components.
+
+--------------
+
+#### Sentence Structure: Subject, Verb, and Object
+
+For example: *I hit you.*
+
+The sentence can be broken down as follows:
+- *I* (Subject)
+- *hit* (Verb)
+- *you* (Object)
+
+Each of these components has a corresponding part of speech. Today, we will focus on the ten parts of speech.
+
+**Understanding the Relationship Between Sentences, Sentence Components, and Parts of Speech**
+
+Words, relative to sentence components, are like building blocks. Every sentence component is made up of one or more words, and each word has a specific part of speech.
+
+Now, what are these ten parts of speech? We divide them into three categories.
+
+**Non-essential Parts of Speech:**
+
+1. **Pronoun**: This replaces a noun, as the word *pro-noun* suggests: pronoun = pro（代替） + noun（名词）代名词的词。
+2. **Numeral**: As the name implies, these are words related to numbers, like "one, two, three."
+3. **Interjection**: Words used to express emotions, often standing apart from the syntactical structure.
+
+**Essential Parts of Speech:**
+
+1. **Noun**: Refers to names of things, both concrete and abstract.
+2. **Verb**: Denotes actions or states.
+3. **Adjective**: Describes or modifies a noun.
+4. **Adverb**: Modifies adjectives, verbs, or other adverbs, typically providing information about time, place, manner, or degree.
+
+These four fundamental parts of speech share intricate relationships.
+
+**Function Words (Particles):**
+
+In addition to these core components, sentences require function words, which often serve as connectors or provide structure. There are three key types:
+1. **Prepositions**: Words that indicate relationships between nouns and other elements of the sentence.
+2. **Conjunctions**: Words that link phrases, clauses, or sentences.
+3. **Articles**: Words placed before nouns to clarify whether the noun is definite or indefinite.
+
+Thus, sentence components often correlate with specific parts of speech, allowing us to create a framework for understanding sentence structure.
+
+---
+
+#### Eight Sentence Components
+
+Having grasped the relationship between grammar's three main elements (sentences, sentence components, and parts of speech), we can now examine sentence components in more detail.
+
+What Are Sentence Components?
+
+Sentence components are the building blocks of sentences, and there are eight in total.
+
+To better understand them, let's consider a simple analogy with a story.
+
+- **Subject**: The main character or doer of the action in the sentence, similar to the protagonist in a story. For example, *Zhanhuwei* as the subject.
+- **Predicate**: The action or state that the subject is engaged in. In our example, *Zhanhuwei* performs the action of *hugging*.
+- **Object**: The entity affected by the subject's action. In our example, the *girl* being hugged by Zhanhuwei is the object.
+
+These form the basic structure of a sentence. But a sentence can be further enhanced with:
+- **Attributes**: Modifiers that describe the subject, like "ornaments" on the main character. These are adjectives or other descriptive elements.
+- **Adverbials**: Provide context by indicating time, place, reason, etc. They are like the background setting of a story, describing where or when the action takes place.
+
+Finally, two more components complete the picture:
+- **Complement**: Provides additional information about the subject or object, completing the meaning of the sentence. For example, in "*Zhanhuwei* stood alone," *alone* serves as a complement to the subject.
+- **Appositive**: Restates or explains the subject or object in different terms. For example, in "*the other man, tall and handsome,*" *tall and handsome* is an appositive.
+
+---
+
+#### Five Essential Sentence Structures
+
+English grammar can seem intimidating, but breaking it down into manageable parts helps. At the core are five basic sentence structures, which serve as the foundation for all complex sentences.
+
+##### 1. Subject + Verb (SV)
+This is the simplest sentence structure, with a subject performing an action. For example, "*He sleeps.*"
+
+##### 2. Subject + Verb + Object (SVO)
+Here, the action affects another object, as in "*He killed him.*"
+
+##### 3. Subject + Verb + Complement (SVC)
+In this structure, the verb is often a linking verb (e.g., *is, seems*), and the complement provides more information about the subject. For example, "*He is smart.*"
+
+##### 4. Subject + Verb + Indirect Object + Direct Object (SVOO)
+In this case, the verb affects both a direct and indirect object, as in "*She gave me a gift.*"
+
+##### 5. Subject + Verb + Object + Complement (SVOC)
+Finally, this structure provides additional details about the object. For example, "*They made me happy.*"
+
+Mastering these basic structures allows us to understand more complex sentence forms.
+
+---
+
+#### Adjectives and Their Relationship with Nouns
+
+Adjectives and nouns have a close relationship. In English, adjectives typically precede the noun they modify, as in "a beautiful flower."
+
+When multiple adjectives modify a noun, they follow a specific order. Opinion adjectives come before descriptive adjectives. For example:
+- "A lovely old Italian car."
+
+Certain adjectives, when modifying pronouns, are placed after the noun, such as:
+- "Someone special."
+
+---
+
+#### Adverbs
+
+Adverbs modify adjectives, verbs, and even other adverbs. They often end in *-ly*, though some adverbs, like *fast* or *hard*, don't follow this pattern. When used with verbs, adverbs generally follow the verb, though their placement can change to avoid ambiguity.
+
+For example:
+- "*He kissed her tenderly.*" Here, the adverb *tenderly* follows the verb.
+
+However, in some cases, the adverb may be placed before the verb for clarity:
+- "*He tenderly kissed her.*"
+
+---
+
+#### Prepositions: In, On, At
+
+Prepositions indicate relationships between nouns and other elements, particularly regarding time or location. For instance:
+- *In* indicates being inside something (e.g., *in the room*).
+- *On* refers to being on a surface (e.g., *on the table*).
+- *At* refers to a specific point or location (e.g., *at the station*).
+
+---
+
+#### Comparatives
+
+When making comparisons, adjectives or adverbs are modified to show a difference between two things. For example:
+- "*He is taller than me.*"
+
+It is important to ensure that comparisons are clear, especially when referring to different subjects. For example:
+- "*I love you more than he does*" (to clarify that the comparison is between two people loving you).
+
 
 
 ### 2024.10.10
