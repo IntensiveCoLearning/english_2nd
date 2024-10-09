@@ -58,19 +58,19 @@ It's nice to meet anyone in LX DAO here.
 - 虚词 the a on that and but etc.; 实词 burger, sandwich, move etc.
 - 五大句型：主谓 He died; 主谓宾 He ate a burger; 主谓补 I'm hungry; 主谓宾宾 Could you lend me the pencil?; 主谓宾补 I think your purse was stolen by a sneaky guy.
 - 听写；原视频：https://bbc.com/news/videos/c5y9krkg7ego
-It's been considerable rocket fire between Israel and Hisblind(?) Lebanon in recent days. Thousands of rockets have been fired into northern Israel by Halbala? and it's been
-significant damage done by Israeli strikes in Lebanon. This strategy is from? Yaroun and in the southwest Lebenan? you can see buildings have been flattened in a large area. 
-We've been mapping the way to the picture too. If you focus on the region, this map is based on data from the Institute of Study of War, it's up to date as of Monday morning,
-so it doesn't include the most recent strikes. It doesn't include reported strikes xxx verified them all, and they may be some we don't know about? But you can see here in pop on recent herespak(?) 
-attack on Israel and in red you can see Israeli strikes in Lebanon. This focuses on a few examples to show the extent of the damage you can see in Lebanon. 
-Firstly this one is from Arab Saline(?) in southern Lebanon 16 kilometers from the border of Israel. We verify this footage by looking at the surrounding area and matching satellite images from 
-the for(?) the rate and building sub-standing footage, we're confident the footage is from Tuesday morning when it was first posted online. What we clearly sure is that considerable level of damage.
-Let me also show you this footage from Berrod(?). Israel says it's targeting hesbalad(?)'s stronghold, particular areas of weapons are been stored. And this footage does appear to show secondary explosions.
-You can hear, there's already damage done, the building is on fire, and about 40 seconds into the footage which has been posted online, there's another explosion, projectile flies up (?) the building, that's
-lately? called? ammunition blowing up. There are other examples like this we're showing to expert, who see again this is likely called by ammunition exploding. With damages against the backdrop
-Israel is sending more troops into Lebanon. On Tuesday Israeli defense forces confirmed they were expanding the operations into the southwest. And like what's happening in Gaza, this is a sort of warning
-circulated by the IDF. This one in Arabic tells people in the south to be careful not to move south, and it tells many not to return to their homes for their own safety. 
-In recent months, hundreds of thousands of people in Lebanon have been displaced and much of that has been happening in the south of the country. Where we've seen a lot of the damage too. 
+  - Dictation: There's been considerable rocket fire between Israel and Hisblind(?)*Hezbollah* Lebanon in recent days. Thousands*Dozens* of rockets have been fired into northern Israel by Halbala(?)*Hezbollah* and it's been significant damage done by Israeli strikes in Lebanon. This strategy*footage* is from? Yaroun and in the southwest*south-west *of* Lebenan? you can see buildings have been flattened in*over* a large area. 
+    We've been mapping the way to the *the wider* picture too. If you focus on the region, this map is based on data from the Institute of Study of War,*.* It's up to date as of Monday morning,
+    so it doesn't include the most recent strikes. It doesn't include reported strikes  xxx*.We haven't* verified them all, and they*there* maybe some we don't know about? But you can see here in pop on *purple* recent herespak(?) *Hezbollah*
+    attack on Israel*.* and in red you can see Israeli strikes in Lebanon. This focuses on a few examples to show the extent of the damage you can see in Lebanon. 
+    Firstly this one is from Arab Saline(?)*Arabsalim* in southern Lebanon 16 kilometers from the border of*with* Israel. We verify this footage by looking at the surrounding area and*.It* matching satellite images from 
+    the for(?) *before* the rate *this raid* and building still standing in this footage. And we're confident the footage is from Tuesday morning when it was first posted online. What we *it* clearly sure *shows* is that *a* considerable level of damage.
+    Let me also show you this footage from Berrod(?) *Beirut* . Israel says it's targeting hesbalad(?) *Hezbollah* 's stronghold, particular areas of weapons are been *being* stored. And this footage does appear to show secondary explosions.
+    You can hear, there's already damage done, the building is on fire, and about 40 seconds into the footage which has been posted online, there's another explosion. *A* projectile flies up (?) the building, *and* that's
+    lately? *likely* caused by ammunition blowing up. There are other examples like this. We're *'ve* shown *them* to experts, who see again this is likely called by ammunition exploding. With damages against the backdrop
+    Israel is sending more troops into Lebanon. On Tuesday Israeli defense forces confirmed they were expanding the operations into the southwest. And like what's happening in Gaza, this is a sort of warning
+    circulated by the IDF. This one in Arabic tells people in the south to be careful not to move south, and it tells many not to return to their homes for their own safety. 
+    In recent months, hundreds of thousands of people in Lebanon have been displaced and much of that has been happening in the south of the country. Where we've seen a lot of the damage too.
+  - Fix: Hezbollah; footage on recent herespak
 
 
 ### 2024.10.10
