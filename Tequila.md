@@ -51,8 +51,8 @@ timezone: Asia/Shanghai
 
 
 ### 2024.10.09
-
-
+今天在多邻国APP 上成功打卡，第四节第二章
+A-Programmers-Guide-to-English  学习完毕
 
 ### 2024.10.10
 
