@@ -65,6 +65,17 @@ Personal hobbies include: driving, traveling, and watching the sunset.]
 
 ### 2024.10.09
 
+今天学习进度：早上20个单词，实在静不下心来听课，今天的调研有些忙不过来了
+其他学习进度：尝试不使用翻译阅读了5个项目文档和 Deck，Deck 基本理解的差不多，但有两个 Depin 项目白皮书在介绍原理部分很难看懂，感觉真的需要有一本 Web3 词汇书，一定第一时间购买
+
+今日份学习笔记：
+几种常见服务的名字和修饰性词语：
+Event Support：We have a team of Web3 degens to set up airdrop events, UGC campaigns, shilling services, live AMA  and more on request. 
+KOL Resources：XXX team has a strong relationship with over xxxx KOLs worldwide. They are such a solid army to support your startup.
+Mentorship：A good mentorship can help crypto/Web3 startups to build and scale their businesses. XX team provides 0-1 incubation guidance to startups including legal support, access to marketing, PR experts, BD networking, AMA/Twitter Spaces, press releases, token listing and more.
+Market Positioning: Only have a business idea, or does the startup need a fresh kickstart? xxx for a more straightforward pathway in the market with our dedicated business and marketing professionals.
+Financial Advisor: xxx can provide access to a global network of blockchain entrepreneurs, crypto-native investors, VCs and corporate partners, which can be valuable for crypto startups looking to grow their businesses in funding.
+
 
 
 ### 2024.10.10
