@@ -129,6 +129,15 @@ Chacha:
 
 <img width="200" alt="Chacha 10-09" src="https://github.com/user-attachments/assets/60b8ecad-73a3-44ea-a105-59bb9cfdcff2" />
 
+Qi:
+
+1. I have learned 18 lessons of New Concept English 2 in during today
+   https://www.bilibili.com/video/BV1cu411r7pw?p=18&vd_source=becdf6db78142d73438794568ca31367
+   remmber one things, study need practic
+
+2. Today is a 165-day winning streak on duoligo. oh I found i wrote error day in last record.
+3. https://hzpt-inet-club.github.io/english-note/ i read this website, i think that is so simple, i need more. hah
+
 ### 2024.10.10
 
 ### 2024.10.09
