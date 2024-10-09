@@ -65,7 +65,7 @@ Yes
 
 
 ### 2024.10.09
-今天听了两个小时的 一个纯英文的研究生课程 叫 intercultural communication、
+-今天听了两个小时的 一个纯英文的研究生课程 叫 intercultural communication、
 
 
 ### 2024.10.10
