@@ -129,6 +129,11 @@ Daily Dictation Number 6：
 Daily Dictation Number 7：
 我的答案：Another ** trader ** cost ** billions.
 正确答案：Another rogue trader has cost a bank billions.
+**Points**
+1.'To' has seven diffrient sounds: to, tah, tuh, t, dah, duh, d.
+2.Kick ass: fighting with somebody.
+3.'Out of' sounds like 'outta', that's the reason why I write 'are the'.
+4.All out of: don't have any more.
 ### 2024.10.10
 
 
