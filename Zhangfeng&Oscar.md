@@ -125,7 +125,47 @@ t美d
 
 
 ### 2024.10.09
+**英语语法**
 
+名词 形容词
+
+动词 副词
+
+虚词：冠词、介词、连词
+
+表语：主语的补语
+
+当多个 形容词 修饰一个 名词 时， 大家记住一个大原则： 「观点形容词 + 描绘形容词」
+
+观点形容词：表示对事物的看法
+
+描绘形容词：表示事物本身的特征
+
+美小圆旧黄，中国木书房
+
+观点尺寸形状新旧颜色，国籍材料名词
+
+a- 开头的那些单词形容词后置，如 「alone, afraid, aside, asleep, alike… 」
+
+ 修饰词复杂形容词后置，本身带有不定式， 介词 词组等补足成分时， 也要被后置：：Girls brave enough to pursue their dreams deserve to be loved. 敢于追求梦想的女孩值得被爱。
+
+responsible,可信赖的，后负责的：The person responsible for this mistake must fix it
+
+concerded,关心的，后与某事相关的：The parties concerned have agreed to the terms.
+
+involved,负责的，后有关联的：The people involved in the project worked hard.
+
+proper,适当的，后严格意义上的：This is the city proper, not the suburbs
+
+副词和形容词
+
+副词和副词：唯有enough这个副词，必须后置
+
+副词和动词：I almost fall in love with Mr.Bao.这样的副词还有 only/ merely/ also/ especially/ even/ particularly/ utterly/ almost/ surely
+
+里面in,平面on,一个点at:people on a bus
+
+跟自己比的时候， 时间不一样， 动词 was 不能省掉，句子之间的比较
 
 
 ### 2024.10.10
