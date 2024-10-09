@@ -65,7 +65,25 @@ Yes
 
 
 ### 2024.10.09
--今天听了两个小时的 一个纯英文的研究生课程 叫 intercultural communication、
+-今天听了两个小时的研究生课程（intercultural communication）、背了45分钟的单词、练习了daily Dictation 的4-8
+
+-Dictation_4：dont never let somebody tell you that you cant do something
+
+-fix：dont ever不是dont never. dont ever表示不要， dont 和never 两个否定在一起是错误的。
+
+-Dictation_5:i have come here to chew bump gun and kick asss , and im all out of bubblegum
+
+-fix:bubble泡泡糖 bubblegum,   all out of 比out of更强调用完，i am all out of bubblegum,我的泡泡堂完全用完了。
+
+-Dictation_6:The secret of life is just live every moment.
+
+-Dictation_7:another rogue trader  has cost the bank *** billions.
+
+-fix: cost sb some money是完整的，意味着花费了某人某些钱。This project has cost my lab a lot of money.
+
+-Dictation_8:German ****,is the mam with most piercings,he's got four hundred fifty three.
+
+-fix:Got" 通常用于描述过去具体的动作或事件，而 "have" 可以表示持续的状态或完成的动作。
 
 
 ### 2024.10.10
