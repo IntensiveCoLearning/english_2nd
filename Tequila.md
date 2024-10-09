@@ -51,7 +51,8 @@ timezone: Asia/Shanghai
 从 0 开始学习英语语法 已经学习完毕
 
 ### 2024.10.09
-
+今天在多邻国 APP 上成功打卡，第四节第二章
+完成对A-Programmers-Guide-to-English的学习
 ### 2024.10.10
 
 ### 2024.10.09
