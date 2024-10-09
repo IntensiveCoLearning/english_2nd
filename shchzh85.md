@@ -107,9 +107,15 @@ m
 	
 
 ### 2024.10.09
+	https://www.youtube.com/watch?v=oe85aCjpu70 
+	学习英文句型  long face 愁眉苦脸   not even close 差太远  
+	make sense(合理 It doesn't make sense.  Does it make sense to you?)
+	sleep over(过夜)  Toss and turn   make no difference(都不重要了)  keen on   make up (捏造 编造)  Says who(谁说的)  Based on what?(评什么) 
+	excels at（善长） Not a clue. go to waste(被浪费)  I got your back.(Don't worr) sick of 
 
-
-
+	What do you say get a cup of coffee ( toke)? studying
+	What do you want to do something? What do you wanna talk about?
+	What do you do when it gets cold?
 ### 2024.10.10
 
 
