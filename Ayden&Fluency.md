@@ -133,7 +133,14 @@ timezone: Asia/Shanghai
 
 
 ### 2024.10.09
+## 总结
+	把田静雅思语法课里的思维导图搬运过来了，回顾了一下语法课里的内容和语法的重点。
+	https://www.youtube.com/watch?v=mMYn9HDVrZc&list=PLhoVEsDqZpyr_roiIlhz2nOPCbwGasDgn&index=32
 
+	精听Daily English Dictation 1的内容，脑海里回忆起了精听雅思的材料时听不懂的痛苦记忆，决定这次学习计划不做精听。
+	自己现阶段主要目标是准备面试英语，准备找一些技术性的视频和文档去学习，能够坚持下去很重要。
+
+![alt text](img/Ayden-Grammar.png)
 
 
 ### 2024.10.10
