@@ -48,8 +48,7 @@ Yes
 <!-- Content_START --> 
 
 ### 2024.10.08
-今天背了点单词，听了几个blibil的daliy Dictation。
-![image](https://github.com/user-attachments/assets/ed8989e3-6acb-4488-b154-ecaedac7145a)
+今天用默默背单词背40分钟单词，听了前三个blibil的daliy Dictation。
 
 -Dictation_1:Mother ****，who received the nobie peace prize ,for her work on behalf of the poor died on the *** india ,she ****87 years old.
 
@@ -66,7 +65,7 @@ Yes
 
 
 ### 2024.10.09
-
+今天听了两个小时的 一个纯英文的研究生课程 叫 intercultural communication、
 
 
 ### 2024.10.10
