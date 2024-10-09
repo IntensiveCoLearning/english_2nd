@@ -107,6 +107,8 @@ Yes
 
 ### 2024.10.08
 
+Chacha:
+
 1. Listened this _Jamie xx on The Zane Lowe Show_ on Apple music. https://music.apple.com/cn/station/jamie-xx/ra.1767640265?l=en-GB
    This is a really good episode and it plays some of music that I really love it.
 2. I learned some new vocabulary on Baicizhan, this a really good app that I've been using for couple of months, I highly recommend this App
@@ -122,6 +124,10 @@ Qi:
 3. https://a-programmers-guide-to-english.harryyu.me/training/Thinking.html
 
 ### 2024.10.09
+
+Chacha:
+
+<img width="200" alt="Chacha 10-09" src="https://github.com/user-attachments/assets/60b8ecad-73a3-44ea-a105-59bb9cfdcff2" />
 
 ### 2024.10.10
 
