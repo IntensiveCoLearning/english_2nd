@@ -117,9 +117,18 @@ Daily Dictation Number 3：
 正确答案：There are three things I have learned never to discuss with people:religion,politics and the Great Pumpkin!
 
 ### 2024.10.09
-
-
-
+Daily Dictation Number 4：
+我的答案：Dont ** tell you,you cant do something!
+正确答案：Dont ever let somebody tell you,you cant do someting!
+Daily Dictation Number 5：
+我的答案：I have come here to ** and kick ass..and ** all ** .
+正确答案：I have come here to chew bubblegum and kick ass..and Im all out of bubblegum!
+Daily Dictation Number 6：
+我的答案：The secent of life * just ** is moment.
+正确答案：The secret of life is just to live every moment.
+Daily Dictation Number 7：
+我的答案：Another ** trader ** cost ** billions.
+正确答案：Another rogue trader has cost a bank billions.
 ### 2024.10.10
 
 
