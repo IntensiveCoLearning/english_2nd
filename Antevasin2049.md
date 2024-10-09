@@ -111,10 +111,17 @@ and I'm all out of bubblegum."**
 当然还是需要更多的练习。
 
 **#6 “The secreat of life is just live any moment.”**
-这句比较简单，没什么好补充的
+这句比较简单，没什么好补充的。
 
-### 2024.10.09
+### 2024.10.09 
 
+#7 “ Another rogue trader has cost a bank billions.”
+rogue 恶棍，流氓
+amateur trader 
+
+**#9 “A satellite that was carried to space aboard the shuttle discovery 20 years ago is about to fall to earth, but nobody knows where the debris will hit.”**
+这一段对我来说难度挺高的，三个原因，一方面是有语料库中词汇不太熟悉的缘故，另一方面是因为很多吞音弱音和连读，再加上句子比较长，对自己的记忆力挑战也比较高，
+这一段最好多看几遍视频，多联系一下。
 
 
 ### 2024.10.10

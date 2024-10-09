@@ -171,7 +171,98 @@ Anki
 
 ### 2024.10.09
 
-笔记内容
+句子， 句子成分， 词性
+单词是句子成分最小的单位，而每一个单词都有词性。
+
+- 非重点类：代词、数词、感叹词
+- 重点类
+  - 实词：名词、副词、形容词、动词
+  - 虚词：介词、连词、冠词
+
+代词(pron.)
+pronoun 代词，代词是代替名词的词，代词本身没有意义，代词的作用是代替名词，使句子更简洁。 = pro （代替） + noun (名词)
+she 她 he 他 it 它 they 他们 we 我们 you 你
+my 我的 your 你的 his 他的 her 她的 our 我们的 their 他们的
+themselves 他们自己 this 这些 who 谁 which 哪一个 what 什么 anyone 任何一个
+英语中的**代词**（pronouns），它们用来代替名词或名词短语，避免重复。下面是它们的分类：
+
+1. **人称代词**（Personal pronouns）：
+   - **主格**：用于句子的主语位置。
+     - she (她), he (他), it (它), they (他们), we (我们), you (你)
+   - **宾格**：用于句子的宾语位置。
+     - her (她的), him (他的), it (它), them (他们), us (我们), you (你)
+  
+2. **物主代词**（Possessive pronouns）：
+   - **形容词性物主代词**：用于修饰名词。
+     - my (我的), your (你的), his (他的), her (她的), our (我们的), their (他们的)
+   - **名词性物主代词**：直接代替名词。
+     - mine (我的), yours (你的), his (他的), hers (她的), ours (我们的), theirs (他们的)
+
+3. **反身代词**（Reflexive pronouns）：
+   - themselves (他们自己), ourselves (我们自己), yourself (你自己), himself (他自己), herself (她自己), itself (它自己)
+
+4. **指示代词**（Demonstrative pronouns）：
+   - this (这些), these (这些复数), that (那个), those (那些)
+
+5. **疑问代词**（Interrogative pronouns）：
+   - who (谁), which (哪一个), what (什么)
+
+6. **不定代词**（Indefinite pronouns）：
+   - anyone (任何一个), everyone (每一个), somebody (某个人), nobody (没有人)
+
+这些代词可以帮助简化句子结构，避免重复使用相同的名词。
+
+数词（Numbers）是表示数量或顺序的词。它们分为以下几类：
+
+1. **基数词**（Cardinal numbers）：表示数量。
+2. **序数词**（Ordinal numbers）：表示顺序。
+3. **分数词**（Fractional numbers）：表示分数。
+4. **倍数词**（Multiple numbers）：表示倍数。
+5. **小数词**（Decimal numbers）：表示小数。
+
+#### **数词**（Numbers）在英语中确实可以按照不同的功能分为以下几类
+
+1. **基数词**（Cardinal numbers）：用于表示数量的多少。
+   - 例子：one (1), two (2), three (3), ten (10), twenty (20)
+
+2. **序数词**（Ordinal numbers）：用于表示顺序。
+   - 例子：first (第一), second (第二), third (第三), tenth (第十)
+
+3. **分数词**（Fractional numbers）：用于表示分数。
+   - 例子：one-half (1/2), one-third (1/3), three-quarters (3/4)
+
+4. **倍数词**（Multiple numbers）：用于表示倍数。
+   - 例子：double (两倍), triple (三倍), quadruple (四倍)
+
+5. **小数词**（Decimal numbers）：用于表示小数。
+   - 例子：1.5 (one point five), 2.75 (two point seven five)
+
+这些分类准确地反映了数词在不同场景中的使用方式。
+感叹词
+名词
+动词
+形容词
+副词
+
+1. **形容词修饰名词**：形容词用于描述或限定名词，提供关于名词的更多信息。
+   - 例子：*beautiful* flower (美丽的花), *big* house (大的房子)
+
+2. **副词修饰形容词**：副词可以用来修饰形容词，增强或减弱形容词的程度。
+   - 例子：*very* tall (非常高), *extremely* difficult (极其困难)
+
+3. **副词修饰动词**：副词也可以修饰动词，说明动作是如何进行的。
+   - 例子：run *quickly* (跑得快), speak *loudly* (大声说话)
+
+总结：形容词用来修饰名词，副词可以修饰形容词、动词以及其他副词。
+冠词
+介词
+连词
+
+主谓
+主系表
+主谓宾
+主谓宾宾
+主谓宾补
 
 ### 2024.10.10
 

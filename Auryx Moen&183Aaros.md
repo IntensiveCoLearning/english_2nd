@@ -68,6 +68,23 @@ Maybe76.49%, maybe.
 
 
 ### 2024.10.09
+-Learning materials: https://hzpt-inet-club.github.io/english-note/
+- ![image](https://github.com/user-attachments/assets/a5597867-3b2e-41fd-ac88-0512d9010ac9)
+- 状语：主谓宾外的，对时间空间情况的形容
+- 表语：跟在be动词后表“是什么”
+- 补语：很模糊的定义
+-关于句法，最重要的定律是： 一个句子有且仅有一个谓语。 至于其他，似乎即兴发挥就好
+- 形容词顺序：“越接近事物本质的 形容词 ，离 名词 越近”（存疑 
+- 口诀：美小圆旧黄，中国木书房（观点-尺寸-形状-新旧-颜色-国别-材料-名词
+- 例句：
+- my old black Italian leather glove
+- a well-known German medical school
+- the beautiful big old red Chinese wooden table.
+ -语法还是挺无聊的，还是记点生词吧
+- hilarious lens satchel spindle villain lever affiliation indulge cellular networks calibrate phishing fiat debonair debonaire flaws-and-all vicious
+- A villain wearing lens, pretend to lens hilarious pupils with satchels, declare affiliation to them. The villain erected a lever with a spindle.
+- The cellular network indulge everyone on it. only those who calibrate truth with inner fiats could recognize the vicious phishing.
+To going on debonair debonairely, you must fully accept and love it, flaws and all.
 
 
 

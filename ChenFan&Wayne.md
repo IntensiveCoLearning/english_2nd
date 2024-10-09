@@ -48,11 +48,24 @@ Yes
 <!-- Content_START --> 
 
 ### 2024.10.08
+今天用默默背单词背40分钟单词，听了前三个blibil的daliy Dictation。
+
+-Dictation_1:Mother ****，who received the nobie peace prize ,for her work on behalf of the poor died on the *** india ,she ****87 years old.
+
+-fix:Mother teresa，who received the nobie peace prize ,for her work on behalf of the poor dies in calcuha, india ,she was 87 years old.具体的人名、地名听不清、不会拼写
+
+-Dictation_2:Sorry waht time do you have,I ve five o'clock.
+
+-fix:
+
+-Dictation_3:there are three things ive learned ** never to discuss with people, religion,politics, ang great pumpkin.
+
+-fix:there are three things i have learned  never to discuss with people, religion,politics, ang great pumpkin. i have learnd ,现在完成时
 
 
 
 ### 2024.10.09
-
+-今天听了两个小时的 一个纯英文的研究生课程 叫 intercultural communication、
 
 
 ### 2024.10.10
