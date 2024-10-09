@@ -104,8 +104,14 @@ Yes 100%
 
 
 ### 2024.10.09
-
-
+![1009](img/Junhua_1009.png)
+sprang
+chimney
+seigh
+reindeer
+whistle
+thistle
+psychic
 
 ### 2024.10.10
 
