@@ -100,7 +100,28 @@ timezone: Asia/Shanghai
 <!-- Content_START --> 
 
 ### 2024.10.08
+**A Programmer's Guide to English内容**
 
+**语言交流是听说读写，其中包含两个识别器（听力识别器和视力识别器），一个核心理解器，两个表达器（口语表达器和书写表达器）**
+
+`read`，但是过去式发音变了，读作 `/red/`
+
+- 扩充语料库的训练方法
+    - https://dictionary.cambridge.org/dictionary/english/fusion
+    - https://forvo.com/word/clump/#en不同人发音
+        
+        https://translate.google.as/?sl=auto&tl=zh-CN&op=translate自己读能否识别
+        
+        打开 Google 搜索，[输入当前单词 + vs 即可看到近义词和易混淆词汇](https://a-programmers-guide-to-english.harryyu.me/assets/clump-google.jpg)，搜索查看相关对比
+        
+        Google 图片搜索
+        
+
+1. 发音规则不熟悉、连读失爆等听错，重读弱读规则不熟悉，例如 `group is` 听成 `grapy`、`I've been there` 中 `have` 漏听 -> 日常口语为了省力和突出重点会有连读和重读等，尤其是 `H` 开头的单词通常听不到 `H`，常见 `is` 等都会略读，`was` 等会变声跟音标不同 -> **学习特殊规则，提升语言特性识别器能力**
+
+t美d
+
+英式不发r，加元音发
 
 
 ### 2024.10.09
