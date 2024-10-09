@@ -104,7 +104,8 @@ timezone: Asia/Shanghai
 
 
 ### 2024.10.09
-
+Ted Talk Daily record
+"New possibilities for storytelling are emerging faster than at any other time in history," says film producer Mark Grimmer. With an immersive approach to art exhibitions, he shares several multidisciplinary projects — including a kaleidoscopic exhibit of David Bowie's world-changing career and a luminous, interactive show that brings visitors inside the paintings of David Hockney — and shows what's possible when ideas collide. (Recorded at TED2024 on April 19, 2024)
 
 
 ### 2024.10.10
