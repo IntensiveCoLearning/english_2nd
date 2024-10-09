@@ -1,5 +1,5 @@
 ---
-timezone: Europe/London
+timezone: Asia/Shanghai
 ---
 
 > ⚠️本打卡表默认为北京时间 UTC+8 时区，正确格式如下：
