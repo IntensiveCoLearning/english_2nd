@@ -101,47 +101,73 @@ Yes 100%.
 
 ### 2024.10.08
 今天是我系统学习英语的第一天，我详细的阅读了A-Programmers-Duide-to-English,里面推荐了麦克米伦7000的词典和一些记忆工具，如欧路词典、anki等等。还讲了一些自己的方法论。
+
 看完之后我知道，这是一个长期的事情，并不是21天能完成的任务。所以我明确了我的任务，每天刷麦克米伦7000并且完成Daily English Dictation 1-400。
+
 当然我还有自己要完成的任务，每天学习web3运营的相关知识，跑步进入行业，成为从业者。所以我需要知道自己的benchmark并且设置一个适合我自己的目标。当然包括每天的计划。
+
 尝试利用anki和手机背单词app配合来学习。
 
 Daily Dictation Number 1：
+
 我的答案：Mother **，who ** peace ** her work ** poor, ** india.she is 87 years old.
+
 正确答案：Mother Teresa,who received a Nobel Peace Prize for her work on behalf of the poor,dies in Calcutta,India-she was 87 years old.
 
 Daily Dictation Number 2：
+
 我的答案：Jerry,what time do you have? I have 5 o'clock.(正确)
 
 Daily Dictation Number 3：
+
 我的答案：There are three things I have ** Never **  people; **, ** and the Great ** .
+
 正确答案：There are three things I have learned never to discuss with people:religion,politics and the Great Pumpkin!
 
 ### 2024.10.09
 Daily Dictation Number 4：
+
 我的答案：Dont ** tell you,you cant do something!
+
 正确答案：Dont ever let somebody tell you,you cant do someting!
+
 Daily Dictation Number 5：
+
 我的答案：I have come here to ** and kick ass..and ** all ** .
+
 正确答案：I have come here to chew bubblegum and kick ass..and Im all out of bubblegum!
+
 Daily Dictation Number 6：
+
 我的答案：The secent of life * just ** is moment.
+
 正确答案：The secret of life is just to live every moment.
+
 Daily Dictation Number 7：
+
 我的答案：Another ** trader ** cost ** billions.
+
 正确答案：Another rogue trader has cost a bank billions.
-**Points**
-1.'To' has seven diffrient sounds: to, tah, tuh, t, dah, duh, d.
-2.Kick ass: fighting with somebody.
-3.'Out of' sounds like 'outta', that's the reason why I write 'are the'.
-4.All out of: don't have any more.
 
 **Points**
+
 1.'To' has seven diffrient sounds: to, tah, tuh, t, dah, duh, d.
+
 2.Kick ass: fighting with somebody.
+
 3.'Out of' sounds like 'outta', that's the reason why I write 'are the'.
+
 4.All out of: don't have any more.
 
 ### 2024.10.10
+Daily Dictation Number 8：
+
+我的答案：German, *** ,*** most *** ;hes got 453.
+
+正确答案：German,Rolf Bushholz,is the man with the most piercings;hes got 453.
+
+Daily Dictation Number 9：
+
 
 
 
