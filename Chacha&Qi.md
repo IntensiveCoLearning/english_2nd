@@ -140,6 +140,11 @@ Qi:
 
 ### 2024.10.10
 
+Chacha:
+
+1. Listened to All Ears English Podcasts https://podcasts.apple.com/cn/podcast/all-ears-english-podcast/id751574016?i=1000672461149
+2. <img width="200" alt="Chacha 10-10" src="https://github.com/user-attachments/assets/f742a456-c620-4c76-a8a7-11fad778e14a" />
+
 Qi:
 
 1. I have learned 19 lessons of New Concept English 2 in during today
