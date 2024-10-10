@@ -117,7 +117,11 @@ timezone: Asia/Shanghai
 
 **推荐一篇语法学习的文章**：https://www.yinwang.org/blog-cn/2018/11/23/grammar
 ### 2024.10.10
+**只有大量重复才是英语学习唯一的银弹**
 
+#### 单词量测试工具
+- 首推 http://testyourvocab.com/
+- 其次欧路词典手机版中也有测试程序
 
 ### 2024.10.09
 
