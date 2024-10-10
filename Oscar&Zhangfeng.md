@@ -141,7 +141,24 @@ Notes：
 
 ### 2024.10.10
 
+Listening and Learning English expression：
 
+Story 3：Xianghubao
+
+Honestly, It’s not easy being an investigator for Xianghubao.`I grew up in a rural area`.**It really is a big dea**l if you get a serious illness here.However, we need to remain unbiased.What is Xianghubao?It is a mutual aid platform.It literally means ‘help one another’. All the money put into Xianghubao is a token of goodwill from all participants and will be sent to those **who are really in need**.There are still many people out there without health protection especially in rural areas.That’s why **since** the launch of Xianghubao hundreds of millions of people have already participated. We cannot expect everything to be perfect, but one more layer of protection provides more hope. We believe by connecting with one another, we can all receive better care and support.
+
+Notes：
+
+- investigator **/ɪnˈvestɪˌgeɪtə/** 调查员
+- in a rural**/'rʊər(ə)l/** area = in the countryside 在农村
+- unbiased**/ʌn'baɪəst/ **客观的，无偏见的
+- mutual aid **/'mjutʃuəl/ **相互的援助
+- literally 字面上地
+- a token of goodwill **/'təʊk(ə)n/ **善义的象征
+- participant**/pɑːˈtɪsɪpənt/ **参与者
+- health protection 健康保障
+- launch**/lɔːn(t)ʃ/ **发行、推行
+- hundreds of millions of 数亿人
 
 ### 2024.10.09
 
