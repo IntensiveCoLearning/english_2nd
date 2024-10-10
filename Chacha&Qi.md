@@ -140,6 +140,23 @@ Qi:
 
 ### 2024.10.10
 
+Qi:
+
+1. I have learned 19 lessons of New Concept English 2 in during today
+   https://www.bilibili.com/video/BV1cu411r7pw?p=18&vd_source=becdf6db78142d73438794568ca31367
+   remmber one things, study need practic
+
+2. Today is a 166-day winning streak on duoligo. oh I found i wrote error day in last record.
+3. I listened to lesson 5 of English listening in New Oriental 2.
+4. I made up some sentences
+   cover the distance in st
+   a great number of = a lot numebr of
+   five mile from
+   send request for sb
+   in this way
+5. I learned some grammers
+   have done and did
+
 ### 2024.10.09
 
 ### 2024.10.10
