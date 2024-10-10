@@ -105,20 +105,125 @@ timezone: Asia/Shanghai
 <!-- Content_START --> 
 
 ### 2024.10.08
-A-Programmers-Guide-to-English
-> finish reading.plugin to download:欧路词库、anki、7000新词list、chrome插件...
+A-Programmers-Guide-to-English 
 >
-Daily English Dictation 1-400 day1&daya2
-> day1:mother teresa,who received a nobel peace prize for her work on behalf of\for the poor,dies in calcutta,india-she was 87 years old.
+> Finish reading.plugin to download:  欧路词库、anki、7000新词list、chrome插件...
+> 
+Daily EnglishDictation  1～2
 >
-> day2:jerry,what time do you have? i have 5 o'clock. 当遇到s,n,l,的时候，d,t,th连读(弱化)
+>1. Mother teresa, who received a Nobel Peace Prize for her work on behalf of the poor,dies in Calcutta,India-she was 87 years old.
+>
+>on behalf of🟰for 
+>
+>A Nobel Peace Prize 诺贝尔奖
+>
+>Calcutta,India 印度加尔各答
+>
+>2. Jerry, what time do you have? I have 5 o'clock. 
+>
+>have,her,his,has,him,he…’h’弱化
+>
+>当遇到‘s’、‘n‘、’l‘ 的时候，’d,t,th‘ 连读(弱化)
+>
+>have尾音‘f’和five的’f’连在一起直接省略第一个‘f’
+>
+>
 
 ### 2024.10.09
-
-
+Daily English Dictation  3～7
+>
+>1. There are 3 things，I have learned never to discuss with people：religion、politics and the Great Pumpkin!
+>
+>to发音: tuh to\ta\teo\tuệ\da\đeo\du
+>
+>The Great Pumpkin: 伟大南瓜 Linus Oct 31万圣节🎃
+>
+![image](https://github.com/user-attachments/assets/c702563c-8f94-40a3-a5a3-4fc983504657)
+>
+>2. Don't ever let somebody tell you, you can’t do someting! 
+>
+>重要发音规则：强音’s、n、l’，弱音’d t th’
+>
+>‘somebody’ should be ‘anybody’ (’not’ goes with ‘any~’)否定时应该用‘anybody’
+>
+>can't 发音：ken , t重音
+>
+>something:sump 发音鼻音some‘n
+>
+![image-2](https://github.com/user-attachments/assets/de839737-80a5-4e9e-b47f-115b346f7605)
+>
+>3. I have come here to chew bubblegum and kick ass..and I’m all out of bubblegum! 
+>
+> all out of发音outta
+>
+> chew bubblegum 嚼口香糖
+>
+> 4. The secret of life is just to live every moment. ^~^
+>
+>secret of life,此时’of’被弱化.
+>
+>just发音‘juss’
+>
+>t live every 连读
+>
+>moment 词意同比 minute.
+>
+Words
+>欧路词典 coca 1～30
+>
+Tools
+>
+https://soundsamerican.net/
+>
+<img width="1413" alt="截屏2024-10-11 02 05 30" src="https://github.com/user-attachments/assets/f954d9f6-9160-43af-ba00-c35b9e2ee576">
+>
+Trancy 仪表盘插件-汉英译字幕
+>
+>
 
 ### 2024.10.10
-
+Daily English Dictation  8～11
+>
+> 1. Another rogue trader has cost a bank billions.   
+>
+>rogue /rog/  无赖,骗子
+>
+>trader 交易员…
+>
+> another rogue,’er’ 并入 ‘r’，通常留下第二个发音。
+>
+> eg.part-time job简化part- time
+>
+> 2. German, Rolf Buchholz, is the man with the most piercings, he’s got 453!
+>    
+> ‘is’ 消音 ‘th’ ,听上去像 ’zun’
+>
+> ‘most’消音‘st’
+>
+> ‘hundred’消音’d’ ,4hu-nerd53-美式发音，常见生活&影视
+>
+> 4. A satellite that was carried to space aboard the shuttle Discovery 20 years ago is about to fall to earth, but nobody knows where the debris will hit.
+>    
+> a satellite 卫星🛰️
+>
+>20 wenty消音‘t’
+> 
+>to earth,元音’e’ 合并发‘t wer’音
+>
+> 6. it‘s a lofty, probably impossible goal!
+>    
+> lofty 崇高的
+> 
+> (probably impossible) goal
+>
+Words
+> 欧路词典 coca 1～30、30～50
+>
+Translation
+>
+>我们看事情必须要看它的本质，而把它的现象只看作入门的向导，一进了门就要抓住它的实质，这才是可靠的科学的分析方法。-摘抄《毛选》
+>
+> We must look at the essence of things, treating their phenomena merely as a guide to entry. Once inside, we must grasp their essence, which is the reliable and scientific analytical method.
 
 
 ### 2024.10.09
