@@ -130,7 +130,8 @@ timezone: Asia/Shanghai
 - 能够迅速地造出正确的句子，准确地表达自己的意思。
 - 能够迅速地分析别人的句子，准确地理解别人的意思。
 
-语法3部分![image](https://github.com/user-attachments/assets/5655a2a0-2b7a-40ee-bf11-26c61a72d5dc)
+语法3部分
+![语法组成部分](tps://github.com/user-attachments/assets/5655a2a0-2b7a-40ee-bf11-26c61a72d5dc)
 
 ### 2024.10.11
 
