@@ -115,7 +115,7 @@ and I'm all out of bubblegum."**
 
 ### 2024.10.09 
 
-#7 “ Another rogue trader has cost a bank billions.”
+**#7 “ Another rogue trader has cost a bank billions.”**
 rogue 恶棍，流氓
 amateur trader 
 
@@ -125,14 +125,14 @@ amateur trader
 
 
 ### 2024.10.10
-#10 it's a lofty, probably impossible goal.
 
-#11 New York swept the Tampa Bay race by identical 4-2 scores in a day-night doubleheader Wednesday.
+**#10 it's a lofty, probably impossible goal.**
 
-#12 Jim Henson ,creator of the Muppets, from Kermit the Frog to Sesame Street, is born in Greenville, Mississippi.
+**#11 New York swept the Tampa Bay race by identical 4-2 scores in a day-night doubleheader Wednesday.**
 
+**#12 Jim Henson ,creator of the Muppets, from Kermit the Frog to Sesame Street, is born in Greenville, Mississippi.**
 
-notes;
+**notes;**
 *lofty：lofty means very high, noble, or ambitious. It can describe goals, aspirations, or even physical things like mountains or buildings. In this sentence, "lofty" emphasizes that the goal is ambitious or grand.
 
 Daily life use: You can use "lofty" to describe any big dream or significant achievement you’re aiming for.
@@ -151,7 +151,7 @@ Example: "She scored a great job right after graduation."
 Daily life use: You can use "score" to describe securing a good deal, opportunity, or achievement, such as getting a discount or winning a contest.
 "I scored a discount on my favorite shoes."
 
-feedback：
+**feedback：**
 在训练中，比较困难的还是对词语或者话题不熟悉导致的听音困难。这点只有多听多积累，多练习，多表达才行。
 
 ### 2024.10.09
