@@ -47,11 +47,39 @@ Yes 100%
 
 ### 2024.10.08
 
+总结：
+
+- get over：恢复/克服过来
+- go through：物理上的穿过
+- get through/make it through：经历困难
+- go over：快速检查、复习
+- go through：系统全面地过一遍。
+
+
+
+**get over** vs.  **go through** vs. **get through** vs. **make through**
+
+- get over：从困难中**恢复/克服**。尤其是情感、心理、健康。如get over breakup/
+- go through：**经历、遭受**困难。如go through a hard time/breakup/crisis.
+- get through：有go through经历困难的意思。还有完成（困难的）任务的意思，如get through the exam.
+- make it through (something)：同get through，但更强调结果。与get through的一个对比（https://hinative.com/questions/16729561 ）。
+
+**go over** vs. **go through**：检查、复习、回顾、过一下、思考
+
+- go over：快速检查，可能**不那么彻底**。也能表示第二次回顾、思考等。
+- go through：强调**系统全面**的审查。如go through email.
+- 这两个词的衍生意思：
+    - 思考：go through/over it/concept/problem
+    - 翻东西：go through bag（只有go through）
 
 
 ### 2024.10.09
 
+句式
 
+- It's seem to me that ..
+- I would say ..
+- I didn't even know that ...
 
 ### 2024.10.10
 

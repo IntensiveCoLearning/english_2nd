@@ -60,14 +60,14 @@ timezone: Asia/Shanghai
 
 > 正式开始前请确保你在身体上和精神上都处于合适的状态，请刻意练习，残酷面对 🆒。 报名需要按要求认真填写下面 [ YourName ] 自我介绍部分，方便大家互相认识，报名通过审核即可开始自主学习。
 
-# [fluency]
-
-[Major in Artificial Intelligence,an undergraduate student,have countless passion to learn something interesting,nice to meet you.]
+# [your name]
+Leo
+[Your self-introduction should include your nickname, profession, and motivation for learning English to ensure that everyone can clearly understand your situation.]
 
 ## Do you think you will finish the whole CoLearning program?
 
-[Yes 100%]
-
+[Yes 100% or Maybe xx%]
+999%
 ---
 
 **共学节奏参考：**
@@ -100,14 +100,12 @@ timezone: Asia/Shanghai
 <!-- Content_START --> 
 
 ### 2024.10.08
-![image](https://github.com/user-attachments/assets/57f4793c-a921-48bc-9ee8-7371a644402f)
-![image](https://github.com/user-attachments/assets/11cb0851-c6ab-4fff-8d00-e5ef987e8773)
-今天时间紧张，阅读了半个多小时的专业英文文献，提升了自己的阅读水平，也掌握了一些常用词，获得了自我提升
 
+I already wrote notes yesterday, but I didn’t know how to use github, so I deleted them.
 
 ### 2024.10.09
 
-
+I completed the Duolingo training today and read the recommended book list, How to Learn English.
 
 ### 2024.10.10
 

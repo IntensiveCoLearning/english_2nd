@@ -266,7 +266,74 @@ themselves 他们自己 this 这些 who 谁 which 哪一个 what 什么 anyone �
 
 ### 2024.10.10
 
-笔记内容
+主语 谓语 宾语 定语
+状语 补语 同位语 表语
+状语是干啥的？作修饰，说明地点，时间，原因，结果，条件，方式，方向，程度等。
+
+名词短语 中，用形容词修饰一个 名词 ，通常结构为 「限定词+形容词+名词」
+当多个 形容词 修饰一个 名词 时， 大家记住一个大原则： 「观点形容词 + 描绘形容词」
+
+观点形容词：表示对事物的看法
+
+在修饰「some，any，no，every」 和「one，thing，body」的 合成词 时， 形容词 要后置。
+
+副词修饰形容词时， 形容词要副词在前。
+副词和副词在一起的时候， 修饰的那个在前。
+
+注意：唯有enough这个副词，必须后置
+通常情况， 副词 放在 动词 后面
+一般情况放在 动词 后面， 但是如果放后面有歧义， 那 副词 就要放在 动词 前面。
+如果修饰的副词表现语气很强烈，那就要放在动词前。
+这样的副词还有 only/ merely/ also/ especially/ even/ particularly/ utterly/ almost/ surely 等等
+
+Mother Teresa, who received
+a Nobel Peace Prize for her
+work on behalf of the pool,
+dies in Calcutta, India -  she
+was 87 years old.
+
+特蕾莎修女因其为贫困群体的工作而获得诺贝尔和平奖，她在印度加尔各答去世，享年87岁。
+这句话的英语语法结构可以分为几个部分进行解释：
+
+1. **主语**：  
+   "Mother Teresa" 是句子的主语，指的是特蕾莎修女。
+
+2. **定语从句**：
+   - "who received a Nobel Peace Prize for her work on behalf of the poor" 是一个定语从句，用来修饰主语 "Mother Teresa"。
+   - 这个从句的结构是：  
+     - "who" 是关系代词，指代 "Mother Teresa"。
+     - "received" 是动词，表示“获得”。
+     - "a Nobel Peace Prize" 是宾语，表示特蕾莎修女获得了诺贝尔和平奖。
+     - "for her work on behalf of the poor" 是介词短语，解释她获得诺贝尔奖的原因，意思是“因为她为贫困群体所做的工作”。
+
+3. **主句**：
+   - "dies in Calcutta, India" 是主句，动词 "dies" 表示她去世了。
+   - "in Calcutta, India" 是地点状语，说明她在印度加尔各答去世。
+
+4. **插入语**：
+   - "she was 87 years old" 是插入语，用来提供额外信息，说明她去世时的年龄。
+
+### 语法要点
+
+- **定语从句** ("who received...") 用来补充说明主语特蕾莎修女的背景信息。
+- **主句** 中，动词 "dies" 用的是一般现在时，这种时态在新闻标题中很常见，即使描述的是过去的事件。
+- **插入语** "she was 87 years old" 使用的是一般过去时，表示她去世时的年龄。
+
+总结来说，这句话的核心结构是：
+
+- 主句 (Mother Teresa dies) + 定语从句 (who received... poor) + 插入语 (she was 87 years old)。
+
+Jerry, what time do you have?
+I have 5 o'clock.
+
+he his
+her had
+him has have
+7 H 不发音
+
+听写：
+there are three things never  
+really great
 
 ### 2024.10.11
 

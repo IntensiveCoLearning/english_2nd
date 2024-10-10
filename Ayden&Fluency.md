@@ -144,7 +144,12 @@ timezone: Asia/Shanghai
 
 
 ### 2024.10.10
-
+## 总结
+	找了三份视频材料:ReactConf,Code BootCamp, Free BootCamp最终选择了Free BootCamp的React视频内容。发音清晰，视频内容难易程度合适。复习巩固React知识和用法的同时，练习听力。
+	决定通过每天的视频学习做一个react的讲解PPT，PPT要求有
+	1. 每天不少于3-5页
+	2. PPT内容简洁，口述部分整理成文字记录方便以后改进
+	3. 从最简单开始
 
 
 ### 2024.10.09

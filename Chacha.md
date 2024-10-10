@@ -115,7 +115,14 @@ Yes
 
 ### 2024.10.09
 
+1. <img width="200" alt="Chacha 10-09" src="https://github.com/user-attachments/assets/60b8ecad-73a3-44ea-a105-59bb9cfdcff2" />
+2. https://vt.tiktok.com/ZS2cucPJp
+
 ### 2024.10.10
+
+1. Listened to All Ears English Podcasts https://podcasts.apple.com/cn/podcast/all-ears-english-podcast/id751574016?i=1000672461149
+2. <img width="200" alt="Chacha 10-10" src="https://github.com/user-attachments/assets/f742a456-c620-4c76-a8a7-11fad778e14a" />
+
 
 ### 2024.10.09
 

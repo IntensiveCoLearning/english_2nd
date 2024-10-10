@@ -106,7 +106,11 @@ We need to listen more about the connected speech and the stress part of the spe
 
 
 ### 2024.10.09
-
+[hugoleung1225]
+Watched a youtube video about english in breaking bad.
+Learned some connect speech, slang (bigtime).
+Verbs:
+Cue ball 
 
 
 ### 2024.10.10

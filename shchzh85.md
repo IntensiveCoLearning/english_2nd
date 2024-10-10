@@ -117,9 +117,10 @@ m
 	What do you want to do something? What do you wanna talk about?
 	What do you do when it gets cold?
 ### 2024.10.10
-
-
-
+	https://www.bilibili.com/video/BV1gK4y147wf/?spm_id_from=333.788.recommend_more_video.3&vd_source=62a605305028a88b357c9362523e8acf 学习对话 口语学习 1到10集
+	band-aid pimple  soak 
+	make-up calendar available 
+	
 ### 2024.10.09
 
 

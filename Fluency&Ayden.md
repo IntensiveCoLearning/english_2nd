@@ -60,9 +60,9 @@ timezone: Asia/Shanghai
 
 > 正式开始前请确保你在身体上和精神上都处于合适的状态，请刻意练习，残酷面对 🆒。 报名需要按要求认真填写下面 [ YourName ] 自我介绍部分，方便大家互相认识，报名通过审核即可开始自主学习。
 
-# [张峰]
+# [fluency]
 
-[小峰，近年几乎没有英文的输出。工作中会阅读英文专利并整理，11月有场英语导游口语面试，希望借此共学机会让自己的英文能力能够提升到听说无障碍水平]
+[Major in Artificial Intelligence,an undergraduate student,have countless passion to learn something interesting,nice to meet you.]
 
 ## Do you think you will finish the whole CoLearning program?
 
@@ -100,73 +100,16 @@ timezone: Asia/Shanghai
 <!-- Content_START --> 
 
 ### 2024.10.08
-**A Programmer's Guide to English内容**
-
-**语言交流是听说读写，其中包含两个识别器（听力识别器和视力识别器），一个核心理解器，两个表达器（口语表达器和书写表达器）**
-
-`read`，但是过去式发音变了，读作 `/red/`
-
-- 扩充语料库的训练方法
-    - https://dictionary.cambridge.org/dictionary/english/fusion
-    - https://forvo.com/word/clump/#en不同人发音
-        
-        https://translate.google.as/?sl=auto&tl=zh-CN&op=translate自己读能否识别
-        
-        打开 Google 搜索，[输入当前单词 + vs 即可看到近义词和易混淆词汇](https://a-programmers-guide-to-english.harryyu.me/assets/clump-google.jpg)，搜索查看相关对比
-        
-        Google 图片搜索
-        
-
-1. 发音规则不熟悉、连读失爆等听错，重读弱读规则不熟悉，例如 `group is` 听成 `grapy`、`I've been there` 中 `have` 漏听 -> 日常口语为了省力和突出重点会有连读和重读等，尤其是 `H` 开头的单词通常听不到 `H`，常见 `is` 等都会略读，`was` 等会变声跟音标不同 -> **学习特殊规则，提升语言特性识别器能力**
-
-t美d
-
-英式不发r，加元音发
+![image](https://github.com/user-attachments/assets/57f4793c-a921-48bc-9ee8-7371a644402f)
+![image](https://github.com/user-attachments/assets/11cb0851-c6ab-4fff-8d00-e5ef987e8773)
+今天时间紧张，阅读了半个多小时的专业英文文献，提升了自己的阅读水平，也掌握了一些常用词，获得了自我提升
 
 
 ### 2024.10.09
-**英语语法**
-
-名词 形容词
-
-动词 副词
-
-虚词：冠词、介词、连词
-
-表语：主语的补语
-
-当多个 形容词 修饰一个 名词 时， 大家记住一个大原则： 「观点形容词 + 描绘形容词」
-
-观点形容词：表示对事物的看法
-
-描绘形容词：表示事物本身的特征
-
-美小圆旧黄，中国木书房
-
-观点尺寸形状新旧颜色，国籍材料名词
-
-a- 开头的那些单词形容词后置，如 「alone, afraid, aside, asleep, alike… 」
-
- 修饰词复杂形容词后置，本身带有不定式， 介词 词组等补足成分时， 也要被后置：：Girls brave enough to pursue their dreams deserve to be loved. 敢于追求梦想的女孩值得被爱。
-
-responsible,可信赖的，后负责的：The person responsible for this mistake must fix it
-
-concerded,关心的，后与某事相关的：The parties concerned have agreed to the terms.
-
-involved,负责的，后有关联的：The people involved in the project worked hard.
-
-proper,适当的，后严格意义上的：This is the city proper, not the suburbs
-
-副词和形容词
-
-副词和副词：唯有enough这个副词，必须后置
-
-副词和动词：I almost fall in love with Mr.Bao.这样的副词还有 only/ merely/ also/ especially/ even/ particularly/ utterly/ almost/ surely
-
-里面in,平面on,一个点at:people on a bus
-
-跟自己比的时候， 时间不一样， 动词 was 不能省掉，句子之间的比较
-
+（https://cpwp.netlify.app）
+![屏幕截图 2024-10-09 233021](https://github.com/user-attachments/assets/1e7304f4-67bd-475e-9dbb-4ab4902820ce)
+今天学习了共学项目里提供的资料，涉及容易发音错误的单词，受益匪浅，确实有很多单词在读的时候发音有误。
+另外，今天也跟朋友探讨了读音的重要性，不可否认，但是更重要的是实际应用：要正确理解意思，并且用正确的逻辑进行语段的书写。
 
 ### 2024.10.10
 

@@ -78,7 +78,16 @@ Fooo shoo! 100%
 
 
 ### 2024.10.10
+1.Learning material:
+https://www.kernel.community/en/learn/module-1/dreamers/#-ethereal-dreamers
+2. Key point:
+- reflect upon
+- dichotomies 二分法
+- boil down 归结为
+  Motivated not by money but radiant passion for this crazy idea of a free, open and decentralized world. That's what makes us happy in the end and most importantly what makes us get up and work on this project, proudly saying today we're building tommorow.
 
+- fall back on 可供参考，可依靠
+- Speak a new language so that the world will be a new world. 
 
 
 ### 2024.10.09

@@ -89,9 +89,17 @@ To going on debonair debonairely, you must fully accept and love it, flaws and a
 
 
 ### 2024.10.10
-
-
-
+- Learning materials:https://www.bilibili.com/video/BV1U7411a7xG/?p=3&vd_source=bc0666711d2280c24d54945ab9c11146
+- P3 'h' dont pronounce (he his her have has)
+- P4 Dont have let anybody tell you, you cant do something(my answer) - Dont ever let somebody tell you, you cant do something(right answer)
+- when strong letters(S N L)meet weak letters(d t th) occor cancalation. EXAMPLES:DoNt_ever let_Somebody cant_do
+- P5 LISTENING:I have come here to two bobgang(?) and kick ass, and all other bobgangs.(My answer)
+- real answer: I have come here to chew bubblegum and kick ass...and I`m all out of bubblegum!
+- to`s seven pronounce:to tah tuh t` dah duh d`
+- out of->outta
+- P6 LISTENING:The secret of life is just to live every moment.bingo~(same as ritht answer)
+- P7 LISTENING:Another road trillier has cost the bank billions.
+- Right answer:Another rogue trader has cost a bank billions. (rogue trader:professional gambler. rogue: dishonest cheat bad word.)
 ### 2024.10.09
 
 

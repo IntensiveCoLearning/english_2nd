@@ -104,12 +104,16 @@ Mather teresa,who received the Noble Peace Prize for her work on behalf of the p
 
 
 ### 2024.10.09
+Jerry,what time do you have?
+I have 5 o’clock
 
+7Hs:
+He his him her have has had在英语中很常见，native speaker习惯h不发音
 
 
 ### 2024.10.10
 
-
+请假
 
 ### 2024.10.09
 
