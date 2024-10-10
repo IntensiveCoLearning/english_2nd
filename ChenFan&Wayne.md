@@ -100,11 +100,11 @@ Dictation_11: **** by a identical four -two scores, in a day-night doble header 
 
 fix: New York swept the Tampa Bay Rays by...., wednesday wednesday wednesday.....
 
-### 2024.10.09
+### 2024.10.11
 
 
 
-### 2024.10.10
+### 2024.10.12
 
 
 
