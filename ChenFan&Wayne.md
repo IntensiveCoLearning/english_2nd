@@ -84,11 +84,12 @@ Yes
 -Dictation_8:German ****,is the mam with most piercings,he's got four hundred fifty three.
 
 -fix:Got" 通常用于描述过去具体的动作或事件，而 "have" 可以表示持续的状态或完成的动作。
-123
 
 
 ### 2024.10.10
+-今天背了45分钟的单词、练习了daily Dictation 的9-11，
 
+-Dictation_9:
 
 
 ### 2024.10.09
