@@ -140,7 +140,7 @@ Daily English Dictation  3～7
 >
 ![image](https://github.com/user-attachments/assets/c702563c-8f94-40a3-a5a3-4fc983504657)
 >
->2. Don't ever let somebody tell you, you can’t do someting! 
+> 2. Don't ever let somebody tell you, you can’t do someting! 
 >
 >重要发音规则：强音’s、n、l’，弱音’d t th’
 >
@@ -152,7 +152,7 @@ Daily English Dictation  3～7
 >
 ![image-2](https://github.com/user-attachments/assets/de839737-80a5-4e9e-b47f-115b346f7605)
 >
->3. I have come here to chew bubblegum and kick ass..and I’m all out of bubblegum! 
+> 3. I have come here to chew bubblegum and kick ass..and I’m all out of bubblegum! 
 >
 > all out of发音outta
 >
@@ -202,7 +202,7 @@ Daily English Dictation  8～11
 >
 > ‘hundred’消音’d’ ,4hu-nerd53-美式发音，常见生活&影视
 >
-> 4. A satellite that was carried to space aboard the shuttle Discovery 20 years ago is about to fall to earth, but nobody knows where the debris will hit.
+> 3. A satellite that was carried to space aboard the shuttle Discovery 20 years ago is about to fall to earth, but nobody knows where the debris will hit.
 >    
 > a satellite 卫星🛰️
 >
@@ -210,7 +210,7 @@ Daily English Dictation  8～11
 > 
 >to earth,元音’e’ 合并发‘t wer’音
 >
-> 6. it‘s a lofty, probably impossible goal!
+> 4. it‘s a lofty, probably impossible goal!
 >    
 > lofty 崇高的
 > 
