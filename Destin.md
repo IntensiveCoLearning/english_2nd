@@ -113,7 +113,18 @@ Cambridge Dictionary词典
 英语思维训练
 通过转述进行训练
 ### 2024.10.09
+Reduced words that begin with H are often pronounced:
+1)with no H sound
+2)Linked to the word befoere
 
+Words beginning with H that often reduce and link this way:
+He,her,his,him
+Had,have,has(when they are helping verbs and not the main verb)
+
+
+Word stress in English
+As a general rule most two-syllable English nouns are stressed on the first syllable.(adjectives\nons)
+Verbs are stressed on second syllable
 
 
 ### 2024.10.10

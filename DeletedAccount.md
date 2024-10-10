@@ -75,6 +75,47 @@ timezone: Asia/Taipei
     - 形容詞: A **very** beautiful flower. (副詞 very 修飾形容詞 beautiful)
     - 副詞: She watered the flower quite **carefully**. (副詞 quite 修飾副詞 carefully)
 
-<!-- ### 2024.10.09 ->>
+### 2024.10.09
+
+- 開始看第三份教材 [**每日英语听写 Daily English Dictation 1-400**](https://www.bilibili.com/video/BV1U7411a7xG?p=3&vd_source=bc0666711d2280c24d54945ab9c11146)
+- Mother Teresa, who received Nobel Peace Prize ________ in India, she is 87 years old
+- Mother Teresa, who received **the** Nobel Peace Prize  _____ **on behave of the poor** ________ in India, she is 87 years old
+- Mother Teresa, who received the Nobel Peace Prize  **for her work** on behave of the poor ________ India, she **was** 87 years old.
+- Mother Teresa, who received **a** Nobel Peace Prize  for her work on **behalf** of the poor **,** **dies in Calcutta, India** **----** she was 87 years old.
+- **On behalf of** <Someone> 代表<某人>
+  - Done for another person's benefit or support, or because you are representing the interests of that person.
+  - 基本上就是 "代表某個人或某件事物" 做為開頭的一個片語
+  - 例如：我代表團隊，感謝你的辛勞工作
+  - 英文：On behalf of team, I want to tank you for your hard work.
+  - 順帶一提，這邊不能使用 hard-working，只能使用 hard work
+  - 因為 hard-working 是形容詞，形容「很勤奮的」
+  - hard work 則是名詞，代表「努力工作」這件事
+- 要注意有斷句，所以不是 poor 死在 Calcutta India，而是 Mother Teresa
+  - Mother Teresa 在 Calcutta India 過世，享年 87 歲
+- _____, what ___ do you have ? I ____ 5 o'clock.
+- Jerry, what **time** do you have?  I have 5 o'clock.
+- 這邊要注意 what 是短音，聽起來像只有 wha 沒有 t，t 感覺被接到 time 了
+- **7Hs: he, her, him, his, had, has, have**
+- **7Hs 在片語中，h 的聲音會消失**
+- 所以原句: Jerry, what time do you have?  I have 5 o'clock.
+- 聽起來會像: Jerry, wha time do you have? I ave 5 o'clock.
+- There're 3 things were never discussion with people, relation, polities, and the great pancake.
+- There're 3 things **I have learned** never **to** **discuss** with people, **religion**, polities, and the **Great Pumpkin**.
+- 一樣 I have learned 會聽起來像是 I ave learned
+- Whatever somebody tells you, you can do some thing/
+- **Don't even let** somebody **tell** you, you **can't** do something.
+- Strong Sound: S, N, L
+- Weak Sound: d, t, th
+- 如果弱音接在強音之後，弱音不會發音，例如 you and I. and 的 d 不發音
+- International 這邊的 t 不發音，變成 In-Ner-National
+- Don't ever let somebody 變成 Don-Ever-le-somebody
+- I've come here to chew bubble gum and kick ass, and all other ____
+- I've come here to chew **bubblegum** and kick ass, and **I'm all out of bubblegum**.
+- here to 聽起來像 here-de
+- I'm 聽起來像 ahm
+- out of 聽起來像 outta
+- The secret of life just live every moment.
+- The secret of life **is** just **to** live every moment. 這次很好，幾乎一次全對
+- just 聽起來像 juss
 
 <!-- Content_END -->

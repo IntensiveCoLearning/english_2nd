@@ -60,13 +60,13 @@ timezone: Asia/Shanghai
 
 > 正式开始前请确保你在身体上和精神上都处于合适的状态，请刻意练习，残酷面对 🆒。 报名需要按要求认真填写下面 [ YourName ] 自我介绍部分，方便大家互相认识，报名通过审核即可开始自主学习。
 
-# [your name]
+# [fluency]
 
-Hello everyone，My name is Junhua. I am a software development engineer specializing in back-end development and blockchain develop. I want to improve my English listening and speaking skills.
+[Major in Artificial Intelligence,an undergraduate student,have countless passion to learn something interesting,nice to meet you.]
 
 ## Do you think you will finish the whole CoLearning program?
 
-Yes 100%
+[Yes 100%]
 
 ---
 
@@ -100,18 +100,16 @@ Yes 100%
 <!-- Content_START --> 
 
 ### 2024.10.08
-把之前的音标和语法的内容又拿出来看了下，规划了下后续的听写计划，和cp队友讨论了下后续的进度问题。
+![image](https://github.com/user-attachments/assets/57f4793c-a921-48bc-9ee8-7371a644402f)
+![image](https://github.com/user-attachments/assets/11cb0851-c6ab-4fff-8d00-e5ef987e8773)
+今天时间紧张，阅读了半个多小时的专业英文文献，提升了自己的阅读水平，也掌握了一些常用词，获得了自我提升
 
 
 ### 2024.10.09
-![1009](img/Junhua_1009.png)
-sprang
-chimney
-seigh
-reindeer
-whistle
-thistle
-psychic
+（https://cpwp.netlify.app）
+![屏幕截图 2024-10-09 233021](https://github.com/user-attachments/assets/1e7304f4-67bd-475e-9dbb-4ab4902820ce)
+今天学习了共学项目里提供的资料，涉及容易发音错误的单词，受益匪浅，确实有很多单词在读的时候发音有误。
+另外，今天也跟朋友探讨了读音的重要性，不可否认，但是更重要的是实际应用：要正确理解意思，并且用正确的逻辑进行语段的书写。
 
 ### 2024.10.10
 

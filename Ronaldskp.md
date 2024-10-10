@@ -128,14 +128,81 @@ charcoal toothpaste,l really like it,but i was picking stuff up off mu office fl
 
 
 ### 2024.10.10
+i am feeling a little bit of altitude. i think my workout was rough,so i don't think i can walk very far. Okay,so what about tomorrow?
+So it is supposed to be thunderstorms from 9am 4pm
+And we fly at 11 something. i didn't check that.
+So it's like a 90 percent chance of rain and thunderstorms.
+Ah,that sucks.
+We might get pushed.That would suck.
+ It sounds like if we get pushed,we might get pushed to like the next day
+Oh didn't think about that .
+No ,i bet they can get us out but not direct,that's going to be my hope.
+Oh, interesting
+Yeah,and maybe there will be like windows  because thunderstorms are often like patchy 
+right okay so the flight's at like 11.45 ,11.47?
+Yes. Are you okay with getting there at 10.30 or is that too tight for you?
+l don't know this airport . l don't either. l would say 10.15
+10.15, okay , So,we'll leave here at 10 . Okay . Or five till?
+Okay. Five till is great. Okay, 5 till . 9.55 Okay
+l like to be push it .Tom likes to be there with plenty of time .Time to spare as they say.
+You konw l consider the airport a chance to  sit and read a magazine maybe or just like collect your thoughts . lt's nice time for yourself as opposed to a. time to panic
+And see,l'd. rather do all that self time at home
+Ah, yes but you can't because l can't because at home ,you're worried about like what's going to happen on the way.like will it be a traffic jam? Will it be a detour?
+Do l have to get around something?ls there going to be something happening at the airport that demands that l slow down?
+Have you ever missed the flight? Never. l have once.
+And for me , for the amount of times i've flown it is such a fair trade to miss once.l mean the hours saved at airports. That's fair ,that'r fair..
+You wangt to take a peek? Yeah sure.
+Beautiful bird on the left. l don't know it folks, here, wait we're going to back uup real quick.
+is it close to the road or    Yeah,right on the. road. Hopefully,l don't spook him.With the beeping.
+Are you getting eaten alive? No, are you?
+Did you get that?What was that? The prong horn crossing
+l did. Are you getting bitten？
+好的，我帮你翻译成中文：
+
+我感觉有点高原反应。我觉得今天的锻炼太激烈了，所以我觉得我走不了太远。那明天呢？  
+天气预报说从早上9点到下午4点会有雷阵雨。  
+我们的航班是11点多，我还没查过。  
+大概有90%的降雨和雷暴的可能性。  
+啊，这真糟糕。  
+我们可能会被推迟航班，那会很糟糕。  
+听起来如果我们被推迟，可能会推到第二天。  
+哦，我没想到这一点。  
+不，我觉得他们还是能让我们起飞，但可能不是直飞，这是我唯一的希望。  
+哦，有意思。  
+是啊，可能会有一些空隙，因为雷暴天气通常是局部的。  
+对，航班好像是11点45分，11点47分？  
+是的。你觉得10点30分到机场可以吗？还是觉得太紧张了？  
+我不太了解这个机场。我也不太了解，我觉得10点15分比较好。  
+10点15分？好吧。那我们10点出发，行吗？  
+或者9点55分出发？  
+好的，9点55分出发吧。  
+我喜欢稍微紧一点，Tom喜欢早到，留出充裕的时间。他们都说时间充裕。  
+你知道的，我把机场当作一个可以坐下来看杂志或者整理思绪的机会。是给自己留的美好时间，而不是一个让你紧张的时刻。  
+而我更愿意把这些“自我时间”留在家里。  
+嗯，是的，但是你不能，因为在家里你会担心路上会发生什么事情。比如会不会堵车？会不会有绕道？  
+会不会有一些事情让我不得不慢下来？  
+你有过错过航班的经历吗？  
+没有。我有过一次。  
+对于我来说，我飞行的次数很多，错过一次航班完全可以接受。毕竟在机场省下的时间非常多。  
+这也对，这也对。  
+你想看一眼吗？好的。  
+左边有只漂亮的鸟，我不认识。  
+等等，我们要倒车一下。  
+它靠近路边吗？  
+是的，就在路边。希望我不会吓到它。倒车时的提示音可能会吓到它。  
+你被叮了吗？没有，你呢？  
+你看到了吗？那是什么？  
+一只叉角羚穿过马路。  
+看到了。你被咬了吗？
 
 
 
-### 2024.10.09
+
+### 2024.10.11
 
 
 
-### 2024.10.10
+### 2024.10.12
 
 
 

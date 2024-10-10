@@ -105,8 +105,26 @@ Teaming up with Soleil, I think we can complete this study together.
 https://www.notion.so/10-8-119cdef3640d805bafd5fb36d9ca9177
 
 ### 2024.10.09
+** DED 46 **
+WIH ：For more than 300 years,the power of the French king was absolute. this man that he has the power to do anything
+A:For more than 300 yearrs , the power of the French king was absolute. This meant that he had the power to do anything
 
+Note:
+Ears 和 Years 的发音口型不同，单词 meant 没听出来，里面的 t 和后面的 that 连读时候不发音。
 
+** DED 47 **
+WIH： What people will do these days for their pets ?  A wash of flow drys xxx sand .but the demanding dog now wants a loomo along with other freature and comforts at a Pet hotel and day spa .
+
+A: What people will do these days for their pets . A wash and a blowdry —— that goes without saying. But the demanding dog now wants a limo along with other creature comforts at a pet hotel and day spa ! 
+
+Note:
+这期难度较高，听力材料的背景噪加上语速很快，中间一段听不清
+Limo :豪华轿车
+demanding : needing a lot of time, attention, or energy  苛求的、要求很高的
+creature comforts :物质享受
+
+** DED 48 **
+WIH: Berkinham Palace officals are staying mom about the murder case, and  police are keeping detials confidential as they try to identify the victim and figure out exactly what happend to her 
 
 ### 2024.10.10
 

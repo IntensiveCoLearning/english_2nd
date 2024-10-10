@@ -60,13 +60,13 @@ timezone: Asia/Shanghai
 
 > 正式开始前请确保你在身体上和精神上都处于合适的状态，请刻意练习，残酷面对 🆒。 报名需要按要求认真填写下面 [ YourName ] 自我介绍部分，方便大家互相认识，报名通过审核即可开始自主学习。
 
-# [your name]
+# [hugoleung1225]
 
-Hello everyone，My name is Junhua. I am a software development engineer specializing in back-end development and blockchain develop. I want to improve my English listening and speaking skills.
+[Your self-introduction should include your nickname, profession, and motivation for learning English to ensure that everyone can clearly understand your situation.]
 
 ## Do you think you will finish the whole CoLearning program?
 
-Yes 100%
+[Yes 100% ]
 
 ---
 
@@ -100,18 +100,18 @@ Yes 100%
 <!-- Content_START --> 
 
 ### 2024.10.08
-把之前的音标和语法的内容又拿出来看了下，规划了下后续的听写计划，和cp队友讨论了下后续的进度问题。
+[hugoleung1225]
+# Pratice 1 : Daily English Dictation
+We need to listen more about the connected speech and the stress part of the speech
 
 
 ### 2024.10.09
-![1009](img/Junhua_1009.png)
-sprang
-chimney
-seigh
-reindeer
-whistle
-thistle
-psychic
+[hugoleung1225]
+Watched a youtube video about english in breaking bad.
+Learned some connect speech, slang (bigtime).
+Verbs:
+Cue ball 
+
 
 ### 2024.10.10
 
