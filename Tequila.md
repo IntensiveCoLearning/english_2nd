@@ -54,7 +54,8 @@ timezone: Asia/Shanghai
 今天在多邻国 APP 上成功打卡，第四节第二章
 完成对A-Programmers-Guide-to-English的学习
 ### 2024.10.10
-
+今天在多邻国 APP 上成功打卡，第四节第三章
+观看ted演讲 +1 
 ### 2024.10.09
 
 ### 2024.10.10
