@@ -131,7 +131,7 @@ timezone: Asia/Shanghai
 - 能够迅速地分析别人的句子，准确地理解别人的意思。
 
 *语法组成部分*
-![image](tps://github.com/user-attachments/assets/5655a2a0-2b7a-40ee-bf11-26c61a72d5dc)
+![image](https://github.com/user-attachments/assets/5655a2a0-2b7a-40ee-bf11-26c61a72d5dc)
 
 ### 2024.10.11
 
