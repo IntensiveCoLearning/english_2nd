@@ -125,8 +125,34 @@ amateur trader
 
 
 ### 2024.10.10
-#7 it's a lofty, probably impossible goal.
+#10 it's a lofty, probably impossible goal.
 
+#11 New York swept the Tampa Bay race by identical 4-2 scores in a day-night doubleheader Wednesday.
+
+#12 Jim Henson ,creator of the Muppets, from Kermit the Frog to Sesame Street, is born in Greenville, Mississippi.
+
+
+notes;
+*lofty：lofty means very high, noble, or ambitious. It can describe goals, aspirations, or even physical things like mountains or buildings. In this sentence, "lofty" emphasizes that the goal is ambitious or grand.
+
+Daily life use: You can use "lofty" to describe any big dream or significant achievement you’re aiming for.
+eg:
+My dream seems lofty, but without a dream, you will get nowhere.
+
+* sweep the series means won every thing. It can also mean to clear, remove, or win something completely.
+eg: I sewpt through my tesk today.
+* Day-night doubleheader  (one in the day, one at night),The term "doubleheader" can metaphorically be applied in daily life to describe completing two significant tasks or events in a single day.
+eg:I swept through my to-do list and finished my day-night doubleheader: studying in the morning and attending another event at night.
+*  score的其他用法：
+In Achievements or Success:
+Meaning: To succeed or achieve something notable.
+Example: "She scored a great job right after graduation."
+
+Daily life use: You can use "score" to describe securing a good deal, opportunity, or achievement, such as getting a discount or winning a contest.
+"I scored a discount on my favorite shoes."
+
+feedback：
+在训练中，比较困难的还是对词语或者话题不熟悉导致的听音困难。这点只有多听多积累，多练习，多表达才行。
 
 ### 2024.10.09
 
