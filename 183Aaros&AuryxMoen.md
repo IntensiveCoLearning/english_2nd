@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 
 [Hey I'm 183Aaros, aka. Aaron. I'm an indie economist, writer, Ethereum and Optimism ecosystem contributor, and a BanklessDAO contributor. 
 I've lived in the U.K. for 5 years and got an IELTS 7.0 about a year ago, now I'm participating in this co-learning programme to have fun, make some friends and get more familiar with Github.
-It's nice to meet anyone in LX DAO here.
+It's nice to meet everyone in LX DAO here.
 ]
 
 ## Do you think you will finish the whole CoLearning program?
@@ -74,8 +74,11 @@ It's nice to meet anyone in LX DAO here.
 
 
 ### 2024.10.10
-
-
+- 听写；原视频：https://www.bbc.com/news/videos/cy5y1w33xkwo
+  -Dictation: Why are these maps renamed in southern U.S.A. in Lebanon and Ukraine spreading online? It's all to do with a claim the white house prioritising the funding for these countries of America affected by Hurricane kalin*Katrina* and Milton. Former senator Rick Scott posted on X "If we renamed Florida and North Carolina to Lebanon and Ukraine maybe Kamala Harris would send disaster relief faster". And former President Donald Trump weighed in this claim: "They have no funds to take care of that, they have no funds, they have no workers, they have no nothing". So what are the facts? The U.S. government confirmed last week it will provide more humanitarian relief to people in Lebanon and *another* 150m dollars, and it has given a lot of money to Ukraine, around 100 billion dollars to start*since the start* a*of the* full-scale war against Russia. But Fema(?) an*the* department for responsible for responding to events in the U.S like carocaines(?)*Hurricanes* has dedicated to disaster relief budget. It said*says* it has 11 billion left of that for the rest of this year. The agency has appealed for the*/* more funding for future hurricanes a*and* warn*warned* of *a* lack of staff. But instead*it insists* it has enough resources to meet immediate needs. "I have enough funding to get through this event and support all of the needs of everyone that was impacted by Hurricane Hellin(?)*Helene* and Hurricane Milton(?) from*and* what we expect from Milton(?)". What elses*The White Houses has* pushing back on claims as*/* it *hasn't* provided funds quickly enough of*in* the aftermath *of* Hurricane Milton which delesgate*devastated*
+  seperate*of several* U.S.A*U.S States*. Hundreds of millions of dollars have been provided to victims so far, and the government says billions more are*on* hand to*as* Hurricane Milton hits.
+  
+  -Fix: devastated 被摧毁
 
 ### 2024.10.09
 
