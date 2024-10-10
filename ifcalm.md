@@ -47,7 +47,7 @@ timezone: Asia/Shanghai
 <!-- Content_START --> 
 
 ### 2024.10.08
-
+这一天正式报名，未参与共学
 
 ### 2024.10.09
 - 英文的思维习惯是从细节到具体，比如地址先说门牌号最后是国家，日期先说天最后是年份；而中文思维习惯是从大到小
@@ -77,8 +77,7 @@ timezone: Asia/Shanghai
 - 能够迅速地造出正确的句子，准确地表达自己的意思。
 - 能够迅速地分析别人的句子，准确地理解别人的意思。
 
-*语法组成部分*
-![image](https://github.com/user-attachments/assets/5655a2a0-2b7a-40ee-bf11-26c61a72d5dc)
+*语法组成部分*![image](https://github.com/user-attachments/assets/5655a2a0-2b7a-40ee-bf11-26c61a72d5dc)
 
 #### 常用的5个句型
 在英语学习中，掌握常用的句型能够帮助我们更好地理解和表达。以下是五个常用的英语句型及其解释：
