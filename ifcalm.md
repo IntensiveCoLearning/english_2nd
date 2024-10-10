@@ -2,59 +2,6 @@
 timezone: Asia/Shanghai
 ---
 
-> ⚠️本打卡表默认为北京时间 UTC+8 时区，正确格式如下：
->
-> timezone: Asia/Shanghai
->
-> ⚠️如果你所在地区非北京时间，请根据你所在时区自行更改，请注意填写的正确格式。
->
-> 时区请参考以下列表：
->
-> timezone: Asia/Shanghai # 中国标准时间 (UTC+8)
->
-> timezone: Asia/Tokyo # 日本标准时间 (UTC+9)
->
-> timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
->
-> timezone: Australia/Sydney # 澳大利亚东部标准时间 (UTC+10)
->
-> timezone: Pacific/Honolulu # 夏威夷-阿留申标准时间 (UTC-10)
->
-> timezone: America/Anchorage # 阿拉斯加标准时间 (UTC-9)
->
-> timezone: America/Los_Angeles # 太平洋标准时间 (UTC-8)
->
-> timezone: America/Denver # 山地标准时间 (UTC-7)
->
-> timezone: America/Chicago # 中部标准时间 (UTC-6)
->
-> timezone: America/New_York # 东部标准时间 (UTC-5)
->
-> timezone: America/Halifax # 大西洋标准时间 (UTC-4)
->
-> timezone: America/St_Johns # 纽芬兰标准时间 (UTC-3:30)
->
-> timezone: America/Sao_Paulo # 巴西利亚时间 (UTC-3)
->
-> timezone: Atlantic/Azores # 亚速尔群岛时间 (UTC-1)
->
-> timezone: Europe/London # 格林威治标准时间 (UTC+0)
->
-> timezone: Europe/Berlin # 中欧标准时间 (UTC+1)
->
-> timezone: Europe/Helsinki # 东欧标准时间 (UTC+2)
->
-> timezone: Europe/Moscow # 莫斯科标准时间 (UTC+3)
->
-> timezone: Asia/Dubai # 海湾标准时间 (UTC+4)
->
-> timezone: Asia/Kolkata # 印度标准时间 (UTC+5:30)
->
-> timezone: Asia/Dhaka # 孟加拉国标准时间 (UTC+6)
->
-> timezone: Asia/Bangkok # 中南半岛时间 (UTC+7)
-
-
 
 # 英语残酷共学第 2 期残酷指引
 
@@ -132,6 +79,39 @@ timezone: Asia/Shanghai
 
 *语法组成部分*
 ![image](https://github.com/user-attachments/assets/5655a2a0-2b7a-40ee-bf11-26c61a72d5dc)
+
+#### 常用的5个句型
+在英语学习中，掌握常用的句型能够帮助我们更好地理解和表达。以下是五个常用的英语句型及其解释：
+
+##### 1. 主语 + 谓语 + 宾语（S + V + O）
+   这是最基础的句型结构之一，通常用于描述一个动作及其作用对象。  
+   例如：
+   - I like apples. （我喜欢苹果。）
+   - She reads books. （她读书。）
+
+##### 2. 主语 + 系动词 + 表语（S + V + C）
+   系动词后接表语，通常是形容词、名词或介词短语，用于描述主语的状态或特征。  
+   例如：
+   - He is happy. （他很开心。）
+   - The sky looks blue. （天空看起来很蓝。）
+
+##### 3. 主语 + 谓语 + 间接宾语 + 直接宾语（S + V + IO + DO）
+   用于表达某人给予某物给他人的句子结构。间接宾语通常指人，直接宾语指物。  
+   例如：
+   - She gave him a gift. （她给了他一份礼物。）
+   - I sent her a letter. （我寄了一封信给她。）
+
+##### 4. 主语 + 谓语 + 宾语 + 宾补（S + V + O + OC）
+   用于描述宾语的状态或使宾语做某事。宾补通常是形容词、不定式或名词短语。  
+   例如：
+   - They made her captain. （他们让她当上了队长。）
+   - I found the book interesting. （我觉得这本书很有趣。）
+
+##### 5. There/Here + be + 主语
+   这是一个表示存在的句型，常用于引入新的事物或描述某物存在的场所。  
+   例如：
+   - There is a book on the table. （桌子上有一本书。）
+   - Here comes the bus. （公交车来了。）
 
 ### 2024.10.11
 
