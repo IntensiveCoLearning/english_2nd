@@ -146,7 +146,7 @@ All aboard = get on the train/boat
 ** DED 50 **
 WIH:  Why do you want to go there?  I know I had that press recently and it's a  place to take my fancy
 A: And why do you wanna got there? I know  it's had a bad press recently but it's the place that's taken my fancy.
-
+Note: 英式口音、特别多连读和发音的省略，比较难
 ** DED 51 **
 WIH:There's people running  and walking their dogs and having brunch on the padios
 A: Threre's people running and walking their dogs  and having brunc on the patios
