@@ -161,8 +161,66 @@ Chew：嚼
 Bubblegum：口香糖
 
 ### 2024.10.10
+D6
 
+What I heard:
 
+The Sercet of life is just live in every moment.
+
+What he said:
+
+The Sercet of life is just to live in every moment.
+
+D7
+
+What I heard:
+
+Another… trader has cost bank billions.
+
+What he said:
+
+Another rogue trader has cost a bank billions.
+
+Notes:
+Rogue 流氓
+Trader 证券交易人
+
+D8
+
+What I heard:
+
+German... is the man with the most …, he's got 453
+
+What he said:
+
+German, Rolf Buchhalz, is the man with the most piercing, he's got 453
+
+Notes:
+
+Piercing 穿孔
+
+D9
+
+What I heard:
+
+A … that was carried to space abroad… discovery 20 years ago is about fall to earth, but nobody knows where did …
+
+What he said:
+
+A satellite that was carried to space abroad the shuttle Discovery 20 years ago is about to fall to earth, but nobody knows where did the debris will hit.
+
+Notes:
+Satellite 人造卫星
+Shuttle 航天飞机，梭子
+Debris 碎片，残骸
+
+D10
+
+It’s a lofty, probably impossible goal.
+
+Notes:
+
+Lofty 崇高的
 
 ### 2024.10.09
 
