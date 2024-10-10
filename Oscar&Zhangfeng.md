@@ -160,11 +160,7 @@ Notes：
 - launch**/lɔːn(t)ʃ/ **发行、推行
 - hundreds of millions of 数亿人
 
-### 2024.10.09
-
-
-
-### 2024.10.10
+### 
 
 
 
