@@ -199,7 +199,12 @@ l did. Are you getting bitten？
 
 
 ### 2024.10.11
+https://www.youtube.com/watch?v=Wt5okpfSFIs
 
+Okay So why are you starting a podcast?
+Well l've never been a huge podcast listener,and recently some friends started podcasts,and as l started listening to them to see what they were abhout,l realized, this is a really fun  format.lt's a really fun way to talk about things .l feel like in my Youtube videos,there, it's sort of a formal feel . You know , l'mteaching something. Let's be serious and teach .And the podcast feels like it has room to be a lot more conversational , and that sounds really fun to me. And ,and after all ,the people who are following Rachel's English want to know a lot about conversational English.And so, since l'm going to have a transcript available for each podcast , l feel like we can  really speak at a normal conversational pace . And for people who are having a hard time catching all the words,they'll have that as an option, that transcript to go back and look it up.So l guess it's that . lt just feels like a really fun way, a. new way ,to talk about these topics.
+好的，为什么你要开始做播客呢？
+嗯，我一直以来都不是一个特别喜欢听播客的人，但最近一些朋友开始做播客了，我就去听了听，想看看他们都在聊些什么。然后我意识到，这是一种非常有趣的形式。这是一个很有趣的方式来讨论事情。我觉得在我的YouTube视频里，它有点正式的感觉。你知道，我在教一些东西，我们得严肃点来讲。而播客感觉上有更多的空间可以让对话变得更随意，这对我来说听起来很有趣。毕竟，关注“Rachel's English”的人都想了解更多关于日常会话英语的内容。而且因为我会为每期播客提供文本记录，我觉得我们可以以正常的对话速度来进行。而对于那些听不懂所有单词的人，他们可以选择去查看文字记录。所以我想原因就是这样。这种形式感觉非常有趣，是一种全新的方式来讨论这些话题。
 
 
 ### 2024.10.12
