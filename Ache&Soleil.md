@@ -105,19 +105,19 @@ Teaming up with Soleil, I think we can complete this study together.
 https://www.notion.so/10-8-119cdef3640d805bafd5fb36d9ca9177
 
 ### 2024.10.09
-** DED 46 **
+** DED 46 **<br>
 WIH ：For more than 300 years,the power of the French king was absolute. this man that he has the power to do anything
 A:For more than 300 yearrs , the power of the French king was absolute. This meant that he had the power to do anything
 
-Note:
+Note:<br>
 Ears 和 Years 的发音口型不同，单词 meant 没听出来，里面的 t 和后面的 that 连读时候不发音。
 
 ** DED 47 **
-WIH： What people will do these days for their pets ?  A wash of flow drys xxx sand .but the demanding dog now wants a loomo along with other freature and comforts at a Pet hotel and day spa .
+WIH： What people will do these days for their pets ?  A wash of flow drys xxx sand .but the demanding dog now wants a loomo along with other freature and comforts at a Pet hotel and day spa . <br>
 
-A: What people will do these days for their pets . A wash and a blowdry —— that goes without saying. But the demanding dog now wants a limo along with other creature comforts at a pet hotel and day spa ! 
+A: What people will do these days for their pets . A wash and a blowdry —— that goes without saying. But the demanding dog now wants a limo along with other creature comforts at a pet hotel and day spa ! <br>
 
-Note:
+Note:<br>
 这期难度较高，听力材料的背景噪加上语速很快，中间一段听不清
 Limo :豪华轿车
 demanding : needing a lot of time, attention, or energy  苛求的、要求很高的
@@ -153,31 +153,31 @@ A: Threre's people running and walking their dogs  and having brunch on the pati
 Note
 Patios: 庭院、中庭
 
-### 2024.10.09
+### 2024.10.11
+<br>
+running ： run for time ,have a goal <br>
+jogging : run for no goal <br>
 
-running ： run for time ,have a goal
-jogging : run for no goal
+** DED 52 ** <br>
+WIH:Martin Luther king,JR  rise as civil right leader began at 1955 ,when he spearhead the drive to deseperagte public buses in M???? Alabama<br>
+A : Martin Luther King ,JR's rise as a civil rights leader began in 1955, when he spearheaded the drive to desegregate public buses in Montgomery,Alabama.<br>
+Note:<br>
+spearheaded : started/带头的<br>
+desegregate: 废除种族隔离<br>
 
-** DED 52 ** 
-WIH:Martin Luther king,JR  rise as civil right leader began at 1955 ,when he spearhead the drive to deseperagte public buses in M???? Alabama
-A : Martin Luther King ,JR's rise as a civil rights leader began in 1955, when he spearheaded the drive to desegregate public buses in Montgomery,Alabama.
-Note:
-spearheaded : started/带头的
-desegregate: 废除种族隔离
+** DED 53** <br>
+WIH：Anti- Piracy legislation under consideration in Washington has some websites in a tizzy. Wikipedia,Boing Boing and reddit say they'll have none of it  and are blacking out their sites on Wednesday.<br>
 
-** DED 53** 
-WIH：Anti- Piracy legislation under consideration in Washington has some websites in a tizzy. Wikipedia,Boing Boing and reddit say they'll have none of it  and are blacking out their sites on Wednesday.
+Note: <br>
+blacking out their sites :封锁网站<br>
+Boing Boing is a website, first established as a zine in 1988, later becoming a group blog. <br>
 
-Note: 
-blacking out their sites :封锁网站
-Boing Boing is a website, first established as a zine in 1988, later becoming a group blog. 
-
-** DED 54** 
-WIH：There are usually about 3 shark attacts on people in around Austalia all year in 2012 ,the country has seen 3 attacks already  and  January is not  even finish yet.
+** DED 54** <br>
+WIH：There are usually about 3 shark attacts on people in around Austalia all year in 2012 ,the country has seen 3 attacks already  and  January is not  even finish yet.<br>
 
 
 
-### 2024.10.10
+### 2024.10.12
 
 
 
