@@ -128,7 +128,6 @@ I completed the Duolingo training today and read the recommended book list, How 
 3、五大句型，主谓，主谓补，主谓宾，主谓宾宾，主谓宾补（后面两种衍生前面，都是属于修饰拿道具）
 4、抓住关键谓语动词，看他需要什么
 
-### 2024.10.10
 
 
 
