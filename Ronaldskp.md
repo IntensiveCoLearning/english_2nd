@@ -208,9 +208,26 @@ Well l've never been a huge podcast listener,and recently some friends started p
 
 
 ### 2024.10.12
+Cool so l wnated to know more about why do you think it's going to be fun?
+What about pod-what about a podcast is going ti be fun?
+Well it took me a while to decide what my different episodes were going to be like,and l don't know if you know this,but l settled on the idea on that,actually you were going to be in almost every podcast
+Well because it's a lot more fun to have two people involved ,because,hence,the conversation happens,lt's hard to have a conversation by yourself,and that's just another way to make it a little different form my videos,which are generally just me traching something . Here,it's you. and l discussing something, and l'm for -let's just go ahead and say it . l'm the expert here . You're not . But,so,that's interesting.You can add a different perspective to what l'm saying.You may stop me and ask me questions that l didn't think about .Um,and l , l just think that because you , my husband , will be in on these podcasts , that , you know , potentially , it will just be a more friendly ,open kinds of conversation . Maybe little anecdotes from our   lives come up .And l'm looking forward to sharing that king of thing more.
+你想知道为什么我觉得这会很有趣？关于播客，为什么会觉得有趣？
+嗯，其实我花了一段时间决定每个不同的播客集数会是什么样子。而且我不知道你是否知道，但最终我决定，你几乎会出现在每一期播客里。原因是，两个参与者会让讨论更有趣，因为这就会变成对话。而自己一个人很难进行对话，这也是让它和我通常的视频有所不同的方式，我的视频通常只是我在讲授某些内容。而在这里，是你和我在讨论某个话题。再说直白一点吧，我是这里的专家，而你不是。但是这就变得有趣了。你可以给我的说法提供不同的视角，你可能会打断我，问一些我没想到的问题。而且，我觉得因为你——我的丈夫——会参与这些播客，所以这会让谈话更加友好、开放。我们生活中的一些小故事可能会自然而然地出现。我很期待分享这些内容。
 
+### 2024.10.13
 
+### 2024.10.14
 
+### 2024.10.15
+
+### 2024.10.16
+
+### 2024.10.17
+
+### 2024.10.18
+
+### 2024.10.19
 
 
 
