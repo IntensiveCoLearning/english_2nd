@@ -118,8 +118,12 @@ https://www.bilibili.com/video/BV1U7411a7xG?p=2
 Today，I started the study of daily dictation.The course is perfect.I will keep learning!
 
 ### 2024.10.09
-
-
+![image](https://github.com/user-attachments/assets/a7dcb32b-5c02-4ede-be9a-354f0394baca)
+![image](https://github.com/user-attachments/assets/5524d691-4f29-49db-ba12-e0e06e8ee353)
+https://www.bilibili.com/video/BV1U7411a7xG?p=3
+https://www.bilibili.com/video/BV1U7411a7xG?p=4
+https://www.bilibili.com/video/BV1U7411a7xG?p=5
+more interesting！
 
 ### 2024.10.10
 
