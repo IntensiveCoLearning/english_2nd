@@ -149,11 +149,31 @@ A: And why do you wanna got there? I know  it's had a bad press recently but it'
 Note: 英式口音、特别多连读和发音的省略，比较难
 ** DED 51 **
 WIH:There's people running  and walking their dogs and having brunch on the padios
-A: Threre's people running and walking their dogs  and having brunc on the patios
+A: Threre's people running and walking their dogs  and having brunch on the patios
 Note
 Patios: 庭院、中庭
 
 ### 2024.10.09
+
+running ： run for time ,have a goal
+jogging : run for no goal
+
+** DED 52 ** 
+WIH:Martin Luther king,JR  rise as civil right leader began at 1955 ,when he spearhead the drive to deseperagte public buses in M???? Alabama
+A : Martin Luther King ,JR's rise as a civil rights leader began in 1955, when he spearheaded the drive to desegregate public buses in Montgomery,Alabama.
+Note:
+spearheaded : started/带头的
+desegregate: 废除种族隔离
+
+** DED 53** 
+WIH：Anti- Piracy legislation under consideration in Washington has some websites in a tizzy. Wikipedia,Boing Boing and reddit say they'll have none of it  and are blacking out their sites on Wednesday.
+
+Note: 
+blacking out their sites :封锁网站
+Boing Boing is a website, first established as a zine in 1988, later becoming a group blog. 
+
+** DED 54** 
+WIH：There are usually about 3 shark attacts on people in around Austalia all year in 2012 ,the country has seen 3 attacks already  and  January is not  even finish yet.
 
 
 
