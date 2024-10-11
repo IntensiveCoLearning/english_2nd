@@ -318,9 +318,36 @@ Here are some important words we recorded:
 - **Body movement** /ˈbɒdi ˈmuːvmənt/ n. 身体动作
 - **Elevate** /ˈɛləveɪt/ v. 提升，提高
 
+### 2024.10.11
 
+We went through the *Words Commonly Mispronounced by Chinese Programmers*([CPWP](https://cpwp.netlify.app/)). We found these words worth noting:
 
-
+|               | UK              | US              | Wrong            | 中文释义                    |
+| ------------- | --------------- | --------------- | ---------------- | --------------------------- |
+| ASCII         | /'æski/         | /ˈæski/         | /ɑːsk/           | n. 美国信息交换标准代码     |
+| Azure         | /'æʒə/          | /ˈæʒər/         | /ˈæzʊʒə/         | n. 天蓝色                   |
+| clang         | /klæŋ/          | /klæŋ/          | /sɪlæŋ/          | v. 叮当作响                 |
+| daemon        | /'diːmən/       | /ˈdiːmən/       | /dæmən/          | n. 守护进程，精灵程序       |
+| deprecate     | /ˈdeprəkeɪt/    | /ˈdeprəkeɪt/    | //               | v. 不赞成，弃用             |
+| deque         | /'dek/          | /dɛk/           | /di'kju/         | n. 双端队列                 |
+| Django        | /ˈdʒæŋɡoʊ/      | /ˈdʒæŋɡoʊ/      | /diˈdʒæŋɡoʊ/     | n. 一个Python的Web框架      |
+| epoch         | /ˈiːpɒk/        | /ˈepək/         | /'ɛpətʃ/         | n. 纪元，时代               |
+| executor      | /ɪɡˈzekjətə(r)/ | /ɪɡˈzekjətər/   | //               | n. 执行者，执行程序         |
+| facade        | /fə'sɑːd/       | /fəˈsɑːd/       | /'feikeid/       | n. 建筑物的正面，外观       |
+| fedora        | /fɪ'dɔːrə/      | /fɪˈdɔːrə/      | /'fedərə/        | n. 软呢帽                   |
+| format        | /'fɔːmæt/       | /ˈfɔːrmæt/      | /fɔ'mæt/         | n. 格式，版式               |
+| height        | /haɪt/          | /haɪt/          | /heɪt/           | n. 高度                     |
+| jpg           | /'dʒeɪpeɡ/      | /'dʒeɪpeɡ/      | /ˈdʒeɪˈpi:ˈdʒiː/ | n. 图片格式                 |
+| lambda        | /ˈlæmdə/        | /ˈlæmdə/        | /ˈlɒŋmdɑ/        | n. λ (希腊字母)，匿名函数   |
+| miscellaneous | /ˌmɪsəˈleɪniəs/ | /ˌmɪsəˈleɪniəs/ | //               | adj. 各种各样的             |
+| obsolete      | /ˈɒbsəliːt/     | /ˌɑːbsəˈliːt/   | //               | adj. 废弃的，过时的         |
+| query         | /'kwɪəri/       | /ˈkwɪri/        | /'kwaɪri/        | n. 查询，询问               |
+| Realm         | /relm/          | /relm/          | /riəlm/          | n. 领域，王国               |
+| safari        | /sə'fɑːrɪ/      | /səˈfɑːri/      | /sæfərɪ/         | n. 野外旅行，狩猎远征       |
+| suite         | /swiːt/         | /swiːt/         | /sjuːt/          | n. 套房，套件               |
+| thymeleaf     | /ˈtaɪmˌlɪːf/    | /ˈtaɪmˌlɪːf/    | /θiːmɪlɪːf/      | n. 百里香叶（Java模板引擎） |
+| Vagrant       | /ˈveɪɡrənt/     | /ˈveɪɡrənt/     | /ˈvagɹent/       | n. 流浪者，游民             |
+| vue           | /v'ju:/         | /v'ju:/         | /v'ju:i/         | n. 一个JavaScript框架       |
 
 
 
