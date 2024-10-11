@@ -61,13 +61,13 @@ Yes 100%
  Vocabulary: approval, turnaround, permit/permission, photography(辯音), & flyer.
 
 
-### 2024.10.09
+### 2024.10.11
 
 精聽這個影片 1:27~2:57 https://youtu.be/TjPFZaMe2yw?si=p6NeqbMWX3WxThTR
 
 
 
-### 2024.10.10
+### 2024.10.12
 
 
 
