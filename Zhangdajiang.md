@@ -125,7 +125,17 @@ timezone: Asia/Shanghai
 语料库内容不正确。 语料库你需要记忆的是 单词 -> 诸多释义、例句、声音等等，但这种方法你记住的是 单词 -> 几个释义，一个故事，故事关联的其他单词。
 缺乏当前单词听力和发音的输入、锻炼。
 所以这种方法不推荐使用，因为投入的成本和收获比比较低。试想：当一个老外对你说一个单词，你会用故事去联想这个单词是什么中文意思，然后再去做出反应吗？而且这个中文意思可能并不是老外想表达的意思。其次，单词你可能说起来磕磕碰碰甚至发音是错的，因为在背的过程中，你并不知道它准确的发音，也没有训练。
-### 2024.10.09
+### 2024.10.11
+
+Nihon Hidankyo, a Japanese group of atomic bomb survivors, has won the 2024 Nobel Peace Prize.
+
+Known as hibakusha, the survivors of the 1945 bombings of Hiroshima and Nagasaki have been recognised by the Norwegian Nobel Committee for efforts to rid the world of nuclear weapons.
+
+Nobel Committee Chair Joergen Watne Frydnes said the group had "contributed greatly to the establishment of the nuclear taboo".
+
+Mr Frydnes warned the "nuclear taboo" was now "under pressure" - and praised the group's use of witness testimony to ensure nuclear weapons must never be used again.
+
+Founded in 1956, the organisation sends survivors around the world to share their testimonies of the "atrocious damage" and suffering caused by the use of nuclear weapons, according to its website.
 
 
 
