@@ -168,14 +168,27 @@ Daily Dictation Number 8：
 
 Daily Dictation Number 9：
 
+我的答案：** carry to space ** 20 years old is about to fall to earth,but nobody knows where the **.
 
+正确答案：A satellite that was carried to space aboard shuttle discovery 20 years ago is about to fall to earth,but nobody knows where the debris will hit.
 
+背单词：
 
-### 2024.10.09
+麦克米伦7000×28
 
+### 2024.10.11
+Daily Dictation Number 10：
 
+我的答案：Its a loftly,probably impossible goal.
 
-### 2024.10.10
+正确答案：Its a lofty,probably impossible goal.
+
+Daily Dictation Number 11：
+
+正确答案：New York swept the Tampa Bay Rays by identical 4 - 2 scores in a day-night doubleheader wednesday.
+
+背单词：麦克米伦7000×42
+### 2024.10.12
 
 
 
