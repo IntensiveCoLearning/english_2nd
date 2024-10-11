@@ -124,8 +124,12 @@ Yes
 2. <img width="200" alt="Chacha 10-10" src="https://github.com/user-attachments/assets/f742a456-c620-4c76-a8a7-11fad778e14a" />
 
 
-### 2024.10.09
+### 2024.10.11
 
-### 2024.10.10
+1. Listened to Grian joins Elton John on the Rocket Hour. https://music.apple.com/cn/station/fontaines-d-c/ra.1759413893?l=en-GB
+2. <img width="200" alt="Chacha 10-10" src="https://github.com/user-attachments/assets/f742a456-c620-4c76-a8a7-11fad778e14a](https://github.com/user-attachments/assets/cee37e2f-c460-4de2-a943-4afa5e590bc8" />
+
+
+### 2024.10.12
 
 <!-- Content_END -->
