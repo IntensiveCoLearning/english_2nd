@@ -337,7 +337,20 @@ really great
 
 ### 2024.10.11
 
-笔记内容
+in表示在里面， 强调在其的内部。
+in是强调事物被包含在内部。
+on表示在上面， 强调在平面上。
+on强调事物在其表面上。
+at把位置当作一个“点”
+at强调把事物看成一个点。
+
+There are 3 things
+I have learned
+Never to discuss with people
+religion politics and the great Pumpkin
+
+listen and write
+forever   never somebody you can do
 
 ### 2024.10.12
 
