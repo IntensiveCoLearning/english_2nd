@@ -101,13 +101,14 @@ Jerry, what time do you have ?  I have 5 o'clock
 There are there things I have learned never discuss with people: religion, politics and the Greate Pumpkin!
 - to 发 tub 的音
 
+### 2024.10.11    
+**Dication 4**
+Don't ever let somebody tell you, you can't do something!
+强发音：s, n, l   弱发音：d, t, th 
+当弱发音字母跟在强发音字母后面时，弱发音会被省略，比如：Don't ever 中的 t 被省略，发成 Don'ever
 
 
-### 2024.10.09
-
-
-
-### 2024.10.10
+### 2024.10.12
 
 
 

@@ -130,8 +130,6 @@ timezone: Asia/Shanghai
 	- 语法：单点突破
 	- 意图语料组装器：转述，训练逆向组装能力
 
-
-
 ### 2024.10.09
 ## 总结
 	把田静雅思语法课里的思维导图搬运过来了，回顾了一下语法课里的内容和语法的重点。
@@ -142,7 +140,6 @@ timezone: Asia/Shanghai
 
 ![alt text](img/Ayden-Grammar.png)
 
-
 ### 2024.10.10
 ## 总结
 	找了三份视频材料:ReactConf,Code BootCamp, Free BootCamp最终选择了Free BootCamp的React视频内容。发音清晰，视频内容难易程度合适。复习巩固React知识和用法的同时，练习听力。
@@ -150,11 +147,16 @@ timezone: Asia/Shanghai
 	1. 每天不少于3-5页
 	2. PPT内容简洁，口述部分整理成文字记录方便以后改进
 	3. 从最简单开始
-
-
-### 2024.10.09
-
-
+ 
+### 2024.10.11
+- ReactDOM is a moudule within React library that is used to map React Components to the DOM in browser environments.
+- ReactDOM provides a series of APIs that allow developers to create and manage React Components in the browser.
+- ReactDOM allow developers to construct user interface using a declarative approach.
+- Through the use of virtual DOM and effcient DOM update algorithms,ReactDOM can significantly improve application performance,especially in large-scale applications.
+- React’s declarative programming model makes the code more readable and maintainable.
+- JSX is used in React for describing the structure of UI components.It closely resembles HTML,but is actually embedding into JavaScript , allowing you to write HTML-like syntax with your JavaScript code.
+- JSX allows you to write what looks like HTML within your JavaScript files, making it easier for developer with HTML experience to understand the structure of components.
+- It’s easy for developers to read and underdtand the UI structure of an application.
 
 ### 2024.10.10
 

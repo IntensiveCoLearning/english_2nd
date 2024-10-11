@@ -160,11 +160,31 @@ Notes：
 - launch**/lɔːn(t)ʃ/ **发行、推行
 - hundreds of millions of 数亿人
 
-### 
+### 2024.10.11
 
+Listening and Learning English expression：
 
+Story 4：Alipay loan services
 
+Before quitting my job, I'd discussed this decision with my family several times. My wife wished for me to have a stable job ,but I always wanted to try something interesting and challenging.In our county, lots of small merchants still only accept cash payments, so I recommend them to use Alipay. No need to worry about giving change, and no need to chase down unpaid bills. Every transaction is crystal clear.If you need funding for your business later on, `you can apply for a loan on Alipay`.`And just like that ,word spread in the neighborhood that`.To get rich , ask for MaQiang.I've introduced Alipay services to hundreds of merchants in our county. I know that as of now, their are 80 million businesses using Alipay, and over 20 million small enterprises have obtained loans from MYBank.`Business has been tough for everyone since the COVID-19 pandemic`. Helping their businesses thrive is my business .We believe every small business has an equal opportunity to grow.
 
+Before quitting my job, I'd discussed this decision with my family several times. My wife wished for me to have a stable job ,but I always wanted to try something interesting and challenging.In our county, lots of small merchants still only accept cash payments, so I recommend them to use Alipay. No need to worry about giving change, and no need to chase down unpaid bills. Every transaction is crystal clear.If you need funding for your business later on, you can apply for a loan on Alipay.And just like that ,word spread in the neighborhood that.To get rich , ask for MaQiang.I ‘ve introduced Alipay services to hundreds of merchants in our county, I know that as of now,ther are 80 million businesses using Alipay,and over 20 million small enterprises have obtained loans from MYBank. Business has been tough for everyone since the COVID-19 pandemic. Helping their businesses thrive is my business . We believe every small business has an equal opportunity to grow.
+
+Notes：
+
+- evangelist **[/ɪ'væn(d)ʒ(ə)lɪst/](/ɪ'væn(d)ʒ(ə)lɪst/)** 布道者
+- region[**/'riːdʒ(ə)n/**](cmd://Speak/_uk_/) 地区 
+-  county 县
+- merchant [/'mɝtʃənt/]() 商人
+- business  商家
+- enterprise [**/'entəpraɪz/**](cmd://Speak/_uk_/enterprise) 企业
+- give change 找零钱
+- transaction [**/træn'zækʃ(ə)n/**]() 交易
+- funding 基金；资金
+- cost [**/kɒst/ **](cmd://Speak/_uk_/cost) 费用；成本
+- loan 贷款
+- pandemic **[/pænˈdemɪk/](/pænˈdemɪk/)** 流行病
+- thrive**[/θraɪv/](/θraɪv/)** 兴旺发达
 
 
 

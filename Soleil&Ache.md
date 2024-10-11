@@ -222,7 +222,60 @@ Notes:
 
 Lofty 崇高的
 
-### 2024.10.09
+### 2024.10.11
+D11
+
+What I heard:
+
+New York swept ..... by … 4-2 scores in a day night double haeder Wendsday.
+
+What he said:
+
+New York swept the Tampa Bay Rays by identical 4-2 scores in a day night double haeder Wendsday.
+
+Notes:
+
+Tampa Bay Rays 坦帕湾光芒（美国职棒大联盟球队）
+
+Identical 相同的
+
+D12
+
+What I heard:
+
+Jim Henson, creator the muppets from ..... is born in … Missisippi.
+
+What he said:
+
+Jim Henson, creator of the muppets-from Kermit the Frog to Sesame Street is born in Greenville Mississippi.
+
+Notes:
+
+Muppets  提线木偶
+
+Kermit the frog 青蛙克米特
+
+Sesame Street 芝麻街（美国儿童节目）
+
+Greenville 格林维尔
+
+D13
+
+What I heard:
+
+Asain Tiger..... are natived to the.... Asia in the  past few years, they spread all the cross the south eastern in United States
+
+What he said:
+
+Asian tiger mosquitoes are natived to the tropics of the southeast Asia but in the past few years they've spread all across the southeastern United States.
+
+Notes:
+
+Mosquitoes 蚊子
+
+Native to 原产于
+
+Tropics 热带
 
 
 
