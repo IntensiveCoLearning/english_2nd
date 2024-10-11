@@ -113,7 +113,84 @@ timezone: Asia/Shanghai
    - Here comes the bus. （公交车来了。）
 
 ### 2024.10.11
+#### 如何用介词in/on/at表示位置
+在英语中，介词 **in**、**on** 和 **at** 都可以用来表示位置，但它们的用法有所区别，具体取决于所指位置的具体情况。以下是它们的使用规则和例子：
 
+##### 1. 介词 "in" 的用法
+表示**某个空间或地点内部**，强调在一个三维空间中，或被某个边界包围之中。
+
+**用法场景**：
+- **国家、城市、区域**：
+  - I live **in** China. （我住在中国。）
+  - She works **in** New York. （她在纽约工作。）
+
+- **封闭空间内部**：
+  - He is **in** the room. （他在房间里。）
+  - There is a fly **in** the bottle. （瓶子里有只苍蝇。）
+
+- **大的地理区域或自然环境**：
+  - We are hiking **in** the mountains. （我们在山中徒步旅行。）
+  - There are many fish **in** the ocean. （海洋里有很多鱼。）
+
+- **书、报纸或其他资料中**：
+  - I read the news **in** the newspaper. （我在报纸上读到这条新闻。）
+
+**总结**：用 "in" 来表示在一个相对较大的区域、封闭的空间或一个三维的环境内。
+
+##### 2. 介词 "on" 的用法
+表示**某个物体表面上**，或**紧邻某个空间**的状态，强调与表面的接触。
+
+**用法场景**：
+- **表面或平面上**：
+  - The book is **on** the table. （书在桌子上。）
+  - She put the painting **on** the wall. （她把画挂在墙上。）
+
+- **街道或具体位置上**：
+  - He lives **on** Main Street. （他住在主街上。）
+  - There is a store **on** the corner. （拐角处有一家商店。）
+
+- **交通工具或电子设备上**：
+  - She is **on** the bus. （她在公交车上。）
+  - He is talking **on** the phone. （他正在打电话。）
+
+**总结**：用 "on" 来表示在某物的表面上、某个特定位置上，或在某种交通工具或设备上。
+
+##### 3. 介词 "at" 的用法
+表示**具体的某个点**，强调准确的或具体的位置，通常用于谈论某个场所或事件。
+
+**用法场景**：
+- **具体地点或地址**：
+  - I will meet you **at** the entrance. （我会在入口处等你。）
+  - She lives **at** 123 Main Street. （她住在主街123号。）
+
+- **具体的建筑物或场所**：
+  - They are **at** the restaurant. （他们在餐馆里。）
+  - We arrived **at** the airport. （我们到达了机场。）
+
+- **事件或场合**：
+  - He is **at** the meeting. （他在会议上。）
+  - There were many people **at** the concert. （音乐会上有很多人。）
+
+**总结**：用 "at" 来表示具体的地点、地址或某个事件，强调在一个特定的点上。
+
+##### 4. 用法比较
+- **in**: 表示在一个内部区域或封闭的空间中。
+  - Example: He is **in** the car. （他在车里。）
+
+- **on**: 表示在表面上、线上或具体位置上。
+  - Example: The book is **on** the shelf. （书在架子上。）
+
+- **at**: 表示在一个具体的点上，通常用于较小的、特定的位置。
+  - Example: He is **at** the door. （他在门口。）
+
+##### 5. 一些特殊用法需要注意
+- **时间和空间**上的区别：
+  - **In** 用于表示大范围时间（如年份、月份）和空间（如国家、城市）。
+    - Example: He was born **in** 1990. （他出生于1990年。）
+  - **On** 用于表示具体日期、某个特定表面位置。
+    - Example: I will call you **on** Monday. （我周一给你打电话。）
+  - **At** 用于表示具体时间点（如几点钟）和精确位置。
+    - Example: The meeting starts **at** 3 p.m. （会议在下午3点开始。）
 
 ### 2024.10.12
 
