@@ -84,18 +84,27 @@ Yes
 -Dictation_8:German ****,is the mam with most piercings,he's got four hundred fifty three.
 
 -fix:Got" 通常用于描述过去具体的动作或事件，而 "have" 可以表示持续的状态或完成的动作。
-123
 
 
 ### 2024.10.10
+-今天背了45分钟的单词、练习了daily Dictation 的9-11，
+
+-Dictation_9:A satelite that was carried the space shutte **** twenty years ago is about to fall to earth, but nobody knows the braiss will hit where.
+
+-fix:aborad the shuttle discovery, aboard a train ---aborad a plane , aborad means on something or insside something.
+where the debris will hit. about to fall equals ready to fall .
+
+Dictation_10: its a lofy probably impossbile goal.!!
+
+Dictation_11: **** by a identical four -two scores, in a day-night doble header wendesday.
+
+fix: New York swept the Tampa Bay Rays by...., wednesday wednesday wednesday.....
+
+### 2024.10.11
 
 
 
-### 2024.10.09
-
-
-
-### 2024.10.10
+### 2024.10.12
 
 
 

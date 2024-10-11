@@ -115,7 +115,9 @@ psychic
 
 ### 2024.10.10
 
-
+![1010](img/Junhua_1010.png)
+dunk shot
+sweating and panting
 
 ### 2024.10.09
 

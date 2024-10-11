@@ -169,7 +169,45 @@ proper,适当的，后严格意义上的：This is the city proper, not the subu
 
 
 ### 2024.10.10
+1.Mother to resume,who was selling the no bell piece price for her work on behalf of the poor dies in the coming  India.She was 87 years old.
 
+Mother Teresa,who received  a Nobel Peace Prize for her work on behalf of the poor，dies in Calcutta,India.She was 87 years old.
+
+| to resume-Teresa | 人名 |
+| --- | --- |
+| was selling-received  | received不熟悉 |
+| no bell piece price-Nobel Peace Prize | Nobel Peace Prize不熟悉 |
+| the coming-Calcutta | 地名 |
+
+2.Jazz,what time you have?
+
+Have five o’clock.
+
+Jerry,what time do you have?
+
+I have five o’clock.
+
+人名识别，助动词do漏掉
+
+I have连读，省掉h发音
+
+he,his,her,him,have,has,had
+
+3.There are three things you will never condiscuss with people,religion,politics,and great pobgain.
+
+There are three things I have learned never to condiscuss with people,religion,politics,and Great Pumpkin.
+
+to tuh
+
+[4.Do](http://4.Do) not let somebody tell you,you can’t do some.
+
+[Do](http://4.Do)n’t ever let somebody tell you,you can’t do something.
+
+stong s n l weak ~~d t th~~ 
+
+Don’t 省略t音，somthing,省略th
+
+5.I have to come here to cho pop gun and take us and bow and botton.
 
 
 ### 2024.10.09

@@ -140,7 +140,34 @@ Qi:
 
 ### 2024.10.10
 
-### 2024.10.09
+Chacha:
+
+1. Listened to All Ears English Podcasts https://podcasts.apple.com/cn/podcast/all-ears-english-podcast/id751574016?i=1000672461149
+2. <img width="200" alt="Chacha 10-10" src="https://github.com/user-attachments/assets/f742a456-c620-4c76-a8a7-11fad778e14a" />
+
+Qi:
+
+1. I have learned 19 lessons of New Concept English 2 in during today
+   https://www.bilibili.com/video/BV1cu411r7pw?p=18&vd_source=becdf6db78142d73438794568ca31367
+   remmber one things, study need practic
+
+2. Today is a 166-day winning streak on duoligo. oh I found i wrote error day in last record.
+3. I listened to lesson 5 of English listening in New Oriental 2.
+4. I made up some sentences
+   cover the distance in st
+   a great number of = a lot numebr of
+   five mile from
+   send request for sb
+   in this way
+5. I learned some grammers
+   have done and did
+
+### 2024.10.11
+
+Chacha
+
+1. Listened to Grian joins Elton John on the Rocket Hour. https://music.apple.com/cn/station/fontaines-d-c/ra.1759413893?l=en-GB
+2. <img width="200" alt="Chacha 10-10" src="https://github.com/user-attachments/assets/cee37e2f-c460-4de2-a943-4afa5e590bc8" />
 
 ### 2024.10.10
 

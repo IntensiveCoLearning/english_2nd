@@ -109,6 +109,15 @@ I completed the Duolingo training today and read the recommended book list, How 
 
 ### 2024.10.10
 
+奇怪，为什么更新的又不见了
+
+今天看完了《A Programmer's Guide to English》，只有训练、训练、训练
+1.阅读单词，可以使用youglish通过看视频了解发音、解意，以及放在anK上
+2.口语，进行影子跟读
+3.听力，先泛听，精听，了解含义后再听，尽力听到含义
+4.写作，看恶魔奶爸的书
+
+
 
 
 ### 2024.10.09

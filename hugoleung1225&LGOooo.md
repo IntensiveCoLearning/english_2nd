@@ -114,7 +114,7 @@ Cue ball
 
 
 ### 2024.10.10
-
+Learned some connected speech, slangs
 
 
 ### 2024.10.09

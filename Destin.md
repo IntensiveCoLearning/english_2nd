@@ -128,9 +128,9 @@ Verbs are stressed on second syllable
 
 
 ### 2024.10.10
-
-
-
+How to say -ed endings in English
+ How to pronounce words ending in S
+3 ways to pronounce the EX sound in English
 ### 2024.10.09
 
 

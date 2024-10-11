@@ -84,6 +84,22 @@ timezone: Asia/Shanghai
 
 
 ### 2024.10.10
+**Dictation 1**  
+Mother Teresa who received a Nobel Peace Prize for her work on behalf of the poor dies in Calcutta India — she was 87 years old. 
+- dictation n. 听写
+- dictate v.听写
+- ESL abbr. 非母语英语课程（English as a second language）
+- sentence n. 句子                   
+- stuff n. 东西、事物
+- behalf n. 代表（on behalf of）
+
+**Dication 2**   
+Jerry, what time do you have ?  I have 5 o'clock
+- 读得快的时候， have 的 h 被省略
+
+**Dication 3**  
+There are there things I have learned never discuss with people: religion, politics and the Greate Pumpkin!
+- to 发 tub 的音
 
 
 

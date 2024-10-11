@@ -154,16 +154,25 @@ Daily life use: You can use "score" to describe securing a good deal, opportunit
 **feedback：**
 在训练中，比较困难的还是对词语或者话题不熟悉导致的听音困难。这点只有多听多积累，多练习，多表达才行。
 
-### 2024.10.09
-
-
-
-### 2024.10.10
-
 ### 2024.10.11
 
+#13 "Asian tiger mosquitoes are native to the tropics of Southeast Asia, but in the past few years, they've spread all across the southeastern United States."
+这句话总体来说,虽然很长,但是却并不算特别苦难,实际听下来,还是连读弱读部分的细节没有听到,其他的都还OK.
+1.native名词的用法: As a noun, "native" refers to a person who was born in a specific place. 除了用 came from来介绍自己以外,还能用 native to 表达一样的意思,比如说 Native to
+Meaning: Describes where someone or something originates.
+Example: "The panda is native to China." (The panda comes from China.)
+2.Go native Meaning: To adopt the lifestyle or customs of the local people where one is living. * **Example**: "After living in the Amazon for years, he has gone native."
+"After living in Thailand for a year, I have gone native"
+
+#14 “Cats reputedly have nine lives, and he clearly wanted to spend at least one of them here in New York City.”
+Reportedly 和 Reputedly 的异同点, 两者都形容“据说”或“据报道”,但未证实的,但前者更注重于据报道,后者更像是普遍认知或长期的看法.
+"She is reportedly the youngest person to win the award."
+"The castle is reputedly haunted by ghosts."
+
 ### 2024.10.12
+
 ### 2024.10.13
+
 ### 2024.10.14
 ### 2024.10.15
 ### 2024.10.16
@@ -171,6 +180,8 @@ Daily life use: You can use "score" to describe securing a good deal, opportunit
 ### 2024.10.18
 ### 2024.10.19
 ### 2024.10.20
+### 2024.10.21
+### 2024.10.22
 
 
 

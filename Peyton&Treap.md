@@ -145,7 +145,7 @@ Today we read the guide-- A Programmers Guide to English. This guide is ideal fo
 
 ### 2024.10.09
 
-**October 10 Reading: Starting from Scratch to Learn English Grammar**
+**October 9 Reading: Starting from Scratch to Learn English Grammar**
 
 We began with the basics of grammar, starting with parts of speech and sentence components.
 
@@ -286,13 +286,37 @@ It is important to ensure that comparisons are clear, especially when referring 
 
 ### 2024.10.10
 
+Today, we carefully watched the speeches delivered by Vitalik and Snowden at the latest TOKEN2049 conference. We found that these speeches exemplify the power of public speaking in shaping the narrative around Web3 and blockchain technologies. Whether addressing technical experts or a general audience, mastering clarity, passion, audience engagement, and nonverbal communication can elevate a presentation and ensure the message resonates. As Web3 continues to evolve, the ability to effectively present ideas will remain a key skill for anyone in the field.
 
+Here are some important words we recorded:
 
-### 2024.10.09
-
-
-
-### 2024.10.10
+- **Public speaking** /ˈpʌblɪk ˈspiːkɪŋ/ n. 公开演讲
+- **Influential** /ˌɪnfluˈɛnʃəl/ adj. 有影响力的
+- **Powerful** /ˈpaʊərfəl/ adj. 强有力的，影响深远的
+- **Tackled** /ˈtækəld/ v. 处理，解决
+- **Philosophical** /ˌfɪləˈsɒfɪkəl/ adj. 哲学的
+- **Relatable** /rɪˈleɪtəbl/ adj. 能引起共鸣的
+- **Regardless of** /rɪˈɡɑːrdləs ʌv/ prep. 无论，不管
+- **Grasp** /ɡræsp/ v. 理解，掌握
+- **Urgency** /ˈɜːrdʒənsi/ n. 紧迫感，急迫性
+- **Weeds** /wiːdz/ n. 杂草（引申为冗长细节）
+- **Translate into** /trænsˈleɪt ˈɪntuː/ v. 转化为，解释为
+- **Imbued** /ɪmˈbjuːd/ adj. 充满了，充斥着
+- **Conviction** /kənˈvɪkʃən/ n. 信念，坚定的看法
+- **Compelling** /kəmˈpɛlɪŋ/ adj. 引人注目的，令人信服的
+- **Hallmark** /ˈhɔːlmɑːrk/ n. 标志，特点
+- **Interactive** /ˌɪntərˈæktɪv/ adj. 互动的
+- **Anticipate** /ænˈtɪsɪpeɪt/ v. 预见，预期
+- **Skepticism** /ˈskɛptɪsɪzəm/ n. 怀疑态度
+- **Counter** /ˈkaʊntər/ v. 反驳，对抗
+- **Humor** /ˈhjuːmər/ n. 幽默
+- **Anecdotes** /ˈænɪkˌdoʊts/ n. 轶事，小故事
+- **Nonverbal** /nɒnˈvɜːrbəl/ adj. 非语言的
+- **Body language** /ˈbɒdi ˈlæŋɡwɪdʒ/ n. 肢体语言
+- **Eye contact** /aɪ ˈkɒntækt/ n. 眼神交流
+- **Hand gestures** /hænd ˈdʒɛstʃərz/ n. 手势
+- **Body movement** /ˈbɒdi ˈmuːvmənt/ n. 身体动作
+- **Elevate** /ˈɛləveɪt/ v. 提升，提高
 
 
 

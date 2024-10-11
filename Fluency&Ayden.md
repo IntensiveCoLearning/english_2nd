@@ -112,8 +112,10 @@ timezone: Asia/Shanghai
 另外，今天也跟朋友探讨了读音的重要性，不可否认，但是更重要的是实际应用：要正确理解意思，并且用正确的逻辑进行语段的书写。
 
 ### 2024.10.10
-
-
+![image](https://github.com/user-attachments/assets/512cb76d-6c2b-47d5-80b5-8c825a895fca)
+https://www.bilibili.com/video/BV1U7411a7xG?p=1
+https://www.bilibili.com/video/BV1U7411a7xG?p=2
+Today，I started the study of daily dictation.The course is perfect.I will keep learning!
 
 ### 2024.10.09
 
