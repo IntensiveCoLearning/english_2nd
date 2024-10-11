@@ -169,6 +169,14 @@ Chacha
 1. Listened to Grian joins Elton John on the Rocket Hour. https://music.apple.com/cn/station/fontaines-d-c/ra.1759413893?l=en-GB
 2. <img width="200" alt="Chacha 10-10" src="https://github.com/user-attachments/assets/cee37e2f-c460-4de2-a943-4afa5e590bc8" />
 
+Qi
+
+1. https://www.bilibili.com/video/BV1cu411r7pw?vd_source=becdf6db78142d73438794568ca31367&p=20&spm_id_from=333.788.videopod.episodes
+   this is 20 lessons of new concept English
+2. Today is a 167-day winning streak on duoligo
+3. https://www.bilibili.com/video/BV1U7411a7xG/?vd_source=bc0666711d2280c24d54945ab9c11146&spm_id_from=333.788.videopod.episodes
+   i can't do this ,it's diffcult for me
+
 ### 2024.10.10
 
 <!-- Content_END -->
