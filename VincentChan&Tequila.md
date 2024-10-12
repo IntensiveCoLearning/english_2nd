@@ -109,6 +109,13 @@ Don't ever let somebody tell you, you can't do something!
 
 
 ### 2024.10.12
+**Ditation 5**   
+I have come here to chew babblegum and kick ass and I'm all out of bubblegum!
+to 可以有七种不同的发音： to, tah, tub, t', dah, hub, d'
+
+**Ditation 6**   
+The secret of life is just to  live the moment.
+这里的 to 发 t'
 
 
 
