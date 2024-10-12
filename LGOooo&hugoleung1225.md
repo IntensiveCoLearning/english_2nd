@@ -129,9 +129,11 @@ I completed the Duolingo training today and read the recommended book list, How 
 4、抓住关键谓语动词，看他需要什么
 
 
+### 2024.10.12
 
+今天听了1节Daily English Dictation，但感觉效用不大。
 
-
+要找其他语料了。
 
 
 
