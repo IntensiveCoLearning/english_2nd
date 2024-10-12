@@ -119,12 +119,20 @@ psychic
 dunk shot
 sweating and panting
 
-### 2024.10.09
+### 2024.10.11
 ![1011](img/Junhua_1011.png)
+meant vs mean
+blow-dry
+demonding
+limo
 
-
-### 2024.10.10
-
+### 2024.10.12
+![1012](img/Junhua_1012.png)
+official
+mum adj
+victim
+Buckingham Palace
+confidential
 
 
 
