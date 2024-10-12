@@ -132,4 +132,6 @@ Yes
 
 ### 2024.10.12
 
+1. Carefully read this article and understand it deeply. [Sneaky React Memory Leaks: How the React compiler won't save you](https://www.schiener.io/2024-07-07/react-closures-compiler)
+
 <!-- Content_END -->
