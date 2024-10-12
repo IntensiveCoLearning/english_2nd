@@ -100,6 +100,7 @@ To going on debonair debonairely, you must fully accept and love it, flaws and a
 - P6 LISTENING:The secret of life is just to live every moment.bingo~(same as ritht answer)
 - P7 LISTENING:Another road trillier has cost the bank billions.
 - Right answer:Another rogue trader has cost a bank billions. (rogue trader:professional gambler. rogue: dishonest cheat bad word.)
+
 ### 2024.10.11
 - Learning materials:https://www.bilibili.com/video/BV1U7411a7xG?p=10&vd_source=70d22df5993b243adb2c4be25499c92e
 - P8 LISTENING Rolf Buchholz/piercings:Germen Rolf Buchholz is the man most piercings.He is got 453.
@@ -107,10 +108,19 @@ To going on debonair debonairely, you must fully accept and love it, flaws and a
 - P9 A settlized xx carried a space board that shadow discovery twenty years ago about to fall to earth .but nobody knows where his brain will hit.
 - Part1:A satellite that was carried to space aboard the shuttle Discovery 20 years ago.
 - carried to->carriedo. aboard the->aboarde
-- Part2: is about to fall to Earth, but nobody knows where the debris will hit.
+- Part2: is about to fall to Earth, but nobody knows where the debris will hit.(Debris: The remains)
 
 
 ### 2024.10.12
+- Learning materials:https://www.bilibili.com/video/BV1U7411a7xG?p=11&vd_source=70d22df5993b243adb2c4be25499c92e
+- P11: lofty:of high moral of intellectual value.
+- LISTENING: you are swipe type of base raised by indentical four to scores, in the day nine double hater Wensday
+- Right answer: New York swept the Tampa Bay Rays by identical 4-2 scores in a day-night double header Wednesday.(Too many things unknown in this
+- P12:LISTENING:muppets🎎dolls of Google.  Ninteen thirty six:Someday will the lovers and dreamer and for me. Gem pansen creator of the muppets from xxxxx acceessenmi street, is xxxx mississipi
+- Right Answer: Jim Henson, creator of the muppets-from kermit the Frog to Sesame Street - is born in Greenville, Mississippi.(Too man)
+- P13:Ancient tiger misqutio united tropic of southeast Asia,But in past few years they have spread all across the southeast of united state
+- Right answer: Asian tiger mosquitoes are native_to_the tropics of Southeast Asia, but in past few years they have spread all across southeaster united States.('To' barely pronounced
+- Tropics: 热带地区
 
 
 
