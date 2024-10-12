@@ -279,7 +279,24 @@ Tropics 热带
 
 
 
-### 2024.10.10
+### 2024.10.12
+I listened to and read a short passage today
+
+*Barack Obama on why travel matters*
+
+New word:
+
+Council 委员会；理事会, Eg.the United Nations Security Council 联合国安全理事会
+
+Recipient 接受者；领受者；承受者
+
+Eloquent 雄辩的，有说服力的
+
+Empathy 同情；同感，共鸣
+
+Spectacular 壮观的；精彩的；令人印象深刻的
+
+Baguette 法式长棍面包
 
 
 
