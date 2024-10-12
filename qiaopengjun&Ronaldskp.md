@@ -354,7 +354,14 @@ forever   never somebody you can do
 
 ### 2024.10.12
 
-笔记内容
+Don't ever let somebody tell you
+you can't do something
+
+s n l
+d t th
+
+listen and write
+i have come here to  and and
 
 ### 2024.10.13
 
