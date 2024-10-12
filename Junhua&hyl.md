@@ -120,7 +120,7 @@ dunk shot
 sweating and panting
 
 ### 2024.10.09
-
+![1011](img/Junhua_1011.png)
 
 
 ### 2024.10.10

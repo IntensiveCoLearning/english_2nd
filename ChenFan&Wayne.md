@@ -101,7 +101,7 @@ Dictation_11: **** by a identical four -two scores, in a day-night doble header 
 fix: New York swept the Tampa Bay Rays by...., wednesday wednesday wednesday.....
 
 ### 2024.10.11
-
+-今天背了25分钟的单词、没练习daily Dictation ，哈哈哈，休息一天
 
 
 ### 2024.10.12
