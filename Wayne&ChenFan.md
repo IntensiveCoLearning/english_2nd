@@ -90,6 +90,8 @@ Financial Advisor: xxx can provide access to a global network of blockchain entr
 
 ### 2024.10.12
 
+今日学习进度：单词 30 个，今天早上时间比较充足，所以背的多一些，然后雅思那本词伙我看到第 15 页了，然后开始听口语课第二节的前 30 min
+今日分享：在审校同事撰写的各种英文研报时，我发现很多时候写全称是一件好事，比如 TradFi 还是 TradeFi，日常场景中是讲的传统金融 Traditional Finnance 而不是 Trade Finance，所以很容易就知道单词应该拼写成 TradFi
 
 
 ### 2024.10.13
