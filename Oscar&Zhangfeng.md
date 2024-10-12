@@ -1,61 +1,6 @@
 ---
 timezone: Asia/Shanghai
-
 ---
-
-> ⚠️本打卡表默认为北京时间 UTC+8 时区，正确格式如下：
->
-> timezone: Asia/Shanghai
->
-> ⚠️如果你所在地区非北京时间，请根据你所在时区自行更改，请注意填写的正确格式。
->
-> 时区请参考以下列表：
->
-> timezone: Asia/Shanghai # 中国标准时间 (UTC+8)
->
-> timezone: Asia/Tokyo # 日本标准时间 (UTC+9)
->
-> timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
->
-> timezone: Australia/Sydney # 澳大利亚东部标准时间 (UTC+10)
->
-> timezone: Pacific/Honolulu # 夏威夷-阿留申标准时间 (UTC-10)
->
-> timezone: America/Anchorage # 阿拉斯加标准时间 (UTC-9)
->
-> timezone: America/Los_Angeles # 太平洋标准时间 (UTC-8)
->
-> timezone: America/Denver # 山地标准时间 (UTC-7)
->
-> timezone: America/Chicago # 中部标准时间 (UTC-6)
->
-> timezone: America/New_York # 东部标准时间 (UTC-5)
->
-> timezone: America/Halifax # 大西洋标准时间 (UTC-4)
->
-> timezone: America/St_Johns # 纽芬兰标准时间 (UTC-3:30)
->
-> timezone: America/Sao_Paulo # 巴西利亚时间 (UTC-3)
->
-> timezone: Atlantic/Azores # 亚速尔群岛时间 (UTC-1)
->
-> timezone: Europe/London # 格林威治标准时间 (UTC+0)
->
-> timezone: Europe/Berlin # 中欧标准时间 (UTC+1)
->
-> timezone: Europe/Helsinki # 东欧标准时间 (UTC+2)
->
-> timezone: Europe/Moscow # 莫斯科标准时间 (UTC+3)
->
-> timezone: Asia/Dubai # 海湾标准时间 (UTC+4)
->
-> timezone: Asia/Kolkata # 印度标准时间 (UTC+5:30)
->
-> timezone: Asia/Dhaka # 孟加拉国标准时间 (UTC+6)
->
-> timezone: Asia/Bangkok # 中南半岛时间 (UTC+7)
-
-
 
 # 英语残酷共学第 2 期残酷指引
 
@@ -186,6 +131,34 @@ Notes：
 - pandemic **[/pænˈdemɪk/](/pænˈdemɪk/)** 流行病
 - thrive**[/θraɪv/](/θraɪv/)** 兴旺发达
 
+### 2024.10.12
 
+Listening and Learning English expression：
+
+Story 5：AntChain
+
+I've been working in an electronics market for 20 years, but I’ve never heard of blockchain previously .Last summer,I shipped a lot of goods without receiving any payment in advance,so I was under tremendous financial pressure.It wasn’t until later that an Ant Group staff suggested that I try AntChain.As a result, I received my payment far ahead of schedule.This truly solved my pressing needs. China Everbright Bank has teamed up with Ant Group,and laughed “Guangxintong”, a supply chain finance product based on AntChain’s Duo Chain technology.`Guangxintong aims to provide small enterprises with better financial support`. I know there are over 2000 financial institutions collaborating with Ant Group and I believe there will be more innovative financial services coming out.What a AntChain?` I don’t know how to explain it to you`.`But I do know that it's already been applied to more than 50 business use cases, such as food traceability and copyright protection.`Such technology helps small enterpreneurs like me better run our businesses.It is truly a good thing to have.We believe the development of technology makes it easy to do business anywhere. 
+
+Notes:
+
+- electronic engineer 电子工程师
+
+- ship 运输
+
+- tremendous financial pressure[**/trɪ'mendəs/**](cmd://Speak/_uk_/tremendous)  极大的财务压力
+
+- pressing [**/'presɪŋ/**](cmd://Speak/_uk_/) 紧急的
+
+- small enterprise 小微企业
+
+- enterpreneur 企业家；创业者
+
+- collaborate[**/kə'læbəreɪt/**](cmd://Speak/_uk_/) 合作
+
+- copyright protection 版权保护
+
+-  food traceability  [**/ˌtresə'bɪləti/**](cmd://Speak/_uk_/traceability) 食物溯源
+
+  
 
 <!-- Content_END -->
