@@ -189,11 +189,20 @@ Daily Dictation Number 11：
 
 背单词：麦克米伦7000×42
 ### 2024.10.12
+Daily Dictation Number 12：
 
+正确答案：Jim Henson, creator of The Muppets - from Keamit the Frog to Sesame Street - in born in Greenville Mississippi.
 
+Daily Dictation Number 13：
 
+我的答案：Asian tiger ** are native to the ** of ** Asia,but ** years ** .
+正确答案：Asian tiger mosquitoes are native to the tropics of Southeast Asia,but in the past few years they've spread all across the southeastern United States.
 
+Daily Dictation Number 14：
 
+我的答案：Cats ** have nine lives,and he ** want to ** here in New York City.
+
+正确答案：Cats reputedly have nine lives,and he clearly wanted to spend at least one of them there in New York City.
 
 
 <!-- Content_END -->
