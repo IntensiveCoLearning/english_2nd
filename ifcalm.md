@@ -193,7 +193,123 @@ timezone: Asia/Shanghai
     - Example: The meeting starts **at** 3 p.m. （会议在下午3点开始。）
 
 ### 2024.10.12
+比较级在英语中用来比较两者之间的差异，通常用于形容词或副词。比较级的构成方式根据词的长短有所不同，以下是详细的语法规则和使用方法：
 
+#### 1. 规则构成
+   **单音节形容词或副词**：
+   - **构成方式**：直接在词后加上 **-er**，如果词尾是辅音加上元音加辅音的形式，要双写最后一个字母再加 **-er**。
+   - **例子**：
+     - small → **smaller** （更小的）
+     - big → **bigger** （更大的）
+     - fast → **faster** （更快的）
+   - **句子例子**：
+     - This box is **smaller** than that one. （这个盒子比那个小。）
+     - He runs **faster** than I do. （他跑得比我快。）
+
+   **双音节以 "y" 结尾的形容词**：
+   - **构成方式**：把 **"y"** 改为 **"i"**，然后加 **-er**。
+   - **例子**：
+     - happy → **happier** （更开心的）
+     - early → **earlier** （更早的）
+   - **句子例子**：
+     - She is **happier** today than yesterday. （她今天比昨天更开心。）
+     - He arrived **earlier** than expected. （他比预期的到得更早。）
+
+   **双音节或多音节形容词**：
+   - **构成方式**：在形容词或副词前加 **more**，副词同样适用这种规则。
+   - **例子**：
+     - beautiful → **more beautiful** （更美丽的）
+     - interesting → **more interesting** （更有趣的）
+   - **句子例子**：
+     - This painting is **more beautiful** than that one. （这幅画比那幅更美。）
+     - The book is **more interesting** than the movie. （这本书比电影更有趣。）
+
+#### 2. 不规则比较级
+一些形容词和副词有不规则的比较级形式，无法按照上述规则构造。
+
+- **good / well → better** （更好的）
+  - Example: This phone is **better** than that one. （这部手机比那部好。）
+- **bad → worse** （更差的）
+  - Example: His condition is **worse** than before. （他的状况比之前更糟糕。）
+- **far → farther / further** （更远的）
+  - Example: My house is **farther** than yours. （我的房子比你的更远。）
+- **little → less** （更少的）
+  - Example: I have **less** time than before. （我有的时间比以前更少。）
+
+#### 3. 比较级的常用结构
+   - **A + be + 形容词比较级 + than + B**
+     - 用于比较两者的形容词句型。
+     - 例子：
+       - She is **taller** than her sister. （她比她的妹妹高。）
+       - This car is **faster** than mine. （这辆车比我的快。）
+
+   - **A + 动词 + 副词比较级 + than + B**
+     - 用于比较两者的副词句型。
+     - 例子：
+       - He works **harder** than I do. （他工作比我更努力。）
+       - She sings **more beautifully** than anyone else. （她唱得比其他人更美。）
+
+#### 4. 表示两者相等的比较
+如果你想表达两者的某个方面是相同的，使用 **"as ... as"** 结构。
+
+- **形容词：as + 形容词 + as**
+  - 例子：
+    - He is **as tall as** his brother. （他和他哥哥一样高。）
+    - This book is **as interesting as** the last one. （这本书和上一本一样有趣。）
+
+- **副词：as + 副词 + as**
+  - 例子：
+    - She sings **as beautifully as** a professional singer. （她唱得和专业歌手一样好。）
+    - He works **as hard as** anyone in the team. （他和团队中的其他人一样努力。）
+
+#### 5. 其他比较结构
+- **less + 形容词/副词 + than**：用于表示“较不”。
+  - 例子：
+    - This task is **less difficult** than I expected. （这个任务比我预期的简单。）
+    - He drives **less carefully** than he should. （他开车不如他应该的那样小心。）
+
+- **the + 比较级，the + 比较级**：表示“越...越...”，表示两个事物或现象随着另一方变化而变化。
+  - 例子：
+    - **The more** you study, **the better** your results will be. （你学习越多，成绩就会越好。）
+    - **The harder** you work, **the more** success you will achieve. （你工作越努力，成就就会越大。）
+
+#### 6. 比较级中的强调
+你可以通过添加一些副词来强调比较级的程度。
+
+- **much / far**：表示更大程度的比较。
+  - 例子：
+    - This problem is **much easier** than the last one. （这个问题比上一个简单得多。）
+    - She is **far more experienced** than me. （她比我经验丰富得多。）
+
+- **a little / a bit**：表示稍微的差异。
+  - 例子：
+    - He is **a little taller** than his brother. （他比他哥哥稍微高一点。）
+    - This project is **a bit more complicated** than the previous one. （这个项目比之前的稍微复杂一点。）
+
+#### 总结：
+- **短形容词/副词**：直接加 "-er"（如：smaller, faster）。
+- **长形容词/副词**：前加 "more"（如：more interesting, more beautiful）。
+- **不规则比较级**：有固定的形式（如：better, worse）。
+- **"as ... as"** 用来表示两者相等的比较。
+- **less ... than** 用来表示较小程度的比较。
+
+通过这些规则，就可以灵活使用比较级来表达不同事物之间的差异和比较。
+
+### 2024.10.13
+
+### 2024.10.14
+
+### 2024.10.15
+
+### 2024.10.16
+
+### 2024.10.17
+
+### 2024.10.18
+
+### 2024.10.19
+
+### 2024.10.20
 
 
 
