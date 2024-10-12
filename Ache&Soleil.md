@@ -179,6 +179,18 @@ WIH：There are usually about 3 shark attacts on people in around Austalia all y
 
 笔记内容
 
+profits 和 benefits 的区别
+
+Note:
+profits 更多的是指财务或者经济上的收益：比如经济回报或者投资收益等
+benefits 更为广泛，可以指非经济上的优势
+
+Synergy 和 cooperation 的区别
+Note:
+Synergy 指的是多个部分或者个体共同作用产生的效果大于各自单独作用的总和，强调 1+1 >2 。
+Cooperation 指的是不同个体或团队共同工作以达成某个目标，更多强调共同努力与行动
+
+
 ### 2024.10.13
 
 笔记内容
