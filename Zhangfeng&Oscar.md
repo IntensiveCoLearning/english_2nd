@@ -240,8 +240,25 @@ German Rolf Buchholz is the man with most  piercings.he’s got 453.
 German,Rolf Buchholz is the man with the  most  piercings;He’s got 453.
 
 
-### 2024.10.10
+### 2024.10.12
 
+8.Rolf Buchholz piercings
+
+German Rolf Buchholz is the man with most  piercings.he’s got 453.
+
+German,Rolf Buchholz, is the man with the  most  piercings;He’s got 453.
+
+most,mos
+
+9.A sound lize was carried despase on the shower discovered twenty years ago was about for the word,but nobody konws where are the brain will in.
+
+A satellite that was carried to space aboard the shuttle Discovery 20 years ago is about to fall to Earth,but nobody knows where the debris will hit.
+
+twenty twen~~t~~y
+
+to t
+
+debris d’-bree
 
 
 
