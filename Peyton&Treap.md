@@ -349,6 +349,63 @@ We went through the *Words Commonly Mispronounced by Chinese Programmers*([CPWP]
 | Vagrant       | /ˈveɪɡrənt/     | /ˈveɪɡrənt/     | /ˈvagɹent/       | n. 流浪者，游民             |
 | vue           | /v'ju:/         | /v'ju:/         | /v'ju:i/         | n. 一个JavaScript框架       |
 
+### 2024.10.12
 
+Today, we primarily worked on compiling an English learning text. Here are some important words we noted:
+
+- **In contrast to** /ɪn kənˈtræst tuː/ prep. 与…相比，与…相对
+- **Siloed** /ˈsaɪloʊd/ adj. 孤立的，分隔的
+- **Permanently** /ˈpɜːrmənəntli/ adv. 永久地，长期地
+- **Timely** /ˈtaɪmli/ adj. 及时的，适时的
+- **Fine-tune** /faɪn tuːn/ v. 微调，精确调整
+- **Compliance** /kəmˈplaɪəns/ n. 合规，遵从
+- **Facilitate** /fəˈsɪlɪteɪt/ v. 促进，帮助
+- **Payroll** /ˈpeɪroʊl/ n. 工资单，薪资管理
+- **Bottleneck** /ˈbɑːtlnek/ n. 瓶颈，障碍
+- **Impactful** /ɪmˈpæktfəl/ adj. 有影响力的，意义重大的
+- **Actionable** /ˈækʃənəbl/ adj. 可采取行动的，有实际效果的
+- **Inflection** /ɪnˈflɛkʃən/ n. 拐点，转折点
+- **Comprehensive** /ˌkɑːmprɪˈhensɪv/ adj. 全面的，综合的
+- **Quantitative** /ˈkwɑːntɪteɪtɪv/ adj. 定量的，以数量为基础的
+- **Qualitative** /ˈkwɑːlɪteɪtɪv/ adj. 定性的，以性质或特性为基础的
+
+- **On-chain data** /ɑːn ʧeɪn ˈdeɪtə/ n. 链上数据，记录在区块链上的数据
+- **On-chain operations** /ɑːn ʧeɪn ˌɑːpəˈreɪʃənz/ n. 链上操作，基于区块链的交易和合约执行
+- **On-chain data products** /ɑːn ʧeɪn ˈdeɪtə ˈprɑːdəkts/ n. 链上数据产品，用于分析和利用区块链数据的工具
+- **Real-time** /ˈrɪəl taɪm/ adj. 实时的，实时处理的
+- **Immutable access** /ɪˈmjuːtəbl ˈækses/ n. 不可变访问，永久不可更改的数据访问
+- **Data-driven decision-making** /ˈdeɪtə ˈdrɪvən dɪˈsɪʒən ˈmeɪkɪŋ/ n. 数据驱动的决策，基于数据做出业务判断
+- **Accountability** /əˌkaʊntəˈbɪlɪti/ n. 责任透明，责任制
+- **Timestamped** /ˈtaɪmstæmpt/ adj. 具有时间戳的，记录时间的
+- **Audit** /ˈɔːdɪt/ v. 审计，核查
+- **Auditable** /ˈɔːdɪtəbl/ adj. 可审计的，可核查的
+- **Trustless systems** /ˈtrʌstlɪs ˈsɪstəmz/ n. 无需信任的系统，依赖代码和共识的系统
+- **Scale** /skeɪl/ v. 扩展，扩展能力
+- **Scalability** /skeɪləˈbɪlɪti/ n. 可扩展性，扩展能力
+- **User activity** /ˈjuːzər ækˈtɪvɪti/ n. 用户活动，用户的行为记录
+- **Liquidity flows** /lɪˈkwɪdəti floʊz/ n. 流动性流动，资金的进出和变化
+- **Tokenomics** /ˌtoʊkəˈnɑːmɪks/ n. 代币经济学，分析代币经济模式的学科
+- **Retain** /rɪˈteɪn/ v. 保留，维持
+- **User retention** /ˈjuːzər rɪˈtenʃən/ n. 用户留存，维持用户的活跃度
+- **Conduct** /ˈkɑːndʌkt/ v. 执行，进行
+- **Fragmentation** /ˌfræɡmənˈteɪʃən/ n. 碎片化，分裂
+- **Vulnerability** /ˌvʌlnərəˈbɪlɪti/ n. 漏洞，脆弱性
+- **Malicious** /məˈlɪʃəs/ adj. 恶意的，故意破坏的
+- **Manipulate** /məˈnɪpjuleɪt/ v. 操控，操纵
+- **Uniswap** /ˈjuːnɪswæp/ n. 一种去中心化交易所（DEX），用于加密货币交易
+- **Aave** /ˈɑːveɪ/ n. 一个去中心化借贷协议平台
+- **OpenSea** /ˈoʊpən siː/ n. 去中心化的数字资产交易平台，主要用于NFT交易
+- **Axie Infinity** /ˈæksi ɪnˈfɪnɪti/ n. 一个基于区块链的游戏，允许玩家赚取和交易数字资产
+- **Query** /ˈkwɪri/ v. 查询，搜索
+- **Visualize** /ˈvɪʒuəlaɪz/ v. 可视化，生成数据图表
+- **SQL-based** /ˈɛskjuːˌɛl beɪst/ adj. 基于SQL的，依赖SQL语言的
+- **Retrieve** /rɪˈtriːv/ v. 检索，获取
+- **Retrieval** /rɪˈtriːvəl/ n. 检索，取回
+- **Dashboard** /ˈdæʃbɔːrd/ n. 数据仪表盘，数据展示界面
+- **Stakeholder** /ˈsteɪkˌhoʊldər/ n. 利益相关者
+- **Whale** /weɪl/ n. 巨鲸，指拥有大量加密资产的大户
+- **Market sentiment** /ˈmɑːrkɪt ˈsentɪmənt/ n. 市场情绪，市场参与者的整体情感或态度
+- **HODL waves** /hɒdl weɪvz/ n. 长期持有加密货币用户的分布趋势
+- **Abstract** /ˈæbstrækt/ v. 提取，抽象化
 
 <!-- Content_END -->
