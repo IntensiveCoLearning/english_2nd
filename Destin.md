@@ -131,13 +131,25 @@ Verbs are stressed on second syllable
 How to say -ed endings in English
  How to pronounce words ending in S
 3 ways to pronounce the EX sound in English
-### 2024.10.09
+### 2024.10.11
 
 
 
-### 2024.10.10
-
-
+### 2024.10.12
+英语连读现象
+辅音＋元音
+Take it easy 连读形式：ta(k-it-ea)sy
+Put it on 连读形式：Pu(t-it-on).
+Stand up 连读形式：stan(d-u) p
+not at all 连读形式：no(t-a t-all)
+mean it 连读形式：mea( n-i) t
+Hold on 连读形式：hol(d-on)
+辅音+半元音
+Thank you.
+This year is a leap year.
+We will hack your computers.
+辅音结尾+h
+此时h不发音，与前面的辅音连读。
 
 
 
