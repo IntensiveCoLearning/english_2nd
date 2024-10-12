@@ -139,10 +139,18 @@ Founded in 1956, the organisation sends survivors around the world to share thei
 
 
 
-### 2024.10.10
+### 2024.10.12
 
+-Dictation:       fifty
+-Fix: German, Rolf Bvchhloze, is the man with the most piercings; he's got 453!
 
+-Dictation: A shadow like  car   twnty years ago about ,but nobaby knows where 
+-Fix: A statellite that was carried to space aboard the shuttle Discovery 20 years ago is about to fall to Earth, but noboby knows where the debris will hit.
 
+-Dictation：This ia a lift  proply a     goal
+-Fix: It is a lofty, probably impossible goal.
+-Dictation:  for to school
+-Fix: New York swept the Tampa Bay Rays by identical 4-2 scores in a day-night doubleheader Wednesday
 
 
 
