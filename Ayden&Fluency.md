@@ -158,7 +158,22 @@ timezone: Asia/Shanghai
 - JSX allows you to write what looks like HTML within your JavaScript files, making it easier for developer with HTML experience to understand the structure of components.
 - It’s easy for developers to read and underdtand the UI structure of an application.
 
-### 2024.10.10
+### 2024.10.12
+- A functional component is a React component defined as a plain JavaScript function.
+- The code for functional components is typically more concise than class components because they don't require the use of this keyword or the definition of a constructor, render method, etc.
+- With Hooks, functional components can now have state and other React features.
+- Functional components generally have better performance than class components because they do not require class instantiation or method binding.
+- Due to the conciseness of functional components, they are more easily optimized by modern JavaScript toolchains through tree-shaking, reducing the final bundled code size.
+
+### 2024.10.13
+### 2024.10.14
+### 2024.10.15
+### 2024.10.16
+### 2024.10.17
+### 2024.10.18
+### 2024.10.19
+### 2024.10.20
+### 2024.10.21
 
 
 
