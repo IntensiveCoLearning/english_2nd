@@ -177,6 +177,10 @@ Qi
 3. https://www.bilibili.com/video/BV1U7411a7xG/?vd_source=bc0666711d2280c24d54945ab9c11146&spm_id_from=333.788.videopod.episodes
    i can't do this ,it's diffcult for me
 
-### 2024.10.10
+### 2024.10.11
+
+Chacha
+
+1. Carefully read this article and understand it deeply. [Sneaky React Memory Leaks: How the React compiler won't save you](https://www.schiener.io/2024-07-07/react-closures-compiler)
 
 <!-- Content_END -->
