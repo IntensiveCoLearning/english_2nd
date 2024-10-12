@@ -81,5 +81,14 @@ politics：政治
 the Great Pumpkin:南瓜大王（万圣节代表人物，类似于圣诞节中的圣诞老人）
 
 ### 2024.10.12
+i studied the P4-P6 in the bilibili video summary.Following are the notes:
+Don't ever let somebody tell you you can't do something.
 
+I have come here to chew bubblegum and kick ass and I'm all out of bubblegum. 
+我一边吃着口香糖一边来这收拾他们， 可是我的口香糖吃完了。
+chew:嚼
+bubblegum:口香糖
+kick ass：打败（虐，碾压）；厉害（酷毙了，了不起，很厉害）
+
+The secret of life is just to live every moment
 <!-- Content_END -->
