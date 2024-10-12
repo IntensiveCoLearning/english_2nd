@@ -101,9 +101,17 @@ https://www.kernel.community/en/learn/module-1/dreamers/#-ethereal-dreamers
 
 
 ### 2024.10.12
+1.Learning material:
+https://a16z.com/export-your-brain-with-ai/
+2. Key point:
+ - assuaged with
+ - offhandedly
+
 
 ### 2024.10.13
-
+1. learning material:
+https://darioamodei.com/machines-of-loving-grace
+2. Key point
 ### 2024.10.14
 
 ### 2024.10.15
