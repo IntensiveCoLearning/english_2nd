@@ -111,6 +111,9 @@ fix: New York swept the Tampa Bay Rays by...., wednesday wednesday wednesday....
 
 -Translation: 在您下载好fabric的docker镜像和fable sample之后，您可以使用fabric-samples库中的脚本来部署一个测试网络。通过在您本地设备上部署节点，这个测试网络可以帮助您学习了解fabric的搭建流程。如果您是一名开发者，您可以使用测试网络来测试智能合约和应用程序。这个网络仅仅是用来作为一个教育和测试的工具，而不是一个启动真正fabric网络的模型。一般来讲，我们不过鼓励您去修改测试网络的脚本，因为这容易导致整个网络崩溃。测试网络仅仅是一个有限的配置，不能被当作一个部署真正产品网络的模板/
 
+Dictation_12:Jam henson, creator of the muppltes.from *** to the samstreet,is born to *** in missibies.
+
+fix: Sesame street. Kermit the frog，The muppets布偶，芝麻街，绿色大青蛙。is born in greenville mississippi. 密西西比州格林布尔市。。
 
 
 
