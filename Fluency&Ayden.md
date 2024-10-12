@@ -117,7 +117,7 @@ https://www.bilibili.com/video/BV1U7411a7xG?p=1
 https://www.bilibili.com/video/BV1U7411a7xG?p=2
 Today，I started the study of daily dictation.The course is perfect.I will keep learning!
 
-### 2024.10.09
+### 2024.10.11
 ![image](https://github.com/user-attachments/assets/a7dcb32b-5c02-4ede-be9a-354f0394baca)
 ![image](https://github.com/user-attachments/assets/5524d691-4f29-49db-ba12-e0e06e8ee353)
 https://www.bilibili.com/video/BV1U7411a7xG?p=3
@@ -125,12 +125,13 @@ https://www.bilibili.com/video/BV1U7411a7xG?p=4
 https://www.bilibili.com/video/BV1U7411a7xG?p=5
 more interesting！
 
-### 2024.10.10
+### 2024.10.12
+![image](https://github.com/user-attachments/assets/78233e71-c8b6-4edb-baf9-da40489663cc)
+![image](https://github.com/user-attachments/assets/36f331ff-9e9b-4b69-9bdb-ab75cecc3cce)
+https://www.bilibili.com/video/BV1U7411a7xG?p=6
+https://www.bilibili.com/video/BV1U7411a7xG?p=7
+little time today，but meaningful。And I'm trying to hold on it!
 
-
-
-
-
-
+### 2024.10.13
 
 <!-- Content_END -->
