@@ -210,8 +210,34 @@ Don’t 省略t音，somthing,省略th
 5.I have to come here to cho pop gun and take us and bow and botton.
 
 
-### 2024.10.09
+### 2024.10.11
+5.I have to come here to cho pop gun and take us and bow and botton.
 
+I have ~~to~~ come here to chew bubblegum and kick ass… and I’m all out of bubblegum.
+
+to d
+
+I’m ahm
+
+out of outta
+
+6.The second of line is justain than every mount.
+
+The secret of life is just to live every moment.
+
+just juss
+
+to t
+
+7.Another road trainer has come to fan williams.
+
+Another rogue trader has cost a bank billions.
+
+8.Rolf Buchholz piercings
+
+German Rolf Buchholz is the man with most  piercings.he’s got 453.
+
+German,Rolf Buchholz is the man with the  most  piercings;He’s got 453.
 
 
 ### 2024.10.10

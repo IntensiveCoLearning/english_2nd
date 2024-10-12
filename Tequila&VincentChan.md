@@ -47,17 +47,39 @@ timezone: Asia/Shanghai
 
 ### 2024.10.08
 
-今天在多邻国 APP 上成功打卡，第四节第一章
-从 0 开始学习英语语法 已经学习完毕
+Today, I successfully checked in on the Duolingo app, completing Chapter 1 of the fourth section.
+I have finished learning English grammar from scratch which linked by https://hzpt-inet-club.github.io/english-note/
 
 ### 2024.10.09
-今天在多邻国 APP 上成功打卡，第四节第二章
-完成对A-Programmers-Guide-to-English的学习
-### 2024.10.10
-今天在多邻国 APP 上成功打卡，第四节第三章
-观看ted演讲 +1 
-### 2024.10.09
+I checked in on the Duolingo app, completing Chapter 2 of the fourth section.
+watching the commended Guide ,A-Programmers-Guide-to-English ,link : https://github.com/yujiangshui/A-Programmers-Guide-to-English
 
 ### 2024.10.10
+
+checking in the Duolingo app, completing Chapter 2 of the fourth section.
+Watch a TED talk at the following link: [https://www.bilibili.com/video/BV1Gf4y1y7wc?p=2&vd_source=483fe7896a3a6429609ccae0d968d0e8](https://www.bilibili.com/video/BV1Gf4y1y7wc?p=2&vd_source=483fe7896a3a6429609ccae0d968d0e8). 
+
+### 2024.10.11
+
+i think i should learn to improve my speak ,so , i will not keep check in the duolingo app . 
+Daily English Dictation is great ! link ：https://www.bilibili.com/video/BV1U7411a7xG?p=3&vd_source=bc0666711d2280c24d54945ab9c11146
+i studied the P1-P3 in the bilibili video summary.Following are the notes:
+
+Mother Teresa,who received a Nobel Peace Prize for her work on behalf of the poor ,dies in Calcutta India. She was 87years old. 
+由于帮助穷人得到诺贝尔和平奖的特丽莎修女在印度加尔各答死去，享年87岁。
+on behalf of＝for
+Nobel Peace Prize诺贝尔和平奖
+
+Jerry,what time do you have?
+Jerry，现在几点了？
+I have 5 o'clock.
+
+There are 3things I've learned Never to discussed with people:religion,politics and the Great Pumpkin.
+在我所学的事物中有三件事不能和他人讨论：宗教，政治和南瓜大王。
+religion:宗教
+politics：政治
+the Great Pumpkin:南瓜大王（万圣节代表人物，类似于圣诞节中的圣诞老人）
+
+### 2024.10.12
 
 <!-- Content_END -->

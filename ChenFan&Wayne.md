@@ -101,14 +101,28 @@ Dictation_11: **** by a identical four -two scores, in a day-night doble header 
 fix: New York swept the Tampa Bay Rays by...., wednesday wednesday wednesday.....
 
 ### 2024.10.11
-
+-今天背了25分钟的单词、没练习daily Dictation ，哈哈哈，休息一天
 
 
 ### 2024.10.12
+-今天背了29分钟的单词、练习了daily english的12-15、尝试自己翻译了一个hyperledger fabric的开发文档的英文资料。
 
+-English:After you have downloaded the Hyperledger Fabric Docker images and samples, you can deploy a test network by using scripts that are provided in the fabric-samples repository. The test network is provided for learning about Fabric by running nodes on your local machine. Developers can use the network to test their smart contracts and applications. The network is meant to be used only as a tool for education and testing and not as a model for how to set up a network. In general, modifications to the scripts are discouraged and could break the network. It is based on a limited configuration that should not be used as a template for deploying a production network:
 
+-Translation: 在您下载好fabric的docker镜像和fable sample之后，您可以使用fabric-samples库中的脚本来部署一个测试网络。通过在您本地设备上部署节点，这个测试网络可以帮助您学习了解fabric的搭建流程。如果您是一名开发者，您可以使用测试网络来测试智能合约和应用程序。这个网络仅仅是用来作为一个教育和测试的工具，而不是一个启动真正fabric网络的模型。一般来讲，我们不过鼓励您去修改测试网络的脚本，因为这容易导致整个网络崩溃。测试网络仅仅是一个有限的配置，不能被当作一个部署真正产品网络的模板/
 
+-Dictation_12:Jam henson, creator of the muppltes.from *** to the samstreet,is born to *** in missibies.
 
+-fix: Sesame street. Kermit the frog，The muppets布偶，芝麻街，绿色大青蛙。is born in greenville mississippi. 密西西比州格林布尔市。
+
+-DIctation_13: Asain tiger mosquitos  **** tropic Asain,but in the past fews years it swept across all the sorthearten of Unite states.
+
+-fix:Asian 不是 Asain.,Asian 亚洲， be native to 来自哪里，，。，，SouthEastern asia 东南亚。。Asia in the country;asian is someone ho was born is Asia
+they ve spread 不是swept/
+
+-Dictation_14:Cat rteputedly have nine lives,and clearly want to spend one of them ,here in New York city.
+
+-fix: he clearly want to spend at least one of them .....
 
 
 

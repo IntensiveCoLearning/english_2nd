@@ -90,18 +90,28 @@ https://www.kernel.community/en/learn/module-1/dreamers/#-ethereal-dreamers
 - Speak a new language so that the world will be a new world. 
 
 
-### 2024.10.09
-
-
-
-### 2024.10.10
-
 ### 2024.10.11
+1.Learning material:
+https://www.kernel.community/en/learn/module-1/dreamers/#-ethereal-dreamers
+2. Key point:
+- convivial adj 欢乐的
+- wider perspectives on reciprocity更广泛的互惠视角
+- There are no genuine philosphical problems: just misunderstandings of language.
+- Though practices may change, it is incumbent（在职的，现任的） upon all of us consistently to question what "consititutes law in the true sense, namely social justice, solidarity, and the dignity of the human being."
+
 
 ### 2024.10.12
+1.Learning material:
+https://a16z.com/export-your-brain-with-ai/
+2. Key point:
+ - assuaged with
+ - offhandedly
+
 
 ### 2024.10.13
-
+1. learning material:
+https://darioamodei.com/machines-of-loving-grace
+2. Key point
 ### 2024.10.14
 
 ### 2024.10.15
@@ -111,7 +121,10 @@ https://www.kernel.community/en/learn/module-1/dreamers/#-ethereal-dreamers
 ### 2024.10.17
 
 ### 2024.10.18
+
+
 ### 2024.10.19
+
 ### 2024.10.20
 
 

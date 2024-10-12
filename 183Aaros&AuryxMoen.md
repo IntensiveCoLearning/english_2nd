@@ -80,14 +80,16 @@ It's nice to meet everyone in LX DAO here.
   
   -Fix: devastated 被摧毁
 
-### 2024.10.09
+### 2024.10.11
+- 听写；原视频：https://bbc.com/news/videos/cp8e463n690o
+  -Dictation: So Donald Trump, not you Republican says he wants to seal the border, nobody in. Is that something you support? So I believe when the president says that um to secure our literal border to ensure the agenda the Americans sacrety as a nation not to ... yes yes that doesn't mean ... that means to secure the literal border. "You're seeing it in anything else". Even the immigration has been immigration of undocumented or legal marks has been so much harron(?) average under the Biden administration 2 milinuim(?) years compared with the Trump administration in about 300..400 thousand years. Are you blaming that all on a bill when it is supposed to be the past what about the previous 3 years? To get to a ... to a place where we have orderly border security that we deserve it is gonna take an act of the Congress and the Congress had the bill on the table that is not locked because of one man named Donald Trump he said to blame them and I do. 
 
+### 2024.10.12
+- 听写；原视频：https://bbc.com/news/videos/c0qz2gk4v4wo
+  - Dictation: Did you see the northern light last night? We were twitted *treated* this *to a* spectacular display across Wales, the BBC Weather Watches gallery received around 5,000 photos, *. That's* that's rare. In the U.K. we sometimes see them in north Scotland *and* if the conditions are all right *ripe* , occasionally film(?) this out *further south*. *But* Have you noticed this year we've seen several vibrant displays and some of us, haven't even had to leave the house, so why is this? So *well* we're around the peak of the 11-year solar cycle, that allows us *. That allows* for more solar activity and more frequent auroras. The northern lights are difficult to forecast and sometimes we only know there's good view *viewing* potential on the actual night. Tonight, seeing it desiline *a dazzling* display is less likely, but *. But* if you miss them, there should be more opportunities to capture gimps *glimpse* this year. 
+  - fix: spectacular； ripe 适当的，恰当的；dazzling 耀眼炫目的；glimpse 一瞥；
 
-
-### 2024.10.10
-
-
-
+### 2024.10.13
 
 
 
