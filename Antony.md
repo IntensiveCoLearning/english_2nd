@@ -66,10 +66,20 @@ Vocabulary: approval, turnaround, permit/permission, photography(辯音), & flye
 精聽這個影片 1:27~2:57 https://youtu.be/TjPFZaMe2yw?si=p6NeqbMWX3WxThTR
 
 
-
 ### 2024.10.12
 
+寫了一封英文 E-mail (時間 22:50~23:40)，並用 ChatGPT 訂正。
 
+
+### 2024.10.13
+
+
+
+### 2024.10.14
+
+
+
+### 2024.10.15
 
 
 
