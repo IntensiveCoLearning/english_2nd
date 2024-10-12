@@ -130,8 +130,9 @@ m
 ### 2024.10.11
 	https://www.bilibili.com/video/BV1C1421R7TD/?spm_id_from=pageDriver&vd_source=62a605305028a88b357c9362523e8acf 发音学习
 	what do you do? want to 发音 wanna grow up
-
-
+	
+### 2024.10.12
+	口语练习一个小时 www.free4talk.com 用英文进行在线交流，学习单词 thrive obey mustache isolation negotiating snack guy honest effort
 
 
 <!-- Content_END -->
