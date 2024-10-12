@@ -100,7 +100,7 @@ To going on debonair debonairely, you must fully accept and love it, flaws and a
 - P6 LISTENING:The secret of life is just to live every moment.bingo~(same as ritht answer)
 - P7 LISTENING:Another road trillier has cost the bank billions.
 - Right answer:Another rogue trader has cost a bank billions. (rogue trader:professional gambler. rogue: dishonest cheat bad word.)
-### 2024.10.09
+### 2024.10.11
 - Learning materials:https://www.bilibili.com/video/BV1U7411a7xG?p=10&vd_source=70d22df5993b243adb2c4be25499c92e
 - P8 LISTENING Rolf Buchholz/piercings:Germen Rolf Buchholz is the man most piercings.He is got 453.
 - Right answer:German, Rolf Buchholz is the man with_the most piercings, he is got 453! with_the(similar tune connected)  :hundred--hunerd(n cancels d)
@@ -110,7 +110,7 @@ To going on debonair debonairely, you must fully accept and love it, flaws and a
 - Part2: is about to fall to Earth, but nobody knows where the debris will hit.
 
 
-### 2024.10.10
+### 2024.10.12
 
 
 
