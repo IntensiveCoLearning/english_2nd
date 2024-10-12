@@ -119,8 +119,10 @@ He his him her have has had在英语中很常见，native speaker习惯h不发�
 请假
 
 
-### 2024.10.10
+### 2024.10.12
+There are 3 things I have learned never to discuss with people:religion,politics and the Great Pumpkin
 
+Don’t even let somebody to tell you,you can’t do something
 
 
 
