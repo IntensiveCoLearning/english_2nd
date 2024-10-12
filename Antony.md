@@ -57,8 +57,8 @@ Yes 100%
 ### 2024.10.10
 
 精聽 TPO30 Con1 (時間 22:30~23:10)
- Echo: 33th and 34th sentences
- Vocabulary: approval, turnaround, permit/permission, photography(辯音), & flyer.
+Echo: 33th and 34th sentences
+Vocabulary: approval, turnaround, permit/permission, photography(辯音), & flyer.
 
 
 ### 2024.10.11
@@ -66,10 +66,20 @@ Yes 100%
 精聽這個影片 1:27~2:57 https://youtu.be/TjPFZaMe2yw?si=p6NeqbMWX3WxThTR
 
 
-
 ### 2024.10.12
 
+寫了一封英文 E-mail (時間 22:50~23:40)，並用 ChatGPT 訂正。
 
+
+### 2024.10.13
+
+
+
+### 2024.10.14
+
+
+
+### 2024.10.15
 
 
 
