@@ -226,11 +226,94 @@ Translation
 > We must look at the essence of things, treating their phenomena merely as a guide to entry. Once inside, we must grasp their essence, which is the reliable and scientific analytical method.
 
 
-### 2024.10.09
+### 2024.10.11
+Daily English Dictation  11～14
+>
+>1.New York swept the Tampa Bay Rays by identical 4-2 scores in a day-night doubleheader Wedenesday.
+>
+>swept 横扫,过去式 ; sweep vi. 扫地
+>
+>Tampa Bay Rays 坦帕湾光芒队
+>
+>swept the series 横扫系列赛
+>
+>4-2发音’4 d 2’
+>
+>2.Jim Henson, creater of The Muppets-from Kermit the Frog to Sesame Street—is born in Greenvile, Mississippi !
+>
+>Sesame Street 《芝麻街》：Ernie、Bert、Grover、Cookie Monster、BIG BIRD
+>
+>Muppet 布偶
+>
+>Creater 创建者, cester of the 发音省略 ‘of the’
+>
+>Kermit the Frog《青蛙科密特》
+>
+>Greenvile, Mississippi 密西西比州格林维尔,简称’MS’
+>
+>
+<img width="1202" alt="image" src="https://github.com/user-attachments/assets/a42d77ff-727c-4968-bc20-3e780dd080bd">
 
 
+> 3.Asian tiger mosquitoes are native to the tropics of Southeast Asia ,but in the past few years they’ve spread all across the southeastern United States.
+>
+>mosquitoes 蚊子；skeeters 在美国-威斯康辛州,蚊子的叫法
+>
+>native to 土生土长
+>
+>but in the past few years  发音’but in nah pas’连贯‘few years’,bu+d(t)in,当t在两个元音间时发/d/音
+>
+>tropics n. 热带地区
+>
+>spread 扩散, 传播
+>
+>eastern省略‘n’音，读成easter
+>
+Tools
+>
+>沉浸式翻译 youtube插件
+https://immersivetranslate.com/?utm_campaign=bilibilitandongdong&utm_source=bilibili0711&utm_medium=bilibili0711&content_value=BV1fi421h7QB&content_type=video
 
-### 2024.10.10
+### 2024.10.12
+Daily English Dictation  15～17
+>
+>
+>1. Cats reputedly have nine lives, and he clearly wanted to spend at least one of them … here in New York City.
+
+reputedly = supposedly adv. 据说
+
+clearly =absolutely、without a doubt、there’s no question adv. 毫无疑问的
+
+wanted 消音‘t’ , to 发音‘d’
+
+at 遇 least 消音‘t’ 
+
+of them 消音‘f’
+>
+>
+>2. The frantic pacing- scene changes even 11 seconds on average - often leads kids zoned out and spun up, unable to concentrate.
+
+pacing = speed 速度、节奏
+
+当之间没有辅音时，连读 changes-even-11-seconds-on-average 。‘on’发音‘an’
+
+两个短语动词：动作动词‘zoned’ 、‘spun’ & 介词‘out ’、‘up’
+
+zoned out 分区
+
+spun up，过去分时形式，‘up’强调动词，现在时态 ‘spin up’ ；类似 wound up 现在时态 ‘wind up’ 
+
+<img width="1047" alt="image" src="https://github.com/user-attachments/assets/86d11c3f-1248-40c5-a7f4-dcc225dcd26c">
+
+
+>3. Battered, soaked and flooded, the Philippines is being hit by its 2nd typhoon in a week.
+
+Battered 破烂不堪的；soaked 湿透的，soak过去式
+
+2nd=second , second-‘d’ 遇 typhoon-’t’ 连读，‘ph’发音’f’
+
+typhoon-in-a-week 连读
+
 
 
 
