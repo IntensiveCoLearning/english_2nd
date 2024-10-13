@@ -204,7 +204,7 @@ Daily Dictation Number 14：
 
 正确答案：Cats reputedly have nine lives,and he clearly wanted to spend at least one of them there in New York City.
 
-### 2024.10.12
+### 2024.10.13
 
 Daily Dictation Number 15：
 
