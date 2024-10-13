@@ -109,16 +109,21 @@ Don't ever let somebody tell you, you can't do something!
 
 
 ### 2024.10.12
-**Ditation 5**   
-I have come here to chew babblegum and kick ass and I'm all out of bubblegum!
-to 可以有七种不同的发音： to, tah, tub, t', dah, hub, d'
+**Ditation 5**  
+I have come here to chew babblegum and kick ass and I'm all out of bubblegum!  
+- to 可以有七种不同的发音： to, tah, tub, t', dah, hub, d'
 
-**Ditation 6**   
-The secret of life is just to  live the moment.
-这里的 to 发 t'
+**Ditation 6**  
+The secret of life is just to  live the moment.  
+- 这里的 to 发 t'
 
 
 
+### 2024.10.13      
+**Ditation 7**  
+Another rogue trader has cost a bank billions.
+- rogue trader，指未经授权或违反规定进行高风险交易的交易员，这些交易往往会导致重大损失。
+- cost a 连读成 costa
 
 
 
