@@ -204,5 +204,26 @@ Daily Dictation Number 14：
 
 正确答案：Cats reputedly have nine lives,and he clearly wanted to spend at least one of them there in New York City.
 
+### 2024.10.12
+
+Daily Dictation Number 15：
+
+正确答案：The frantic pacing(speed) - scene changes even 11 seconds on average - often leaves kids zoned out and spun up, unable to concentrate.
+
+Points:
+
+frantic 疯狂的 pacing 节奏 zoned out 神志不清 发呆 spun up=spin up 旋转 concentrate 集中注意力
+
+Frantic = uncontrol, so busy, so fast.
+
+leave = let
+
+zone out = lost their mind
+
+
+
+
+
+
 
 <!-- Content_END -->
