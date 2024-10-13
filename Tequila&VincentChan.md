@@ -91,4 +91,25 @@ bubblegum:口香糖
 kick ass：打败（虐，碾压）；厉害（酷毙了，了不起，很厉害）
 
 The secret of life is just to live every moment
+
+### 2024.10.13
+i studied the P7-P10 in the bilibili video summary.Following are the notes:
+Another vogue trader has cost a bank billions. 
+流氓投资者让银行损失了数十亿美元。
+rogue流氓（本语境中有不诚实的意思dishonest,cheat）
+trader证券交易人
+
+German，Rolf Buchholz,is the man with the most piercings,he's got 453.
+德国的Rolf Buchholz是拥有最多穿孔的男人，他有453个穿孔。
+piercing 穿孔，耳洞
+
+A satellite that was carried to space abroad the shuttle Discovery 20 years ago is about to fall to earth,but nobody knows where did the debris will hit.
+一颗在20年前被探险者号运到太空的人造卫星将要坠落到地球上，但是没有人知道碎片将落在哪儿。
+satellite人造卫星
+shuttle航天飞机，梭子
+debris碎片，残骸
+
+It's a lofty,probably impossible goal.
+这是一个崇高的，可能不会实现的目标。
+lofty崇高的
 <!-- Content_END -->
