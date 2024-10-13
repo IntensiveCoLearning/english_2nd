@@ -195,6 +195,47 @@ Cooperation 指的是不同个体或团队共同工作以达成某个目标，�
 
 笔记内容
 
+Indulging in desires, I am carefree,
+放情纵欲任优游，
+No fears ,no sorrows ,Just pure glee.
+也无恐怖也无愁
+In land of bliss, at the Eight Precepts,I lauth with delight,
+极乐场中笑八戒
+Inherent nature blooms, a tower of light.
+自性具足花满楼
+In the West, on the peak of Mount Lingshan.
+
+Two men sat facing each other. Clouds billowed and the air crackled with tension.
+
+The young monk looked up at the sky, then pressed his palms together and bowed to another monk with brows yellow. "Our masters are all here,
+brother. Are you ready?"
+
+The yellow-brow monk smiled and returned the bow . "I have been ready for some time."
+
+The Ullambana Assembly, held once every five hundred years, had come to the stage of debate for graduating disciples.
+Ullambana Assembly： 盂兰盆会
+
+The young monk raised a hand, signaling his brother to ask the first question.
+
+"Tell me, brother," said the yellow-brow monk, "what is the meaning of life?"
+
+"To seek truth," replied the young monk.
+
+"And what is truth?"
+
+"The way all things move, the primary law of the universe."
+
+The yellow-brow monk said nothing but brought out a flower. Its petals, first drooping, gradually unfurled in glorious bloom.
+petals:花瓣
+unfurled:展开
+
+Gazing at the flower, he said, "Observe it. By following its nature, it undergoes such wonderous changes."
+undergoes:经历
+Indulging:放纵
+glee:欢乐
+billowed:翻腾
+
+
 ### 2024.10.14
 
 笔记内容
