@@ -149,4 +149,14 @@ Yes
 
 ### 2024.10.12
 
+I forgot submmit records.Because I got home too late
+
+### 2024.10.13
+
+1. Today is a 169-day winning streak on duoligo
+2. https://www.bilibili.com/video/BV1U7411a7xG?vd_source=bc0666711d2280c24d54945ab9c11146&spm_id_from=333.788.videopod.episodes&p=3
+   2-3 lessons
+3. https://www.bilibili.com/video/BV1cu411r7pw?spm_id_from=333.788.videopod.episodes&vd_source=becdf6db78142d73438794568ca31367&p=21
+   006 lessons
+
 <!-- Content_END -->
