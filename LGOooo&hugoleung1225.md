@@ -135,6 +135,10 @@ I completed the Duolingo training today and read the recommended book list, How 
 
 要找其他语料了。
 
+### 2024.10.13
+
+I learn grammly from duolinguo.
+
 
 
 <!-- Content_END -->
