@@ -111,9 +111,14 @@ https://a16z.com/export-your-brain-with-ai/
 ### 2024.10.13
 1. learning material:
 https://darioamodei.com/machines-of-loving-grace
-2. Key point
+2. Key point:
+- 
 ### 2024.10.14
-
+1. Learning material:
+https://danieljeffries.substack.com/p/the-pathways-of-tomorrow-four-big-predictions-for-the-next-twenty-years-e9221d00dd91
+2. Key point:
+- pesky，讨厌的；惹人厌烦的
+- terseness 简洁
 ### 2024.10.15
 
 ### 2024.10.16
