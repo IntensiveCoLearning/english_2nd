@@ -159,6 +159,32 @@ Notes:
 
 -  food traceability  [**/ˌtresə'bɪləti/**](cmd://Speak/_uk_/traceability) 食物溯源
 
+### 2024.10.13
+
+Listening and Learning English expression：
+
+Story 6：technology support：latest eKYC service 
+
+During the pandemic period，it was becoming very difficult for us to pay the salaries to our workers on time.`Most of the garment workers don’t have bank accounts`,so it's difficult for them to get government subsidies.Fortunately,bKash has the latest eKYC service that allows people instantly open their accounts sitting at home or from nationwide bKash digital registration points.We have already enabled one million workers across the country to get their salaries and `helped them carry on with their basic needs of life`.`Garments industry has become the backbone of our economy`. **And we feel proud to facilitate this sector by enabling millions of people to avail a wide array of services through bKash.** Thanks to the strong technology support from Ant Group in the journey.If we can stand together ,we can make life better. We believe open collaboration will make people from different regions equally enjoy the convenience and brilliance of digital life.
+
+Notes:
+
+- chairman [**/'tʃeəmən/**](cmd://Speak/_uk_/chairman) 主席；董事长；主持人
+
+- Deputy  [**/'depjʊtɪ/**](cmd://Speak/_uk_/)  副手，代理
+
+- garment workers 纺织工人
+
+- subsidy [**/'sʌbsɪdɪ/**](cmd://Speak/_uk_/) 补贴，津贴
+
+- industry [**/'ɪndəstrɪ/**](cmd://Speak/_uk_/industry) 工业，行业
+
+- backbone[**/'bækbəʊn/**](cmd://Speak/_uk_/) 脊柱、骨干
+
+- facilitate[**/fə'sɪlɪteɪt/**](cmd://Speak/_uk_/) 促进
+
+- enable [**/ɪn'eɪb(ə)l/**](cmd://Speak/_uk_/) 使能够
+
   
 
 <!-- Content_END -->
