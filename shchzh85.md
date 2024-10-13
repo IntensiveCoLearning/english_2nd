@@ -131,8 +131,19 @@ m
 	https://www.bilibili.com/video/BV1C1421R7TD/?spm_id_from=pageDriver&vd_source=62a605305028a88b357c9362523e8acf 发音学习
 	what do you do? want to 发音 wanna grow up
 	
-### 2024.10.12
-	口语练习一个小时 www.free4talk.com 用英文进行在线交流，学习单词 thrive obey mustache isolation negotiating snack guy honest effort
+### 2024.10.13
+	口语练习一个小时 www.free4talk.com 用英文进行在线交流，学习单词 thrive obey mustache isolation negotiating snack guy honest effort 
+        万能句型学习 What are you doing ... for？做什么
+        What are you talk about? 你们在胡说什么
+        What are you thinking about?  你们在想什么
+        What are you whispering about?
+        (gigling 笑什么, getting at说中点, looking at 你们在看什么，看什么, laughing at 嘲笑 在笑什么,looking for 查找什么== search find， playing with 玩什么, working on 在忙什么, planning on doing 你打算做什么)?
+        take it out sh
+        What are you thinking about that for? 你想这个干什么  What are you laughing about for me? (getting/ mad at me for 生什么)
+        What are you being such a drama queen.  I don't like drama?
+        四 地点副词  
+        What are you doing here(out here 一个人。。。在外面..干嘛？, over here  你跑到这里干嘛，本来， in here)?
+        What are you doing out there?( over there)
 
 
 <!-- Content_END -->
