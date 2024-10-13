@@ -365,7 +365,13 @@ i have come here to  and and
 
 ### 2024.10.13
 
-笔记内容
+I have come here
+to chew bubblegum
+and kick ass...
+and I'm all out of bubblegum
+
+listen and write
+screet life just live
 
 ### 2024.10.14
 
