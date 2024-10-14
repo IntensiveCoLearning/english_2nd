@@ -444,6 +444,139 @@ timezone: Asia/Shanghai
 副词用来修饰动词、形容词、副词或整个句子，帮助我们表达时间、地点、方式、频率和程度等信息。通过掌握副词的用法和位置规则，可以更加准确、丰富地表达你的想法。
 
 ### 2024.10.14
+动词在英语中是核心的词类，它们根据语法功能和表达的意义可以分类成几种不同的类型。了解动词的分类和用法对正确构建句子和表达准确意义至关重要。以下是动词的详细分类和用法。
+
+#### 1. 实义动词（Main Verbs）
+实义动词是句子的核心，它们表示具体的动作或状态，可以独立构成谓语。根据它们是否需要宾语，实义动词可以进一步划分为：
+
+##### （1）及物动词（Transitive Verbs）
+及物动词是需要跟宾语的动词，表示动作的对象。
+
+**例子**：
+- I **eat** an apple. （我吃一个苹果。）
+- She **wrote** a letter. （她写了一封信。）
+
+- **注意**：句子中的“apple”和“letter”是宾语，它们说明了动作作用的对象。
+
+##### （2）不及物动词（Intransitive Verbs）
+不及物动词不需要宾语，动作没有直接的对象。常用于表达状态、变化或发生的动作。
+
+**例子**：
+- He **runs** every morning. （他每天早上跑步。）
+- The baby **cried**. （婴儿哭了。）
+
+- **注意**：不及物动词不能直接跟宾语，但是有时可以跟状语补充说明动作的地点、时间、方式等。
+
+#### 2. 系动词（Linking Verbs）
+系动词连接主语与表语，表语通常是一个形容词、名词或短语，用来描述主语的状态或特征。最常见的系动词是 **be**（am, is, are, was, were），但还有其他一些常见的系动词。
+
+**常见系动词**：
+- **be** 系列：am, is, are, was, were
+- **感官动词**：seem, look, sound, feel, smell, taste
+- **变化类动词**：become, grow, turn
+
+**例子**：
+- She **is** a teacher. （她是一名老师。）
+- The soup **smells** good. （这汤闻起来不错。）
+
+- **注意**：系动词后面一般跟形容词或名词，表示主语的状态或特征。
+
+#### 3. 助动词（Auxiliary Verbs）
+助动词帮助主要动词构成时态、语态、语气、否定句和疑问句。助动词本身不表示具体的动作或状态，而是帮助表达动作发生的时间、完成情况等。
+
+**常见助动词**：
+- **be**：用于进行时态和被动语态
+  - He **is** working. （他正在工作。）
+  - The book **was** written by him. （这本书是他写的。）
+
+- **have**：用于完成时态
+  - She **has** finished her homework. （她已经完成了作业。）
+
+- **do**：用于构成否定句和疑问句
+  - **Do** you like ice cream? （你喜欢冰淇淋吗？）
+  - He **does not** know the answer. （他不知道答案。）
+
+#### 4. 情态动词（Modal Verbs）
+情态动词用来表示能力、可能性、必要性、建议或义务等。情态动词后面必须跟动词原形。
+
+**常见情态动词**：
+- can（能）
+- could（过去能；可能）
+- may（可能；可以）
+- might（可能）
+- must（必须）
+- should（应该）
+- will（将会）
+- would（愿意）
+
+**例子**：
+- You **must** do your homework. （你必须做作业。）
+- He **can** swim very fast. （他游泳游得很快。）
+
+#### 5. 短语动词（Phrasal Verbs）
+短语动词是由动词加上介词或副词构成的固定短语，常常具有与原动词不同的意义。
+
+**常见短语动词**：
+- give up（放弃）
+  - He **gave up** smoking. （他放弃了吸烟。）
+- look after（照顾）
+  - She **looks after** her younger brother. （她照顾她的弟弟。）
+
+#### 6. 不规则动词（Irregular Verbs）
+不规则动词的过去式和过去分词没有固定的构成规则，必须单独记忆。
+
+**常见不规则动词例子**：
+- go → went → gone （去）
+- take → took → taken （拿）
+- be → was/were → been （是）
+
+#### 7. 动词的时态
+时态用来表示动作发生的时间。在英语中，时态分为四大类（现在、过去、将来、完成），每类又有简单时、进行时、完成时和完成进行时的不同形式。
+
+##### （1）现在时
+- **一般现在时**：表示习惯动作或事实
+  - She **eats** breakfast every morning. （她每天早上吃早餐。）
+
+- **现在进行时**：表示现在正在发生的动作
+  - She **is eating** breakfast now. （她现在正在吃早餐。）
+
+##### （2）过去时
+- **一般过去时**：表示过去的动作
+  - He **walked** to school yesterday. （他昨天走路去学校。）
+
+- **过去进行时**：表示过去某一时刻正在进行的动作
+  - He **was walking** to school when it started to rain. （他走路去学校时开始下雨。）
+
+##### （3）将来时
+- **一般将来时**：表示将要发生的动作
+  - They **will travel** to Japan next week. （他们下周要去日本。）
+
+- **将来进行时**：表示将来某一时刻正在进行的动作
+  - They **will be traveling** to Japan at this time next week. （他们下周的这个时候将会在去日本的路上。）
+
+##### （4）完成时
+- **现在完成时**：表示过去的动作对现在的影响
+  - I **have finished** my homework. （我已经完成了作业。）
+
+- **过去完成时**：表示在过去某一时间之前已经完成的动作
+  - He **had finished** his homework before dinner. （他在晚饭前已经完成了作业。）
+
+- **将来完成时**：表示在将来某一时间之前已经完成的动作
+  - By next year, they **will have graduated**. （到明年，他们将毕业。）
+
+#### 8. 动词的语态
+动词有**主动语态**和**被动语态**两种。
+
+##### （1）主动语态（Active Voice）
+主动语态表示主语是动作的执行者。
+- She **wrote** the letter. （她写了这封信。）
+
+##### （2）被动语态（Passive Voice）
+被动语态表示主语是动作的接受者，通常由 **be + 过去分词** 构成。
+- The letter **was written** by her. （这封信是她写的。）
+
+#### 总结：
+动词的用法涉及动词的分类、时态、语态、以及助动词和情态动词的使用。通过掌握这些规则，可以灵活使用动词来构建复杂的句子和表达多样的意义。
 
 ### 2024.10.15
 
