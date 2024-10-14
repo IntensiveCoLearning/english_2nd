@@ -125,7 +125,15 @@ Another rogue trader has cost a bank billions.
 - rogue trader，指未经授权或违反规定进行高风险交易的交易员，这些交易往往会导致重大损失。
 - cost a 连读成 costa
 
-
-
+### 2024.10.14          
+**Ditation 8**  
+German Rolf Buchholz is the man with the most piercings, he's got 453.
+- piercing n. （在身体部位打的）孔，洞
+- is the man，is 发 /iz/, th 被省略，连读发音成 zuh
+- with the 连读，省略掉 the 的 th 发音
+- most piercings，读得快的时候 most 的 t 发音被省略
+- he's 是 he has 的缩写
+- 453 的正确读法是 four hundred fifty three，而不是 four hundred and fifty three
+- 有时 hundred 读得快的时候发 hunerd
 
 <!-- Content_END -->
