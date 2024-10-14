@@ -136,7 +136,7 @@ How to say -ed endings in English
 
 
 ### 2024.10.12
-英语连读现象
+英语连读现象 
 辅音＋元音
 Take it easy 连读形式：ta(k-it-ea)sy
 Put it on 连读形式：Pu(t-it-on).
@@ -151,8 +151,17 @@ We will hack your computers.
 辅音结尾+h
 此时h不发音，与前面的辅音连读。
 
-
-
+### 2024.10.14
+introuduce youself and meeting new people
+多次听该篇文章并进行转述
+perks 津贴 补贴 特权 
+stupendous 惊人的 
+relish 喜爱，享受  从中获得乐趣
+have one's cake and eat it 鱼和熊掌不可兼得
+I have a lot on plate these days 这些天我有很多事情要做
+sail through  轻松应付.轻松度过。
+thrill 非常兴奋激动。
+entry-level 入门级别
 
 
 <!-- Content_END -->
