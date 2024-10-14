@@ -52,7 +52,7 @@ It's nice to meet everyone in LX DAO here.
 <!-- Content_START --> 
 
 ### 2024.10.08
-
+请假
 
 ### 2024.10.09
 - 虚词 the a on that and but etc.; 实词 burger, sandwich, move etc.
@@ -90,8 +90,11 @@ It's nice to meet everyone in LX DAO here.
   - fix: spectacular； ripe 适当的，恰当的；dazzling 耀眼炫目的；glimpse 一瞥；
 
 ### 2024.10.13
+请假
 
-
-
+### 2024.10.14
+- 听写；原视频： "Why is the latest SpaceX rocket test a big deal?" [https://bbc.com/news/videos/c0qz2gk4v4wo](https://bbc.com/news/videos/ce3zek7xqk4o)
+  - Dictation: "We have lift off". Starship is the largest powerful rocket *ever* built *and* today it made history the *.The* first and second stages separated. Normally, the lowest stage pulls away, *but* in this case, something amazing happened. It did a little back lip *flip* , and then pinned downwards to (?) *towards* the launchpad, and then as it approached to supersonic speed engines to dawn(?) *turned on* to slow it down. As it approach *approached* closer most of the engines would then turned off so they can gentally come towards the pad and then come towards a *the* giant arms that cloated, and what's called the "chopsticks" manuver *manoeuvre*. It's increadibly difficult. So many things could gone wrong, and this was the first time that anyone could have tried it. Somehow, they managed to get it right first time if he could patch pits(?) the *catch bits of* rocket and reuse them, the idea, is to reduce the cost of space exloration, an hour after the launch we saw the top section re-entered the earth atmostphere and then splashing down in the Indian Ocean. The plan is to re-use that portion as well, once they found out how to do it perfectly. Space-X has rebuilt to send astranaut *astronauts* to the moon, N.A.S.A want to go back and stay on the moon, maybe on tvalt(?) *onto Mars* . On call that *And for that* they need a different types of spacecraft. The plan is for starship to be so big that it could take up to 100 astraunauts *astronauts* onboard and *. And* SpaceX if it successed will probably have 50 maybe 100 launches a year. A bigger *And people* concern *concerned* is */* about the damage to the atmosphere to see at 2 *CO2* levels and also on the water *underwater* and the quality of life to wildlife on the ground. 
+  - fix：astronauts
 
 <!-- Content_END -->
