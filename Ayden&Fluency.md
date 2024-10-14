@@ -167,6 +167,14 @@ timezone: Asia/Shanghai
 
 ### 2024.10.13
 ### 2024.10.14
+- Inline styles in React are written as JavaScript objects where the key is the camelCased version of the CSS property and the value is the CSS value.
+- Inline styles are particularly useful for dynamically changing styles based on component state or props.
+- Inline styles do not support pseudo-classes or media queries directly.
+- Props enforce a unidirectional data flow, meaning that data is passed down from parent to child.
+- Props are different from state in that props are immutable and should not be changed directly within the component. State, on the other hand, is mutable and is managed by the component itself.
+- When props passed to a component change, React will re-render that component with the new props.
+- You can also pass functions as props, which can be invoked within the child component to perform actions or computations.
+  
 ### 2024.10.15
 ### 2024.10.16
 ### 2024.10.17
