@@ -221,7 +221,8 @@ you definitely are the expert , but one of the things that's been interesting ov
 
 我真的不喜欢这个问题。这是一个很典型的美国式问题，一上来就问。但最近我尝试了几种不同的回答方式。有时候我会说，我制作YouTube视频。然后，人们完全不知道该怎么回应，因为我能感觉到他们其实想说的是，“不，我是问你工作上做什么”。他们不太确定我是不是在说我制作YouTube视频是我的工作。最近我说，我运营一个在线学校。我觉得这更直接一些。而且我只是最近六个月才这么说，因为我的学校刚好是在六个月前上线。所以，我会说，我运营一所在线学校，教授英语作为第二语言，针对中高级学习者。
 ### 2024.10.14
-
+l want to hear you describe for everybody a. little bit about how did Rachel's English come into existence ? Give us a little bit of the story.l mean,where did this thing come from
+but at any rate,it hadn't been around that long. l was living in Europe
 ### 2024.10.15
 
 ### 2024.10.16
