@@ -181,6 +181,24 @@ Qi
 
 Chacha
 
+### 2024.10.12
+
+Chacha
+
 1. Carefully read this article and understand it deeply. [Sneaky React Memory Leaks: How the React compiler won't save you](https://www.schiener.io/2024-07-07/react-closures-compiler)
 
+### 2024.10.13
+
+Chacha
+
+1. Learned 40 vocabulary.
+   <img width="200" alt="Chacha 10-13" src="https://github.com/user-attachments/assets/cc854e08-cfa3-4c40-a85f-35c0bd383aad" />
+
+Qi:
+
+1. Today is a 169-day winning streak on duoligo
+2. https://www.bilibili.com/video/BV1U7411a7xG?vd_source=bc0666711d2280c24d54945ab9c11146&spm_id_from=333.788.videopod.episodes&p=3
+   2-3 lessons
+3. https://www.bilibili.com/video/BV1cu411r7pw?spm_id_from=333.788.videopod.episodes&vd_source=becdf6db78142d73438794568ca31367&p=21
+006 lessons
 <!-- Content_END -->

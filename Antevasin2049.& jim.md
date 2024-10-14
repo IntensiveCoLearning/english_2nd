@@ -164,14 +164,14 @@ Example: "The panda is native to China." (The panda comes from China.)
 2.Go native Meaning: To adopt the lifestyle or customs of the local people where one is living. * **Example**: "After living in the Amazon for years, he has gone native."
 "After living in Thailand for a year, I have gone native"
 
-#14 “Cats reputedly have nine lives, and he clearly wanted to spend at least one of them here in New York City.”
-Reportedly 和 Reputedly 的异同点, 两者都形容“据说”或“据报道”,但未证实的,但前者更注重于据报道,后者更像是普遍认知或长期的看法.
-"She is reportedly the youngest person to win the award."
-"The castle is reputedly haunted by ghosts."
 
 ### 2024.10.12
 
 ### 2024.10.13
+#14 “Cats reputedly have nine lives, and he clearly wanted to spend at least one of them here in New York City.”
+Reportedly 和 Reputedly 的异同点, 两者都形容“据说”或“据报道”,但未证实的,但前者更注重于据报道,后者更像是普遍认知或长期的看法.
+"She is reportedly the youngest person to win the award."
+"The castle is reputedly haunted by ghosts."
 
 ### 2024.10.14
 ### 2024.10.15

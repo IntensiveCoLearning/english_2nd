@@ -96,6 +96,8 @@ Financial Advisor: xxx can provide access to a global network of blockchain entr
 
 ### 2024.10.13
 
+今日学习进度：20 个单词+ 2 节口语课
+学习反馈：口语老师建议我还是先多背一些同义词语（高级词汇）后再定期对话会好一些
 
 
 ### 2024.10.14

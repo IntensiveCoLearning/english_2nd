@@ -185,6 +185,27 @@ Notes:
 
 - enable [**/ɪn'eɪb(ə)l/**](cmd://Speak/_uk_/) 使能够
 
-  
+
+### 2024.10.14
+
+Listening and Learning English expression：
+
+Story 7：Alipay Ant Forest
+
+Take a look at these gorgeous sweet-vetches . They're not only beautiful, but their seeds can also be sold for money.`Three years ago, I gathered five impoverished households from our village to form a co-op and we planted trees together`.Since then our lives have improved ,I’m also thinking about raising bees for some sweet vetch-honey, which might make our life even better in the near future.I heard that 550 million people are planting trees for Alipay Ant Forest.  and until now ,more than 200 million trees have already been planted .if you plant one virtual in your smartphone app. I’ll plant one real tree here.Together，we plant hope. `We believe technology is the biggest public good of our time.`
+
+Notes:
+
+- Ranger [**/'reɪn(d)ʒə/**](cmd://Speak/_uk_/ranger) 守林人
+- gorgeous[**/'gɔːdʒəs/**](cmd://Speak/_uk_/)非常漂亮的
+- 三年前我召集了我们村5个贫困户成立了合作社，和大家一起种树。聚集，集合：
+- gather[**/'gæðə/**](cmd://Speak/_uk_/gather) 聚集
+- impoverished[**/ɪm'pɒvərɪʃt/**](cmd://Speak/_uk_/) 贫困的
+- household [**/'haʊshəʊld/**](cmd://Speak/_uk_/) 一户人，一家人
+- Co-op: cooperative 合作社
+- ordinary[**/'ɔrdnɛri/**](cmd://Speak/_us_/ordinary) 普通的
+- reality[**/rɪ'æləti/**](cmd://Speak/_us_/reality) 现实
+
+
 
 <!-- Content_END -->
