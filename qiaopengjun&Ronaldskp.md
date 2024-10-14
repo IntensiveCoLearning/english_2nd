@@ -371,11 +371,20 @@ and kick ass...
 and I'm all out of bubblegum
 
 listen and write
-screet life just live
+secret life just live
 
 ### 2024.10.14
 
-笔记内容
+please say that again
+
+wash your face
+brush your teeth
+look at yourself in a mirror
+
+The secret of life is just to live every moment
+
+listen and write
+another
 
 ### 2024.10.15
 
