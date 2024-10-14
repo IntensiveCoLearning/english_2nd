@@ -240,6 +240,10 @@ billowed:翻腾
 
 笔记内容
 
+翻译了 Devcon 活动的信息
+
+At Devcon, we see many practical activities focused on Layer2, DeFi, CypherPunk, Meme, etc., but there's a lack of discussion and attention on Coordination. In today's world, where mature Web2 solutions already exist for sectors like Social and Gaming, the adoption of Web3 technologies in these areas is not necessarily essential. However, the impact of blockchain on coordination is revolutionary, as it brings unprecedented transparency, trust, and decentralization to human history for the first time. Given this context, our theme will explore both coordination and conflict. We'll draw insights from experiences, challenges, and solutions across various dimensions and fields, including but not limited to DAOs and public goods. Our aim is to analyze and inspire innovative solutions from a multidisciplinary perspective.
+
 ### 2024.10.15
 
 笔记内容
