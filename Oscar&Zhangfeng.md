@@ -186,7 +186,7 @@ Notes:
 - enable [**/ɪn'eɪb(ə)l/**](cmd://Speak/_uk_/) 使能够
 
 
-### 2024.10.13
+### 2024.10.14
 
 Listening and Learning English expression：
 
