@@ -152,6 +152,29 @@ Founded in 1956, the organisation sends survivors around the world to share thei
 -Dictation:  for to school
 -Fix: New York swept the Tampa Bay Rays by identical 4-2 scores in a day-night doubleheader Wednesday
 
+### 2024.10.13
+The UN peacekeeping force in southern Lebanon says Israeli tanks forced their way into one of its positions early on Sunday morning, the latest in a series of incidents in recent days.
+
+In a statement, the UN Interim Force in Lebanon (Unifil) said two Israel Defense Forces (IDF) tanks destroyed the main gate of a post in Ramyah, near the border with Israel, and "forcibly entered the position" to request it turn out its lights.
+
+About two hours later, it said rounds were fired nearby that saw smoke enter the camp, causing 15 peacekeepers to suffer skin irritations and gastrointestinal reactions.
+
+These incidents were "shocking violations", it said.
+
+The statement comes after Israel's prime minister Benjamin Netanyahu urged Unifil to move away from areas where fighting was taking place "immediately".
+
+In a video statement issued by his office on Sunday, Benjamin Netanyahu told Unifil to get its troops "out of harm's way", claiming that their presence in the region made them "hostages of Hezbollah".
+
+Israel has faced international condemnation for previous instances in which Unifil troops have been injured in southern Lebanon - with the IDF admitting responsibility for firing toward UN posts in some cases.
+
+Unifil said: "For the fourth time in as many days, we remind the IDF and all actors of their obligations to ensure the safety and security of UN personnel and property and to respect the inviolability of UN premises at all times."
+
+It described the breach of its post in Ramyah as "a further flagrant violation of international law".
+
+Unifil added that on Saturday israeli troops had blocked them from carrying out a "critical" logistical movement near Meiss El Jebel, also near the border.
+
+Israel has previously asked Unifil to withdraw north by 5km (3 miles) after it launched an invasion targeting the armed group Hezbollah. Unifil has so far refused that request.
+
 
 
 
