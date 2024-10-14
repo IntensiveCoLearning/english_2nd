@@ -200,5 +200,14 @@ Qi:
 2. https://www.bilibili.com/video/BV1U7411a7xG?vd_source=bc0666711d2280c24d54945ab9c11146&spm_id_from=333.788.videopod.episodes&p=3
    2-3 lessons
 3. https://www.bilibili.com/video/BV1cu411r7pw?spm_id_from=333.788.videopod.episodes&vd_source=becdf6db78142d73438794568ca31367&p=21
-006 lessons
+   006 lessons
+
+### 2024.10.14
+
+Qi:
+
+1. Today is a 170-day winning streak on duoligo
+2. https://www.bilibili.com/video/BV1U7411a7xG?vd_source=bc0666711d2280c24d54945ab9c11146&spm_id_from=333.788.videopod.episodes&p=3
+   4-5 lessons
+
 <!-- Content_END -->
