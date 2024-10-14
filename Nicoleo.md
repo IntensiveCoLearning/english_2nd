@@ -104,23 +104,35 @@ https://www.kernel.community/en/learn/module-1/dreamers/#-ethereal-dreamers
 1.Learning material:
 https://a16z.com/export-your-brain-with-ai/
 2. Key point:
- - assuaged with
- - offhandedly
+ - assuaged with 用...缓解
+ - offhandedly，随便地、即席地、漫不经心地。
+词根：off（离开、偏离）+hand（手）+edly（副词后缀），字面意思为偏离手的状态，引申为不经手认真准备，即随便、漫不经心。
 
 
 ### 2024.10.13
 1. learning material:
 https://darioamodei.com/machines-of-loving-grace
 2. Key point:
-- 
+- the upside of … 的好处
+- hedged
+  - a concrete vision does more to advance discussion than a highly hedged and abstract one.
 ### 2024.10.14
 1. Learning material:
 https://danieljeffries.substack.com/p/the-pathways-of-tomorrow-four-big-predictions-for-the-next-twenty-years-e9221d00dd91
 2. Key point:
 - pesky，讨厌的；惹人厌烦的
 - terseness 简洁
-### 2024.10.15
 
+### 2024.10.15
+1. Learning material: 继续读完Anthropic创始人万字长文
+2. Key point:
+   - grandiosity 宏伟
+   - unilaterally 单方面地
+   - imbue vt 灌输 imbue them with a sort of unreality
+   - connotatively 隐含地
+   - smuggles v．走私
+   - adversarial 对立的
+   - squabbles n．小争吵
 ### 2024.10.16
 
 ### 2024.10.17
