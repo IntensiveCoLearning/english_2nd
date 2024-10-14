@@ -145,5 +145,20 @@ m
         What are you doing here(out here 一个人。。。在外面..干嘛？, over here  你跑到这里干嘛，本来， in here)?
         What are you doing out there?( over there)
 
+### 2024.10.14
+	不规则的动词学习记忆  https://zhuanlan.zhihu.com/p/141507422  
+	be (am, is, are) – was, were – been
+	简单的句子学习练习
+ 	I really and truly am in love this time.
+	I am new to the town.
+	There were 50 people there, at the very most.   Where were they made. It's time the kids were in bed.
 
+	AAA 型
+	broadcast   I don't like to broadcast the fact that my father owns the company. They began broadcasting in 1922.
+	arise
+	
+	How did you test go? What do you want to do tomorrom
+
+	https://www.youtube.com/watch?v=eg71e0xB8dw  口语学习 What are you reading ? What did you learn today?
+	
 <!-- Content_END -->
