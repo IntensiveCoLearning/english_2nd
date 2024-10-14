@@ -73,10 +73,13 @@ Vocabulary: approval, turnaround, permit/permission, photography(辯音), & flye
 
 ### 2024.10.13
 
+精聽這個影片 2:57~3:27 https://youtu.be/TjPFZaMe2yw?si=p6NeqbMWX3WxThTR
+(時間不多，只練習半小時，9:50~10:20)
 
 
 ### 2024.10.14
 
+跟 ChatGPT 聊天對話 (22:50~23:50)
 
 
 ### 2024.10.15
