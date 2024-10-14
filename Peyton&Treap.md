@@ -408,4 +408,106 @@ Today, we primarily worked on compiling an English learning text. Here are some 
 - **HODL waves** /hɒdl weɪvz/ n. 长期持有加密货币用户的分布趋势
 - **Abstract** /ˈæbstrækt/ v. 提取，抽象化
 
+### 2024.10.13
+
+I apologize for neglecting to update this markdown yesterday. I was engaged in creating an English essay guide for a friend preparing for the master's entrance exam in China. I’d like to share some expressions that could be beneficial for you all:
+
+- **Exceptional** /ɪkˈsɛpʃənl/ *adj.* 优异的；卓越的；罕见的
+- **Juxtaposition** /ˌdʒʌkstəpəˈzɪʃən/ *n.* 并列；对比；并置
+- **Societal** /səˈsaɪədl/ *adj.* 社会的；与社会相关的
+- **Shift** /ʃɪft/ *n.* 变化；转变；*v.* 转换；改变
+- **Pillar** /ˈpɪlər/ *n.* 支柱；柱子；重要支持
+- **Cardiovascular** /ˌkɑrdiəʊˈvæskjʊlər/ *adj.* 心血管的
+- **Citizenry** /ˈsɪtɪzənri/ *n.* 公民；居民；国民
+- **Resilience** /rɪˈzɪljəns/ *n.* 适应力；恢复力；韧性
+- **Imperative** /ɪmˈpɛrətɪv/ *adj.* 必要的；紧急的；*n.* 重要任务
+- **Concerted** /kənˈsɜːrtɪd/ *adj.* 齐心协力的；一致的；共同的
+- **Placing paramount importance on** *phr.* 极为重视，赋予最高优先级（比“attaching great importance to”更高级的表达，语气更正式）
+- **Revitalize** /riːˈvaɪtəlaɪz/ *v.* 使恢复生机，使振兴
+- **Be endowed with** /ɪz ɪnˈdaʊd wɪð/ *phr.* 被赋予，天生具有
+- **Be rendered rootless** /bi ˈrɛndərd ˈruːtlɪs/ *phr.* 被变得无根，失去归属感
+- **Disheartening** /dɪsˈhɑːrtənɪŋ/ *adj.* 令人沮丧的，使人气馁的
+- **In light of** /ɪn laɪt ɒv/ *phr.* 鉴于，考虑到
+- **Imperative** /ɪmˈpɛrətɪv/ *adj.* 必要的，紧急的，极其重要的
+- **Rejuvenate** /rɪˈʤuːvəˌneɪt/ *v.* 使恢复活力，焕发青春
+- **Ancestral heritages** /ænˈsɛstrəl ˈhɛrɪtɪʤɪz/ *n.* 祖先的遗产，祖传文化
+- **Contend** /kənˈtɛnd/ *v.* 竞争，斗争；主张，声称
+- **Energize** /ˈɛnərˌdʒaɪz/ *v.* 激励，赋予活力；使充满能量
+- **Pivotal** /ˈpɪvətl/ *adj.* 关键的，重要的；中心的，枢纽的
+- **Proactive** /proʊˈæktɪv/ *adj.* 积极主动的；预防性的，先发制人的
+- **Growth-oriented** *adj.* 以增长为导向的；注重发展的，关注成长的
+- **Disheartened** /dɪsˈhɑːrtənd/ *adj.* 失去信心的，沮丧的
+- **Adds more depth to** *phr.* 使更具深度，增加深度
+- **Tedious** /ˈtiːdiəs/ *adj.* 冗长乏味的，令人厌倦的
+- **Subtly yet powerfully** *phr.* 微妙而又强有力地
+- **Notion** /ˈnoʊʃən/ *n.* 概念，想法
+- **Merits further reflection** *phr.* 值得进一步反思
+- **Insurmountable** /ˌɪnsərˈmaʊntəbl/ *adj.* 难以克服的，不可逾越的
+- **Resilience** /rɪˈzɪlɪəns/ *n.* 适应力，韧性
+- **Instill in** *phr.* 逐渐灌输，逐步培养
+- **Reassure** /ˌriːəˈʃʊr/ *v.* 使安心，打消疑虑
+- **Innate** /ɪˈneɪt/ *adj.* 先天的，固有的
+- **Hone** /hoʊn/ *v.* 磨练，提升（技能）
+- **Within reach** *phr.* 在可及范围内，触手可及
+- **Poise** /pɔɪz/ *n.* 镇定，自信
+- **In essence** *phr.* 本质上，实质上
+- **Empower** /ɪmˈpaʊər/ *v.* 授权，赋予权力
+- **Grapple** /ˈɡræpəl/ *v.* 努力解决， grapple with 表示努力处理或解决某个复杂的问题或挑战
+- **Opt for** *v.* 选择，决定；在多个选择中做出选择或偏好某个选项
+- **Job arena** /dʒɑːb əˈriːnə/ *n.* 职业领域；与工作相关的环境或范围，通常指特定行业或职业
+- **Arena** /əˈriːnə/ *n.* 竞技场；比喻指某个特定领域或环境，在此领域中发生竞争、冲突或活动
+- **Torchbearer** /ˈtɔːrtʃˌberər/ *n.* 领路人，先锋；象征性地指引他人的人，通常在某一领域或运动中起到领导作用
+- **Dedicate ourselves to** *v.* 致力于；把时间、精力或资源专注于某个特定目标或事业
+- **Aspire** /əˈspaɪər/ *v.* 渴望，追求；有强烈的愿望去实现某个目标或理想
+- **Garner** /ˈɡɑːrnər/ *v.* 收集，获得；通过努力或行动积累或获取某种东西
+- **Provoke** /prəˈvoʊk/ *v.* 激怒，挑衅；引发某种反应或情感，通常是负面的
+- **Compelling** /kəmˈpɛlɪŋ/ *adj.* 引人注目的，令人信服的；具有强烈吸引力或说服力的
+- **Top-tier** /ˈtɑːp tɪr/ *adj.* 顶级的，一流的；在质量、地位或重要性上位于最高等级的
+- **Dot-com** /ˈdɒt kɒm/ *n.* 网络公司；通常指在互联网行业中运营的公司，尤其是以“ .com”结尾的域名
+- **Shy away from** *v.* 退缩，避开；对某事物感到不安而选择远离或不参与
+- **Sporting** /ˈspɔːrtɪŋ/ *v.* 故意显示
+- **Beaming** /ˈbiːmɪŋ/ *adj.* 笑容满面的，愉悦的；形容面容喜悦或充满光芒
+- **Contemplate** /ˈkɒntəmpleɪt/ *v.* 深思，沉思；仔细考虑或思考某事
+- **Epitomize** /ɪˈpɪtəmaɪz/ *v.* 体现，概括；作为某种特征或品质的典型例子
+- **Succumb** /səˈkʌm/ *v.* 屈服，投降；在压力或诱惑面前让步或放弃
+- **Prime** /praɪm/ *adj.* 主要的，首要的；最重要或最优先的
+- **Relinquish** /rɪˈlɪŋkwɪʃ/ *v.* 放弃，自愿放弃某种权利或控制
+- **A prerequisite for** *phr.* 先决条件；某事发生或存在所必需的条件
+- **Prerequisite** /ˌpriːˈrɛkwɪzɪt/ *n.* 先决条件；在某事之前需要满足的条件
+- **Staying committed to** *v.* 坚持承诺；持续对某事保持忠诚或承诺
+
+
+
+### 2024.10.14
+
+I have primarily focused on developing a new text titled **"Pitching and Negotiating: Strategies for Securing Investment in Web3."** To highlight our efforts, I would like to share some key terminology from our work:
+
+- **fast-paced** /fæst peɪst/ *adj.* 快节奏的
+- **bring...to life** 使……栩栩如生；赋予……生命
+- **resonate with** 引起共鸣；与……产生共鸣
+- **differentiation** /ˌdɪfəˌrɛnʃiˈeɪʃən/ *n.* 区别，差异化
+- **acumen** /ˈækjəmən/ *n.* 敏锐，洞察力
+- **instill in** 向……灌输；逐步培养
+- **metrics** /ˈmɛtrɪks/ *n.* 度量标准；指标
+- **rationale** /ˌræʃəˈnæl/ *n.* 理由；根本原因
+- **pitch** /pɪtʃ/ *v.* 推销（项目、产品或想法）
+- **startup** /ˈstɑrtʌp/ *n.* 初创公司
+- **negotiate** /nɪˈɡoʊʃiˌeɪt/ *v.* 谈判；协商
+- **funding** /ˈfʌndɪŋ/ *n.* 资金；融资
+- **partnership** /ˈpɑrtnərˌʃɪp/ *n.* 合作伙伴关系
+- **venture capitalists** 风险投资人
+- **bet on** 押注；看好
+- **selling point** 卖点
+- **incentive mechanism** 激励机制
+- **key performance indicators** 关键绩效指标（KPI）
+- **valuation** /ˌvæljʊˈeɪʃən/ *n.* 估值
+- **allocation** /ˌæləˈkeɪʃən/ *n.* 分配
+- **align with** 与……保持一致；对齐
+- **tricky** /ˈtrɪki/ *adj.* 棘手的
+- **exit strategy** 退出策略
+- **buyback** 回购
+- **value proposition** 价值主张
+
+
+
 <!-- Content_END -->
