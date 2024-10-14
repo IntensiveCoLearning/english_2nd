@@ -133,5 +133,10 @@ https://www.bilibili.com/video/BV1U7411a7xG?p=7
 little time today，but meaningful。And I'm trying to hold on it!
 
 ### 2024.10.13
+![image](https://github.com/user-attachments/assets/7994b545-ad8a-45c5-9b4c-4628c94a2372)
+![image](https://github.com/user-attachments/assets/280ac97d-6217-4880-9f86-de523a7f4a66)
+https://www.bilibili.com/video/BV1U7411a7xG?p=8
+https://www.bilibili.com/video/BV1U7411a7xG?p=9&spm_id_from=pageDriver
+I studyed the pronounciation of the native speaker,such as when 'is' relates to 'the',u'd better connet the 's' with the 'th' so that the pronounciation is changed into 'zuh'.It is uesful and has lot of fun!
 
 <!-- Content_END -->

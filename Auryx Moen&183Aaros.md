@@ -117,13 +117,18 @@ To going on debonair debonairely, you must fully accept and love it, flaws and a
 - LISTENING: you are swipe type of base raised by indentical four to scores, in the day nine double hater Wensday
 - Right answer: New York swept the Tampa Bay Rays by identical 4-2 scores in a day-night double header Wednesday.(Too many things unknown in this
 - P12:LISTENING:muppets🎎dolls of Google.  Ninteen thirty six:Someday will the lovers and dreamer and for me. Gem pansen creator of the muppets from xxxxx acceessenmi street, is xxxx mississipi
-- Right Answer: Jim Henson, creator of the muppets-from kermit the Frog to Sesame Street - is born in Greenville, Mississippi.(Too man)
+- Right Answer: Jim Henson, creator of the muppets-from kermit the Frog to Sesame Street - is born in Greenville, Mississippi.(Too many weird words)
 - P13:Ancient tiger misqutio united tropic of southeast Asia,But in past few years they have spread all across the southeast of united state
 - Right answer: Asian tiger mosquitoes are native_to_the tropics of Southeast Asia, but in past few years they have spread all across southeaster united States.('To' barely pronounced
 - Tropics: 热带地区
 
-
-
+### 2024.10.13
+- Learning Materials https://www.bilibili.com/video/BV1U7411a7xG?p=14&vd_source=70d22df5993b243adb2c4be25499c92e
+- P14 LISTENING: Cats repeadly have nine lives, and he clearly wanted to spend at least one of them, here in New York city.(COMPLETELY RIGHT
+- recorrect: repeadly->reputedly:supposedly at_least l cancel t a`least
+- P15: The frantic pacing seem（scenes） changes every eleven second on average, often leads(leaves) kids zoomed(zone) out and spawn(spun) up, unable to concentrate(Material from SpongeBob)
+- Frantic: loss of control pacing: speed
+ 
 
 
 

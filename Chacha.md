@@ -134,4 +134,10 @@ Yes
 
 1. Carefully read this article and understand it deeply. [Sneaky React Memory Leaks: How the React compiler won't save you](https://www.schiener.io/2024-07-07/react-closures-compiler)
 
+### 2024.10.13
+
+1. Learned 40 vocabulary.
+   <img width="200" alt="Chacha 10-13" src="https://github.com/user-attachments/assets/cc854e08-cfa3-4c40-a85f-35c0bd383aad" />
+
+
 <!-- Content_END -->

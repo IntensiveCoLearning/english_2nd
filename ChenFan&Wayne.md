@@ -124,6 +124,25 @@ they ve spread 不是swept/
 
 -fix: he clearly want to spend at least one of them .....
 
+### 2024.10.13
+-今天发现以前中文背单词是不对的，找了个英英释义的软件背了40分钟的单词、下周期末考试，今天忙着复习，没练习daily english、翻译一句期末考试的英文文档把。
 
+-English：Function definitions A function provides a mapping from its domain to its range.A function differs from a process in several ways: A function does not allow nondeterministic inputs and outputs whereas a process does. A function yields only one group of output whereas a process allows many groups. A function does not access to external variables (denoting stores in CDFDs) whereas a process may do so.
+
+-Translation：函数定义： 一个映射函数会将定义域的值映射到值域。函数与过程在以下几个方面有所不同：函数允许不非确定的输入和输出，然而过程允许这样做。过程有很多个输出，函数只能有一个输出。函数不允许外部变量（指的是存储在CDFD中的），然而过程允许。
+
+### 2024.10.14
+
+### 2024.10.15
+
+### 2024.10.16
+
+### 2024.10.17
+
+### 2024.10.18
+
+### 2024.10.19
+
+### 2024.10.20
 
 <!-- Content_END -->
