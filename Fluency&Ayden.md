@@ -139,4 +139,11 @@ https://www.bilibili.com/video/BV1U7411a7xG?p=8
 https://www.bilibili.com/video/BV1U7411a7xG?p=9&spm_id_from=pageDriver
 I studyed the pronounciation of the native speaker,such as when 'is' relates to 'the',u'd better connet the 's' with the 'th' so that the pronounciation is changed into 'zuh'.It is uesful and has lot of fun!
 
+### 2024.10.14
+![屏幕截图 2024-10-14 172006](https://github.com/user-attachments/assets/502d1c1a-b71d-41d8-9b41-7afb50f2769d)
+Today's mask is studying the paper of something important,just an adjustment.
+
+### 2024.10.15
+
+### 2024.10.16
 <!-- Content_END -->
