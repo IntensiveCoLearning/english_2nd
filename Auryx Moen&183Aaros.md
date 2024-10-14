@@ -128,7 +128,10 @@ To going on debonair debonairely, you must fully accept and love it, flaws and a
 - recorrect: repeadly->reputedly:supposedly at_least l cancel t a`least
 - P15: The frantic pacing seem（scenes） changes every eleven second on average, often leads(leaves) kids zoomed(zone) out and spawn(spun) up, unable to concentrate(Material from SpongeBob)
 - Frantic: loss of control pacing: speed
- 
+- spun up: uncertain mind, crezy
+
+### 2024.10.14
+- gap day:P
 
 
 
