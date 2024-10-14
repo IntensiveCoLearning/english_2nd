@@ -204,6 +204,11 @@ Qi:
 
 ### 2024.10.14
 
+Chacha
+
+1. Learned 40 vocabulary. <img width="200" alt="Chacha 10-13" src="https://github.com/user-attachments/assets/8efec42b-11e0-4e8e-b16b-39d04b7603c2" />
+
+
 Qi:
 
 1. Today is a 170-day winning streak on duoligo
