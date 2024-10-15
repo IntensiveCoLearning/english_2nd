@@ -315,7 +315,7 @@ Battered 破烂不堪的；soaked 湿透的，soak过去式
 typhoon-in-a-week 连读
 
 
-### 2024.10.12
+### 2024.10.13
 
 Daily English Dictation  18～20
 
