@@ -315,6 +315,30 @@ Battered 破烂不堪的；soaked 湿透的，soak过去式
 typhoon-in-a-week 连读
 
 
+### 2024.10.12
+
+Daily English Dictation  18～20
+
+1.A few years ago they were thought to be useless - past their prime - not now.
+
+be thought = consider 1. 思考=考虑
+
+past my prime = past the period of best situation 过了状态最好的时期
+
+thought consider 认为 prime 盛年，巅峰期；主要的
+>
+2.If you are breathing, it's not too late get up and get going.
+
+
+3.A 67-year-old grandpa has been found alive after being stuck for 6 days at the bottom of a ravine.
+
+be stuck for = in a place where you can't leave.
+被困在一个无法离开的地方。
+
+ravine = deep place of the mountain.
+山沟=山的深处。
+
+alive 活着 stuck 卡住 bottom 底相关的 ravine 山谷
 
 
 
