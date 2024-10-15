@@ -143,4 +143,9 @@ Yes
 
 1. Learned 40 vocabulary. <img width="200" alt="Chacha 10-13" src="https://github.com/user-attachments/assets/8efec42b-11e0-4e8e-b16b-39d04b7603c2" />
 
+### 2024.10.15
+
+1. Learned 40 vocabulary. <img width="200" alt="Chacha 10-13" src="https://github.com/user-attachments/assets/4bc5ad8b-1cb9-49d0-adf5-819ae2fefe48" />
+
+
 <!-- Content_END -->
