@@ -138,5 +138,13 @@ confidential
 ![1012](img/Junhua_1013.png)
 patio
 
+### 2024.10.15
+![1015](img/Junhua_1015.png)
+rise as a leader
+civil
+spearhead
+segregation
+legislation
+tizzy
 
 <!-- Content_END -->
