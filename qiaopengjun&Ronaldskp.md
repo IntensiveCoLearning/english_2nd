@@ -388,7 +388,13 @@ another
 
 ### 2024.10.15
 
-笔记内容
+Why is that 是一个疑问句，用于询问原因。
+This is why 是一个陈述句，用于解释或总结原因。
+
+Another rogue trader has cost a bank billions
+
+listen and write
+rolf the most
 
 ### 2024.10.16
 
