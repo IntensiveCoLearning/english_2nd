@@ -579,6 +579,171 @@ timezone: Asia/Shanghai
 动词的用法涉及动词的分类、时态、语态、以及助动词和情态动词的使用。通过掌握这些规则，可以灵活使用动词来构建复杂的句子和表达多样的意义。
 
 ### 2024.10.15
+以下是一些常用的英语动词以及每个动词的例句。这些动词涵盖了日常交流中最常用的实义动词、助动词和情态动词。
+1. **be** - I **am** a student. （我是学生。）
+2. **have** - She **has** a new car. （她有一辆新车。）
+3. **do** - I **do** my homework every day. （我每天做作业。）
+4. **say** - She **said** hello. （她说了你好。）
+5. **go** - He **goes** to school by bus. （他乘公交车上学。）
+6. **get** - I **got** a gift from her. （我从她那里得到了一个礼物。）
+7. **make** - She **made** a cake. （她做了一个蛋糕。）
+8. **know** - I **know** the answer. （我知道答案。）
+9. **think** - He **thinks** you are right. （他认为你是对的。）
+10. **take** - She **took** the book. （她拿走了那本书。）
+11. **see** - I **saw** him at the park. （我在公园里看见了他。）
+12. **come** - She **came** to my house. （她来我家了。）
+13. **want** - I **want** to eat pizza. （我想吃披萨。）
+14. **look** - She **looked** at the sky. （她看了看天空。）
+15. **use** - He **uses** his phone a lot. （他经常使用手机。）
+16. **find** - She **found** the keys. （她找到了钥匙。）
+17. **give** - I **gave** her a gift. （我给了她一份礼物。）
+18. **tell** - He **told** me the story. （他告诉了我这个故事。）
+19. **work** - She **works** at a bank. （她在银行工作。）
+20. **call** - I **called** my friend yesterday. （我昨天给我的朋友打了电话。）
+21. **try** - She **tried** to open the door. （她试图打开门。）
+22. **ask** - He **asked** for help. （他请求帮助。）
+23. **need** - I **need** a break. （我需要休息一下。）
+24. **feel** - She **feels** tired. （她觉得累了。）
+25. **become** - He **became** a doctor. （他成为了一名医生。）
+26. **leave** - She **left** the room. （她离开了房间。）
+27. **put** - He **put** the book on the table. （他把书放在桌子上。）
+28. **mean** - What does this word **mean**? （这个词是什么意思？）
+29. **keep** - She **keeps** her promises. （她信守诺言。）
+30. **let** - Let me help you. （让我来帮你。）
+31. **begin** - The meeting **began** at 10 o'clock. （会议在10点开始。）
+32. **seem** - She **seems** happy. （她看起来很开心。）
+33. **help** - Can you **help** me with this? （你能帮我一下吗？）
+34. **talk** - They are **talking** about the project. （他们在讨论项目。）
+35. **turn** - He **turned** the page. （他翻过了这一页。）
+36. **start** - The race **started** early. （比赛提前开始了。）
+37. **show** - She **showed** me the picture. （她给我看了那张照片。）
+38. **hear** - I **heard** a strange noise. （我听到了一个奇怪的声音。）
+39. **play** - The children **play** in the park. （孩子们在公园里玩耍。）
+40. **run** - He **runs** every morning. （他每天早晨跑步。）
+41. **move** - They **moved** to a new house. （他们搬到了新家。）
+42. **live** - She **lives** in New York. （她住在纽约。）
+43. **believe** - I **believe** in you. （我相信你。）
+44. **hold** - She **held** the baby. （她抱着婴儿。）
+45. **bring** - Can you **bring** the book to me? （你能把那本书带给我吗？）
+46. **happen** - What **happened** yesterday? （昨天发生了什么？）
+47. **write** - He **writes** emails every day. （他每天写邮件。）
+48. **sit** - Please **sit** down. （请坐下。）
+49. **stand** - He **stood** by the door. （他站在门旁边。）
+50. **lose** - I **lost** my keys. （我丢了我的钥匙。）
+51. **pay** - I need to **pay** the bill. （我需要付账单。）
+52. **meet** - I **met** her last week. （我上周见了她。）
+53. **include** - The price **includes** tax. （价格包含税费。）
+54. **continue** - They **continued** the discussion. （他们继续讨论。）
+55. **set** - She **set** the alarm for 6 a.m. （她把闹钟设定为早上6点。）
+56. **learn** - He **learned** to swim last year. （他去年学会了游泳。）
+57. **change** - The weather **changed** suddenly. （天气突然变了。）
+58. **lead** - She **leads** the team. （她带领团队。）
+59. **understand** - Do you **understand** the question? （你理解这个问题吗？）
+60. **watch** - I **watched** a movie last night. （我昨晚看了一部电影。）
+61. **follow** - He **followed** the instructions. （他遵循了指示。）
+62. **stop** - The car **stopped** suddenly. （车子突然停下来了。）
+63. **create** - She **created** a beautiful painting. （她创作了一幅美丽的画。）
+64. **speak** - He **speaks** English fluently. （他英语说得很流利。）
+65. **read** - She **reads** a book every night. （她每晚读一本书。）
+66. **spend** - He **spent** all his money. （他花光了所有的钱。）
+67. **grow** - The plant **grows** quickly. （这株植物长得很快。）
+68. **open** - Please **open** the door. （请打开门。）
+69. **walk** - She **walks** to work every day. （她每天走路上班。）
+70. **win** - He **won** the game. （他赢得了比赛。）
+71. **teach** - She **teaches** English at school. （她在学校教英语。）
+72. **offer** - He **offered** me a job. （他给了我一份工作。）
+73. **remember** - I **remember** her name. （我记得她的名字。）
+74. **consider** - I will **consider** your suggestion. （我会考虑你的建议。）
+75. **appear** - She **appeared** on TV. （她出现在电视上。）
+76. **buy** - He **bought** a new car. （他买了一辆新车。）
+77. **wait** - Please **wait** here. （请在这里等候。）
+78. **serve** - They **serve** breakfast at 8 a.m. （他们在早上8点提供早餐。）
+79. **die** - The plant **died** without water. （这株植物因为缺水而死了。）
+80. **send** - I **sent** a letter yesterday. （我昨天寄了一封信。）
+81. **build** - They **built** a house. （他们建了一栋房子。）
+82. **stay** - I **stayed** at home yesterday. （我昨天待在家里。）
+83. **fall** - The tree **fell** down in the storm. （树在暴风雨中倒下了。）
+84. **cut** - She **cut** the paper. （她剪了纸。）
+85. **reach** - He **reached** the top of the mountain. （他到达了山顶。）
+------------------------------
+101. **kill** - The hunter **killed** the deer. （猎人杀死了鹿。）
+102. **raise** - They **raised** their hands. （他们举起了手。）
+103. **pass** - He **passed** the exam. （他通过了考试。）
+104. **sell** - She **sold** her car last month. （她上个月卖掉了车。）
+105. **decide** - I have **decided** to stay. （我决定留下。）
+106. **return** - She **returned** the book to the library. （她把书还给了图书馆。）
+107. **explain** - He **explained** the rules to me. （他向我解释了规则。）
+108. **hope** - I **hope** to see you soon. （我希望很快见到你。）
+109. **develop** - They are **developing** a new app. （他们正在开发一个新应用。）
+110. **carry** - He **carried** the heavy bag. （他提着那个沉重的袋子。）
+111. **break** - She **broke** the glass. （她打破了玻璃。）
+112. **receive** - I **received** your message. （我收到了你的信息。）
+113. **agree** - I **agree** with your opinion. （我同意你的看法。）
+114. **support** - She **supports** her family financially. （她在经济上支持她的家人。）
+115. **hit** - He **hit** the ball hard. （他用力击打了球。）
+116. **produce** - This factory **produces** cars. （这家工厂生产汽车。）
+117. **eat** - She **eats** an apple every morning. （她每天早晨吃一个苹果。）
+118. **cover** - He **covered** the table with a cloth. （他用布盖住了桌子。）
+119. **catch** - He **caught** the ball. （他接住了球。）
+120. **draw** - She **drew** a beautiful picture. （她画了一幅美丽的画。）
+121. **choose** - She **chose** the red dress. （她选择了红色的裙子。）
+122. **fight** - They **fought** for their rights. （他们为自己的权利而战斗。）
+123. **throw** - He **threw** the ball to his friend. （他把球扔给了他的朋友。）
+124. **fill** - She **filled** the glass with water. （她把杯子倒满了水。）
+125. **save** - He **saved** the documents on his computer. （他把文件保存到电脑上了。）
+126. **reduce** - We need to **reduce** our expenses. （我们需要减少开支。）
+127. **prepare** - She **prepared** dinner for her family. （她为家人准备了晚餐。）
+128. **build** - They are **building** a new house. （他们正在建一栋新房子。）
+129. **cut** - She **cut** the paper into small pieces. （她把纸剪成小块。）
+130. **reach** - He **reached** the finish line. （他到达了终点线。）
+131. **improve** - I want to **improve** my English. （我想提高我的英语水平。）
+132. **draw** - He **drew** a picture of a cat. （他画了一幅猫的画。）
+133. **choose** - I **chose** to stay at home. （我选择待在家里。）
+134. **accept** - She **accepted** the job offer. （她接受了工作机会。）
+135. **fight** - They **fought** against injustice. （他们对抗不公正。）
+136. **throw** - She **threw** the ball to her dog. （她把球扔给了她的狗。）
+137. **fill** - He **filled** the bottle with water. （他用水填满了瓶子。）
+138. **offer** - She **offered** him some tea. （她给他倒了一些茶。）
+139. **stay** - I **stayed** at home last weekend. （上周末我待在家里。）
+140. **push** - He **pushed** the door open. （他推开了门。）
+141. **save** - She **saved** the document before closing it. （她在关闭前保存了文件。）
+142. **measure** - He **measured** the length of the table. （他测量了桌子的长度。）
+143. **describe** - She **described** the event in detail. （她详细描述了这件事。）
+144. **improve** - We need to **improve** our services. （我们需要改进服务。）
+145. **reduce** - They want to **reduce** costs. （他们想降低成本。）
+146. **wear** - She **wears** a red dress. （她穿着红色的裙子。）
+147. **discuss** - They **discussed** the project during lunch. （他们在午餐期间讨论了这个项目。）
+148. **prove** - He **proved** his theory with evidence. （他用证据证明了他的理论。）
+149. **test** - We need to **test** the software before launching it. （我们在发布前需要测试软件。）
+150. **apply** - She **applied** for the job last week. （她上周申请了这份工作。）
+151. **handle** - He **handles** customer complaints well. （他处理顾客投诉处理得很好。）
+152. **avoid** - They **avoided** the traffic jam by taking a different route. （他们通过走另一条路避开了交通堵塞。）
+153. **pick** - She **picked** some flowers from the garden. （她从花园里摘了一些花。）
+154. **lift** - He **lifted** the heavy box. （他举起了那个沉重的箱子。）
+155. **break** - The vase **broke** when it fell. （花瓶掉下来摔碎了。）
+156. **increase** - They **increased** the price of the product. （他们提高了产品的价格。）
+157. **drop** - She **dropped** her keys on the floor. （她把钥匙掉在地上了。）
+158. **require** - The job **requires** strong communication skills. （这份工作需要很强的沟通能力。）
+159. **plan** - He **plans** to visit his grandparents next month. （他计划下个月去看望他的祖父母。）
+160. **suggest** - I **suggest** we leave early to avoid the traffic. （我建议我们早点出发，以避开交通堵塞。）
+161. **sing** - She **sings** beautifully. （她唱得很好听。）
+162. **listen** - He **listens** to music every day. （他每天听音乐。）
+163. **achieve** - They **achieved** their goals. （他们达到了目标。）
+164. **choose** - I **chose** the blue one. （我选择了蓝色的那个。）
+165. **deal** - He **deals** with difficult customers. （他应对困难的顾客。）
+166. **suppose** - I **suppose** you're right. （我想你是对的。）
+167. **smile** - She **smiled** when she saw the gift. （当她看到礼物时，她笑了。）
+168. **sleep** - He **slept** for eight hours last night. （他昨晚睡了八个小时。）
+169. **fly** - They **flew** to Paris for vacation. （他们飞到巴黎度假。）
+170. **hide** - He **hid** behind the tree. （他藏在树后面。）
+171. **clean** - She **cleaned** the house yesterday. （她昨天打扫了房子。）
+172. **fix** - He **fixed** the broken chair. （他修好了那把坏椅子。）
+173. **lock** - She **locked** the door before leaving. （她离开前锁了门。）
+174. **smell** - The flowers **smell** nice. （这些花闻起来很香。）
+175. **jump** - The cat **jumped** over the fence. （那只猫跳过了篱笆。）
+176. **plant** - They **planted** trees in the garden. （他们在花园里种了树。）
+177. **laugh** - She **laughed** at the joke. （她笑了那个笑话。）
+178. **touch** - He **touched** the hot stove and burned his hand. （他碰了热炉子，烫到了手。）
 
 ### 2024.10.16
 
