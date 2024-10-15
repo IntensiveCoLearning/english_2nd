@@ -508,6 +508,35 @@ I have primarily focused on developing a new text titled **"Pitching and Negotia
 - **buyback** 回购
 - **value proposition** 价值主张
 
+### 2024.10.15
+
+Still worked on the master entrance exam: 
+
+- **Unwavering spectator** /ʌnˈweɪvərɪŋ spɛkˈteɪtər/ *n.* 坚定不移的旁观者
+- **Speak to** /spiːks tuː/ *phr.* 说明，证明，表达出
+- **Revival** /rɪˈvaɪvəl/ *n.* 复兴，重生
+- **Lifeblood** /ˈlaɪfblʌd/ *n.* 命脉，核心力量
+- **Sustain a nation’s identity** *phr.* 维持一个国家的身份认同
+- **Boast** /boʊst/ *v.* 夸耀，拥有（某种值得骄傲的事物）
+- **Bridge the present and the past** *phr.* 将现在与过去联系起来
+- **Unanchored** /ʌnˈæŋkərd/ *adj.* 无根的，没有依附的
+- **Adrift in the tides of modernization** *phr.* 在现代化浪潮中漂泊不定
+- **Poses increasing threats to** /ˈpoʊzɪz ɪnˈkriːsɪŋ θrɛts tuː/ *phr.* 对……构成日益增加的威胁
+- **Sidelines** /ˈsaɪdlaɪnz/ *n.* 边线，场外，旁观
+- **Breathe new life into** /briːð nuː laɪf ˈɪntuː/ *phr.* 为……注入新的活力
+- **Perpetuation** /pərˌpɛʧuˈeɪʃən/ *n.* 延续，持续存在
+- **Mosaic** /moʊˈzeɪɪk/ *n.* 马赛克，拼接体（象征多样性或复杂的整体）
+- **Deem** /diːm/ *v.* 认为，视为；对某事物作出判断或评价
+- **Unmistakable** /ʌnˈmɪstəˌkeɪbl/ *adj.* 不可误解的，显而易见的；明确的，容易辨认的
+- **Resilience** /rɪˈzɪliəns/ *n.* 韧性，适应能力；在逆境中恢复或适应的能力
+- **Lay the groundwork for** *v.* 为……奠定基础；为某事的未来发展或成功做好准备
+- **Favor** /ˈfeɪvər/ *n.* 赞同，支持；恩惠，偏爱
+- **Readiness** /ˈrɛdiness/ *n.* 准备状态；处于准备好的状态，以应对即将发生的事情或挑战
+
+
+
+
+
 
 
 <!-- Content_END -->
