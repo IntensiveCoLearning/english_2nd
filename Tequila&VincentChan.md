@@ -136,4 +136,28 @@ Asian tiger mosquitoes are natived to the tropics of the southeast Asia but in t
 mosquito/skeeter蚊子
 native to…特有/原产于
 tropics热带
+
+### 2024.10.15
+i studied the P14-P16 in the bilibili video summary.Following are the notes:
+Cats reputedly have nine lives,and he clearly wanted to spend at least one of them here in New York City. 
+据说猫有九条命，并且它真的想在纽约这里浪费最少一条命。
+reputedly＝supposedly＝I've heard that＝somebody told me＝there's a rumor that据说
+clearly＝absolutely＝without a doubt＝there's no question
+
+The frantic pacing -scene changes every 11seconds on average often leaves kids zoned out and spun up;unable to concentrate. 
+平均每11秒场景转换的过快节奏经常让孩子们走神和晕眩，难以集中注意力。
+Spongebob（Squarepants）海绵宝宝
+frantic紧张忙乱的，手忙脚乱的
+pacing速度，节奏
+zone out 走神
+spin up晕眩
+
+Battered,soaked and flooded ;the Philippines is being hit by its second typhoon in a week. 
+受到了重创，被浸湿并被洪水袭击，菲律宾在一周里遭到了第二次台风的袭击。
+battered受到重创的/破旧不堪的
+soaked被浸湿的
+flooded被洪水淹没的
+the Philippines菲律宾
+typhoon台风
+
 <!-- Content_END -->
