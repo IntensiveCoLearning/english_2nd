@@ -184,5 +184,20 @@ Israel has previously asked Unifil to withdraw north by 5km (3 miles) after it l
 -Dictation: Mothers to resaid  his re  for her work to say  poor death in Indidan  he  is 87 years old 
 -Fix: Mother Teresa, who received a Nobel Peace Prize for her work, on behalf of the poor, dies in Calcutta, India--she was 87 years old.
 
+### 2024.10.15
+-Dictation: 
+
+-Fix: Jerry ,what time do you have?  I have five o'clock.
+
+-Dictation: There are there things that I  never to  discuss with people ,religion  politics   and 
+-Fix: There are three things I have learned, Never to discuss with people; religion , politics and the Great Pumpkin.
+
+-Dictation:
+
+
+
+
+
+
 
 <!-- Content_END -->
