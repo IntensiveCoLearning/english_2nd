@@ -160,5 +160,14 @@ m
 	How did you test go? What do you want to do tomorrom
 
 	https://www.youtube.com/watch?v=eg71e0xB8dw  口语学习 What are you reading ? What did you learn today?
+### 2024.10.15
+    沉浸式英文学习在bilibili 一个小时
+    I need a favor. I'll look into it. Let's take it follow. What's the status.I'am running late. Let's sync up.
+    I'll loop you in. Please keep me in loop. I'll give you a heads up. Thinks for th heads up. I'm out of loop.
+    I'll get back to you.I'll catch you later.Let's catch up soon. Let's get started.I'am on it. I'll take care of it.
+    I'll get it doen.I'll take it from here. I'am heading out.I'am in a meeting. Let's set a deadline. What's the bottom line?
+    I'am on a call.Can you share your thoughts.I'am working on it. Can you handle the follow-up. I'am out of the office.
+    I need more details. What's schedule a meeting.Can you reschedule? I'am good with that. Let's touch base tomorrom. That works for me.
+    I'll see you then.
 	
 <!-- Content_END -->

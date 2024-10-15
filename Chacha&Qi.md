@@ -215,4 +215,11 @@ Qi:
 2. https://www.bilibili.com/video/BV1U7411a7xG?vd_source=bc0666711d2280c24d54945ab9c11146&spm_id_from=333.788.videopod.episodes&p=3
    4-5 lessons
 
+### 2024.10.15
+
+Chacha
+
+1. Learned 40 vocabulary. <img width="200" alt="Chacha 10-13" src="https://github.com/user-attachments/assets/4bc5ad8b-1cb9-49d0-adf5-819ae2fefe48" />
+2. Listened to [Cigarettes After Sex Radio Station on Apple Music](https://music.apple.com/cn/station/cigarettes-after-sex/ra.1750343866?l=en-GB)
+
 <!-- Content_END -->
