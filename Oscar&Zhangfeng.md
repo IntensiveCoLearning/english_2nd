@@ -206,6 +206,19 @@ Notes:
 - ordinary[**/'ɔrdnɛri/**](cmd://Speak/_us_/ordinary) 普通的
 - reality[**/rɪ'æləti/**](cmd://Speak/_us_/reality) 现实
 
+### 2024.10.15
+
+Listening and Learning English expression：
+
+The Double Ninth Festival is a day for our grandparents in China. It is on October 11 2024 this year. Let me tell you about it. On this day, we can climb up the hills, enjoy chrysanthemums and drink wine. My grandparents always tell me "The higher you climb, the further you will stay away from disasters." And I think they're right. We can show our love and care to old people. Loving old people is a tradition in China. That is because they have more experience and they know how to help their children. So, in a family, old people are always the best teachers.
+
+- The Double Ninth Festival 重阳节
+- grandparents 祖父母
+- chrysanthemums 菊花
+- disaster 灾难
+
+
+
 
 
 <!-- Content_END -->
