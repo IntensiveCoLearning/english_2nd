@@ -176,6 +176,12 @@ timezone: Asia/Shanghai
 - You can also pass functions as props, which can be invoked within the child component to perform actions or computations.
   
 ### 2024.10.15
+- React Class Components are a way to create components with more complex logic and state management. They are defined using the class keyword in JavaScript, extending React.Component.
+- Class components provide a clear and structured set of lifecycle methods that allow you to perform side effects at specific points in the component's lifecycle.
+- While functional components with hooks can also manage state, class components have a more straightforward approach to state management and passing down props.
+- Class components allow you to define instance variables that are not directly related to the UI.
+- Despite these advantages, it's worth noting that React has been moving towards functional components with hooks as the primary way to build components due to their simplicity and the ability to use state and other React features without the need for a class. 
+
 ### 2024.10.16
 ### 2024.10.17
 ### 2024.10.18
