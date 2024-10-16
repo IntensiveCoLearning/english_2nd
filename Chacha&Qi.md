@@ -1,4 +1,4 @@
----
+![IMG_8799](https://github.com/user-attachments/assets/e3ce05db-ff1f-42cd-b7ce-54c27c13b76b)---
 timezone: Asia/Shanghai
 ---
 
@@ -206,7 +206,7 @@ Qi:
 
 Chacha
 
-1. Learned 40 vocabulary. <img width="200" alt="Chacha 10-13" src="https://github.com/user-attachments/assets/8efec42b-11e0-4e8e-b16b-39d04b7603c2" />
+1. Learned 40 vocabulary. <img width="200" alt="Chacha 10-14" src="https://github.com/user-attachments/assets/8efec42b-11e0-4e8e-b16b-39d04b7603c2" />
 
 
 Qi:
@@ -219,7 +219,14 @@ Qi:
 
 Chacha
 
-1. Learned 40 vocabulary. <img width="200" alt="Chacha 10-13" src="https://github.com/user-attachments/assets/4bc5ad8b-1cb9-49d0-adf5-819ae2fefe48" />
+1. Learned 40 vocabulary. <img width="200" alt="Chacha 10-15" src="https://github.com/user-attachments/assets/4bc5ad8b-1cb9-49d0-adf5-819ae2fefe48" />
 2. Listened to [Cigarettes After Sex Radio Station on Apple Music](https://music.apple.com/cn/station/cigarettes-after-sex/ra.1750343866?l=en-GB)
+
+### 2024.10.16
+
+Chacha
+
+1. Learned 40 vocabulary.<img width="200" alt="Chacha 10-16" src="https://github.com/user-attachments/assets/f8438220-087d-4aab-a746-7963a554017e" />
+2. Listened to this podcast https://podcasts.apple.com/cn/podcast/all-ears-english-podcast/id751574016?i=1000672461149
 
 <!-- Content_END -->
