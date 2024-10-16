@@ -226,7 +226,7 @@ but at any rate,it hadn't been around that long. l was living in Europe
 ### 2024.10.15
 Lola said you asked about her potate mashers . Your kid is super dope . And l was thinking
 ### 2024.10.16
-
+As a part of that , l was hanging out with a bunch of people over the world
 ### 2024.10.17
 
 ### 2024.10.18
