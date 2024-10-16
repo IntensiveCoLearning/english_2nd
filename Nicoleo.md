@@ -133,8 +133,21 @@ https://danieljeffries.substack.com/p/the-pathways-of-tomorrow-four-big-predicti
    - smuggles v．走私
    - adversarial 对立的
    - squabbles n．小争吵
-### 2024.10.16
 
+### 2024.10.16
+1. Learning material:None
+2. Free writing:
+   I'm a kind of person who remembers something and then will not easily forget.
+   Pure AI does all of these tasks with, again, a skill exceeding that of the most capable humans in the world.
+   In AI era, we should be talking about the marginal returns to intelligence, and trying to figure out what the other factors are that are complementary to intelligence and that become limiting factors when intelligence is very high.
+   AI can do a better job analyzing your data, but it can't produce more data or improve the quality of the data. Garbage in, garbage out.
+4. Key point:
+   - subpopulations n. 亚种群
+   - implausible adj. 难以置信的
+   - starker adj 更鲜明的
+   - malleable adj.有延展性的
+   - affliction n．痛苦
+   - human metabolism n. 人体新陈代谢
 ### 2024.10.17
 
 ### 2024.10.18
