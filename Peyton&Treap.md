@@ -533,10 +533,25 @@ Still worked on the master entrance exam:
 - **Favor** /ˈfeɪvər/ *n.* 赞同，支持；恩惠，偏爱
 - **Readiness** /ˈrɛdiness/ *n.* 准备状态；处于准备好的状态，以应对即将发生的事情或挑战
 
+### 2024.10.16
 
+[每日英语听写 Daily English Dictation 1-400_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?vd_source=bc0666711d2280c24d54945ab9c11146&spm_id_from=333.788.videopod.episodes)
 
+My version:
 
+Mother Terisa, who received the Nobel Peace Prize for her worked on behalf of the poor xxx Indian. She was 87 years old.
 
+Wow this dictation is really a chanllenging one.
 
+Formal version:
+
+Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor dies in Calcutta, India -- she was 87 years old.
+
+Note:
+
+- "Terisa" should be "Teresa";
+- "received the Nobel Peace Prize for her worked" should be  "received a Nobel Peace Prize for her work", among which two points are important:
+  - "the" --> "a"
+  - "worked" (v.)--> "work"(n.)
 
 <!-- Content_END -->
