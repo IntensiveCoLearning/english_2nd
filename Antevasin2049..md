@@ -181,6 +181,29 @@ Reportedly 和 Reputedly 的异同点, 两者都形容“据说”或“据报�
 今天主要用了notebookLLM学习了一些关于自己日常生活的词汇。
 
 ### 2024.10.16
+
+今天又开始做dictating 的训练了，上次做到#14了，今天继续
+**#15“The frantic pacing, scene changes every 11 seconds on average, often leads kids zoned out and spun up, unable to concentrate.”**
+*当一个单词以辅音音结尾，下一个单词以元音音开头时，常常会发生连读（liaison），比如说 Scene‿changes‿every‿11‿seconds‿on‿average.  [siːn‿tʃeɪndʒɪz‿evri‿ɪˈlevn‿ˈsekəndz‿ɒn‿ˈævərɪdʒ。
+***使役动词left的用法**
+（The rain left the streets flooded.）（The bad news left her speechless.）The social event left me anxious and depressed.
+使役动词（Causative verb）是指让某人或某物去做某事，或让某人/某物进入某种状态的动词。在英文中，这类动词用来表示一种间接的动作，即主体并非亲自做某事，而是让别人或某事物发生变化或完成某事。
+高频使役动词包括：make、let、have、get 和 help，这些词非常常见且实用。
+其他使役动词如 force、order、require 和 encourage 在更正式或特定情境中使用。
+Make、let、have 后面直接跟动词原形，而 get、force、ask 等动词后面要用 to do 的结构。
+例子：
+"She made me clean the room."
+"He got me to clean the room."
+***"Zoned Out"**
+Meaning: To become distracted, lost in thought, or unaware of your surroundings. It refers to a state where your mind drifts away from the present moment.
+Use: Often used informally to describe moments when you stop paying attention, either because you're tired, bored, or deep in thought.
+I got totally zoned out after joining the Web3 event.
+**"Spun Up"**
+Meaning: "Spun up" refers to becoming agitated, stressed, or overly excited. It often describes someone who is emotionally or mentally wound up due to stress, anxiety, or excitement.Example: "We spun up a new server to handle the increased traffic.""I was so spun up after the argument, I couldn’t sleep."
+(I was too agitated to sleep after the argument.)
+In IT or software contexts, "spun up" can refer to starting or launching something quickly, such as creating a new virtual server or service.
+
+
 ### 2024.10.17
 ### 2024.10.18
 ### 2024.10.19
