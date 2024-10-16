@@ -170,4 +170,11 @@ m
     I need more details. What's schedule a meeting.Can you reschedule? I'am good with that. Let's touch base tomorrom. That works for me.
     I'll see you then.
 	
+### 2024.10.16
+	https://www.youtube.com/watch?v=eg71e0xB8dw 日常沟通技巧
+	What' your favorite place in our town?
+	单词强化 https://www.youtube.com/watch?v=zR0bCVEaoYM 
+	absent absolute absorb abundant academy accelerate accessible accompany accomplish accord accumulate accurate accuse achieve acknowledge acquire activity actual adapt addiction adequate adjacent
+	adjust admission adopt advance advantage adventure adverse advertise advice advocate affect affection afford agency agenda aggressive agriculture aid aim aircraft alarm alien  alike allocate
+	alternative ambition amend analysis ancestor ancient anger angle announce annual anticipate anxiety apology appetite appoint appreciate approach appropriate approval 
 <!-- Content_END -->
