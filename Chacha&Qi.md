@@ -1,5 +1,6 @@
 ![IMG_8799](https://github.com/user-attachments/assets/e3ce05db-ff1f-42cd-b7ce-54c27c13b76b)---
 timezone: Asia/Shanghai
+
 ---
 
 > ⚠️ 本打卡表默认为北京时间 UTC+8 时区，正确格式如下：
@@ -208,7 +209,6 @@ Chacha
 
 1. Learned 40 vocabulary. <img width="200" alt="Chacha 10-14" src="https://github.com/user-attachments/assets/8efec42b-11e0-4e8e-b16b-39d04b7603c2" />
 
-
 Qi:
 
 1. Today is a 170-day winning streak on duoligo
@@ -222,11 +222,21 @@ Chacha
 1. Learned 40 vocabulary. <img width="200" alt="Chacha 10-15" src="https://github.com/user-attachments/assets/4bc5ad8b-1cb9-49d0-adf5-819ae2fefe48" />
 2. Listened to [Cigarettes After Sex Radio Station on Apple Music](https://music.apple.com/cn/station/cigarettes-after-sex/ra.1750343866?l=en-GB)
 
+Qi
+
+1. Today is a 171-day winning streak on duoligo
+
 ### 2024.10.16
 
 Chacha
 
 1. Learned 40 vocabulary.<img width="200" alt="Chacha 10-16" src="https://github.com/user-attachments/assets/f8438220-087d-4aab-a746-7963a554017e" />
 2. Listened to this podcast https://podcasts.apple.com/cn/podcast/all-ears-english-podcast/id751574016?i=1000672461149
+
+Qi
+
+1. Today is a 172-day winning streak on duoligo
+2. https://www.bilibili.com/video/BV1U7411a7xG?vd_source=bc0666711d2280c24d54945ab9c11146&spm_id_from=333.788.videopod.episodes&p=3
+   6-7 lessons
 
 <!-- Content_END -->
