@@ -143,6 +143,12 @@ To going on debonair debonairely, you must fully accept and love it, flaws and a
 - P17 LISTENING: A few years ago, they were thought to be useless, pass(paot) their prime, not now.
 - P18 LISTENING: If you are breathing it is not too late get up and get going.
 
+### 2024.10.16
+- Learning materials:https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=70d22df5993b243adb2c4be25499c92e&p=19
+- P19 LISTENING: A sisty seven grandpa has been found alive after being stuck for six days at the botton of a reveem(revine: bottom of a cliff, near a river).
+- P20 LISTENING: Saturaday, an untra like plane crashed to a fairs will, had ruror festival in austrllia  yet somehow no one on the amusement ride, nor the plane with hurt.
+- Saturday, an ultralight(really really light) plane crashed into a Ferris wheel at a rural(the contract of urban) festival in Australia, yet somehow no one on the amusement ride nor the plane was hurt
+
 
 
 <!-- Content_END -->
