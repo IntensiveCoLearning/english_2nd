@@ -276,6 +276,9 @@ Chris's post mentioned the LXTalk podcast project that was halted last year and 
 Note：
 halted :停止
 
+solicit donations:募捐，/səˈlisət/
+v.: 征求, 兜, 询问, 询, 兜揽, 邀, 告, 搂
+
 ### 2024.10.17
 
 笔记内容
