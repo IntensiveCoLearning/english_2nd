@@ -143,4 +143,11 @@ A satellite that was carried to space aboard the shuttle Discover 20 years ago i
 - debris n.残骸
 - carried to 和 is about to 中的 to 发 t'
 - 20 读得快的时候fa tweny，省略掉了后面的 t
+
+### 2024.10.16
+**Ditation 10**  
+It's a lofty,probably impossible goal.
+- a lofty goal = a super high goal  
+- It's a 快读成 iza 
+
 <!-- Content_END -->
