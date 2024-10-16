@@ -147,4 +147,9 @@ segregation
 legislation
 tizzy
 
+### 2024.10.16
+![1016](img/Junhua_1016.png)
+in and around ..  means in some place and around some place
+tatto
+
 <!-- Content_END -->
