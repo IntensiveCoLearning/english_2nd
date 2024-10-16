@@ -144,6 +144,11 @@ I studyed the pronounciation of the native speaker,such as when 'is' relates to 
 Today's mask is studying the paper of something important,just an adjustment.
 
 ### 2024.10.15
+![image](https://github.com/user-attachments/assets/c064d537-b87d-4c82-9d54-619188395456)
+![image](https://github.com/user-attachments/assets/36f2b5ad-fb28-4989-aa87-0c850718a49a)
+https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.videopod.episodes&p=10
+https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&p=11
+harder，55......
 
 ### 2024.10.16
 <!-- Content_END -->

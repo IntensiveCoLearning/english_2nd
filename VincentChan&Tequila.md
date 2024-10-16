@@ -136,4 +136,11 @@ German Rolf Buchholz is the man with the most piercings, he's got 453.
 - 453 的正确读法是 four hundred fifty three，而不是 four hundred and fifty three
 - 有时 hundred 读得快的时候发 hunerd
 
+### 2024.10.15
+**Ditaion 9**   
+A satellite that was carried to space aboard the shuttle Discover 20 years ago is about to fall to Earth, but nobody knows where the debris will hit.
+- shuttle n.航天飞机
+- debris n.残骸
+- carried to 和 is about to 中的 to 发 t'
+- 20 读得快的时候fa tweny，省略掉了后面的 t
 <!-- Content_END -->

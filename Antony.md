@@ -84,6 +84,19 @@ Vocabulary: approval, turnaround, permit/permission, photography(辯音), & flye
 
 ### 2024.10.15
 
+精聽這個影片 3:27~4:48 https://youtu.be/TjPFZaMe2yw?si=p6NeqbMWX3WxThTR
+(18:00~19:10)
+
+
+### 2024.10.16
+
+
+
+### 2024.10.17
+
+
+
+### 2024.10.18
 
 
 

@@ -143,5 +143,8 @@ I learn grammly from duolinguo.
 
 完成多邻国8个小节任务，并查看了web3词汇表
 
+### 2024.10.15
+
+今天完成2个句子听写，我日常外国人问路。
 
 <!-- Content_END -->

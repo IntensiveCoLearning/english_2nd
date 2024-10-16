@@ -132,7 +132,16 @@ To going on debonair debonairely, you must fully accept and love it, flaws and a
 
 ### 2024.10.14
 - gap day:P
+- 
 
+
+### 2024.10.15
+- Learning materials:https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=70d22df5993b243adb2c4be25499c92e&p=18
+- P16 LISTENING: better soped and flooded, the philipin is hit by second typhoon in a week
+- CORRECT ANSWER:Battered, soaked and flooded, the Philippines, is being hit by its second typhoon in a week
+- NEW WORDS:batter:constantly hitting. soak: completely wet
+- P17 LISTENING: A few years ago, they were thought to be useless, pass(paot) their prime, not now.
+- P18 LISTENING: If you are breathing it is not too late get up and get going.
 
 
 

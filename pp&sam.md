@@ -315,7 +315,39 @@ Battered 破烂不堪的；soaked 湿透的，soak过去式
 typhoon-in-a-week 连读
 
 
+### 2024.10.13
 
+Daily English Dictation  18～20
+
+1.A few years ago they were thought to be useless - past their prime - not now.
+
+be thought = consider 
+
+past my prime = past the period of best situation 
+
+thought consider 认为 prime 盛年，巅峰期；主要的
+>
+2.If you are breathing, it's not too late get up and get going.
+>
+
+3.A 67-year-old grandpa has been found alive after being stuck for 6 days at the bottom of a ravine.
+
+be stuck for = in a place where you can't leave.
+
+ravine = deep place of the mountain.
+
+alive 活着 stuck 卡住 bottom 底相关的 ravine 山谷
+>
+
+### 2024.10.14
+
+Daily English Dictation  21
+
+Saturday, an ultralight plane crashed into a Ferris wheel at a rural festival in Australia, yet somehow no one on the amusement ride nor the plane was hurt.
+
+Hotspot
+
+On October 13, 2024, United States Space Exploration (SpaceX) successfully conducted the fifth test flight of the Super Heavy Boost/Starship Complex (IFT-5) (hereinafter referred to as "Starship") at the Boca Chika base in Texas. This test flight has made an important breakthrough, the first-stage rocket "super-heavy" booster has achieved the "chopsticks" robotic arm capture and recovery for the first time, and the second-stage rocket "Starship" spacecraft has achieved low-speed vertical splashing on the sea surface, marking an important step on the road to SpaceX's "Starship" fully reusable target.
 
 
 

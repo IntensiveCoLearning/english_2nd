@@ -245,8 +245,18 @@ billowed:翻腾
 At Devcon, we see many practical activities focused on Layer2, DeFi, CypherPunk, Meme, etc., but there's a lack of discussion and attention on Coordination. In today's world, where mature Web2 solutions already exist for sectors like Social and Gaming, the adoption of Web3 technologies in these areas is not necessarily essential. However, the impact of blockchain on coordination is revolutionary, as it brings unprecedented transparency, trust, and decentralization to human history for the first time. Given this context, our theme will explore both coordination and conflict. We'll draw insights from experiences, challenges, and solutions across various dimensions and fields, including but not limited to DAOs and public goods. Our aim is to analyze and inspire innovative solutions from a multidisciplinary perspective.
 
 ### 2024.10.15
+https://www.bbc.co.uk/learningenglish/chinese/features/take-away-english/ep-241014
 
-笔记内容
+freelance 从事自由职业
+copywriter 广告文字撰稿人
+home base 相对固定的住所
+remote working 远程办公
+country-hop 在多个国家间居住和旅行
+reliable wi-fi 稳定的无线网络
+overheating laptop 过热的笔记本电脑
+missing luggage 丢失的行李
+rat-race “老鼠赛跑”，永无休止的竞争/内卷
+
 
 ### 2024.10.16
 

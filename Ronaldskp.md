@@ -224,7 +224,7 @@ you definitely are the expert , but one of the things that's been interesting ov
 l want to hear you describe for everybody a. little bit about how did Rachel's English come into existence ? Give us a little bit of the story.l mean,where did this thing come from
 but at any rate,it hadn't been around that long. l was living in Europe
 ### 2024.10.15
-
+Lola said you asked about her potate mashers . Your kid is super dope . And l was thinking
 ### 2024.10.16
 
 ### 2024.10.17

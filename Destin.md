@@ -162,6 +162,14 @@ I have a lot on plate these days 这些天我有很多事情要做
 sail through  轻松应付.轻松度过。
 thrill 非常兴奋激动。
 entry-level 入门级别
+### 2024.10.15
+听一篇文章并进行转述
+The drums beat as the dragon boats race . This must be mainland China or Taiwan, right? Think again. These days the traditional Chinese boats are racing in places as unlikely as England and Italy. Dragon -boat racing was introduced to the world in 1982, when the Hong Kong Dragon Boat Festival1 included international competitors. In the 1990s, dragon-boat racing caught on2 in many non-Asian countries. It quickly became the world’s fastest-growing water sport. What’s the appeal3 ? Dragon-boat racing combines athletic competition , cultural interest and just plain fun.
 
+　　The boats are manned4 by 20 paddlers, one drummer and one person who steers. Nearly 18 meters long, the colorful boats resemble dragons with elaborate heads and tails. The team paddles to the beat of the drum. The boats speed along, rising high and moving smoothly along the water. In about three to six minutes, they cross the finish line.
+
+　　The races recall Qu Yuan, a patriotic poet in ancient China. When he drowned in the Mi Luo River, the people raced out to save him. But they were too late .
+
+　　Dragon boats are now racing in towns and cities around the world. Students, working people and older people race for fun and exercise . Serious paddlers compete for cups and medals. In the United States, the Pacific Northwest International Dragon Cup is in its 11 th year. In Toronto, about 250, 000 spectators turn out for dragon-boat races each summer. Sweden has over 400 teams. Poland, too, has several dragon-boat clubs.
 
 <!-- Content_END -->

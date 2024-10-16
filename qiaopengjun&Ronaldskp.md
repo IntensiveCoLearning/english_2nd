@@ -398,7 +398,11 @@ rolf the most
 
 ### 2024.10.16
 
-笔记内容
+calculator 计算器
+German, Rolf Buchholz, is the man with the most piercings; he's got 453
+
+listen and write
+twenty years ago but nobody
 
 ### 2024.10.17
 
