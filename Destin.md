@@ -172,4 +172,10 @@ The drums beat as the dragon boats race . This must be mainland China or Taiwan,
 
 　　Dragon boats are now racing in towns and cities around the world. Students, working people and older people race for fun and exercise . Serious paddlers compete for cups and medals. In the United States, the Pacific Northwest International Dragon Cup is in its 11 th year. In Toronto, about 250, 000 spectators turn out for dragon-boat races each summer. Sweden has over 400 teams. Poland, too, has several dragon-boat clubs.
 
+### 2024.10.16
+听一篇文章并进行转述
+  Moms today tend to be older than in the past. Just looking at recent years, the change in age-specific birth rates has been drastic. In just the past few years, the peak child-bearing age range for American women has advanced from that of 25 to 29 to that of 30 to 34. Meanwhile, child-bearing among women under 20 has fallen by half or more, while child-bearing among women 35 and older is rising. One positive consequence of this age shift is that a larger proportion of new mothers are economically prepared to raise children. Less positively, however, many women find that as they age, they can't have as many kids as they would like. Plus, having children later in life can increase the risk of health complications. These finer points aside, one major consequence of the older mom's trend is that fewer years of a woman's life are spent as a mother. This means that at any given time, a larger share of women, and thus of the whole population, will report not having children in government surveys. In other words, later motherhood means less motherhood.
+
+
+
 <!-- Content_END -->
