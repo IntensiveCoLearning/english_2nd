@@ -212,12 +212,26 @@ Listening and Learning English expression：
 
 The Double Ninth Festival is a day for our grandparents in China. It is on October 11 2024 this year. Let me tell you about it. On this day, we can climb up the hills, enjoy chrysanthemums and drink wine. My grandparents always tell me "The higher you climb, the further you will stay away from disasters." And I think they're right. We can show our love and care to old people. Loving old people is a tradition in China. That is because they have more experience and they know how to help their children. So, in a family, old people are always the best teachers.
 
+Notes:
+
 - The Double Ninth Festival 重阳节
 - grandparents 祖父母
 - chrysanthemums 菊花
 - disaster 灾难
 
+### 2024.10.16
 
+Listening and Learning English expression：
+
+"Black Myth: Wukong" is a new and interesting game based on the well-known Chinese story, "Journey to the West". In the game, players act as the Monkey King, SunWuKong, and have an exciting adventure. The game is set in a world full of ancient Chinese legends, showing the beauty and mystery of old China. Many foreign players experienced the depth and vastness of Chinese culture for the first time through this game. They also actively learned about "Journey to the West" and explored that distant and mysterious  Eastern world.
+
+Notes:
+
+- Myth 神话
+- legend 传说
+- depth 深度
+- vastness 广度
+- distant 遥远的
 
 
 
