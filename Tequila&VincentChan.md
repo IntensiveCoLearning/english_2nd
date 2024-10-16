@@ -160,4 +160,21 @@ flooded被洪水淹没的
 the Philippines菲律宾
 typhoon台风
 
+### 2024.10.16
+i studied the P17-P19 in the bilibili video summary.Following are the notes:
+animal shelter动物收容所
+euthanasia安乐死
+A few years ago,they were thought to be useless-past their prime-not now. 
+与现在不同，几年前他们还被认为过了黄金期所以一无是处。
+P.S.
+1.not now放在前面使中文表达通顺
+2.破折号后的有解释前面意思的作用，再加上past their prime导致了they were thought to be useless，所以我就这么翻译了。如果有错误还请大佬指正～
+prime  n.盛年，黄金时期adj. 主要的，首要的
+If you're breathing,it is not too late. Get up and get going. 
+如果你在还呼吸，那么一切都不晚。起身行动吧！
+A-67-year-old grandpa has been found alive after being stuck 6 days at the bottom of a ravine. 
+一位67岁的老爷爷困于谷底六天后被发现幸存。
+stuck被卡住，陷入，困于
+ravine沟壑
+
 <!-- Content_END -->
