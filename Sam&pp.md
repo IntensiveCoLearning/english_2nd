@@ -268,4 +268,36 @@ Points
 
 alive 活着 stuck 卡住 bottom 底相关的 ravine 山谷 
 
+### 2024.10.16
+
+Daily Dictation Number 20：
+
+我的答案：Saturday,an ** plane crash **,yet ** .
+
+正确答案：Saturday,an ultralight plane crashed into a Ferris wheel at a rural festival in Australia,yet somehow no one on the amusement ride nor the plane was hurt.
+
+Points:
+1.Ultralight = ultra + light = very small
+2.Ferris wheel 摩天轮
+3.Rural festival = surrounding place festival 乡村节日
+4.Somehow = magically 不知怎么的，奇迹一般的
+5.Nor = also not
+
+Daily Dictation Number 21：
+
+正确答案：Heidi won the world over with her forever cute but slightly confused look.
+
+Points：
+1.Won the world over with = be famous for 因....出名
+
+2.cross eye 斗鸡眼
+
+3.look = expression 表情 = appearance 外貌
+
+4.with her = wither
+
+5.sligh(t)ly 一点点；稍微
+
+6.confuse = kenfuse 迷惑
+
 <!-- Content_END -->

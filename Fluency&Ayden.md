@@ -151,4 +151,13 @@ https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&p=
 harder，55......
 
 ### 2024.10.16
+![image](https://github.com/user-attachments/assets/f33f71c4-30b0-4815-92cd-46c35006d989)
+![image](https://github.com/user-attachments/assets/747e510f-6a17-4e55-836f-cd9b766a1e0b)
+never stop！
+
+### 2024.10.17
+
+### 2024.10.18
+
+### 2024.10.19
 <!-- Content_END -->

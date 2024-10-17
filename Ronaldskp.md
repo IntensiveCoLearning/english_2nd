@@ -226,9 +226,9 @@ but at any rate,it hadn't been around that long. l was living in Europe
 ### 2024.10.15
 Lola said you asked about her potate mashers . Your kid is super dope . And l was thinking
 ### 2024.10.16
-
+As a part of that , l was hanging out with a bunch of people over the world
 ### 2024.10.17
-
+You know , when l thought,when l was thinking about going to Germany to study German ,l thought l would be speaking German all the time with German people . l thought l'd be hanging out with Germans.But really, l was in school a lot of the day. And so, l was not hanging out with Germans . l was hanging out with other people studying German . And one guy in particular , a guy from Turkey , we ended up having .
 ### 2024.10.18
 
 ### 2024.10.19

@@ -260,7 +260,24 @@ rat-race “老鼠赛跑”，永无休止的竞争/内卷
 
 ### 2024.10.16
 
-笔记内容
+The governance team announced in a post that based on the LIP64 proposal, the LXDAO community will allocate 5% of the actual net expenditure from the main treasury as LXP incentives during each quarterly retrospective incentive. This post is specifically for the S10 quarter's retrospective incentive applications or nominations, and applicants must submit by November 15. The application format includes the applicant/nominator, the application matter, reasons for the application, and impact measurement (preferably with quantitative data), along with any community incentives already received.
+
+Note:
+net expenditure:净支出
+
+Helios posted on the forum outlining the detailed plan for the Shenzhen premiere event "Vitalik's Ethereum Story." The event will take place on October 19, 2024, in Classroom 4 of the Huixing Building at the Yuehai Campus of Shenzhen University, targeting blockchain developers and researchers. Promotion will be conducted through joint announcements with partners and social media activities. Risk assessments include equipment checks and backup plans, while feedback will be collected through social media interactions. The budget covers documentary licensing fees, poster printing, equipment rental, and includes a request for a portion of the event funding and merchandise.
+
+Note: 
+premiere event:首映活动
+Risk assessment: 风险评估
+
+Chris's post mentioned the LXTalk podcast project that was halted last year and shared thoughts on restarting the show. LXDAO focuses on developing valuable projects, and the podcast is an effective way to showcase these results. By regularly updating podcast content, it can highlight project progress and innovative solutions, helping supporters and potential investors better understand LXDAO's developments. Chris suggested reducing the update frequency of LXTalk to once a month to build audience anticipation and lower related costs.
+
+Note：
+halted :停止
+
+solicit donations:募捐，/səˈlisət/
+v.: 征求, 兜, 询问, 询, 兜揽, 邀, 告, 搂
 
 ### 2024.10.17
 

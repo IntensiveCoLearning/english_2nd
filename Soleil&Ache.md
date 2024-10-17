@@ -300,6 +300,47 @@ Baguette 法式长棍面包
 
 
 
+### 2024.10.16
+I listened to and read a short passage today
+
+[*Barack Obama on why travel matters*](https://www.bbc.co.uk/learningenglish/chinese/features/take-away-english/ep-240902)
+
+Notes:
+pod （海洋动物或鸟类的）一小群
+
+pilot whale 巨头鲸
+
+wash up 被海浪冲上岸
+
+mass stranding 集体搁浅
+
+beach 使……被困在海滩上
+
+tide 潮水
+
+marine 与海洋相关的，海洋的
+
+refloat （搁浅后）再度浮起
+
+blowhole （鲸类动物的）喷气孔
+
+drift out 漂走
+
+post-mortem examination 尸检
+
+spade-toothed whale 铲齿中喙鲸
+
+carcass 尸体
+
+dissect 解剖
+
+conservation （对动植物或自然环境的）保护
+
+skeleton 骨架
+
+nutrient-rich 营养丰富的
+
+
 
 
 

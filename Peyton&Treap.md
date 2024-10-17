@@ -533,10 +533,57 @@ Still worked on the master entrance exam:
 - **Favor** /ˈfeɪvər/ *n.* 赞同，支持；恩惠，偏爱
 - **Readiness** /ˈrɛdiness/ *n.* 准备状态；处于准备好的状态，以应对即将发生的事情或挑战
 
+### 2024.10.16
 
+[每日英语听写 Daily English Dictation 1-400_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?vd_source=bc0666711d2280c24d54945ab9c11146&spm_id_from=333.788.videopod.episodes)
 
+My version:
 
+Mother Terisa, who received the Nobel Peace Prize for her worked on behalf of the poor xxx Indian. She was 87 years old.
 
+Wow this dictation is really a chanllenging one.
 
+Formal version:
+
+Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta, India -- she was 87 years old.
+
+Note:
+
+- "Terisa" should be "Teresa";
+- "received the Nobel Peace Prize for her worked" should be  "received a Nobel Peace Prize for her work", among which two points are important:
+  - "the" --> "a"
+  - "worked" (v.)--> "work"(n.)
+- did not get " **dies** in <u>Calcutta</u>[加尔各答（印度城市）]".
+
+### 2024.10.17
+
+[Daily English Dictation 2_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG/?p=2&spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=fd015ccdec6337c64cc98064986a4512)
+
+My dictation:
+
+Jerry, what time do you have?
+
+I have five o'clock.
+
+Cool. That is totally correct! lol
+
+[Daily English Dictation 3_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=3)
+
+My dictation:
+
+There are three things that you would never discuss with people: religon, politics and the great pump again.
+
+Formal version:
+
+There are three things that **I have learned** never **to** discuss with people; **religion**, politics and **the Great Pumpkin**!
+
+Note:
+
+- misspelling: religon --> **religion**
+- did not catch: **I have learned** and **the Great Pumpkin**(Oct 3 --> Helloween)
+
+### 2024.10.18
+
+[Daily English Dictation 4_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=4)
 
 <!-- Content_END -->

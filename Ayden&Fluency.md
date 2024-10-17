@@ -183,6 +183,12 @@ timezone: Asia/Shanghai
 - Despite these advantages, it's worth noting that React has been moving towards functional components with hooks as the primary way to build components due to their simplicity and the ability to use state and other React features without the need for a class. 
 
 ### 2024.10.16
+- State is an object that holds information about the component that can change over time.
+- When the state is updated, React automatically re-renders the component to reflect the changes.
+- Props (short for properties) are similar to state but are passed down from parent components to child components.
+- Event handling is the process of specifying what should happen when a user interacts with your application.
+- Event handling in React is designed to be declarative and straightforward, making it easier to manage user interactions in your applications.
+  
 ### 2024.10.17
 ### 2024.10.18
 ### 2024.10.19
