@@ -190,6 +190,12 @@ timezone: Asia/Shanghai
 - Event handling in React is designed to be declarative and straightforward, making it easier to manage user interactions in your applications.
   
 ### 2024.10.17
+- React components have several lifecycle methods that allow you to run code at specific points in a component's lifecycle.
+- These methods can be categorized into three main phases:Mounting,Updating,Unmounting
+- It's worth noting that with the introduction of React Hooks, many developers now prefer using functional components with hooks like useEffect() instead of class components with lifecycle methods.
+- Conditional rendering in React refers to the practice of displaying different content based on certain conditions or states within your application.
+- Conditional rendering allows you to create dynamic user interfaces that respond to changes in data or user interactions.
+  
 ### 2024.10.18
 ### 2024.10.19
 ### 2024.10.20
