@@ -111,9 +111,9 @@ It's nice to meet everyone in LX DAO here.
   
 ### 2024.10.17
 - 听写；原视频： "US ‘Isolated Island of Global Growth’: Julian Emanuel", Bloomber; https://www.bloomberg.com/news/videos/2024-10-16/us-isolated-island-of-global-growth-julian-emanuel-video
-  - Dictation: I know we can't do single nails but what a bad one single name, what do you think of the SML, what do you think for the boarder sector, for a check mate and a test style more boradly. Well look, again, you go back this entire bull market cycle has been led by semi-conductors in one way or another. Obviously the AI fills the primary driver, but it is definatly a question that opens up sort of the issue about, you know, why China did what it did several weeks ago, and what the Africa see is ultimately it going to be and I think it also calls in to the fact that this is one of these signs where, you know, you're seeing the weakness in China, you'll see the ECB is going cut, again this week Europe is certainly not going getting busters the U.S. It's really 
+  - Dictation: I know we can't do single names with you, but what about one single name? What do you think of the ASML, what do you think * it means* for the boarder sector, for a check mate * chip makers *and a test style *stocks* more boradly. Well, look, again, you go back this entire bull market cycle has been led by semi-conductors in one way or another. Obviously the AI fills *theme* the primary driver, but it is definatly a question that opens up sort of the issue about, you know, why China did what it did several weeks ago and what the Africa see *efficiency* is ultimately going to be. And I think it also calls in to the fact that this is one of these signs *these times* where, you know, you're seeing the weakness in China, you'll see the ECB is going cut, again this week Europe is certainly not going getting *gang* busters the U.S. really is again the isolated island of global growth right now, and that's not really healthy on balance.
     
-  - fix：
+  - fix：chip makers; efficiency
 
 
 
