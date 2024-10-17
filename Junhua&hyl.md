@@ -152,4 +152,15 @@ tizzy
 in and around ..  means in some place and around some place
 tatto
 
+### 2024.10.17
+![1017](img/Junhua_10167.png)
+pile-up
+Ferraris
+crumpled
+in the running for sth
+enthusiasts
+spirit
+bruise
+sleek
+
 <!-- Content_END -->
