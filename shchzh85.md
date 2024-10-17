@@ -176,5 +176,12 @@ m
 	单词强化 https://www.youtube.com/watch?v=zR0bCVEaoYM 
 	absent absolute absorb abundant academy accelerate accessible accompany accomplish accord accumulate accurate accuse achieve acknowledge acquire activity actual adapt addiction adequate adjacent
 	adjust admission adopt advance advantage adventure adverse advertise advice advocate affect affection afford agency agenda aggressive agriculture aid aim aircraft alarm alien  alike allocate
-	alternative ambition amend analysis ancestor ancient anger angle announce annual anticipate anxiety apology appetite appoint appreciate approach appropriate approval 
+	alternative ambition amend analysis ancestor ancient anger angle announce annual anticipate anxiety apology appetite appoint appreciate approach appropriate approval
+
+### 2024.10.17
+	bilibili 一个小时沉浸语句学习 
+	effort sectet 	
+	Think's fom coming over. I readlly  You're not that handsome. Tell me your favorite song and I'll play it for you. I haven't seen him arond lately.
+	thrilled . She have no time for that.
+
 <!-- Content_END -->
