@@ -406,7 +406,17 @@ twenty years ago but nobody
 
 ### 2024.10.17
 
-笔记内容
+A satellite that was
+carried to space
+aboard the shuttle Discovery
+20 years ago
+is about to fall
+to Earth, but
+nobody knows
+where the debris will hit.
+
+listen and write
+it's
 
 ### 2024.10.18
 
