@@ -233,7 +233,7 @@ Notes:
 - vastness 广度
 - distant 遥远的
 
-### 2024.10.16
+### 2024.10.17
 
 Listening and Learning English expression：
 
