@@ -94,6 +94,19 @@ Vocabulary: approval, turnaround, permit/permission, photography(辯音), & flye
 
 ### 2024.10.17
 
+19:30~20:30 檢討影片單字，並進行 Echo 練習。
+
+| Word/Collocation   | Meaning                                                     | Sentence Making Practice                                                                          |
+| ------------------ | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| (medical) resident | Doctor Hierarchy: Intern->Resident->Registrar->Consultant   | A medical resident is one level in the hierarchy of doctors.                                      |
+| countless          |                                                             | PhD students in science need to master countless techniques to carry out their experiments.       |
+| quite              |                                                             | It's quite time-consuming. = It takes a lot of time.                                              |
+| a matter of        | a situation that involves something or depends on something | It's not a big deal. It's just a matter of a 5-minute delay.                                      |
+| suture             | to sew up a wound                                           |                                                                                                   |
+| artery             | Ant. = vein                                                 | Arteries are a type of blood vessel that carries blood from the heart to other parts of the body. |
+| receive            |                                                             | I was delighted to receive your blessing.                                                         |
+| implement          |                                                             | Our group will implement the decision made in today's meeting.                                    |
+
 
 
 ### 2024.10.18
