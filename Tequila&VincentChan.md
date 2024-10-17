@@ -177,4 +177,24 @@ A-67-year-old grandpa has been found alive after being stuck 6 days at the botto
 stuck被卡住，陷入，困于
 ravine沟壑
 
+### 2024.10.17
+i studied the P20-P22 in the bilibili video summary.Following are the notes:
+Saturday,an ultralight plane crashed into a Ferris wheel at a rural festival in Australia ,yet somehoe no one on the amusement ride nor the plane was hurt. 
+在星期六的澳洲乡村节中，一架超小型飞机撞到了摩天轮上，神奇的是游乐设施上的人和飞机上的人都没有受伤。
+ferris wheel摩天轮
+ultralight plane超小型飞机
+rural乡村的
+urban城市的
+amusement娱乐
+somehow＝magically＝unbelievably
+
+Heidi won the world over with her forever cute but slightly confused look.
+Heidi通过它永远可爱，但是带有些许困惑的模样赢得了全世界的喜爱。
+opposum负鼠
+cross-eyed内斜视的，对眼的，斗鸡眼的
+
+The project to put them online is expected to be completed by 2016.
+令人期待的将它们（死海古卷）上传到网络的计划在2016年前完成。
+the Dead Sea Scrolls死海古卷
+archaeology考古学
 <!-- Content_END -->
