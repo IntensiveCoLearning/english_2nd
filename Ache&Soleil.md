@@ -280,8 +280,25 @@ solicit donations:募捐，/səˈlisət/
 v.: 征求, 兜, 询问, 询, 兜揽, 邀, 告, 搂
 
 ### 2024.10.17
-
+https://www.bbc.co.uk/learningenglish/chinese/features/take-away-english/ep-240722
 笔记内容
+knackered 筋疲力尽的
+intriguing 奇妙的
+asleep 睡着的
+lucid dreaming 清醒梦，在做梦时保持思考和记忆能力
+dreamer 睡梦中的人
+REM sleep 快速动眼睡眠
+cognitive functions 认知功能
+working memory 工作记忆，一种持续时间较短的记忆
+dreamworld 梦中世界，梦境
+memory retention 记忆保持，在记忆中保留信息或经验
+sleep on something 把…留到下一天再作决定
+rest up 得到充分休息
+sleep deprivation 睡眠不足
+sleep hygiene 睡眠健康
+wind down 逐渐放松
+beditation 睡前冥想
+睡眠对我们的记忆以及问题解决能力是有帮助的，学习新事物的脑区会在睡眠的时候打开，经过休息之后第二天的大脑会更容易解决棘手的问题
 
 ### 2024.10.18
 
