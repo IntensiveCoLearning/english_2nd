@@ -1,4 +1,4 @@
-![IMG_8799](https://github.com/user-attachments/assets/e3ce05db-ff1f-42cd-b7ce-54c27c13b76b)---
+---
 timezone: Asia/Shanghai
 
 ---
@@ -238,5 +238,12 @@ Qi
 1. Today is a 172-day winning streak on duoligo
 2. https://www.bilibili.com/video/BV1U7411a7xG?vd_source=bc0666711d2280c24d54945ab9c11146&spm_id_from=333.788.videopod.episodes&p=3
    6-7 lessons
+
+### 2024.10.17
+
+Chacha
+
+1. Learned 40 vocabulary.<img width="200" alt="Chacha 10-17" src="https://github.com/user-attachments/assets/012523aa-0480-42b8-8ed6-d554ac36f81b" />
+2. Listened to this podcast. [How to Speak English Like an American](https://podcasts.apple.com/cn/podcast/all-ears-english-podcast/id751574016?i=1000673220622)
 
 <!-- Content_END -->

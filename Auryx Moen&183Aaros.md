@@ -149,6 +149,13 @@ To going on debonair debonairely, you must fully accept and love it, flaws and a
 - P20 LISTENING: Saturaday, an untra like plane crashed to a fairs will, had ruror festival in austrllia  yet somehow no one on the amusement ride, nor the plane with hurt.
 - Saturday, an ultralight(really really light) plane crashed into a Ferris wheel at a rural(the contract of urban) festival in Australia, yet somehow no one on the amusement ride nor the plane was hurt
 
+### 2024.10.17
+- Learning materials: https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=70d22df5993b243adb2c4be25499c92e&p=21
+- P21 LISTENING: Haidi won the world over with her for the ever(forever) cute but slightly confused look.
+- P22 the project (to) put them online and is expected to be completed by 2016
+- P23 An unleged SAT cheating scandal, has been uncovered at a prestaged long alon high school, has caught students excuse of taking the  xxx at least six students
+- RIGHT answer:An alleged(supposed, possible criminal) SAT cheating scandal has been uncovered at(taken by D) a prestigious Long Island high school. This college student is accused of taking the college entrance exam for at least six students.
+- student is->stude nis  college entrance->colle gentrance
 
 
 <!-- Content_END -->

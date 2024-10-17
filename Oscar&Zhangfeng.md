@@ -233,6 +233,26 @@ Notes:
 - vastness 广度
 - distant 遥远的
 
+### 2024.10.17
+
+Listening and Learning English expression：
+
+- Separate bills, please. Split the bills. Go dutch/**Fitty-fifty**.
+- All together, please. **It is my treat**. It is on me.
+- How long will it take?
+- Can I **take pictures** here？
+- I **would like** a window seat. would like = want
+- Thank you for helping me.
+- I have a **carry-on bag**.  手提包
+- I have two check-in **luggage**. 行李
+- Check in，please. 请帮我办理入住手续. 👉反义：Check out, please.
+- I'll be staying at ABC hotel. 👉未来将来时
+- where is the **instant noodles**? 方便面
+- Can I have an **extra** bag？ 额外的 
+- Where is the **canning** section？罐头
+- Do you sell bread here？
+- Can you book a taxi for me？
+
 
 
 <!-- Content_END -->

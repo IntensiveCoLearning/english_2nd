@@ -153,4 +153,9 @@ Yes
 1. Learned 40 vocabulary.<img width="200" alt="Chacha 10-16" src="https://github.com/user-attachments/assets/f8438220-087d-4aab-a746-7963a554017e" />
 2. Listened to this podcast https://podcasts.apple.com/cn/podcast/all-ears-english-podcast/id751574016?i=1000672461149
 
+### 2024.10.17
+
+1. Learned 40 vocabulary.<img width="200" alt="Chacha 10-17" src="https://github.com/user-attachments/assets/012523aa-0480-42b8-8ed6-d554ac36f81b" />
+2. Listened to this podcast. [How to Speak English Like an American](https://podcasts.apple.com/cn/podcast/all-ears-english-podcast/id751574016?i=1000673220622)
+
 <!-- Content_END -->
