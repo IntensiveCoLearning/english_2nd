@@ -344,6 +344,25 @@ nutrient-rich 营养丰富的
 
 to be continued 
 
+### 2024.10.18
+
+I listened to and read a short passage today
+
+https://mp.weixin.qq.com/s/DbkbT0LBVDMA613yJtolzA
+
+Notes:
+
+great odds 困难重重，困难诸多
+
+life expectancy（尤指人的）预期寿命
+
+epidemiological 流行病学的
+
+sanitation 公共卫生；卫生设备；卫生设施体系
+
+antibiotic 抗生素，抗菌素
+
+hypothesis 假设，假说
 
 
 
