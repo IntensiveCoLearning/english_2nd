@@ -364,9 +364,45 @@ sligh(t)ly 一点点；稍微
 confuse = kenfuse 迷惑
 
 ### 2024.10.16
-### 2024.10.17
-### 2024.10.118
+1.Won the world over with = be famous for
+1. 赢得世界 = 闻名
 
+cross eye 斗鸡眼
+
+look = expression 表情 = appearance 外貌
+
+with her = wither 4.和她在一起=枯萎
+
+sligh(t)ly 一点点；稍微
+
+confuse = kenfuse 迷惑
+### 2024.10.17
+1.Won the world over with = be famous for
+1. 赢得世界 = 闻名
+
+cross eye 斗鸡眼
+
+look = expression 表情 = appearance 外貌
+
+with her = wither 4.和她在一起=枯萎
+
+sligh(t)ly 一点点；稍微
+
+confuse = kenfuse 迷惑
+
+### 2024.10.18
+1.Won the world over with = be famous for
+1. 赢得世界 = 闻名
+
+cross eye 斗鸡眼
+
+look = expression 表情 = appearance 外貌
+
+with her = wither 4.和她在一起=枯萎
+
+sligh(t)ly 一点点；稍微
+
+confuse = kenfuse 迷惑
 
 
 <!-- Content_END -->
