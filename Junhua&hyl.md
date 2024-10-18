@@ -153,7 +153,7 @@ in and around ..  means in some place and around some place
 tatto
 
 ### 2024.10.17
-![1017](img/Junhua_10167.png)
+![1017](img/Junhua_1017.png)
 pile-up
 Ferraris
 crumpled
@@ -162,5 +162,12 @@ enthusiasts
 spirit
 bruise
 sleek
+
+### 2024.10.18
+![1018](img/Junhua_1018.png)
+hold up means delay
+outcroppings
+manual
+
 
 <!-- Content_END -->
