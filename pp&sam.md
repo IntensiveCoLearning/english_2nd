@@ -348,8 +348,24 @@ Saturday, an ultralight plane crashed into a Ferris wheel at a rural festival in
 Hotspot
 
 On October 13, 2024, United States Space Exploration (SpaceX) successfully conducted the fifth test flight of the Super Heavy Boost/Starship Complex (IFT-5) (hereinafter referred to as "Starship") at the Boca Chika base in Texas. This test flight has made an important breakthrough, the first-stage rocket "super-heavy" booster has achieved the "chopsticks" robotic arm capture and recovery for the first time, and the second-stage rocket "Starship" spacecraft has achieved low-speed vertical splashing on the sea surface, marking an important step on the road to SpaceX's "Starship" fully reusable target.
+>
+>
+### 2024.10.15
+1.Won the world over with = be famous for
 
+cross eye 斗鸡眼
 
+look = expression 表情 = appearance 外貌
+
+with her = wither 4.和她在一起=枯萎
+
+sligh(t)ly 一点点；稍微
+
+confuse = kenfuse 迷惑
+
+### 2024.10.16
+### 2024.10.17
+### 2024.10.118
 
 
 
