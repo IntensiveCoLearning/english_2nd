@@ -230,7 +230,7 @@ As a part of that , l was hanging out with a bunch of people over the world
 ### 2024.10.17
 You know , when l thought,when l was thinking about going to Germany to study German ,l thought l would be speaking German all the time with German people . l thought l'd be hanging out with Germans.But really, l was in school a lot of the day. And so, l was not hanging out with Germans . l was hanging out with other people studying German . And one guy in particular , a guy from Turkey , we ended up having .
 ### 2024.10.18
-
+ l think ,six months of class together in a row,so , we became pretty good friends ,and he was interesed in American English and movies , American movies, and want to sound more American.And so , he was having me coach him a little bit . He'd sya a couple things . l would tell him what to change to make it sound better , and l remember describing the ah vowel to him . He was not making it .And so , l said ,well , you're missing a vowel. Let me show you what it's like .And l was descrbing what the tongue should look like , and then he said , you're really gooa at that.
 ### 2024.10.19
 
 
