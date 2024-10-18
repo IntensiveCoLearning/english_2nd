@@ -197,4 +197,33 @@ The project to put them online is expected to be completed by 2016.
 令人期待的将它们（死海古卷）上传到网络的计划在2016年前完成。
 the Dead Sea Scrolls死海古卷
 archaeology考古学
+
+### 2024.10.18
+i studied the P23-P25 in the bilibili video summary.Following are the notes:
+An alleged SAT cheating scandal has been uncovered at a prestigious Long Island high school. This college student is accused of taking the college entrance for at least 6 students. 
+涉嫌在SAT考试中作弊的丑闻在长岛内一所声誉极高的高中被揭露，这个（替考的）大学生被指控至少为六名考生替考。
+（1）SAT ：Scholastic Aptitude Test
+SAT考试（一种类似于高考的考试。）
+（2）alleged 涉嫌的
+（3）scandal丑闻
+（4）uncovered揭露，发现，揭开盖子
+（5）Long Island长岛
+（6）prestigious有声望的，名誉高的
+（7）be accused of 被指控
+（8）prosecutor检察官
+（9）take the exam参加考试（后面因为有for，所以意为替考）
+
+St. Louis takes the World Series opener on a  cool night. It was 49 degrees at the start of the game. 
+圣路易斯队在一个凉爽的夜晚赢得世界系列赛的开场赛。比赛开始时天气气温为9.4℃。
+（1）World Series世界系列赛
+（2）opener开场赛
+（3）St. Louis圣路易斯，城市名（此处指球队队名）
+（4）49 degrees此处为华氏温度（Fahrenheit），转换成摄氏度(Centigrade)为9.4℃
+
+They searched for the missing throughout the night under generator-powered flood lights as family members waited by the mounds debris,some in tears. 
+他们（救援队）用发电机供电的探照灯找了一夜失踪的人们，与此同时失踪者的家人在成堆的废墟旁等待着——他们中有些人流了眼泪。
+（1）throughout the night整夜
+（2）flood light探照灯，投光灯
+（3）generator-powered发电机供电
+（4）mound土壤，小丘，小山岗，一堆，许多，大量（此处取一堆，同pile/mountain）
 <!-- Content_END -->
