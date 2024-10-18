@@ -301,8 +301,28 @@ beditation 睡前冥想
 睡眠对我们的记忆以及问题解决能力是有帮助的，学习新事物的脑区会在睡眠的时候打开，经过休息之后第二天的大脑会更容易解决棘手的问题
 
 ### 2024.10.18
+Flying pollutes but what can we do instead ?
+there is a catch :有一个隐藏的问题
+carbon-intensive:碳排放密集
+demostic flight :国内航班
+emissions :废气
+pedalled:踏板，踩踏板
+subsidising:补贴
 
-笔记内容
+测试：
+1. True
+2. Using trains for a medium to long-distance travel reduces 86% emissions.
+   修改语法的表述（Using trains for medium to long-distance traver reduces emissions by 86% / 86 % of emissions
+
+
+4. One is train is more expensive  than low-cost airlines and train usually takes more hours longer to reach your destination
+修改语法的表述（One disadventage is that train are ofter more expensive than low-cost airlines,and another is that trains usually take longer to reach your destination")
+
+6. about 10,000 planes
+7. sleeper trains and subsidising tiket fares
+
+subsidise,green,a a catch,revolutionised,from A to B
+
 
 ### 2024.10.19
 
