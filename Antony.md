@@ -114,7 +114,7 @@ Vocabulary: approval, turnaround, permit/permission, photography(辯音), & flye
 
 | chamber              | a space in the body, in a plant or in a machine that is separated from the rest | the chambers of the heart                                 |
 | -------------------- | ------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| strengthen           |                                                                                 | Regular exercise can improve motor skills.                |
+| strengthen           |                                                                                 | Regular exercise can strengthen motor skills.             |
 | be thought to…       |                                                                                 | This research is thought to be his representative work.   |
 | sth you already know |                                                                                 |                                                           |
 | recall               | actively retrieving or trying to bring something back from memory               | I can’t recall the experimental details.                  |
