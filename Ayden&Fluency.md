@@ -197,6 +197,10 @@ timezone: Asia/Shanghai
 - Conditional rendering allows you to create dynamic user interfaces that respond to changes in data or user interactions.
   
 ### 2024.10.18
+- Controlled Components:In React, form elements such as <input>, <textarea>, and <select> typically maintain their own state.
+- Uncontrolled Components:In some cases, you might want to use uncontrolled components where form data is handled by the DOM itself. You can use a ref to get form values from the DOM.
+- Multiple Input Handling:When dealing with multiple inputs, you can add a name attribute to each element and let the handler function choose what to do based on the event.target.name.
+- Forms in React give you fine-grained control over user input and allow you to create dynamic, interactive user interfaces. The controlled component pattern, while sometimes more verbose, provides a clear, predictable way to manage form state in your React applications.
 ### 2024.10.19
 ### 2024.10.20
 ### 2024.10.21
