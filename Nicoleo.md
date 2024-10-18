@@ -148,8 +148,14 @@ https://danieljeffries.substack.com/p/the-pathways-of-tomorrow-four-big-predicti
    - malleable adj.有延展性的
    - affliction n．痛苦
    - human metabolism n. 人体新陈代谢
+  
 ### 2024.10.17
-
+1. Learning material: my own writing
+2. Key point:
+   - be bullish about 对...看涨，看好
+   - The basic framework that I laid out for biology applies eauqlly to neuroscience. The field is propelled forward by a small number of discoveries often related to tools for measurement or precise intervention.
+   - There is one thing we should add to this basic picture, which is that some of the things we've learned about AI itself in the last few years are likely to help advance neuroscience, even if it continues to be done only by humans.
+     
 ### 2024.10.18
 
 

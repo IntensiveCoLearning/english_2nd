@@ -106,8 +106,20 @@ It's nice to meet everyone in LX DAO here.
   - fix：pull/pour; euphemistically 委婉的; trajectory 反弹;
 
 
+### 2024.10.16
+- 请假
+  
+### 2024.10.17
+- 听写；原视频： "US ‘Isolated Island of Global Growth’: Julian Emanuel", Bloomber; https://www.bloomberg.com/news/videos/2024-10-16/us-isolated-island-of-global-growth-julian-emanuel-video
+  - Dictation: I know we can't do single names with you, but what about one single name? What do you think of the ASML, what do you think * it means* for the boarder sector, for a check mate * chip makers *and a test style *stocks* more boradly. Well, look, again, you go back this entire bull market cycle has been led by semi-conductors in one way or another. Obviously the AI fills *theme* the primary driver, but it is definatly a question that opens up sort of the issue about, you know, why China did what it did several weeks ago and what the Africa see *efficiency* is ultimately going to be. And I think it also calls in to the fact that this is one of these signs *these times* where, you know, you're seeing the weakness in China, you'll see the ECB is going cut, again this week Europe is certainly not going getting *gang* busters the U.S. really is again the isolated island of global growth right now, and that's not really healthy on balance.
+    
+  - fix：chip makers; efficiency
 
-
+### 2024.10.18
+- 听写；原视频： "City of London Has Given Up on Inclusion, Black Workers Say", Bloomber; https://www.bloomberg.com/news/videos/2024-10-18/city-of-london-has-given-up-on-inclusion-black-workers-say
+  - Dictation: Are businesses still committed to supporting Black talent? After George Floyd was murdered, thousands of pounds were pledged on promises made to prove *improve* prospect of black worker in the City of London. But now almost 5 years later and disappointed with the results, many firms are pulling back on black focuses recruiment *recruitment* schemes and ditching *ditching* diversity, equity and inclusion back to norm(?). Some black professionals we've spoken to who asked to remain anonymous report feeling abandoned, and others say their empolyers weren't ready to welcome diverse talent, speaking of insentitive managers, and hostile working envirionments. Research shows that the pace of change is slowing. It will now take 50 years for the portion *proportion* of black talent in U.K. financial services to match the percentage of Black employees in the working age population. In investment banking representation at senior levels at just 0.5%, and Black talent is also leaving the city before it reaches the top jobs. In U.K. law firms, black mid-level employees are 4 times more likely to leave the sector than their peers. And this is just what we know. Most city firms even don't collect or don't publish. Statistics about their Black employees, making it difficult to hold them accountable, but face with dwindling(?) *dwindling* budget, and a tense of political climate, commiting how hard(?) *wholeheartedly* to this remainting quality, might not be so simple.
+    
+  - fix：ditching 放弃; wholeheartedly 竭诚; 
 
 
 <!-- Content_END -->

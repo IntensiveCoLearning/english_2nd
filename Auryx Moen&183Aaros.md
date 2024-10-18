@@ -157,5 +157,12 @@ To going on debonair debonairely, you must fully accept and love it, flaws and a
 - RIGHT answer:An alleged(supposed, possible criminal) SAT cheating scandal has been uncovered at(taken by D) a prestigious Long Island high school. This college student is accused of taking the college entrance exam for at least six students.
 - student is->stude nis  college entrance->colle gentrance
 
+### 2024.10.18
+- Learning materials:https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.videopod.episodes&vd_source=70d22df5993b243adb2c4be25499c92e&p=24
+- P24 LISTENING: Saint Louis takes the world series opener a on cold night, it was forty nine degrees at the start of the game.(bingo)
+- P25 LISTENING: A search for the missing thraf at night under generator power fluf lights, has family memebers wait by mounts of debris, some in tears.
+- RightAnswer:They searched for the missing thoughtout the night under generator powered flood lights as family memebers waited by the mounds(piles of) of debris, some in tears.
+- P26 LISTENING:It is kind of thing you look for(forward) to instead of you know some work out until(x) you dread, and you think of this(think of it as) work and this is just fun
+- think-of-it
 
 <!-- Content_END -->

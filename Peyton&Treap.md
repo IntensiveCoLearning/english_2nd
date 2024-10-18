@@ -586,4 +586,34 @@ Note:
 
 [Daily English Dictation 4_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=4)
 
+My dictation:
+
+Don't ever let somebody tell you you can't do something.
+
+Well, totally correct! haha!
+
+Note:
+
+- Strong: S, N and L
+- Weak: d, t and th
+- That is to say, d t and th after the S N and L will be canceled.
+
+[Daily English Dictation 5_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=5)
+
+My dictation:
+
+I have come here to choose ? and kick ass. And all the ?.
+
+Correct Version:
+
+I have come here to(/d/) chew bubblegum and kick ass... and I'm all out of(outta/ ˈaʊtə /) bubblegum!
+
+Note: 
+
+- chew/ tʃuː /
+- bubblegum/ ˈbʌblɡʌm /
+- out of: lack of there, meaning I have no bubblegum.
+
+
+
 <!-- Content_END -->

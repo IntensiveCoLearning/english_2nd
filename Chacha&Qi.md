@@ -246,4 +246,11 @@ Chacha
 1. Learned 40 vocabulary.<img width="200" alt="Chacha 10-17" src="https://github.com/user-attachments/assets/012523aa-0480-42b8-8ed6-d554ac36f81b" />
 2. Listened to this podcast. [How to Speak English Like an American](https://podcasts.apple.com/cn/podcast/all-ears-english-podcast/id751574016?i=1000673220622)
 
+### 2024.10.18
+
+Chacha
+
+1. Learned 40 vocabulary.<img width="200" alt="Chacha 10-18" src="https://github.com/user-attachments/assets/de5854ab-8f06-4175-a4a6-3011f93c548e" />
+2. Listened to this music radio on Apple Music. [The Chart Show](https://music.apple.com/cn/station/september-25-2024/ra.1769046865?l=en-GB)
+
 <!-- Content_END -->

@@ -253,6 +253,19 @@ Listening and Learning English expression：
 - Do you sell bread here？
 - Can you book a taxi for me？
 
+### 2024.10.18
+
+Listening and Learning English expression：
+
+- What's the WiFi password?
+- May I leave baggage here?
+- Leave me alone.
+- Where is the nearest ATM?
+- What time is breakfast? Breakfast starts at eight.
+- Where are you staying?
+- There is no point/choice/life/reply.
+- There is no bigger stage. There is no bigger moment.
+
 
 
 <!-- Content_END -->
