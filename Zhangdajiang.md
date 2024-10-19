@@ -202,7 +202,34 @@ Israel has previously asked Unifil to withdraw north by 5km (3 miles) after it l
 -Dictation:I have come here to choose babagun and kick ass ,all babogun.
 -Fix:I have come here to chew bubblegun and kick ass ,and I out of bubblegun.
 
+### 2024.10.19
+Liam Payne's father has viewed tributes outside the hotel where his son died, as the star's former partner Cheryl says her son Bear has to “face the reality of never seeing his father again”.
+
+Payne, 31, died on Wednesday when he fell from the balcony of the third-floor hotel room where he had been staying in Buenos Aires, Argentina.
+
+In Argentina, Geoff Payne was followed by a scrum of photographers as he visited the hotel, prompting fans to shout at the press and attempt to block the building's entrance to stop them entering.
+
+Mr Payne travelled to Buenos Aires after his son's death and the journey from his hotel to the Casa Sur hotel was broadcast on Argentine television, despite family requests for privacy.
+
+Girls Aloud singer Cheryl, who was in a relationship with Payne from 2016 to 2018, also criticised "abhorrent" media coverage following his death.
+
+Posting on Instagram, Cheryl said: "As I try to navigate this earth shattering event, and work through my own grief at this indescribably painful time, I'd like to kindly remind everyone that we have lost a human being."
+
+Along with her statement Cheryl shared a black and white image of Payne with their son Bear and a broken heart emoji.
 
 
+Payne's sister, Ruth Gibbins, described him as her "best friend" in an emotional Instagram post on Saturday, in which she vowed the family will "take care of Bear".
+
+"My brain is struggling to catch up with what's happening and I don't understand where you've gone," she added.
+
+Cheryl also said she was troubled her seven-year-old son could access "abhorrent reports and media exploitation" and she cannot protect him from it in the future.
+
+“What is troubling my spirit the most is that one day Bear will have access to the abhorrent reports and media exploitation we have seen in the past two days," she added.
+
+“I am begging you to consider what use some of these reports are serving, other than to cause further harm to everyone left behind picking up the pieces.
+
+"Before you leave comments or make videos, ask yourself if you would like your own child or family to read them."
+
+Ending her statement, the 41-year-old urged people to give Payne “the little dignity he has left in the wake of his death to rest in some peace at last”.
 
 <!-- Content_END -->
