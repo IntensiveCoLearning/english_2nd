@@ -141,6 +141,27 @@ they ve spread 不是swept/
 ### 2024.10.17
 -唉 这两天每天都巨忙，gap一天，今天只背了单词，一会回去听daily dictation
 ### 2024.10.18
+-今天背了20分钟单词，听了daily dictation 15-18,翻译一个雅思阅读的片段，
+
+
+-Dictation_15:cats reputedly have nine lives,and he clearly want to spend one of the .uhh here in new york city.
+
+--fix: at least. spend at least one of them...
+
+-Dictation_16:the frantic pacing ,scene changes every eleven scends on everages,offen leave kids zoned out and spuned up ,unable to concentrate.
+
+-fix:averages.
+
+-Dictation_17:***,soaked and flooded,the pifipine is been hitted by second typhoon in a week.
+
+--battered.is being not is been ,,philipine.philipine.
+
+--Dictation_18: a few years ago,they were saw to be useless,past **prime, not now..
+
+--fix: were thought to were thought to  ..past there prime. they were considerd to be thoughted == considerd.. get rid of them. kill them we dont need them   
+  in my prime...past there prime == useless. before there prime. 
+
+English:
 
 ### 2024.10.19
 
