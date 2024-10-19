@@ -163,4 +163,8 @@ Yes
 1. Learned 40 vocabulary.<img width="200" alt="Chacha 10-18" src="https://github.com/user-attachments/assets/de5854ab-8f06-4175-a4a6-3011f93c548e" />
 2. Listened to this music radio on Apple Music. [The Chart Show](https://music.apple.com/cn/station/september-25-2024/ra.1769046865?l=en-GB)
 
+### 2024.10.19
+
+1. Learned 40 vocabulary.<img width="200" alt="Chacha 10-19" src="https://github.com/user-attachments/assets/70dbff02-4398-4c9a-8017-ec4ca0b97e19" />
+
 <!-- Content_END -->
