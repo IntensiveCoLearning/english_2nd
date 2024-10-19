@@ -226,4 +226,20 @@ They searched for the missing throughout the night under generator-powered flood
 （2）flood light探照灯，投光灯
 （3）generator-powered发电机供电
 （4）mound土壤，小丘，小山岗，一堆，许多，大量（此处取一堆，同pile/mountain）
+
+### 2024.10.19
+i studied the P26-P28 in the bilibili video summary.Following are the notes:
+It's the kind of thing you look forward to instead of,you know,some workouts you dread and you think of it as work and this is just fun. 
+它（瑜伽）是一件让你期待的事，而不是你感到害怕的锻炼并且让你认为它是工作，它只是为了娱乐。
+（1）workout锻炼
+（2）dread害怕，担心/恐惧，让人害怕的事物
+
+Superhero costumes ,as usual,are big this year-- especially from recent movies,like Thor and the Green Lantern. 
+今年超级英雄服装和平时一样受欢迎—尤其是近几年的电影，比如雷神索隆和绿灯侠。
+（1）Thor雷神索隆
+（2）the Green Lantern绿灯侠
+
+It's a pain, 'cuz my fridge is… I dumped it today,and the foods' gone. 
+令人痛苦的是，因为我的冰箱……我把冰箱里的食物都倒掉了，所以食物都吃光了。
+dump丢弃，扔掉
 <!-- Content_END -->
