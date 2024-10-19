@@ -266,6 +266,36 @@ Listening and Learning English expression：
 - There is no point/choice/life/reply.
 - There is no bigger stage. There is no bigger moment.
 
+### 2024.10.19
+
+Listening and Learning English expression：
+
+- Do you have mask?
+
+- It's on aisle 7.
+
+- This is defective. 有瑕疵的
+
+- I have a reservation at eight. 预约
+
+- May i have another spoon，please？
+
+- Are there any good restaurants nearby?
+
+- Are there seats available?
+
+- A table for two, please.
+
+- What's your surname?
+
+- I'll order later.
+
+- Please leave the menu here.
+
+  
+
+
+
 
 
 <!-- Content_END -->

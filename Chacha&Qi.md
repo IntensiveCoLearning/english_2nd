@@ -259,4 +259,11 @@ Chacha
 Qi
 
 1. Today is a 174-day winning streak on duoligo
+
+### 2024.10.19
+
+Chacha
+
+1. Learned 40 vocabulary.<img width="200" alt="Chacha 10-18" src="https://github.com/user-attachments/assets/70dbff02-4398-4c9a-8017-ec4ca0b97e19" />
+
 <!-- Content_END -->
