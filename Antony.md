@@ -122,4 +122,38 @@ Vocabulary: approval, turnaround, permit/permission, photography(辯音), & flye
 | susceptible (to sth) | very likely to be influenced, harmed or affected (by sth)                       | I'm susceptible to stress when I have a lot of deadlines. |
 
 
+### 2024.10.19
+
+題目：TPO57 - Task1
+
+[原版]
+First, the reading points out that Amtrak keeps losing money. If Amtrak was private, the unprofitable routes could be cut. However, the speaker says the purpose of maintaining train service by the US government is not for profit. She claims that Amtrak should serve citizens in all parts of the country including less populated areas. Therefore, Amtrak should not be sold to a private company.
+
+[修正]
+First, the reading points out that Amtrak keeps losing money. If Amtrak were private, the unprofitable routes could be cut. However, the speaker says the purpose of maintaining train service by the US government is not for profit. She claims that Amtrak should serve citizens in all parts of the country including less populated areas. Therefore, Amtrak should not be sold to a private company.
+
+[原版]
+Third, the article notes that train is not important in the US because it is underuse. Most of people use private car for long-distance traveling. The speaker agrees with this, but she points out that the reason is that the train system is out of date and not affordable. She takes Japan and Europe as examples, the train in those areas is convenient and affordable, so many people choose train as a transportation option. As a result, she emphasizes the US government should invest more on the train and make it popular.
+
+[修正]
+Third, the article notes that trains are not important in the US because they are underused. Most people use private cars for long-distance travel. The speaker agrees with this but points out that the reason is that the train system is outdated and not affordable. She takes Japan and Europe as examples, where trains are convenient and affordable, making them a popular transportation option. As a result, she emphasizes that the US government should invest more in trains to make them a more attractive option.
+
+
+### 2024.10.20
+
+
+
+### 2024.10.21
+
+
+
+### 2024.10.22
+
+
+
+### 2024.10.23
+
+
+
+
 <!-- Content_END -->
