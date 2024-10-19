@@ -165,4 +165,9 @@ To going on debonair debonairely, you must fully accept and love it, flaws and a
 - P26 LISTENING:It is kind of thing you look for(forward) to instead of you know some work out until(x) you dread, and you think of this(think of it as) work and this is just fun
 - think-of-it
 
+### 2024.10.19
+- Learning material:https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.videopod.episodes&vd_source=70d22df5993b243adb2c4be25499c92e&p=27
+- P27 LEARNING: Super hero custums as usual are big this here, especially for recent movies like sword and the grin latent.
+- rightanswer: Superhero costumes, as usual, are big this year--especially from recent movies like Thor and the Green Lantern.
+
 <!-- Content_END -->
