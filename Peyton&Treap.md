@@ -614,6 +614,60 @@ Note:
 - bubblegum/ ˈbʌblɡʌm /
 - out of: lack of there, meaning I have no bubblegum.
 
+### 2024.10.19
 
+[Daily English Dictation 6 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=6)
+
+My dictation:
+
+The secrct of life is justice -- don't leave everyone.
+
+Correct Version:
+
+The secrct of life is to just live every moment.
+
+Note:
+
+-  just usually pronounce as juss(cancel the t)
+
+[Daily English Dictation 7_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG/?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=7)
+
+My dictation:
+
+Another world trader has cost a bank billion
+
+Correct Version:
+
+Another **rogue** trader has **cost a** bank billion**s**.
+
+Note:
+
+- rogue/ rəʊɡ / adj.行为失常的，暴戾的；（野兽）离群而危险的
+- billion --> billions
+- cost a 
+- amateur/ ˈæmətə(r) /
+
+[Daily English Dictation 8_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=8)
+
+My dictation:
+
+xxxx is the man with most piercings, who has got 453.
+
+Correct Version:
+
+German, Rolf Buchholz, is the man with most piercings, he's got 453.
+
+Note:
+
+- German
+- who has --> he's
+- is the /zuh/
+- with the (connect with and the, kill the same th)
+- most piercings(kill t, mos piercings)
+- hundred -->hu-nerd when say it fast(cancel the d, hunred)
+
+### 2024.10.19
+
+[Daily English Dictation 9_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=9)
 
 <!-- Content_END -->
