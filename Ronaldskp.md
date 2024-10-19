@@ -232,8 +232,16 @@ You know , when l thought,when l was thinking about going to Germany to study Ge
 ### 2024.10.18
  l think ,six months of class together in a row,so , we became pretty good friends ,and he was interesed in American English and movies , American movies, and want to sound more American.And so , he was having me coach him a little bit . He'd sya a couple things . l would tell him what to change to make it sound better , and l remember describing the ah vowel to him . He was not making it .And so , l said ,well , you're missing a vowel. Let me show you what it's like .And l was descrbing what the tongue should look like , and then he said , you're really gooa at that.
 ### 2024.10.19
+Yeah , that sounds about right . And , but l think another thing that's interesting is that you were a student at the time that you decided to teach , and l think you're said to me before that you were in Germany trying to learn German, and you knew at points that you didn't quite sound like a native German speaker , and you sort of had a desire for something to exist to help you sound more like a native German speaker . Like ,that would like have been nice
+### 2024.10.20
 
+### 2024.10.21
 
+### 2024.10.22
+
+### 2024.10.23
+
+### 2024.10.24
 
 
 <!-- Content_END -->

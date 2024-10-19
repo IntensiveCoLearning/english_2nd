@@ -157,6 +157,7 @@ https://danieljeffries.substack.com/p/the-pathways-of-tomorrow-four-big-predicti
    - There is one thing we should add to this basic picture, which is that some of the things we've learned about AI itself in the last few years are likely to help advance neuroscience, even if it continues to be done only by humans.
      
 ### 2024.10.18
+If you doubt yourself, then indeed you stand on shaky ground.
 
 
 ### 2024.10.19

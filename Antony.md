@@ -110,7 +110,16 @@ Vocabulary: approval, turnaround, permit/permission, photography(辯音), & flye
 
 ### 2024.10.18
 
+23:15-23:45 檢討影片單字。
 
+| chamber              | a space in the body, in a plant or in a machine that is separated from the rest | the chambers of the heart                                 |
+| -------------------- | ------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| strengthen           |                                                                                 | Regular exercise can strengthen motor skills.             |
+| be thought to…       |                                                                                 | This research is thought to be his representative work.   |
+| sth you already know |                                                                                 |                                                           |
+| recall               | actively retrieving or trying to bring something back from memory               | I can’t recall the experimental details.                  |
+| remember             | having something in mind or not forgetting                                      | Remember to let me know if you have any questions.        |
+| susceptible (to sth) | very likely to be influenced, harmed or affected (by sth)                       | I'm susceptible to stress when I have a lot of deadlines. |
 
 
 <!-- Content_END -->

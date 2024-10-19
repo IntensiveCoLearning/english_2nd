@@ -141,9 +141,33 @@ they ve spread 不是swept/
 ### 2024.10.17
 -唉 这两天每天都巨忙，gap一天，今天只背了单词，一会回去听daily dictation
 ### 2024.10.18
+-今天背了20分钟单词，听了daily dictation 15-18,翻译一个雅思阅读的片段，
 
+
+-Dictation_15:cats reputedly have nine lives,and he clearly want to spend one of the .uhh here in new york city.
+
+--fix: at least. spend at least one of them...
+
+-Dictation_16:the frantic pacing ,scene changes every eleven scends on everages,offen leave kids zoned out and spuned up ,unable to concentrate.
+
+-fix:averages.
+
+-Dictation_17:***,soaked and flooded,the pifipine is been hitted by second typhoon in a week.
+
+--battered.is being not is been ,,philipine.philipine.
+
+--Dictation_18: a few years ago,they were saw to be useless,past **prime, not now..
+
+--fix: were thought to were thought to  ..past there prime. they were considerd to be thoughted == considerd.. get rid of them. kill them we dont need them   
+  in my prime...past there prime == useless. before there prime. 
+
+--English:Despite the increasing use of digital communication, face-to-face interaction remains an essential part of human relationships. Numerous studies have shown that people are more likely to trust and build stronger connections with individuals they have met in person, rather than through online interactions. This is because face-to-face communication allows for the exchange of non-verbal cues, such as body language and eye contact, which play a significant role in establishing trust and understanding.
+
+--Translation: 尽管数码通讯的使用频率正在增加，面对面互动仍然是人类维持关系的一部分。大量研究表明：相比于在网络上交流的人，人们往往更愿意信任那些现实遇到的人，也愿意与现实的人建立起强壮的关系。这是因为面对面交流允许人们去交换非口语的信号，比如肢体语言和眼神交流，这些非口语的信号在构建信任和理解的过程中会起到显著的作用
 ### 2024.10.19
+--English:Despite the increasing use of digital communication, face-to-face interaction remains an essential part of human relationships. Numerous studies have shown that people are more likely to trust and build stronger connections with individuals they have met in person, rather than through online interactions. This is because face-to-face communication allows for the exchange of non-verbal cues, such as body language and eye contact, which play a significant role in establishing trust and understanding.
 
+--Translation: 尽管数码通讯的使用频率正在增加，面对面互动仍然是人类维持关系的一部分。大量研究表明：相比于在网络上交流的人，人们往往更愿意信任那些现实遇到的人，也愿意与现实的人建立起强壮的关系。这是因为面对面交流允许人们去交换非口语的信号，比如肢体语言和眼神交流，这些非口语的信号在构建信任和理解的过程中会起到显著的作用
 ### 2024.10.20
 
 <!-- Content_END -->

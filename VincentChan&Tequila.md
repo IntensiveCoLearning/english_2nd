@@ -154,4 +154,12 @@ It's a lofty,probably impossible goal.
 **Ditation 11**  
 New York swept the Tampa Bay Rays by identical 4-2scores in a day-night doubleheader Wendesday.
 
+### 2024.10.18
+**Ditation 12**  
+Jim Henson, creater of the Muppets--from Kermit the Frog to Sesame Street-- i born in Greenville, MS. 
+- MS = Mississippi
+- creater n. 创造者 
+- Muppet n. 提线木偶
+
+
 <!-- Content_END -->

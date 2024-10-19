@@ -206,12 +206,11 @@ In IT or software contexts, "spun up" can refer to starting or launching somethi
 ### 2024.10.17
 今天主要看了视频 4 Steps to Easily Understand English | Improve English Listening Skills
 其实目前无字幕的YouTube视频，只要不是特定的话题，我大概能听懂百分之80%，90%左右了，那可能我的问题不是在于听，而是在于去有逻辑的去表达自己。还有残酷共学的英文材料其实难度还是有的，因为摄取的是各种各样年代口音的材料，且没有上下文可以猜测大概的主体和内容，我觉得集中听个100期应该会对实际的英文听力有一个蛮大的提升，主要是在于老师还会讲很多关于连读弱读等相关的技巧，这样可以更轻松的听懂不同地区年代的英文材料。
-#15 
-"battered,soaked and flooded, the philippines is being hit by its 2nd typhoon in a week."
-
 
 ### 2024.10.18
 ### 2024.10.19
+#15 
+"battered,soaked and flooded, the philippines is being hit by its 2nd typhoon in a week."
 ### 2024.10.20
 ### 2024.10.21
 ### 2024.10.22

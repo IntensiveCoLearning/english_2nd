@@ -345,12 +345,85 @@ Daily English Dictation  21
 
 Saturday, an ultralight plane crashed into a Ferris wheel at a rural festival in Australia, yet somehow no one on the amusement ride nor the plane was hurt.
 
+ultralight  超轻型的
+
+amusement ride 游乐场
+
+rural 乡村；urban城市的
+
+somehow🟰magically 由于某种未知原因，不可置信的
+
+前面有no one,后面加‘nor’
+
 Hotspot
-
+>
 On October 13, 2024, United States Space Exploration (SpaceX) successfully conducted the fifth test flight of the Super Heavy Boost/Starship Complex (IFT-5) (hereinafter referred to as "Starship") at the Boca Chika base in Texas. This test flight has made an important breakthrough, the first-stage rocket "super-heavy" booster has achieved the "chopsticks" robotic arm capture and recovery for the first time, and the second-stage rocket "Starship" spacecraft has achieved low-speed vertical splashing on the sea surface, marking an important step on the road to SpaceX's "Starship" fully reusable target.
+2024年10月13日，美国太空探索公司（SpaceX）在德克萨斯州博卡奇卡基地成功进行了超重型助推星舰综合体（IFT-5）（以下简称星舰）的第五次试飞。此次试飞取得了重要突破，第一级火箭超重型助推器首次实现了筷子机械臂捕获回收，第二级火箭星舰飞船实现了海面低速垂直溅射，标志着SpaceX公司星舰完全可重复使用目标的道路迈出了重要一步。
 
+>
+### 2024.10.15
+Daily English Dictation  22
 
+1. Heidi won the world over with her forever cute but slightly confused look.
 
+won容易听成 ‘one’
+
+look = expression 表情 appearance 外貌
+
+Hotspots
+
+1. People with very high expectations have very low resilience , and unfortunately, resilience matters in success. I don’t know how to teach it to you except for I hope suffering happens to you,  and greatness is not intelligence, as you know , greatness comes from character and character isn’t formed out of smart people. it’s formed out of people who suffered for all of you Stanford students. I wish upon you, you know ample doses of pain and suffering. — 黄仁勋演讲
+
+resilience 韧性
+
+Stanford students 天之骄子
+
+suffering 毒打；痛苦
+
+1. Learning new languages is an exercise of the mind. it was the first study which suggested that bilingual people - people who speak more than one language-develop dementia four to four-and-a-half years later than those who don’t.
+
+学习新语言是一种思维锻炼。这是第一项研究表明，会说一种以上语言的双语者比不会说一种语言的人晚四年到四年半患上痴呆症。
+
+### 2024.10.16
+1.Won the world over with = be famous for
+1. 赢得世界 = 闻名
+
+cross eye 斗鸡眼
+
+look = expression 表情 = appearance 外貌
+
+with her = wither 4.和她在一起=枯萎
+
+sligh(t)ly 一点点；稍微
+
+confuse = kenfuse 迷惑
+### 2024.10.17
+1.Won the world over with = be famous for
+1. 赢得世界 = 闻名
+
+cross eye 斗鸡眼
+
+look = expression 表情 = appearance 外貌
+
+with her = wither 4.和她在一起=枯萎
+
+sligh(t)ly 一点点；稍微
+
+confuse = kenfuse 迷惑
+
+### 2024.10.18
+1.Won the world over with = be famous for
+1. 赢得世界 = 闻名
+
+cross eye 斗鸡眼
+
+look = expression 表情 = appearance 外貌
+
+with her = wither 4.和她在一起=枯萎
+
+sligh(t)ly 一点点；稍微
+
+confuse = kenfuse 迷惑
 
 
 <!-- Content_END -->

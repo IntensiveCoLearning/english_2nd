@@ -115,7 +115,11 @@ It's nice to meet everyone in LX DAO here.
     
   - fix：chip makers; efficiency
 
-
+### 2024.10.18
+- 听写；原视频： "City of London Has Given Up on Inclusion, Black Workers Say", Bloomber; https://www.bloomberg.com/news/videos/2024-10-18/city-of-london-has-given-up-on-inclusion-black-workers-say
+  - Dictation: Are businesses still committed to supporting Black talent? After George Floyd was murdered, thousands of pounds were pledged on promises made to prove *improve* prospect of black worker in the City of London. But now almost 5 years later and disappointed with the results, many firms are pulling back on black focuses recruiment *recruitment* schemes and ditching *ditching* diversity, equity and inclusion back to norm(?). Some black professionals we've spoken to who asked to remain anonymous report feeling abandoned, and others say their empolyers weren't ready to welcome diverse talent, speaking of insentitive managers, and hostile working envirionments. Research shows that the pace of change is slowing. It will now take 50 years for the portion *proportion* of black talent in U.K. financial services to match the percentage of Black employees in the working age population. In investment banking representation at senior levels at just 0.5%, and Black talent is also leaving the city before it reaches the top jobs. In U.K. law firms, black mid-level employees are 4 times more likely to leave the sector than their peers. And this is just what we know. Most city firms even don't collect or don't publish. Statistics about their Black employees, making it difficult to hold them accountable, but face with dwindling(?) *dwindling* budget, and a tense of political climate, commiting how hard(?) *wholeheartedly* to this remainting quality, might not be so simple.
+    
+  - fix：ditching 放弃; wholeheartedly 竭诚; 
 
 
 <!-- Content_END -->
