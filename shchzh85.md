@@ -183,5 +183,10 @@ m
 	effort sectet 	
 	Think's fom coming over. I readlly  You're not that handsome. Tell me your favorite song and I'll play it for you. I haven't seen him arond lately.
 	thrilled . She have no time for that.
+    
+### 2024.10.19
+    英文阅读https://www.cbsnews.com/colorado/news/avengers-endgame-expected-to-shatter-box-office-records/
+    陌生单词学习 avenger endgmae shatter assemble precise predict debuts
+    showtime
 
 <!-- Content_END -->
