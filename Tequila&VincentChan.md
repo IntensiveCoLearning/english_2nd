@@ -243,7 +243,7 @@ It's a pain, 'cuz my fridge is… I dumped it today,and the foods' gone.
 令人痛苦的是，因为我的冰箱……我把冰箱里的食物都倒掉了，所以食物都吃光了。
 dump丢弃，扔掉
 
-### 2024.10.19
+### 2024.10.20
 i studied the P29-P31 in the bilibili video summary.Following are the notes:
 He says he was simply going by the book when it comes landing without gear and that he and his fellow pilots train for these types of incidents. 
 他说在飞机没有降落装置降落的情况下，他仅仅是按照规则执行,并且他和他同行的飞行员曾做过这个方面的训练。
