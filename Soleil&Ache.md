@@ -368,4 +368,22 @@ hypothesis 假设，假说
 
 to be continued
 
+### 2024.10.20
+
+https://mp.weixin.qq.com/s/LDnorT9tn92rbBaCIj4_Ag
+
+Notes:
+
+visualise 使形象化；使能被看见
+
+snooze 打盹，小睡 You snooze, you lose 一但不留神就会被人抢先
+
+-oriented 以…为目标的；以…为导向的
+
+chronically （尤指疾病或不好的事物）慢性地，长期地
+
+maxim 格言；箴言；座右铭
+
+spectrum 范围；各层次；系列；幅度
+
 <!-- Content_END -->
