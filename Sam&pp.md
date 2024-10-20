@@ -300,4 +300,38 @@ Points：
 
 6.confuse = kenfuse 迷惑
 
+### 2024.10.17
+
+我的答案：The project to put them online is expected completed by 2016
+
+正确答案：The project to put them online is expected to be completed by 2016.
+
+Points：
+
+1.Dead Sea Scrolls = the old book
+
+2.Expected = done = finished
+
+3.complete = ken~
+
+### 2024.10.20
+
+我的答案：SAT cheating has long island high school example 6 students
+
+正确答案：An alleged SAT cheating scandal has been uncovered at a prestigious Long Island high school. This college student is accuted of taking the college entrance exam for at least 6 students.
+
+Points
+
+1.SAT = scholastic aptitude test
+
+2.Alleged = no clue, hasn't proof
+
+3.Scandal = disgreatful even
+
+4.Uncovered = discovered
+
+5.prestigious = very expensive, very famous.
+
+6.prosecutor
+
 <!-- Content_END -->
