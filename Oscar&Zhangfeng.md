@@ -292,9 +292,32 @@ Listening and Learning English expression：
 
 - Please leave the menu here.
 
+
+### 2024.10.20
+
+Listening and Learning Spoken English expression：
+
+- Rise and shine 起床
+
+- Would you turn off the alarm clock？
+
+- what time do you leave？
+
+- It looks like it's about to rain.
+
+- Remember to bring an umbrella.
+
+- We need to go to the gas station first.
+
+- I do the chores every day. 做家务
+
+- My wife is mopping the floor。
+
+- I don't like doing the dishes.
+
+- I can drop you off.
+
   
-
-
 
 
 
