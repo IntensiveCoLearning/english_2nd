@@ -438,7 +438,14 @@ muppet
 
 ### 2024.10.20
 
-笔记内容
+Jim Henson, creator of The
+muppets -- from kermit the
+frog to sesame Street -
+is born in Greenville, MS.
+
+listen and write
+mosquitos
+Arian tigger years south the unit states
 
 ### 2024.10.21
 
