@@ -171,4 +171,11 @@ To going on debonair debonairely, you must fully accept and love it, flaws and a
 - rightanswer: Superhero costumes, as usual, are big this year--especially from recent movies like Thor and the Green Lantern.
 - P28: Listening:It is a pain, because my friges are dumoped today, foods gone(My fridge is , I dumped it today)
 
+### 2024.10.20
+- Learning material:https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.videopod.episodes&vd_source=70d22df5993b243adb2c4be25499c92e&p=29
+- LEARNING: He says he was simplely going by the book when they come to landing without here(gear), and he is double pilots trained for this type of inccident(and that he and his fellow pliots train for this type of incidents)
+- P30: It is the vagetable sum love to hate,but now a bread up bracoly super bracoly,developed bruerten may protect against disease even some kind of cancer
+- It is the vagetable some love to hate!but now a new breed of broccoli-super broccoli-developed in britain may protect against heart disease-even some kind of cancer.
+- love to hate:hate. new breed of:new kind of/neww type of. developed_in->developedin
+
 <!-- Content_END -->
