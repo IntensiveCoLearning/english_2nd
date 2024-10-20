@@ -167,4 +167,8 @@ Yes
 
 1. Learned 40 vocabulary.<img width="200" alt="Chacha 10-19" src="https://github.com/user-attachments/assets/70dbff02-4398-4c9a-8017-ec4ca0b97e19" />
 
+### 2024.10.20
+
+1. Listened to this podcast https://podcasts.apple.com/cn/podcast/all-ears-english-podcast/id751574016?i=1000673256676 
+
 <!-- Content_END -->
