@@ -301,4 +301,10 @@ Battered,socked and flooded;the Philippiness is being hit by its 2nd typhoon in 
 
 A few years ago they were thought to be useless—past their prime—not now
 
+### 2024.10.18
+
+18.If you are breathing ,it is not too late.get out  be get going.
+
+If you are breathing,it is not too lat.Get up and get going.
+
 <!-- Content_END -->
