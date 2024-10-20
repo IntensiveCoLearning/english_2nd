@@ -210,6 +210,27 @@ timezone: Asia/Shanghai
 - Components can have their own state, which represents data that can change over time, and props, which are inputs passed from parent components. The component lifecycle includes methods for mounting, updating, and unmounting, allowing developers to hook into different stages of a component's existence.
   
 ### 2024.10.20
+## 总结
+	学习完react概念，新手项目进度80%，写代码的过程中似乎对理论要求不高。接下来会将重点用在原生js学习和youtobe区react项目。
+ - Declarative Code: React allows you to write UIs in a declarative way, which makes it easier to reason about your application's state and output.
+ - Components: The basic building blocks of React applications are components. Components can be class-based or functional, and they can be either stateful or stateless.
+ - JSX: React uses JSX, a syntax extension that looks like HTML but is actually embedded JavaScript, to describe what the UI should look like.
+ - State: Encapsulated data within a component that, when changed, re-renders the component.
+ - Props: Read-only data passed down from a parent component to a child component
+ - Hooks: Introduced in React 16.8, hooks allow you to use state and other React features without writing a class.
+ - Context API: A way to pass data through the component tree without having to pass props down manually at every level.
+ - Redux: A popular state management library that can be used with React to manage state more predictably.
+ - Virtual DOM: React maintains a virtual representation of the actual DOM, which allows it to optimize and minimize the number of costly DOM manipulations.
+ - Reconciliation: The process by which React updates the DOM efficiently by comparing the previous and next render of components.
+ - Keys: A unique identifier for list items when rendering dynamic lists to help React identify which items have changed, been added, or been removed.
+ - Fragments: A way to return multiple elements from a component without adding extra nodes to the DOM.
+ - Events: React attaches event handlers to components using a camelCase naming convention and automatically handles event propagation.
+ - Refs: A way to get a direct reference to a DOM node or a React element created in a component.
+ - Higher-Order Components (HOCs): A pattern for reusing component logic by wrapping a component in another component.
+ - Error Boundaries: Components that catch JavaScript errors anywhere in their child component tree, log those errors, and display a fallback UI.
+ - Server-Side Rendering (SSR): The ability to render React components on the server and send HTML to the client, which can improve SEO and performance.
+ - Testing: React provides a testing library that makes it easy to write unit tests for components.
+ - Ecosystem: React has a vast ecosystem of tools and libraries, including Create React App for bootstrapping new projects, React Router for navigation, and various UI component libraries.
 ### 2024.10.21
 
 
