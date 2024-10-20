@@ -242,4 +242,24 @@ Superhero costumes ,as usual,are big this year-- especially from recent movies,l
 It's a pain, 'cuz my fridge is… I dumped it today,and the foods' gone. 
 令人痛苦的是，因为我的冰箱……我把冰箱里的食物都倒掉了，所以食物都吃光了。
 dump丢弃，扔掉
+
+### 2024.10.19
+i studied the P29-P31 in the bilibili video summary.Following are the notes:
+He says he was simply going by the book when it comes landing without gear and that he and his fellow pilots train for these types of incidents. 
+他说在飞机没有降落装置降落的情况下，他仅仅是按照规则执行,并且他和他同行的飞行员曾做过这个方面的训练。
+（1）go by the book照规矩办事
+（2）gear 排档，齿轮；换挡
+          landing gear降落装置
+句子后面的“train”是现在时的原因我问了群里的大佬，他们说因为“训练”对飞行员来说是常态，所以此处用的是现在时。
+
+It is the vegetable some love to hate,but now a new breed of broccoli -super broccoli - developed in Britain may protect heart disease-even some kinds of cancer. 
+一些人讨厌西兰花，但现在一种全新的西兰花—超级西兰花—产于英国，能够预防心脏疾病甚至是一些癌症。
+（1）broccoli西兰花
+（2）love to hate 讨厌
+
+Mayor Sam Adams ordered that the camp be shut down Saturday citing unhealthy conditions,and the attraction of drug dealers and thieves. 
+Sam Adams市长下令在周六前取消营地，原因是不良的环境和会吸引毒品贩和小偷。
+（1）mayor市长
+（2）cite 提及（原因）；举出（示例）；列举，引用
+（3）drug dealer毒品贩
 <!-- Content_END -->
