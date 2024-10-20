@@ -666,8 +666,57 @@ Note:
 - most piercings(kill t, mos piercings)
 - hundred -->hu-nerd when say it fast(cancel the d, hunred)
 
-### 2024.10.19
+### 2024.10.20
 
 [Daily English Dictation 9_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=9)
+
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | A satellite which carried by spaceship about the far 20 years ago, but nobody knows where the break would hit |
+| Correct Version | A satellite that was carried to space aboard the shuttle Discovery 20 years ago is about to fall to Earth, but nobody knows where the debris will hit. |
+
+Note:
+
+- carrie(d) to(sounds like the/t') space
+- aboard a plane/ship, meaning 'on'
+- shuttle/ ˈʃʌt(ə)l /
+- twen(t)y --> kills the t
+- is about to(t')
+- debris/ dəˈbriː / [N-UNCOUNT] 残骸，碎片
+
+[Daily English Dictation 10_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=10)
+
+|                 | Text                                     |
+| --------------- | ---------------------------------------- |
+| My dictation    | It is a lofty, probably impossible gold. |
+| Correct Version | It's a lofty, probably impossible goal.  |
+
+Note:
+
+- lofty / ˈlɔːfti / *adj.*巍峨的，高耸的；崇高的，高尚的；傲慢的，高傲的；（毛和其他纺织品）厚实而有弹性的
+- goal
+
+[Daily English Dictation 11_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=11)
+
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | Europe swell the xxx by identical 42 scores in a daynight double headers Wensday |
+| Correct Version | New York swept the series Tampa Bay Rays by identical 4-2 scores in a day-night doubleheader Wednesday. |
+
+Note:
+
+- Europe-->New York
+- swept/ swept / 横扫 sweep/ swiːp /
+- 4-2: sounds like four (d') two, different from fourty two
+- double header: two games in one day
+- Wensday --> Wednesday
+
+### 2024.10.21
+
+[Daily English Dictation 12_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=12)
+
+
+
+
 
 <!-- Content_END -->
