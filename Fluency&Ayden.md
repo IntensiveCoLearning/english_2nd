@@ -160,4 +160,10 @@ never stop！
 ### 2024.10.18
 
 ### 2024.10.19
+https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.videopod.episodes&p=12
+too sleepy
+
+### 2024.10.20
+![image](https://github.com/user-attachments/assets/d624afbf-8c5f-4002-b57c-aa01f02d416b)
+studying
 <!-- Content_END -->

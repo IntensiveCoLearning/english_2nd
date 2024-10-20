@@ -212,6 +212,8 @@ In IT or software contexts, "spun up" can refer to starting or launching somethi
 #15 
 "battered,soaked and flooded, the philippines is being hit by its 2nd typhoon in a week."
 ### 2024.10.20
+最近这几天在休息，虽然没有花太多时间学习英文，但是看了一些英文的视频。
+
 ### 2024.10.21
 ### 2024.10.22
 

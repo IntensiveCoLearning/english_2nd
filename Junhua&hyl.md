@@ -169,5 +169,10 @@ hold up means delay
 outcroppings
 manual
 
+### 2024.10.19
+![1018](img/Junhua_1019.png)
+tobaggan
+it doesn't get much more ... than this
+
 
 <!-- Content_END -->

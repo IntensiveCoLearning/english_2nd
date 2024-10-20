@@ -325,8 +325,42 @@ subsidise,green,a a catch,revolutionised,from A to B
 
 
 ### 2024.10.19
+Easy ways to get more nutrients
 
-笔记内容
+nutrients:营养素
+fizzy：起泡的
+decay：腐烂衰败
+seasoning：调味料
+Eating a rainbow 
+adventurous :大胆
+calcium：钙
+wholegrain：全谷物全麦的
+ turmeric：姜黄
+antioxidant：抗氧化
+anti-inflammatory：抗炎
+Dairy product:奶制品
+
+总结：So, fresh fruit and vegetables, swapping the worst things, and just a little bit more adventure could be the secret to a more nutritious diet.
+新鲜的水果蔬菜、把更差的食物换掉，并且在饮食习惯上大胆一些可以是更营养的饮食秘诀
+
+练习
+1.fizzy drink/soft drink
+2.vegetables and fruits
+3. Eating food that we haven't eaten before could give us a wider range of nutrients
+4. garlic,ginger and turmeric can have antioxidant and anti-inflammatory proterties and can lead people using less salt
+5. popcorn
+
+1.protein
+2.dairy
+3.white
+4.seasoning
+5.nutrient density
+
+
+
+
+
+
 
 ### 2024.10.20
 

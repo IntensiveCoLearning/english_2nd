@@ -161,7 +161,10 @@ If you doubt yourself, then indeed you stand on shaky ground.
 
 
 ### 2024.10.19
-
+1. English Slang: Brush over
+https://mp.weixin.qq.com/s/tHK9UkRsbSq2mwvoefEQQQ
+2. Expamples:
+   When you say you'll brush over something, it means you'll ignore it or not take it that seriously.  
 ### 2024.10.20
 
 

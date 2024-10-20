@@ -295,4 +295,10 @@ The frantic pacing scene —changes every 11 seconds on average —often leads k
 
 Battered,socked and flooded;the Philippiness is being hit by its 2nd typhoon in a week.
 
+### 2024.10.18
+
+17.a few years ago,there thought to be useless passed cry not now.
+
+A few years ago they were thought to be useless—past their prime—not now
+
 <!-- Content_END -->
