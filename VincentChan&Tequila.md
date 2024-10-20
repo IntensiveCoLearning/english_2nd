@@ -169,4 +169,12 @@ Asian tiger mosquitoes are native to the tropics of Southeast Asia, but in the p
 - tropic n. 热带地区
 - but in the 连读成 but inuh
 
+### 2024.10.20
+**Ditation 14**  
+Cats reputedly have has 9 lives, and he clearly wanted to spend at least one of them here in New York City.
+- reputedly adv. 据说，一般认为
+- wanted to, t发音被省略，to 发 d，连读成 want ny d
+- at least, at 的 t 发音被省略，发 aleast
+- one of them, of 的 f 发音被取消， 连读成 one o them
+
 <!-- Content_END -->
