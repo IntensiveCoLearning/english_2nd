@@ -317,6 +317,31 @@ Listening and Learning Spoken English expression：
 
 - I can drop you off.
 
+
+### 2024.10.21
+
+Listening and Learning Spoken English expression：
+
+- Take a rest if you're sleepy.
+
+- I want to take a nap.
+
+- Sweet dreams.
+
+- It's time for bed.
+
+- Go to bed, or you'll be late again.
+
+- Here is my registration card.
+
+- Is this covered by the health insurance?
+
+- Which department should I register with?
+
+- Do I sign my initial here?
+
+- How can I apply for insurance ?
+
   
 
 
