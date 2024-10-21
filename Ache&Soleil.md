@@ -357,14 +357,46 @@ Dairy product:奶制品
 5.nutrient density
 
 
-
-
-
-
-
 ### 2024.10.20
-
+What your scent says about you
 笔记内容
+
+body odour:体味
+
+odour 只能用作名词，而smell 可以用作动词和名词；odour 通常表示强烈的通常不太好的气味，而smell 更中性，可以是好的气味坏的气味或者中性气味；odour 通常更正式
+
+taking a whiff ：闻一下，whiff ：一阵气味
+sniffing:嗅
+olfaction:嗅觉
+BO ：body odour 的缩写
+scurvey：坏血病
+putrid：腐烂的
+douse：浸透、淹没、浇灭，在 douse his palace in fragrance 中，表示 fill/充满、浸满的意思来描述香味的充盈程度。
+fragrance:香气
+stench ：恶臭
+personal hygiene：个人卫生
+deodorants：除臭剂
+aroma：香料、香薰
+waft around :飘荡  waft :指气体、声音或者轻物在空气中缓慢移动
+
+
+1. Participants had to match T-shirts that smell the same after sniffing them
+2. A dog could distinguish the odour of identical twins living apart .So your envoronment can change how you smell
+3. True , The BO of someone with diabetes was associated with rotten apples.
+4. Mask the stench of poor personal hygiene
+5. drop the deodorants and perfume and let your nature scent waft around
+
+6. deodorant
+7. sniffed
+8. putrid
+9. take a whiff
+10. olfactory
+
+
+
+
+
+
 
 ### 2024.10.21
 
