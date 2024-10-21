@@ -177,4 +177,13 @@ Cats reputedly have has 9 lives, and he clearly wanted to spend at least one of 
 - at least, at 的 t 发音被省略，发 aleast
 - one of them, of 的 f 发音被取消， 连读成 one o them
 
+### 2024.10.21
+**Ditation 15**  
+The frantic pacing -- scene changes every 11 seconds on average -- often leads kids zoned out and spun up; unable to concentrate.  
+疯狂的节奏——平均每11秒场景变化一次——常常导致孩子们心不在焉、情绪激动，无法集中注意力。  
+- frantic adj. 狂乱的、焦急的
+- pacing n. 节奏、速度
+- zone out 走神、精神恍惚
+- spin up 情绪激动、兴奋
+
 <!-- Content_END -->
