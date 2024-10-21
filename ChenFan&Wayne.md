@@ -169,5 +169,26 @@ they ve spread 不是swept/
 
 --Translation: 尽管数码通讯的使用频率正在增加，面对面互动仍然是人类维持关系的一部分。大量研究表明：相比于在网络上交流的人，人们往往更愿意信任那些现实遇到的人，也愿意与现实的人建立起强壮的关系。这是因为面对面交流允许人们去交换非口语的信号，比如肢体语言和眼神交流，这些非口语的信号在构建信任和理解的过程中会起到显著的作用
 ### 2024.10.20
---今天看到了一个悲痛的消息，我的好友居然g了。今天背了20mins单词，每天的量都是固定的50+150，但是最近好像越来越快了，说不好是我偷懒了，还是我记单词越来越熟悉。还看了dd的19-21.翻译了一篇雅思阅读的片段。
+--今天看到了一个悲痛的消息，我的好友居然g了。今天背了20mins单词，每天的量都是固定的50+150，但是最近好像越来越快了，说不好是我偷懒了，还是我记单词越来越熟悉。翻译了一篇雅思阅读的片段。
+### 2024.10.21
+--今天已经背完了单词，现在看了dd的19-21.
+
+--dd19：if you are breathing ,it is not too late.get up and get going
+
+--d200:a sixty seven years old grandpa has been found alive after has being stuck for six days at the buttom of the revaines.
+
+--dd21: saturday an ultralight plane crashed into a ferris wheel,at a rural festival in australia yet somehow no one on the amusement ride nor the plane was hurt.
+
+--fix:ferris wheel australia
+
+
+### 2024.10.22
+### 2024.10.23
+### 2024.10.24
+### 2024.10.25
+### 2024.10.26
+### 2024.10.27
+### 2024.10.28
+### 2024.10.29
+### 2024.10.30
 <!-- Content_END -->
