@@ -301,10 +301,16 @@ Battered,socked and flooded;the Philippiness is being hit by its 2nd typhoon in 
 
 A few years ago they were thought to be useless—past their prime—not now
 
-### 2024.10.18
+### 2024.10.19
 
 18.If you are breathing ,it is not too late.get out  be get going.
 
 If you are breathing,it is not too lat.Get up and get going.
+
+### 2024.10.20
+
+19.In 67 year old,Grandpa has been found a live at the living be seeing 6 days off a over the wheem.
+
+ A 67 year old grandpa has been found alive  after being stuck for six days at the bottom of a ravine.
 
 <!-- Content_END -->
