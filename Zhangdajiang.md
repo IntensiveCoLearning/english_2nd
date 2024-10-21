@@ -232,4 +232,11 @@ Cheryl also said she was troubled her seven-year-old son could access "abhorrent
 
 Ending her statement, the 41-year-old urged people to give Payne “the little dignity he has left in the wake of his death to rest in some peace at last”.
 
+
+### 2024.10.20
+-speak: His way of thinking has completely shifted the paradim.
+       a paradigm shift
+-speak:I just need to find a way to alleviate this stress.
+        alleviate suffering
+-speak:Without hope, our will is deteriorating little by little, as if waiting for the arrival of death
 <!-- Content_END -->
