@@ -239,4 +239,17 @@ Ending her statement, the 41-year-old urged people to give Payne “the little d
 -speak:I just need to find a way to alleviate this stress.
         alleviate suffering
 -speak:Without hope, our will is deteriorating little by little, as if waiting for the arrival of death
+
+
+### 2024.10.21
+-speak: He was also the least likely candidate to win this election.
+        to win/lose an election
+-speak:A magical with potion with no expiration date?
+       But every con has an expiration
+-speak:"Change to win" was his slogan
+        a compaign slogn
+-speak:The former nomads are now pride protectors.
+        in former times
+        
+
 <!-- Content_END -->
