@@ -262,4 +262,16 @@ Sam Adams市长下令在周六前取消营地，原因是不良的环境和会�
 （1）mayor市长
 （2）cite 提及（原因）；举出（示例）；列举，引用
 （3）drug dealer毒品贩
+
+### 2024.10.21
+i studied the P32-P34 in the bilibili video summary.Following are the notes:
+A preliminary government report predicts it'll take 30years or more to safely decommission the facility and it could be decades before nearby residents who were forced to flee can return to the area. 
+上周六一份初步的政府报告预测需要至少30年才能安全地正式停用设施，并且被强制撤离的住户几十年后才能回到此区域。
+(1)preliminary  adj.预备性的；初步的；开始的
+(2)decommission  v. 正式停止使用（武器，核电站）
+(3)facility n. 设施；设备
+(4)resident v. 居民，住户
+(5)decade  n. 十年
+
+
 <!-- Content_END -->
