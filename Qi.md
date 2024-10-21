@@ -185,4 +185,17 @@ I forgot submmit records.Because I got home too late
 
 too many things happen in recent times
 
+### 2024.10.19
+
+1. https://www.bilibili.com/video/BV1U7411a7xG?vd_source=bc0666711d2280c24d54945ab9c11146&spm_id_from=333.788.videopod.episodes&p=3
+   8 lessons
+
+### 2024.10.20
+
+1. Today is a 175-day winning streak on duoligo
+
+### 2024.10.21
+
+1. Today is a 176-day winning streak on duoligo
+
 <!-- Content_END -->

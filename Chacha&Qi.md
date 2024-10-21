@@ -266,8 +266,22 @@ Chacha
 
 1. Learned 40 vocabulary.<img width="200" alt="Chacha 10-18" src="https://github.com/user-attachments/assets/70dbff02-4398-4c9a-8017-ec4ca0b97e19" />
 
+Qi
+
+1. https://www.bilibili.com/video/BV1U7411a7xG?vd_source=bc0666711d2280c24d54945ab9c11146&spm_id_from=333.788.videopod.episodes&p=3
+   8 lessons
+
 ### 2024.10.20
 
 1. Listened to this podcast https://podcasts.apple.com/cn/podcast/all-ears-english-podcast/id751574016?i=1000673652968
 
+Qi
+
+1. Today is a 175-day winning streak on duoligo
+
+### 2024.10.21
+
+Qi
+
+1. Today is a 176-day winning streak on duoligo
 <!-- Content_END -->
