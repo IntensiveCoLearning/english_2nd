@@ -145,6 +145,8 @@ Third, the article notes that trains are not important in the US because they ar
 
 ### 2024.10.21
 
+23:45-00:15
+與ChatGPT語音對話，練習聽力與口說。
 
 
 ### 2024.10.22
