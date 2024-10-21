@@ -302,6 +302,8 @@ Points：
 
 ### 2024.10.17
 
+Daily Dictation Number 22：
+
 我的答案：The project to put them online is expected completed by 2016
 
 正确答案：The project to put them online is expected to be completed by 2016.
@@ -315,6 +317,8 @@ Points：
 3.complete = ken~
 
 ### 2024.10.20
+
+Daily Dictation Number 23：
 
 我的答案：SAT cheating has long island high school example 6 students
 
@@ -333,5 +337,28 @@ Points
 5.prestigious = very expensive, very famous.
 
 6.prosecutor
+
+### 2024.10.21
+
+Daily Dictation Number 24：
+
+我的答案：Louis takes the world cool night is 49 degree at the start of the game.
+
+正确答案：St Louis takes the World Series opener on a cool night, It was 49 degree at the start of the game.
+
+Points
+
+1.St Louis = a city of US
+
+2.World Series = a baseball game, the best of seven.
+
+3.Takes = wins
+
+4.Takes (the)
+
+5.start o(f) the
+
+6.kind of = kinda
+
 
 <!-- Content_END -->
