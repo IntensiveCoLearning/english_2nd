@@ -715,8 +715,86 @@ Note:
 
 [Daily English Dictation 12_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=12)
 
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | John Handsome, creator of the muppets, from xxx to xxx, is born in Messasip |
+| Correct Version | Jim Henson, creator of The Muppets -- from Kermit the Frog to Sesame Street -- is born in Greenville, Mississippi |
+
+Note:
+
+- Handsome-->Henson
+- **Kermit the Frog** 青蛙克米特
+- Sesame/ ˈsesəmi / 芝麻，胡麻；通行证
+- Greenville
+- Mississippi
+
+[Daily English Dictation 13_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=13)
+
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | Asian toger mosquito is the native of tropic  in Southeast Asia, but in the pass few years they spread all across the Southeaster of United State. |
+| Correct Version | Asian toger mosquito**es are** the **native to** tropics **of**  Southeast Asia, but in the **past** few years **they've** spread all across the Southeast**ern**  United State. |
+
+Note:
+
+- mosquitoes/ məˈskiːtoʊz /
+- native of -->native to
+- tropic/ ˈtrɑːpɪk / *n.*热带，热带地区（the tropics）；回归线；（天文）天球的回归线 *adj.*热带的（同 tropical）；向性的，亲……的；（激素或其作用）向性的，刺激另一内分泌腺活动的（同 trophic）
+- in the pass --> in the past
+- they spread --> they**'ve** spread
+- Southeaster--Southeast**ern** / ˌsaʊθˈiːstərn /
+
+[Daily English Dictation 14_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=14)
+
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | Cats repeatedly have nigth life, clearly they wanna spend it in here and there in New York city. |
+| Correct Version | Cats reputely have nine lives, and he (the cat in the story) clearly wanted to spend at least one of them  here in New York City. |
+
+Note:
+
+- reputely/ rɪˈpjuːtɪdli / *adv.*据说，一般认为；根据风评
+- wanted to spend --> wan d spend
 
 
 
+### 2024.10.22
+
+[Daily English Dictation 15_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=15)
+
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | The frantic pieces in change every second on it, often leave chirdren zoom out and sponge up ,unable to concentrate |
+| Correct Version | The frantic pacing --scene changes every 11 second on average -- often leaves kids zoned out and spun up ,unable to concentrate |
+
+- frantic/ ˈfræntɪk /*adj.*紧张忙乱的；（由于恐惧或担心）无法控制感情的，发狂似的
+- pieces-->pacing/ ˈpeɪsɪŋ /, meaning speed here
+- on it --> on average
+- zoned out 恍神，发呆：指因为专注于某个事物或者思考某个问题而忘记周围的事物，进入一种恍神或发呆的状态。~spaced out
+- spun up(spin up) ~wound up(wind up), hyperactive/ ˌhaɪpərˈæktɪv /*adj.*极度活跃的；活动过度的
+
+[Daily English Dictation 16 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=16)
+
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | better soaped and flooded, the Phillipe has been hit by a second typhoon in a week |
+| Correct Version | Battered, soaked and flooded; the Philippines is being hit by its second typhoon in a week. |
+
+- Batter / ˈbætər / v. 接连猛打；殴打，毒打；肆虐，严重破坏；抨击，责难；给……裹面糊；（墙等的）向后倾斜
+- soak/ soʊk /
+- has been-->is being
+- Philippines/ fɪləˈpiːnz /
+
+[Daily English Dictation 17 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=17)
+
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | A few years ago, they were thought to be useless, plus their prime, not now. |
+| Correct Version | A few years ago, they were thought to be useless -- past their prime -- not now. |
+
+- stray/ streɪ / *adj.*（动物）走失的，流浪的；离散的，零落的；（物理量）杂散的
+- prime/ praɪm /*n.*盛年，壮年时期
+- past their prime 过了巅峰期：指人或事物已经过了最好的时期，已经不再处于最佳状态。
+- in my prime
 
 <!-- Content_END -->
