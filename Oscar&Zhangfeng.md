@@ -342,7 +342,24 @@ Listening and Learning Spoken English expression：
 
 - How can I apply for insurance ?
 
-  
+
+### 2024.10.22
+
+Listening and Learning Spoken English expression：
+
+- Get  drugs 
+- Do you have medicine for headache?
+- Do you have painkiller?
+- These pills can be obtained by prescription only.
+- is it serious?
+- Should i get a shot?
+- Do i get blood test?
+- Any food i should avoid?
+- When  could i check out of the hospital?
+- Are you free tonight ?
+- What are you up to later?
+- Will you join us?
+- Do you want to go hiking this weekend?
 
 
 
