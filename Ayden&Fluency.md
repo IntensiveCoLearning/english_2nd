@@ -240,6 +240,11 @@ timezone: Asia/Shanghai
 - Control Flow: JavaScript uses conditional statements (if-else, switch) and loops (for, while, do-while) to control the flow of execution.
 - Functions: Functions are reusable blocks of code that can take parameters and return values. They can be defined using the function keyword or as arrow functions.
 
+### 2024.10.22
+- Objects: JavaScript objects are collections of key-value pairs. They can be created using object literals, constructed using the Object() constructor, or defined as classes.
+- Arrays: Arrays are ordered collections of values. They can store elements of different data types and provide various methods for manipulating and accessing their contents.
+- Array Methods: JavaScript arrays have a rich set of built-in methods, such as push(), pop(), slice(), map(), filter(), and reduce(), which make working with arrays more efficient.
+
 
 
 
