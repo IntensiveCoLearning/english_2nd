@@ -151,6 +151,7 @@ Third, the article notes that trains are not important in the US because they ar
 
 ### 2024.10.22
 
+跟外籍同時聊天對話 (主要在晚餐時間，白天工作也有用英文溝通)
 
 
 ### 2024.10.23
