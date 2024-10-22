@@ -251,5 +251,15 @@ Ending her statement, the 41-year-old urged people to give Payne “the little d
 -speak:The former nomads are now pride protectors.
         in former times
         
-
+### 2024.10.22
+-Dictation:   Exceuse me , do you need some help?
+              Yes, I want to buy my wife a really special present. It's her birterday
+              how nice
+              Do you want to give her clothes or a handbag?
+              She like those,but she prefers jewelry
+              OK ,how much do you want spend?
+            I want to spend    200  dollars
+             How about this silver necklace?
+             It's lovely
+             
 <!-- Content_END -->
