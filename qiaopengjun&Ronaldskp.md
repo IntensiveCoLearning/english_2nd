@@ -445,11 +445,24 @@ is born in Greenville, MS.
 
 listen and write
 mosquitos
-Arian tigger years south the unit states
+Arian tiger years south the unit states
 
 ### 2024.10.21
 
-笔记内容
+involve 卷入 牵涉 包含
+involve in
+involve with
+
+more than 超过 不只是
+
+Asian tiger mosquitoes are native
+to the tropics of Southeast Asia,
+but in the past few years
+they've spread all across the
+southeastern United States
+
+Listen and write
+cats nice live new young city
 
 ### 2024.10.22
 

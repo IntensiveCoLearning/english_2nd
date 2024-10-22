@@ -166,4 +166,10 @@ too sleepy
 ### 2024.10.20
 ![image](https://github.com/user-attachments/assets/d624afbf-8c5f-4002-b57c-aa01f02d416b)
 studying
+
+### 2024.10.21
+https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&p=14
+![image](https://github.com/user-attachments/assets/663507f5-f6d4-488b-800c-ab4c8e2e7b29)
+stay hungry！
+
 <!-- Content_END -->

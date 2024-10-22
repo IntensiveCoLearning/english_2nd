@@ -183,6 +183,14 @@ they ve spread 不是swept/
 
 
 ### 2024.10.22
+--今天背了40分钟单词，写了daily dictation and listen comprehension的22-24，翻译了一篇雅思阅读。
+
+--English:New Zealand is a small country of four million inhabitants, a long-haul flight from all the major tourist-generating markets of the world. Tourism currently makes up 9% of the country's gross domestic product, and is the country's largest export sector. Unlike other export sectors, which make products and then sell them overseas, tourism brings its customers to New Zealand. The product is the country itself - the people, the places and the experiences. In 1999, Tourism New Zealand launched a campaign to communicate a new brand position to the world. The campaign focused on New Zealand's scenic beauty, exhilarating outdoor activities and authentic Maori culture, and it made New Zealand one of the strongest national brands in the world.
+
+--Translaion:新英格兰是一个只有几百万人口的小国家，却有着一系列来自全世界主要游客市场的航班，旅游业占据了新西兰国内生产总值的9%，并且也占据了这个国家最大的出口份额。不像其他的制造产品并且出售它们出口产业，旅游业把有课带进新西兰。产品是这个国家本身、居民、风景和到这里旅游的体会。在1999年，新西兰举办了一个旅游活动提升了它在世界中的品牌地位。这个活动聚焦于新西兰的自然风景、丰富的户外活动和真正的玛雅文化，这让新西兰成为了世界上最强大的自然旅游品牌之一。
+
+--fix: long-haul 长距离的  largest export sector最大的出口部门 communicate a new brand position to the world 向新世界传达他们的新品牌定位。exhilarating outdoor activities and authentic Maori culture 令人兴奋的户外活动 和正宗的 毛利文化   national brands 国家品牌  national 国家的 natural 自然的 nature 自然 本质
+
 ### 2024.10.23
 ### 2024.10.24
 ### 2024.10.25

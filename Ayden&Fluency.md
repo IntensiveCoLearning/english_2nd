@@ -235,7 +235,10 @@ timezone: Asia/Shanghai
  - Ecosystem: React has a vast ecosystem of tools and libraries, including Create React App for bootstrapping new projects, React Router for navigation, and various UI component libraries.
 
 ### 2024.10.21
-
+- Variables and Data Types: JavaScript has several data types, including numbers, strings, booleans, objects, arrays, and functions. Variables are declared using var, let, or const.
+- Operators: JavaScript supports a variety of operators, such as arithmetic operators (+, -, *, /), assignment operators (=, +=, -=), comparison operators (==, !=, >, <), and logical operators (&&, ||, !).
+- Control Flow: JavaScript uses conditional statements (if-else, switch) and loops (for, while, do-while) to control the flow of execution.
+- Functions: Functions are reusable blocks of code that can take parameters and return values. They can be defined using the function keyword or as arrow functions.
 
 
 

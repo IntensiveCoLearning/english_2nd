@@ -178,4 +178,6 @@ To going on debonair debonairely, you must fully accept and love it, flaws and a
 - It is the vagetable some love to hate!but now a new breed of broccoli-super broccoli-developed in britain may protect against heart disease-even some kind of cancer.
 - love to hate:hate. new breed of:new kind of/neww type of. developed_in->developedin
 
+### 2024.10.21
+- gap day again:P
 <!-- Content_END -->
