@@ -273,5 +273,17 @@ A preliminary government report predicts it'll take 30years or more to safely de
 (4)resident v. 居民，住户
 (5)decade  n. 十年
 
+### 2024.10.22
+i studied the P35-P37 in the bilibili video summary.Following are the notes:
+When the family left Vietnam by boat,bound for Thailand,but the boat was intercepted by pirates.After years of trying,the father located his son in Thailand.
+当这个家庭乘船离开越南前往泰国的时候，却被海盗拦截了。经过多年的努力，父亲在泰国找到了他(失散多年)的儿子。
+intercept v.拦截  截断  抢断  侦听
+pirate   n.海盗  (看过rick  and  morty 的应该对这个词不陌生)
 
+A gooey mess snarls traffic along the busy Pennsylvania Turnpike.A leaking valve on a tanker spread driveway sealant across a 40-mile stretch of the east bound side.
+在繁忙的宾夕法尼亚收费公路上，一团黏糊糊的东西阻塞了交通，油罐车上的一个泄露阀门把车道密封胶铺满了东侧40英里的区域。
+gooey      adj.胶黏的  感伤的
+maple syrup n.枫糖浆      snarl  v.缠结  使混乱
+turnpick  n.收费高速公路    driveway sealant   n.道路密封胶(eg:tar  柏油 焦油)
+valve  n.阀门  真空管   tanker  n.油罐车(船、飞机
 <!-- Content_END -->
