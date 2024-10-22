@@ -125,15 +125,18 @@ It's nice to meet everyone in LX DAO here.
 - 请假
 
 ### 2024.10.20
-- 听写；原视频： "he Downfall of Vietnam’s Real Estate Queen" （0:00 ~ 2:00）, Bloomber; https://www.bloomberg.com/news/videos/2024-10-17/the-downfall-of-vietnam-s-real-estate-queen?srnd=homepage-uk; Also in: https://www.youtube.com/watch?v=fKrXheAINcU
+- 听写；原视频： "he Downfall of Vietnam’s Real Estate Queen" （0:00 ~ 2:00）, Bloomber; https://www.bloomberg.com/news/videos/2024-10-17/the-downfall-of-vietnam-s-real-estate-queen?srnd=homepage-uk; Also in Youtube: https://www.youtube.com/watch?v=fKrXheAINcU
   - Dictation: The property tycoon has been sentence to death. Guilty of besement(?) *embezzlement* bribery violation of banking rules. This is Truong My Lan, the 60-year-old Vitnamese *business* woman is the master mind behind one of the biggest fraud cases of the world has ever seen. Remember crypto enterpernur Sam Bickman-Fred? Lan's fraud is 4 billion dollars bigger than his, more than 12 billion dollars. The cast has sent sharwkways(?) *shockwaves* to Vietnam's business community and society. Lan has denied many the charges and apealling here death sentence. So *how* was Lan able to bensal *embezzle* all this money? And what does the case say about the path of Vietnam's economy as a country looked to attract foreign investors as an alternative destination to China? Jung-mi Lan's sensational case is also a story of Vietnam's rise as one of Asian's fastest economies. Jungmi Lan's journey to riches began in the late 1980s, inside the Ben Thane market. It's the main market to the commercial hub of the Ho-Chi-Ming city. And these days one of the city's top tourist's destinations. And it was here that Lan's family had a store selling cosmetics and hair acessaries. After the Vietnam war, the country unified under communism, but was financially ruined and isolated internationally. By the 1980s Vietnam was in deep poverty, and they needed to reform, by liberalising and opening up to the rest of the world, and following the footsteps of China. They attracted foreign direct investment that wanted to leverage their cheap labour cost. During this time, Lan's family saw oppotunity in property and started to requiring *acquiring* cheap land. Then in 1991, Lan founded Vangtenfag(?) *Van Thinh Phat* or VTP. (2:04/9:07)
     
   - fix：embezzlement 挪用公款; shockwaves 冲击波
 
+### 2024.10.21
+- 请假
+  
+### 2024.10.22
+- 听写；原视频： "he Downfall of Vietnam’s Real Estate Queen" （2:00 ~ 3:00）, Bloomber; https://www.bloomberg.com/news/videos/2024-10-17/the-downfall-of-vietnam-s-real-estate-queen?srnd=homepage-uk; Also in Youtube: https://www.youtube.com/watch?v=fKrXheAINcU
+  - Dictation: VTP rapidly become one of the Vietnam's premium real estate companies. Over the years, VTP build *built* up an impressive real estate portfolio, including office buildings, hotels, and restaurants. But Lan's empire didn't stop there. By 2011, she *had* become a well-known businesswoman in Ho Chi Minh city, and was the driving force behind a merger of 3 struggling banks into Sigon *Saigon* Commercial Bank, or SCB. Vitnamese law bans for individuals for *from* owning over 5 percent of shares of the *in* bank. But prosicuter(?) *prosecutors* say Lan has end *ended* up owning over 90% of SCB. According to the court judgement, Lan's VTP created a network for more than a thousands businesses which they used to secure loan deals and register for collateral to withdraw money from Saigon Commercial Bank (2:55/9:07)
 
-
-
-
-
+ - fix：prosecutors 监察官/公诉人; Saigon 西贡;
 
 <!-- Content_END -->
