@@ -798,3 +798,5 @@ Note:
 - in my prime
 
 <!-- Content_END -->
+
+[Daily English Dictation 18 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=18)
