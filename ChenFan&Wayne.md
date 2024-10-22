@@ -191,6 +191,12 @@ they ve spread 不是swept/
 
 --fix: long-haul 长距离的  largest export sector最大的出口部门 communicate a new brand position to the world 向新世界传达他们的新品牌定位。exhilarating outdoor activities and authentic Maori culture 令人兴奋的户外活动 和正宗的 毛利文化   national brands 国家品牌  national 国家的 natural 自然的 nature 自然 本质
 
+dd_22:hedi won the world over with her forever cute but slightly confused look;
+
+DD_23:the project put them online is expected to be  completed by 2016
+
+DD_24:an alleged SAT cheatting scandals has be uncovered at a prestigious long lrland high schools 
+
 ### 2024.10.23
 ### 2024.10.24
 ### 2024.10.25
