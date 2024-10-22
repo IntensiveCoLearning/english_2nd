@@ -186,4 +186,11 @@ The frantic pacing -- scene changes every 11 seconds on average -- often leads k
 - zone out 走神、精神恍惚
 - spin up 情绪激动、兴奋
 
+### 2024.10.22  
+**Ditation 16**  
+Battered soaked and flooded; the Philippins is being hit by its second typhoon in a week.  
+- battered adj. 受到重创的
+- soaked adj. 浸透的
+- flooded adj. 洪水泛滥的
+
 <!-- Content_END -->
