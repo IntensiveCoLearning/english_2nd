@@ -312,4 +312,10 @@ If you are breathing,it is not too lat.Get up and get going.
 
  A 67 year old grandpa has been found alive  after being stuck for six days at the bottom of a ravine.
 
+ ### 2024.10.22
+
+ 20.Satarday I also like playing crash in the wheel.in Australia.one of play with her
+
+Saturday,an ultralight plane crashed into a Ferris wheel at a rural festival in Australia,yet somehow no one on the amusement ride nor the plane was hurt.
+
 <!-- Content_END -->

@@ -182,8 +182,22 @@ Cats reputedly have has 9 lives, and he clearly wanted to spend at least one of 
 The frantic pacing -- scene changes every 11 seconds on average -- often leads kids zoned out and spun up; unable to concentrate.  
 疯狂的节奏——平均每11秒场景变化一次——常常导致孩子们心不在焉、情绪激动，无法集中注意力。  
 - frantic adj. 狂乱的、焦急的
-- pacing n. 节奏、速度
+- pacing n. 节奏、速度              
 - zone out 走神、精神恍惚
 - spin up 情绪激动、兴奋
+
+### 2024.10.22    
+**Ditation 16**  
+Battered soaked and flooded; the Philippins is being hit by its second typhoon in a week.  
+- battered adj. 受到重创的
+- soaked adj. 浸透的
+- flooded adj. 洪水泛滥的
+
+### 2024.10.23
+**Ditation 16**  
+A few years ago they were thought to be useless -- past their prime -- not now.
+
+- stray adj. 流浪的
+- past their prime 过了最好的时候、已过壮年
 
 <!-- Content_END -->

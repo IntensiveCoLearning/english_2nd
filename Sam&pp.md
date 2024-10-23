@@ -360,5 +360,34 @@ Points
 
 6.kind of = kinda
 
+### 2024.10.21
+
+Daily Dictation Number 25：
+
+我的答案：They searched for the missing on the night genaral power as family members waiting by the some tears
+
+正确答案：They searched for the missing throughout the night under generator-powered flood lights as family members waited by the mounds of debris - some in tears.
+
+Points
+
+1.all througout the night = all night
+
+2.generator - powered flood lights, flood lights = a type of light which can light a huge area
+
+3.mounds of debris, mound = piles, mountains; debris = piece of building.
+
+4.seach(ed) for
+
+5.mounds of debris = mounze d'bree
+
+Dictation 26
+
+我的答案：it s kind of thing you look and you thinks of this work and this's just fun
+
+正确答案：It's the kind of thing you look forward to instead of, you know, some workouts you dread and you think of it as work and this is just fun.
+
+Points
+
+1.dread = fear
 
 <!-- Content_END -->

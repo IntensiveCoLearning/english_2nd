@@ -172,4 +172,8 @@ https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&p=
 ![image](https://github.com/user-attachments/assets/663507f5-f6d4-488b-800c-ab4c8e2e7b29)
 stay hungry！
 
+### 2024.10.22
+![image](https://github.com/user-attachments/assets/b765dae7-3436-4762-81ef-bebe7f5f6651)
+stay fooliish!!
+
 <!-- Content_END -->
