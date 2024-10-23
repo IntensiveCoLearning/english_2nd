@@ -92,7 +92,7 @@ To going on debonair debonairely, you must fully accept and love it, flaws and a
 - Learning materials:https://www.bilibili.com/video/BV1U7411a7xG/?p=3&vd_source=bc0666711d2280c24d54945ab9c11146
 - P3 'h' dont pronounce (he his her have has)
 - P4 Dont have let anybody tell you, you cant do something(my answer) - Dont ever let somebody tell you, you cant do something(right answer)
-- when strong letters(S N L)meet weak letters(d t th) occor cancalation. EXAMPLES:DoNt_ever let_Somebody cant_do
+- when strong letters(S N L)meet weak letters(d t th) occor cancelation. EXAMPLES:DoNt_ever let_Somebody cant_do
 - P5 LISTENING:I have come here to two bobgang(?) and kick ass, and all other bobgangs.(My answer)
 - real answer: I have come here to chew bubblegum and kick ass...and I`m all out of bubblegum!
 - to`s seven pronounce:to tah tuh t` dah duh d`
@@ -185,5 +185,13 @@ To going on debonair debonairely, you must fully accept and love it, flaws and a
 - P31：Maries sam adam sort of Vcampagin shut down saturday, setting on healthy conditions. and in traction of drug dealer and thieves.
 - RightAnswer:Mayor Sam Adams ordered that the camp be shut down Saturady citing unhealthy conditions and the attraction of drug dealers and thieves
 
+### 2024.10.23
+- REVIEW：
+- SNL cancel d t th
+- carried to->carriedo. aboard the->aboarde
+- Tropics: 热带地区
+- Frantic: loss of control pacing: speed
+- spun up: uncertain mind, crezy
+- alleged(supposed, possible criminal)
 
 <!-- Content_END -->
