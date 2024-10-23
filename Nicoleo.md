@@ -176,8 +176,20 @@ https://a16z.com/export-your-brain-with-ai/
    - Communicating with applications
      - But I genuinely believe this could be game-changing in filtering through the noise we all experience with products that give us seemingly endless choices: food delivery. hotels and Airbnb, events, streaming TV or movies. We can finally have truly personalized recommendations.
 
+### 2024.10.23
+Daily English:
 
+Years may wrinkle the skin, but to give up enthusiasm wrinkles the soul.
+But more than becoming a monk, what that trained me to do was drop out with the rules. people told me: “if you come back in three years, you’ll never got a job.” they told me: “if you become a monk, people are going to think you're weird forever, no girl is ever gonna talk to you.” People told me, “ well, when you come back to real life, like will you even be able to talk English?”
 
+### 2024.10.24
+### 2024.10.25
+### 2024.10.26
+### 2024.10.27
+### 2024.10.28
+### 2024.10.29
+### 2024.10.30
+### 2024.10.31
 
 
 <!-- Content_END -->
