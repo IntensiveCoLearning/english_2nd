@@ -134,9 +134,20 @@ It's nice to meet everyone in LX DAO here.
 - 请假
   
 ### 2024.10.22
-- 听写；原视频： "he Downfall of Vietnam’s Real Estate Queen" （2:00 ~ 3:00）, Bloomber; https://www.bloomberg.com/news/videos/2024-10-17/the-downfall-of-vietnam-s-real-estate-queen?srnd=homepage-uk; Also in Youtube: https://www.youtube.com/watch?v=fKrXheAINcU
-  - Dictation: VTP rapidly become one of the Vietnam's premium real estate companies. Over the years, VTP build *built* up an impressive real estate portfolio, including office buildings, hotels, and restaurants. But Lan's empire didn't stop there. By 2011, she *had* become a well-known businesswoman in Ho Chi Minh city, and was the driving force behind a merger of 3 struggling banks into Sigon *Saigon* Commercial Bank, or SCB. Vitnamese law bans for individuals for *from* owning over 5 percent of shares of the *in* bank. But prosicuter(?) *prosecutors* say Lan has end *ended* up owning over 90% of SCB. According to the court judgement, Lan's VTP created a network for more than a thousands businesses which they used to secure loan deals and register for collateral to withdraw money from Saigon Commercial Bank (2:55/9:07)
+- 听写；原视频： "he Downfall of Vietnam’s Real Estate Queen" （2:00 ~ 3:00）, Bloomber; https://www.bloomberg.com/news/videos/2024-10-17/the-downfall-of-vietnam-s-real-estate-queen?srnd=homepage-uk; Also available in Youtube: https://www.youtube.com/watch?v=fKrXheAINcU
+  - Dictation: VTP rapidly become one of the Vietnam's premium real estate companies. Over the years, VTP build *built* up an impressive real estate portfolio, including office buildings, hotels, and restaurants. But Lan's empire didn't stop there. By 2011, she *had* become a well-known businesswoman in Ho Chi Minh city, and was the driving force behind a merger of 3 struggling banks into Sigon *Saigon* Commercial Bank, or SCB. Vitnamese law bans for individuals for *from* owning over 5 percent of shares of the *in* bank. But prosicuter(?) *prosecutors* say Lan has end *ended* up owning over 90% of SCB. According to the court judgement, Lan's VTP created a network for more than a thousands businesses which they used to secure loan deals and register for collateral to withdraw money from Saigon Commercial Bank (2:55/9:07).
 
  - fix：prosecutors 监察官/公诉人; Saigon 西贡;
 
+### 2024.10.23
+- 听写；原视频： "he Downfall of Vietnam’s Real Estate Queen" （3:00 ~ 4:00）, Bloomber; https://www.bloomberg.com/news/videos/2024-10-17/the-downfall-of-vietnam-s-real-estate-queen?srnd=homepage-uk; Also available in Youtube: https://www.youtube.com/watch?v=fKrXheAINcU
+  - Dictation: Onece loans were approved, they were either directly transferred to the bank accounts of the ghost companies, or directly picked up in cash. All of these *this* was unfolding during Vietnam economic woll(?) *boom*. Through *an* export led model, Vietnam created one of the fastest growing economies in the region for2 decades. The number of millionaiers in Vietnam nearly doubled in the past decade, but the rapid accumilation *accumulation* of wealth also created challenges for the government. Alongside the economic arrival *revival*, a cultural graph *of graft* has also developed. The anti corruption campaign has began more than a decade ago, but whenas *it was* after the re-election of Wen Phutong(?) *Nguyen Phu Trong* , as general secretary, after 12th party congress after *in* 2016, they *that it* really moved up a gear. The late Communist Party chef, like in *likened* the campaign to a blazing furnance mean that everyone link to corruption, putting governance officials and business excecutives, would be in golfed *engulfed* in this *its* heat (3:59/9:07)
+
+ - fix：graft 移花接木/贪污; accumulation 积攒; Nguyen Phu Trong 阮富仲，越南政治人物，生前為「四柱」之首，2011年至2024年出任越南共產黨中央委員會總書記、中央軍事委員會書記，生前是越南最高領導人及軍事武裝力量統領人。; moved up a gear 升级; likened 比喻; blazing furnance 炙热之炉; engulfed 被吞没；
+   
 <!-- Content_END -->
+
+
+
+
+
