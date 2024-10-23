@@ -286,4 +286,26 @@ gooey      adj.胶黏的  感伤的
 maple syrup n.枫糖浆      snarl  v.缠结  使混乱
 turnpick  n.收费高速公路    driveway sealant   n.道路密封胶(eg:tar  柏油 焦油)
 valve  n.阀门  真空管   tanker  n.油罐车(船、飞机
+
+### 2024.10.23
+i studied the P38-P40 in the bilibili video summary.Following are the notes:
+The music is being played at a church in Germany,and,well,it really lives up to its name.Since it started,there have been just 11 chord changes and the next one isn't scheduled until July.2012.
+德国的一家教堂正在演奏这种音乐，嗯，它确实名副其实(世界上最长的音乐)。自开始以来，只有11个和弦发生了变化，下一个和弦的变化要等到2012年7月。
+live up to  不辜负  符合
+chord  n.和弦      organ   n.  器官   风琴(本文的乐器
+
+Dozens of white rabbits were apparently dumped along the side of the road Sunday night.More than 60 bunnies were scattered on the shoulder (of the road).
+周日晚上，数十只小白兔被丢弃在路边，60多只小兔子散落在路肩上。
+scatter v.散播 散落
+baker's dozen  n.13个   不同于dozen 12个
+在十四世纪，有个别的面包师昧着良心在制作面包时，偷工减料，克扣分量，以这样的方法赚顾客的钱。后来，别的面包师也纷纷效仿。人们怨声很大，以至官方专门为面包师们制订了制作面包时投料的标准。凡达不到标准的就要受到处罚。这一措施果然奏效，面包的分量增加了。
+不过，在几百年前科学技术还不十分发达的情况下，手工投料制作面色很难做到个个合乎标准。而不符合官方标准的面包一经发现，面包师便会受到惩处。为了避免被罚，面包师门就在出售面包时每打多给一个，即十三个为一打。这样，也就逐渐形成了baker's dozen这一短语。
+另外，还有一种解释认为a baker's dozen是由a devil's dozen演化而来的。a devil's dozen源出于古代迷信：13这个不吉利的数目是指迷信传说中恶魔old Nick所召集的会议的13个女巫。因为当时面包师声名狼藉，因此人们称他们为devil，这样就出现了a devil's dozen=a baker's dozen=13之说
+bakery n.面包店
+gravel  n.碎石  沙砾    asphalt n.沥青
+
+There's a wonderful line I came across:If you've always done....or,If you always do what you've always done,you'll always get what you've always got.It's a brilliant line.
+我曾经遇到过一条妙语:如果你总是这样做……或者，如果你一直做你做过的东西，那么你只能一直得到你已经得到的东西。这是一条绝妙的箴言。
+come across  =   find
+line = quotation
 <!-- Content_END -->
