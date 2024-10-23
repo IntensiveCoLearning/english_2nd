@@ -198,6 +198,13 @@ DD_23:the project put them online is expected to be  completed by 2016
 DD_24:an alleged SAT cheatting scandals has be uncovered at a prestigious long lrland high schools 
 
 ### 2024.10.23
+
+--今天背了20分钟单词，听了daily dictation 的25-28 ，翻译了一篇雅思阅读的单词
+
+--English：A key feature of the campaign was the website www.newzealand.com, which provided potential visitors to New Zealand with a single gateway to everything the destination had to offer. The heart of the website was a database of tourism services operators, both those based in New Zealand and those based abroad which offered tourism services to the country. Any tourism-related business could be listed by filling in a simple form. This meant that even the smallest bed and breakfast address or specialist activity provider could gain a web presence with access to an audience of long-haul visitors. In addition, because participating businesses were able to update the details they gave on a regular basis, the information provided remained accurate. And to maintain and improve standards, Tourism New Zealand organised a scheme whereby organisations appearing on the website underwent an independent evaluation against a set of agreed national standards of quality. As part of this, the effect of each business on the environment was considered.
+
+--Traslation:这场活动的一个关键特征就是它的网址：www.newzealand.com,这个网址对每个想去新西兰旅游的潜在游客都提供了一个简单的门户，供他们了解新西兰能提供的旅游景点。这个网站的核心是要给莪旅游服务提供商的数据库，包括在新西兰国内和国外的服务提供商。所有的与旅游相关的企业都会被列处一个小的表格，这就意味这既是最小的旅馆、快餐店或者特殊活动的提供商也能够在网站上接触到长途旅行的游客。
+
 ### 2024.10.24
 ### 2024.10.25
 ### 2024.10.26
