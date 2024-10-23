@@ -797,6 +797,49 @@ Note:
 - past their prime 过了巅峰期：指人或事物已经过了最好的时期，已经不再处于最佳状态。
 - in my prime
 
-<!-- Content_END -->
+### 2024.10.23
 
 [Daily English Dictation 18 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=18)
+
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | If we are breathing, it's not too late. Get often get going. |
+| Correct Version | If you are breathing, it is not too late. Get up and get going. |
+
+- if we-->if you(few)
+- often-->up and 
+
+[Daily English Dictation 19 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.videopod.episodes&vd_source=fd015ccdec6337c64cc98064986a4512&p=19)
+
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | a 67 year old grandpa has been found alive after being starved for 6 days at the bottom of the cliff |
+| Correct Version | a 67-year-old grandpa has been found alive after being stuck for 6 days at the bottom of a ravine |
+
+- 67 year old-->67-year-old
+- starved/ stɑːrvd /-->stuck/ stʌk /
+- ravine/ rəˈviːn / *n.*沟壑，山涧；峡谷
+
+[Daily English Dictation 20 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=20)
+
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | Saturday a ultralight plane  clashed to the fairysweel at the road festival in Australia. Yet somehow no one on the amusement right, nor the plane was hurt |
+| Correct Version | Saturday an ultralight plane  clashed into the Ferris Wheel at the road festival in Australia. Yet somehow no one on the amusement right, nor the plane was hurt |
+
+- a ultralight-->an ultralight
+
+- clashed to-->clashed into
+
+- Ferris Wheel/ ˈferɪs wiːl /法利士巨轮
+
+- at the road festival--> at a rural/ ˈrʊrəl / festival
+
+- amusement right-->amusement ride 游乐设施：一种机械设备或结构，用来移动人们以创造乐趣的活动。
+
+  ### 2024.10.24
+
+  [Daily English Dictation 21 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=21)
+
+<!-- Content_END -->
+
