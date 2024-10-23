@@ -361,6 +361,20 @@ Listening and Learning Spoken English expression：
 - Will you join us?
 - Do you want to go hiking this weekend?
 
+### 2024.10.23
+
+Listening and Learning Spoken English expression：
+
+- Arrange the agenda 
+- I've already had plans for tonight.
+- Do you want to get some popcom?
+- How did you like the movie?
+- Which one tells a lie?
+- How long did the contest last?
+- Anyone wants to order some food?
+- Can we get some beer?
+- Whose turn is it?
+
 
 
 <!-- Content_END -->
