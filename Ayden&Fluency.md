@@ -245,6 +245,24 @@ timezone: Asia/Shanghai
 - Arrays: Arrays are ordered collections of values. They can store elements of different data types and provide various methods for manipulating and accessing their contents.
 - Array Methods: JavaScript arrays have a rich set of built-in methods, such as push(), pop(), slice(), map(), filter(), and reduce(), which make working with arrays more efficient.
 
+### 2024.10.23
+- Syntax and Basic Constructs:
+	Variables: Declared with let, const, and var.
+	Data Types: Primitive (e.g., string, number, boolean) and non-primitive (objects, arrays, functions).
+ 	Operators: Arithmetic, comparison, logical, assignment, etc.
+  	Control Structures: if, switch, for, while, do-while, break, continue.
+- Functions:
+	Declaration: Function expressions and function statements.
+	Scope: Local, global, block scope (with let and const).
+	Higher-order Functions: Functions that can take other functions as arguments or return them.
+	Callback Functions: Functions passed into other functions as parameters.
+
+### 2024.10.23
+### 2024.10.23
+### 2024.10.23
+### 2024.10.23
+### 2024.10.23
+
 
 
 
