@@ -180,4 +180,8 @@ stay fooliish!!
 ![image](https://github.com/user-attachments/assets/edd769f7-482a-47dd-aafe-ccb730b36748)
 never ever ever give up.
 
+### 2024.10.24
+![image](https://github.com/user-attachments/assets/d26f3d03-1c37-45ae-b7aa-4b60cbc33475)
+a little difficult to learn......
+
 <!-- Content_END -->
