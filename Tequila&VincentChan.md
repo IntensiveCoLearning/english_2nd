@@ -308,4 +308,24 @@ There's a wonderful line I came across:If you've always done....or,If you always
 我曾经遇到过一条妙语:如果你总是这样做……或者，如果你一直做你做过的东西，那么你只能一直得到你已经得到的东西。这是一条绝妙的箴言。
 come across  =   find
 line = quotation
+
+### 2024.10.24
+i studied the P41-P42 in the bilibili video summary.Following are the notes:
+Her story has inspired others from Montana to Indiana to pay off the bills of complete strangers in these days before Christmas.Holiday shoppers who've heared about the layaway Santas say the sweeping acts of kindness have restored their faith in people.
+她的故事激励着从蒙大拿州到印第安纳州的人们在圣诞节前去付清素不相识者的账单。听说过“分期预付的圣诞老人”的节日购物者们说，这种大规模的善举使他们重拾了对人们的信心。
+inspire n. 激励  鼓励(一般指精神上的)
+layaway  n.预付定金购买法(经济拮据时通过预付定金来确保商家不出售目标货物，在约定期限内将尾款补齐以完成交易
+
+He sprang to his sleigh to his team get whistle!
+And away they all flew like the down of a thistle
+But I heard him exclaim as he drove out of sight
+"Happy Christmas to all,and to all a good night"
+他跳上他的雪橇，向他的(驯鹿)队伍吹了个口哨!
+他们像蓟花的羽绒一样飞走了
+但当他驾车离开我的视线时，我听到他惊叫起来
+“祝大家圣诞快乐，祝大家晚安”
+Twas  = it was      sleigh   n.雪橇
+sprang=jump        reindeer n.驯鹿
+down     n. 羽绒(不常用)
+thistle    n.蓟
 <!-- Content_END -->

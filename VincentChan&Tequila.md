@@ -198,6 +198,11 @@ Battered soaked and flooded; the Philippins is being hit by its second typhoon i
 A few years ago they were thought to be useless -- past their prime -- not now.
 
 - stray adj. 流浪的
-- past their prime 过了最好的时候、已过壮年
+- past their prime 过了最好的时候、已过壮年  
+
+### 2024.10.24
+**Ditation 17**  
+If you are breathing, it's not too late, get up and get going
+- depressed adj. 沮丧的、抑郁的
 
 <!-- Content_END -->

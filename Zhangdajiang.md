@@ -261,5 +261,17 @@ Ending her statement, the 41-year-old urged people to give Payne “the little d
             I want to spend    200  dollars
              How about this silver necklace?
              It's lovely
+                     
+### 2024.10.23
+-Dictation: You can sell your old things on the internet.
+              The resataurant sells coffee and burgers
+              We can buy that TV now because it has a discount
+              Everyone likes a discount
+              There is a fashion week in New York every year.
+              This kind of dress is now in fashion
+              She is wearing a gold necklace.
+              I perfer a gold necklace to a sliver one.
+              I want to be rich one day
+              She always wears the latest fashion
              
 <!-- Content_END -->

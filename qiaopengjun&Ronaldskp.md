@@ -477,7 +477,15 @@ the frantic 11
 
 ### 2024.10.23
 
-笔记内容
+The frantic pacing -- scene
+changes every 11 seconds on
+average -- often leaves kids
+zoned out and spun up
+unable to concentrate
+
+wound up
+Listen and write
+the typhoon second in the week
 
 ### 2024.10.24
 
