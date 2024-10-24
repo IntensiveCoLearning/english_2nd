@@ -257,17 +257,17 @@ timezone: Asia/Shanghai
 	Higher-order Functions: Functions that can take other functions as arguments or return them.
 	Callback Functions: Functions passed into other functions as parameters.
 
-### 2024.10.23
+### 2024.10.24
 - Objects: Collections of properties (keys and values).
 - Prototypes: Inheritance mechanism in JavaScript.
 - this Keyword: Refers to the current context or object.
 - Array Methods: map(), filter(), reduce(), forEach(), etc.
 - Array Iteration: Using loops or higher-order functions.
   
-### 2024.10.23
-### 2024.10.23
-### 2024.10.23
-### 2024.10.23
+### 2024.10.25
+### 2024.10.26
+### 2024.10.27
+### 2024.10.28
 
 
 
