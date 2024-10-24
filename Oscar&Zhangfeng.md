@@ -375,6 +375,22 @@ Listening and Learning Spoken English expression：
 - Can we get some beer?
 - Whose turn is it?
 
+### 2024.10.24
+
+Listening and Learning Spoken English expression：
+
+- I'll return to fetch the picnic stuff from the car.
+- Let's put a blanket on the lawn.
+- Look out. Dont's rush.
+- I love breathing fresh air in the suburb places.
+- Did you wear sunscreen ?
+- When will be the animation **exhibition** start?
+- The brochure is for your reference.
+- The photography exhibition is at Gallery  Two.
+- Can you show me how to use it?
+- How long is the guarantee period?
+- Is it refundable?
+
 
 
 <!-- Content_END -->

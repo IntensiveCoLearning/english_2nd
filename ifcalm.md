@@ -1631,6 +1631,37 @@ Web3 行业是一个新兴且迅速发展的领域，涉及区块链、加密货
 通过练习这些单词，可以提高对元音和辅音音标的熟悉度，改进整体发音的准确性。
 
 ### 2024.10.24
+以下是适合练习口语的10个简短句子，涵盖日常交流中的常用表达。通过反复练习这些句子，可以提高流利度、发音和语调。
+
+1. **How are you today?**  
+   你今天好吗？
+
+2. **Can you help me, please?**  
+   你能帮我一下吗？
+
+3. **What time is it now?**  
+   现在几点了？
+
+4. **I’d like a cup of coffee, please.**  
+   我想要一杯咖啡，谢谢。
+
+5. **Where are you from?**  
+   你来自哪里？
+
+6. **Could you speak more slowly?**  
+   你能说慢一点吗？
+
+7. **I don’t understand. Can you explain it again?**  
+   我不明白。你能再解释一下吗？
+
+8. **What’s your favorite movie?**  
+   你最喜欢的电影是什么？
+
+9. **It’s a beautiful day, isn’t it?**  
+   今天真是个好天气，不是吗？
+
+10. **I’m learning English to improve my communication skills.**  
+    我在学习英语以提高我的沟通能力。
 
 ### 2024.10.25
 
