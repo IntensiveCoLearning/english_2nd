@@ -258,6 +258,12 @@ timezone: Asia/Shanghai
 	Callback Functions: Functions passed into other functions as parameters.
 
 ### 2024.10.23
+- Objects: Collections of properties (keys and values).
+- Prototypes: Inheritance mechanism in JavaScript.
+- this Keyword: Refers to the current context or object.
+- Array Methods: map(), filter(), reduce(), forEach(), etc.
+- Array Iteration: Using loops or higher-order functions.
+  
 ### 2024.10.23
 ### 2024.10.23
 ### 2024.10.23
