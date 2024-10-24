@@ -273,5 +273,19 @@ Ending her statement, the 41-year-old urged people to give Payne “the little d
               I perfer a gold necklace to a sliver one.
               I want to be rich one day
               She always wears the latest fashion
+              
+
+### 2024.10.24
+     The student is explaining why she is late for school
+     Her boss wants to know the reason she is late
+     The food is the reason why I love this city
+     She loves her occupation and does a good job
+     The police officer is giving a talk to the students
+     There are many different types of engineers
+     The boss asked his assistant to buy a coffee for him
+     Best wishes to you in the new year
+     Take care is another way to say goodbye
+              
+              
              
 <!-- Content_END -->
