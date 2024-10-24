@@ -841,5 +841,43 @@ Note:
 
   [Daily English Dictation 21 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=21)
 
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | Heidi won over the world for his forever cute but slightly confused look |
+| Correct Version | Heidi won **the** world **over** **with** her forever cute but slightly confused look |
+
+- win the world over 赢得全世界的支持或欢心：通过某种方式或手段赢得全世界的认可和支持。
+- cross-eye 斗鸡眼
+- slightly -->sligh(t)ly
+- look, expression, appearance
+
+[Daily English Dictation 22 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=22)
+
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | The project put online is expected to be completed by 1960s  |
+| Correct Version | The project **to** put **them** online is expected to be completed by **2016** |
+
+- project t(o) put them
+- 816(year)--> eight sixteen
+
+[Daily English Dictation 23 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=23)
+
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | And  a large SAT cheating scandal has been cover in the prestitute Long Island high school. This college student is taking the entrance example this 6 students |
+| Correct Version | **An alleged** SAT cheating scandal has been **uncovered** **at a** **prestigious** Long Island high school. This college student is taking the college entrance **exam for** **at least** 6 students |
+
+- alleged/ əˈledʒd /*adj.*（未经证实而）声称的，所谓的；（在证据不足的情况下）被指控的
+- uncover
+- prestigious/ preˈstiːdʒəs /*adj.*有威望的，有声望的
+- is accused/ əˈkjuːzd / of 
+- prosecutor/ ˈprɑːsɪkjuːtər / *n.*检察官，公诉人；（刑事庭的）原告律师
+- student is -->studen(t) is
+
+### 2024.10.24
+
+[Daily English Dictation 24 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=24)
+
 <!-- Content_END -->
 
