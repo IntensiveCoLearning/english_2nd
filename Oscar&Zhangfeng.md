@@ -391,7 +391,7 @@ Listening and Learning Spoken English expression：
 - How long is the guarantee period?
 - Is it refundable?
 
-### 2024.10.24
+### 2024.10.25
 
 Listening and Learning Spoken English expression：
 
