@@ -391,6 +391,21 @@ Listening and Learning Spoken English expression：
 - How long is the guarantee period?
 - Is it refundable?
 
+### 2024.10.24
+
+Listening and Learning Spoken English expression：
+
+- Do you have black high heels?
+
+- Can I have a look at the jacket?
+- Can you show me your fitting room?
+- Can I try this on?
+- Is it possible to loosen the waist?
+- Do i need to pay ahead?
+- It exceeded my budget.
+- Can i get discount if i have membership?
+- Can i still get an extra 20% off if i use the coupon?
+
 
 
 <!-- Content_END -->
