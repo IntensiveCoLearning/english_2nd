@@ -828,18 +828,14 @@ Note:
 | Correct Version | Saturday an ultralight plane  clashed into the Ferris Wheel at the road festival in Australia. Yet somehow no one on the amusement right, nor the plane was hurt |
 
 - a ultralight-->an ultralight
-
 - clashed to-->clashed into
-
 - Ferris Wheel/ ˈferɪs wiːl /法利士巨轮
-
 - at the road festival--> at a rural/ ˈrʊrəl / festival
-
 - amusement right-->amusement ride 游乐设施：一种机械设备或结构，用来移动人们以创造乐趣的活动。
 
-  ### 2024.10.24
+### 2024.10.24
 
-  [Daily English Dictation 21 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=21)
+[Daily English Dictation 21 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=21)
 
 |                 | Text                                                         |
 | --------------- | ------------------------------------------------------------ |
@@ -875,9 +871,47 @@ Note:
 - prosecutor/ ˈprɑːsɪkjuːtər / *n.*检察官，公诉人；（刑事庭的）原告律师
 - student is -->studen(t) is
 
-### 2024.10.24
+### 2024.10.25
 
 [Daily English Dictation 24 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=24)
+
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | San Luies take the seires on a cruel night. He was 49 degree at the start of the game |
+| Correct Version | **St.Louis** takes the **World** Series **opener** on a **cool** night. **It** was 49 degree at the start of the game. |
+
+- St Louis
+- the best of seven
+- "take" means "win" there
+- opener 揭幕赛，开场戏；首粒进球；开场的话
+- cruel/ ˈkruːəl / cool/ kuːl /
+
+[Daily English Dictation 25 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=25)
+
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | The search for missing throughtout on night generator power flushlight. Hands of family members were waiting for the melting degree . Some tears. |
+| Correct Version | **They** search**ed** for the missing throughout the night **under** **generator-powered flood lights** **as** famliy members waited by the **mounds of debris** -- some **in** tears. |
+
+- generator-power 发电机电力：由发电机产生的电力，通常用于提供电力供应，特别是在没有电网供电的地方或紧急情况下。generator *n.*发电机
+- flood lights 洪灯：指强烈明亮且宽泛的人工光源。
+- mounds of 大量的，许多的：指数量很多，堆积如山的情况。mound 土堆，石堆
+- debris / dəˈbriː / *n.*残骸，碎片
+- in tears 流泪：眼泪从眼睛中流出。
+
+[Daily English Dictation 26 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=26)
+
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | It's kind of things you look forward to instead of you know some work you count that in and you think of this work and this is just fun. |
+| Correct Version | It's kind of **thing** you look forward to instead of, you know, some **workouts** you **dread** and you think of it as work and this is just fun! |
+
+- workout/ ˈwɜːrkaʊt /
+- dread/ dred / *v.*畏惧，担心
+
+### 2024.10.26
+
+[Daily English Dictation 27 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=27)
 
 <!-- Content_END -->
 
