@@ -341,4 +341,21 @@ George:I'd love to go,make an appointment.
 乔治:我想去，约个时间。
 psychic   n.灵媒   =fortune teller   算命先生
 crystal  ball n.水晶球
+
+### 2024.10.26
+i studied the P44 in the bilibili video summary.Following are the notes:
+R：Dad,I beat you. Didn't you remember the Rayman Spinball?
+F：Right，I learned to play in Korea from Koreans. Do you think some punk kid's gonna actually beat me?
+F:No,dad,you were tring to win you were sweating and panting. 
+F:I'm a damn fine actor. 
+
+R：爹，我赢了你！难道你不记得我的Rayman旋转球了吗？
+F：好吧，我曾经在韩国和韩国人学过乒乓球，你觉得这种小屁孩的把戏真能打败我吗？
+R：没有，老爹，你试着去赢了，你现在大汗淋漓气喘吁吁的。
+F：我可真是个好演员。
+
+(1)punk  n.朋克；小流氓，小混混
+(2)sweat v. 出汗
+(3)panting v. 气喘，喘息
+(4)damn=really
 <!-- Content_END -->
