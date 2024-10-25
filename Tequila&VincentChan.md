@@ -328,4 +328,17 @@ Twas  = it was      sleigh   n.雪橇
 sprang=jump        reindeer n.驯鹿
 down     n. 羽绒(不常用)
 thistle    n.蓟
+
+### 2024.10.25
+i studied the P43 in the bilibili video summary.Following are the notes:
+Elaine:Hey,George,you know,my friend goes to a psychic.
+George:Really?
+Elaine:Uh-huh.We should go sometime.
+George:I'd love to go,make an appointment.
+艾琳:嘿，乔治，你知道，我的朋友去找灵媒了。
+乔治:真的吗?
+艾琳:嗯。我们应该找个时间去。
+乔治:我想去，约个时间。
+psychic   n.灵媒   =fortune teller   算命先生
+crystal  ball n.水晶球
 <!-- Content_END -->
