@@ -194,4 +194,10 @@ To going on debonair debonairely, you must fully accept and love it, flaws and a
 - spun up: uncertain mind, crezy
 - alleged(supposed, possible criminal)
 
+### 2024.10.25
+- https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.videopod.episodes&vd_source=70d22df5993b243adb2c4be25499c92e&p=32
+- LISTENING: gov report decommisiAnd it could be decades before nearby residents to reinforce to flee to return the aera  A pre gove report a predictable decat thirty years or more to safely demission
+- A prelininary(a beginning one) government report predictsit`ll take 30 years or more to safely decommision(to take it offline/shut down) the facility and it could be decades before nearby residents who were forced to flee can return to the area.
+- P32: I was lifting the chairs out of way broken glass, other sanitary(纸尿裤/厕纸 gross disgusting things) items i dont get into, but it was a torrific to(say the least)
+
 <!-- Content_END -->
