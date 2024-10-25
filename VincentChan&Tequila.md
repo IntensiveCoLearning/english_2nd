@@ -205,4 +205,11 @@ A few years ago they were thought to be useless -- past their prime -- not now.
 If you are breathing, it's not too late, get up and get going
 - depressed adj. 沮丧的、抑郁的
 
+### 2024.10.25  
+**Ditation 18** 
+A 67 years old grandpa has bean found alive after being stuck for 6 days at the bottom of the ravine.
+- been 在美国英语中读成 ben  
+- for 读得快的时候读成 fur 
+- ravine n. 峡谷
+  
 <!-- Content_END -->
