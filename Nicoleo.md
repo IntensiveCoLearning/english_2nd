@@ -183,6 +183,9 @@ Years may wrinkle the skin, but to give up enthusiasm wrinkles the soul.
 But more than becoming a monk, what that trained me to do was drop out with the rules. people told me: “if you come back in three years, you’ll never got a job.” they told me: “if you become a monk, people are going to think you're weird forever, no girl is ever gonna talk to you.” People told me, “ well, when you come back to real life, like will you even be able to talk English?”
 
 ### 2024.10.24
+Nothing good ever comes easy. You have to work for it.
+
+
 ### 2024.10.25
 ### 2024.10.26
 ### 2024.10.27

@@ -489,7 +489,21 @@ the typhoon second in the week
 
 ### 2024.10.24
 
-笔记内容
+comfortable   舒服的
+I just washed my ----------
+technology 科技 技术 工艺 工程技术
+information technology 信息技术
+The weather is nice today. it's very clear and the sun is warm.
+Study hard and make progress every day.
+You will make progress if you study hard every day.
+Learning English is too difficult for me.
+locate 定位
+blind to 看不见的
+
+Battered soaked and flooded; the Philippines is being hit by the second typhoon in a week
+
+Listen and write
+a few years ago there were to be not now shelter
 
 ### 2024.10.25
 

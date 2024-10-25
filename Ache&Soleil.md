@@ -413,6 +413,8 @@ to be continued
 ### 2024.10.24
 
 笔记内容
+翻译了 以太坊协议的可能未来，第三部分：清算阶段
+https://www.notion.so/lxdao/The-Scourge-5615920c3be94b888aaa1c88dd396dfa 
 
 ### 2024.10.25
 
