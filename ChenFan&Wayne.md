@@ -208,6 +208,9 @@ DD_24:an alleged SAT cheatting scandals has be uncovered at a prestigious long l
 ### 2024.10.24
 --今天背了20分钟单词，听了daily dictation 的25-28 ，翻译了一篇雅思阅读的单词
 ### 2024.10.25
+--今天背了47分钟单词，听了daily dictation 的29-32 ，翻译了一篇雅思阅读的单词
+
+--其实我每天都有学，但总是忘记更新这个公学表
 ### 2024.10.26
 ### 2024.10.27
 ### 2024.10.28
