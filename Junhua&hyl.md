@@ -184,4 +184,7 @@ it doesn't get much more ... than this
 ### 2024.10.24
 ![1024](img/Junhua_1024.png)
 
+### 2024.10.25
+![1025](img/Junhua_1025.png)
+
 <!-- Content_END -->
