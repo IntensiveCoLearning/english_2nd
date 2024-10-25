@@ -1664,6 +1664,7 @@ Web3 行业是一个新兴且迅速发展的领域，涉及区块链、加密货
     我在学习英语以提高我的沟通能力。
 
 ### 2024.10.25
+In the future, I plan to further develop my skills and advance in my career. I am currently studying new programming languages and hope to become a senior software engineer in the next few years. In addition to my professional goals, I also want to travel to different countries and experience new cultures. I believe that learning about other cultures can help me grow both personally and professionally. Another goal I have is to become fluent in English. I practice every day because I know it will open up many opportunities for me in the future. I am excited about the possibilities and look forward to achieving my dreams.
 
 ### 2024.10.26
 
