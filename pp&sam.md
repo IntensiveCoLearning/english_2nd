@@ -385,45 +385,103 @@ suffering 毒打；痛苦
 学习新语言是一种思维锻炼。这是第一项研究表明，会说一种以上语言的双语者比不会说一种语言的人晚四年到四年半患上痴呆症。
 
 ### 2024.10.16
+Daily English Dictation  22
+
 1.Won the world over with = be famous for
-1. 赢得世界 = 闻名
 
-cross eye 斗鸡眼
+Dead Sea Scrolls = the old book
 
-look = expression 表情 = appearance 外貌
+Expected = done = finished
 
-with her = wither 4.和她在一起=枯萎
+complete = ken~
 
-sligh(t)ly 一点点；稍微
-
-confuse = kenfuse 迷惑
 ### 2024.10.17
-1.Won the world over with = be famous for
-1. 赢得世界 = 闻名
 
-cross eye 斗鸡眼
+Daily English Dictation 24
 
-look = expression 表情 = appearance 外貌
+An alleged SAT cheating scandal has been uncovered at a prestigious Long Island high school. This college student is accuted of taking the college entrance exam for at least 6 students.
 
-with her = wither 4.和她在一起=枯萎
+Points
 
-sligh(t)ly 一点点；稍微
+1.SAT = scholastic aptitude test
 
-confuse = kenfuse 迷惑
+2.Alleged = no clue, hasn't proof
+
+3.Scandal = disgreatful even
+
+4.Uncovered = discovered
+
+5.prestigious = very expensive, very famous.
+
+6.prosecutor
 
 ### 2024.10.18
-1.Won the world over with = be famous for
-1. 赢得世界 = 闻名
+Daily Dictation Number 25
 
-cross eye 斗鸡眼
+St Louis takes the World Series opener on a cool night, It was 49 degree at the start of the game.
 
-look = expression 表情 = appearance 外貌
+Points
 
-with her = wither 4.和她在一起=枯萎
+1.St Louis = a city of US
 
-sligh(t)ly 一点点；稍微
+2.World Series = a baseball game, the best of seven.
 
-confuse = kenfuse 迷惑
+3.Takes = wins
 
+4.Takes (the)
 
-<!-- Content_END -->
+5.start o(f) the
+
+6.kind of = kinda
+
+### 2024.10.19
+Daily Dictation Number 26
+
+They searched for the missing throughout the night under generator-powered flood lights as family members waited by the mounds of debris some in tears.
+
+Points
+
+1.all througout the night = all night
+
+2.generator - powered flood lights, flood lights = a type of light which can light a huge area
+
+3.mounds of debris, mound = piles, mountains; debris = piece of building.
+
+4.seach(ed) for
+
+5.mounds of debris = mounze d'bree
+
+### 2024.10.20
+Daily Dictation Number 27
+
+It's the kind of thing you look forward to instead of, you know, some workouts you dread and you think of it as work and this is just fun.
+
+### 2024.10.21
+Daily Dictation Number 28
+
+Superhero Costumes as usual are big this year— especially from recent movies like Thor and the Green Lantern.
+
+### 2024.10.22
+Daily Dictation Number 29
+
+it's a pain 'cuz my fridge is... I dumped it today. and the food's gone.
+
+### 2024.10.23
+Daily Dictation Number 30
+
+He says he was simply going by the book when it comes to landing without gear, and that he and his fellow pilots train for these type of incidents.
+
+### 2024.10.24
+Daily Dictation Number 31
+
+It is the vegetable some love to hate! But now a new breed of broccoli-super broccoli-developed in Britain may protect against heart diseases: even some kinds of cancer.
+
+### 2024.10.25
+Daily Dictation Number 32
+
+Mayor Sam Adams ordered that the camp be shut down Saturday citing unhealthy conditions and the attraction of drug dealers and thieves.
+
+口语跟读app
+Spesk-英文口语AI学习
+[
+](https://apps.apple.com/us/app/speak-%E8%8B%B1%E6%96%87%E5%8F%A3%E8%AF%AD%E6%99%BA%E8%83%BD%E5%AD%A6%E4%B9%A0/id1286609883?l=zh-Hans-CN)
