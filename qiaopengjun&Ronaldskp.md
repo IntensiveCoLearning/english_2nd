@@ -507,7 +507,15 @@ a few years ago there were to be not now shelter
 
 ### 2024.10.25
 
-笔记内容
+be prone to do
+face to face 面对面
+start from scratch 从头开始
+
+A few years ago, there were thought to be useless --
+past their prime -- not now
+
+Listen and write
+if you were  it is not too late
 
 ### 2024.10.26
 
