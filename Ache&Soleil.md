@@ -417,8 +417,27 @@ to be continued
 https://www.notion.so/lxdao/The-Scourge-5615920c3be94b888aaa1c88dd396dfa 
 
 ### 2024.10.25
-
+https://www.bilibili.com/video/BV12m421W7KA/?spm_id_from=333.337.search-card.all.click&vd_source=b49bd18f5387186df3d0c9fe6f83fc39
 笔记内容
+Can you see the big digital billboard ? I'm standing right under it 
+Just park by the yellow fire hydrant, I'll spot your 。 
+watch out for the one-way street ,better come from the other end
+Just look for the only person standing under the neon "Open" sign
+
+If your are ate the red light ,I'm right across at the bus stop 
+Look for a crowd at the bus stop , I'm the one with a large umbrella
+
+There is a festival on the main square, let's meet by the funtain instead
+
+If you hit the bookstore, just stop , I'm across the street 
+can you stop right after the crosswalk? Threre is a good spot to pull in  你能在人行横道后面停下吗？那儿正好有个地方可以靠边
+
+The alley might be a tight squeeze, better to meet me on the main road.
+
+Hang on,I'll come out to the street so it's easier for you to see me. 
+
+The GPS messes up here, Just ping me when you are close.
+
 
 ### 2024.10.26
 

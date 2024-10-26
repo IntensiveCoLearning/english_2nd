@@ -265,6 +265,13 @@ timezone: Asia/Shanghai
 - Array Iteration: Using loops or higher-order functions.
   
 ### 2024.10.25
+- Let/Const: Block-scoped variable declarations.
+- Template Literals: String interpolation with backticks.
+- Arrow Functions: Simplified function syntax.
+- Classes: Syntax for creating classes.
+- Modules: Import and export syntax for modular code.
+- Promises: For asynchronous operations.
+- Async/Await: For writing asynchronous code that looks synchronous.
 ### 2024.10.26
 ### 2024.10.27
 ### 2024.10.28
