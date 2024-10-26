@@ -212,6 +212,16 @@ DD_24:an alleged SAT cheatting scandals has be uncovered at a prestigious long l
 
 --其实我每天都有学，但总是忘记更新这个公学表
 ### 2024.10.26
+
+--今天是半小时单词，一段雅思翻译，没听daily dictation,最新的阅读都是英译中的，我可能需要增加一些中译英的训练了。
+
+--English：The Power of Renewable Energy
+
+Renewable energy sources, such as wind, solar, and hydroelectric power, are increasingly recognized as essential for sustainable development. Unlike fossil fuels, renewable energy is naturally replenished and has minimal impact on the environment. By investing in these resources, countries can reduce greenhouse gas emissions and decrease their reliance on imported fuels. However, transitioning to renewable energy poses challenges, including high initial costs and the need for technological innovation to ensure efficiency and reliability. Nevertheless, as technology advances, renewable energy is becoming more accessible and cost-effective, paving the way for a cleaner, greener future.
+
+--Translation：可再生能源的力量
+
+像风能、太阳能、核电能之类的可再生能源日益被人们认为是可持续发展的关键。与化石燃料不同，可再生能源是天然可再生的，并且对环境的影响极小。通过对这些能源的投资，国家可以减少温室气体的释放，同时也能降低对重要燃料的依赖性。然而，将传统能源转换成可再生能源的过程是十分艰巨的，需要高昂的初始开销和技术上的革新，才能够确保效率和可靠性。尽管如此，伴随着技术发展，可再生能源会变得越来越经济上可行，逐渐构建出更清洁、更绿色的未来。
 ### 2024.10.27
 ### 2024.10.28
 ### 2024.10.29
