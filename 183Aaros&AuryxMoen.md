@@ -152,10 +152,16 @@ It's nice to meet everyone in LX DAO here.
  - fix: portrayed:describe (someone or something) in a particular way 描绘; midst: in the middle of 中间; legitimacy 合法性; detention 拘留; defendants: an individual, company, or institution sued or accused in a court of law 被告;
 
 ### 2024.10.25
-- 听写；原视频： "he Downfall of Vietnam’s Real Estate Queen" （4:00 ~ 5:00）, Bloomber; https://www.bloomberg.com/news/videos/2024-10-17/the-downfall-of-vietnam-s-real-estate-queen?srnd=homepage-uk; Also available in Youtube: https://www.youtube.com/watch?v=fKrXheAINcU
+- 听写；原视频： "he Downfall of Vietnam’s Real Estate Queen" （5:00 ~ 6:00）, Bloomber; https://www.bloomberg.com/news/videos/2024-10-17/the-downfall-of-vietnam-s-real-estate-queen?srnd=homepage-uk; Also available in Youtube: https://www.youtube.com/watch?v=fKrXheAINcU
   - Dictation:  The crack down has brought down 2 presidents, 3 deputy prime ministers, and seen hundres of other government officials forced out or demoted. Truong My Lan is the highest profile case we've seen so far, as part of this anti-corruption crackdown. What's not clear is how much further this campagin has to run. But the campagin hasn't come without criticism. The investgated and legal process in Vietnam is usually not transparent. The US state department says Vietnam judicsuarate(?) *judiciary* lacks independence, noting that the chef justice is also a member of the polibural(?) *Politburo* . While the anti-corruption crackdown is intended to show the government's admitment *commitment* , to ensuring a sound business environment, critics say is also have been used to target political rivals. According to Vietanmese state media, late party leader Trong, denied such claims, and insisted the effort were neccessary. (6:12/9:07)
 
- - fix: judiciary: The judiciary is made up of judges, magistrates, tribunal members, and coroners 司法机构; Politburo 政治局; commitment 承诺;  
+ - fix: judiciary: The judiciary is made up of judges, magistrates, tribunal members, and coroners 司法机构; Politburo 政治局; commitment 承诺;
+
+### 2024.10.26
+- 听写；原视频： "he Downfall of Vietnam’s Real Estate Queen" （6:00 ~ 7:00）, Bloomber; https://www.bloomberg.com/news/videos/2024-10-17/the-downfall-of-vietnam-s-real-estate-queen?srnd=homepage-uk; Also available in Youtube: https://www.youtube.com/watch?v=fKrXheAINcU
+  - Dictation: Trong defended the campagign as the top *tough* medicine needed to promote Vietnam's long term stability. But the departure of so many officials has had a significant impact on getting business done. One of the core criticism of the corruption crackdown is the fact that just slowed down decision making and lead *led* to a form of theopratic(?) *bureaucratic* foralesis(?) *paralysis* . The core *with* officials to been *being* too scared to make a decision to theo(?) *fear of* being the next one to be caught. I've been Vietnam for almost 33 years. I've witness, I've been learn much part of, an enormouse amount of change in Vietnam. Now we have 18 different projects that we have developed completed in our pipelines. And the anti-corruption campaign has definatly had an impact. What used to take 3 months of *to get* approval now takes 12 months, if not longer, and more approvals necessary. But it has  encourage *hasn't discouraged* us to *from* continue to investment and move forward *here*. (7:15/9:07)
+
+ - fix: bureaucratic: relating to the business of running an organization, or government 官僚主义的; paralysis: unable to make voluntary muscle movements 瘫痪;
    
 <!-- Content_END -->
 
