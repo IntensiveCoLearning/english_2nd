@@ -200,4 +200,17 @@ To going on debonair debonairely, you must fully accept and love it, flaws and a
 - A prelininary(a beginning one) government report predictsit`ll take 30 years or more to safely decommision(to take it offline/shut down) the facility and it could be decades before nearby residents who were forced to flee can return to the area.
 - P32: I was lifting the chairs out of way broken glass, other sanitary(纸尿裤/厕纸 gross disgusting things) items i dont get into, but it was a torrific to(say the least)
 
+### 2024.10.26
+- https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.videopod.episodes&vd_source=70d22df5993b243adb2c4be25499c92e&p=34
+- P34:Toyoto is recalling more than half (a) million vehicle(s) from problems that (could) make them difficult to steer.
+- P35:It`s crist, and some fena loba fena king, and its been a long proski here
+- It`s great, It`s um, been a little bit nerve-wracking, um ,and it`s been a long process to get here(horrible NewZealand accent)
+- P36:When the family left vitnam by boat, but the boat was intersept by Paris, after years of trying the father located the son in Taihland
+- When the family left vietnam by boat, bound for Thailand, but the boat was intercepted(Rubbed on a way from A to B) by pirates, after years of trying, the father located his son in Tailland.
+
+
+
+
+
+
 <!-- Content_END -->
