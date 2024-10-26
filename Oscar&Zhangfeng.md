@@ -406,6 +406,28 @@ Listening and Learning Spoken English expression：
 - Can i get discount if i have membership?
 - Can i still get an extra 20% off if i use the coupon?
 
+### 2024.10.26
 
+Listening and Learning Spoken English expression：
+
+- I want this tie in a gift box.
+
+- Could I have it gift-wrapped?
+
+- Please send them to this address.
+
+- I want to get a refund.
+
+- Do you accept returns?
+
+- What's the rates of your parking lot?
+
+- Do you have sugar free coke?
+
+- Which brand is on sale?
+
+- The ladies' shoes counter is on the first floor.
+
+  
 
 <!-- Content_END -->
