@@ -329,4 +329,10 @@ Heidi won the world over with her forever cute but slightly confused look.
 
 The project to put them online is expected to be completed by 2016.
 
+ ### 2024.10.25
+
+23.At a large SAT cheating exam,thre was a couple of  long high school in the taking exam for 6 students
+
+An alleged SAT cheating scandal has been uncovered at a prestigious Long Island high school.This college student is accused of taking the college entrance exam for at least 6 students.
+
 <!-- Content_END -->
