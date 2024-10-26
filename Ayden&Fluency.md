@@ -272,7 +272,14 @@ timezone: Asia/Shanghai
 - Modules: Import and export syntax for modular code.
 - Promises: For asynchronous operations.
 - Async/Await: For writing asynchronous code that looks synchronous.
+  
 ### 2024.10.26
+- let and const:
+	let allows you to declare variables that are limited to the block scope (enclosed by {}), unlike var, which is 		function-scoped.
+	const is used to declare constants that cannot be reassigned, also scoped to the block.
+- Arrow functions provide a more concise syntax for writing function expressions. They also lexically bind the this value, which is particularly useful in callbacks.
+- Template literals allow for multi-line strings and string interpolation using backticks (`). You can embed expressions inside ${}.
+- Destructuring allows unpacking values from arrays or properties from objects into distinct variables.
 ### 2024.10.27
 ### 2024.10.28
 
