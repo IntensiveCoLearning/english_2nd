@@ -194,22 +194,32 @@ Battered soaked and flooded; the Philippins is being hit by its second typhoon i
 - flooded adj. 洪水泛滥的
 
 ### 2024.10.23
-**Ditation 16**  
+**Ditation 17**  
 A few years ago they were thought to be useless -- past their prime -- not now.
 
 - stray adj. 流浪的
 - past their prime 过了最好的时候、已过壮年  
 
 ### 2024.10.24
-**Ditation 17**  
+**Ditation 18**  
 If you are breathing, it's not too late, get up and get going
 - depressed adj. 沮丧的、抑郁的
 
 ### 2024.10.25  
-**Ditation 18** 
+**Ditation 19** 
 A 67 years old grandpa has bean found alive after being stuck for 6 days at the bottom of the ravine.
 - been 在美国英语中读成 ben  
 - for 读得快的时候读成 fur 
 - ravine n. 峡谷
+
+### 2024.10.26  
+**Ditation 20** 
+Saturday, an ultralight plane crashed into a ferris wheel at a rural festival in Australia, yet somehow no one on the amusement ride nor the plane was hurt.
+- ultralight adj. 超轻型的
+- crash into 撞到
+- ferris wheel 摩天轮
+- rural n. 乡村的
+- somehow adv. 由于某种不明原因，不知为什么
+- amusement n. 娱乐
   
 <!-- Content_END -->
