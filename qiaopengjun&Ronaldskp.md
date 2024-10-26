@@ -519,7 +519,11 @@ if you were  it is not too late
 
 ### 2024.10.26
 
-笔记内容
+If you are breathing it is not too late
+Get up and get going
+
+Listen and write
+it's 67 years old  grandpa
 
 ### 2024.10.27
 
