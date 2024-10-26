@@ -170,5 +170,34 @@ Third, the article notes that trains are not important in the US because they ar
 
 ### 2024.10.26
 
+下午上了兩小時TOEFL口說。針對Task1練了四題機經題。
+
+以下是針對其中一題不斷練習到最好的版本。
+題目：Is using group educational games in the classroom a good idea?
+回答：https://otter.ai/u/wIbH6TehXIIZSPpVngIXI70KCYs?view=summary&tab=chat
+
+
+### 2024.10.27
+
+
+
+### 2024.10.28
+
+
+
+### 2024.10.29
+
+
+
+### 2024.10.30
+
+
+
+### 2024.10.31
+
+
+
+
+
 
 <!-- Content_END -->
