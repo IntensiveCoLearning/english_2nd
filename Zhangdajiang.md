@@ -285,7 +285,11 @@ Ending her statement, the 41-year-old urged people to give Payne “the little d
      The boss asked his assistant to buy a coffee for him
      Best wishes to you in the new year
      Take care is another way to say goodbye
-              
-              
+  ### 2024.10.27
+       Will you help look at my resume?
+       Sure,I'll look at it later,I am busy with work now .
+       And will you practice a interview with me?
+        What will you do after graduation?
+        Will you still study or will you look for a job?
              
 <!-- Content_END -->
