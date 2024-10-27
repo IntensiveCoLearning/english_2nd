@@ -280,7 +280,12 @@ timezone: Asia/Shanghai
 - Arrow functions provide a more concise syntax for writing function expressions. They also lexically bind the this value, which is particularly useful in callbacks.
 - Template literals allow for multi-line strings and string interpolation using backticks (`). You can embed expressions inside ${}.
 - Destructuring allows unpacking values from arrays or properties from objects into distinct variables.
+  
 ### 2024.10.27
+- DOM (Document Object Model): The DOM is a programming interface for web documents that represents the structure of a web page. JavaScript can be used to access and modify the DOM.
+- DOM Manipulation: JavaScript provides methods and properties to select, create, modify, and remove DOM elements, as well as handle user events (click, submit, etc.).
+- Event Handling: JavaScript allows you to attach event listeners to DOM elements, which can respond to user interactions and trigger specific actions.
+  
 ### 2024.10.28
 
 
