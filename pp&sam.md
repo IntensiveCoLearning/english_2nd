@@ -481,9 +481,20 @@ Daily Dictation Number 32
 
 Mayor Sam Adams ordered that the camp be shut down Saturday citing unhealthy conditions and the attraction of drug dealers and thieves.
 
+citing 举例；引用
+
+stating the reasons of 陈述理由；说明原因
+
+no plumbing
+
+dealers 交易商，经营商
+
 口语跟读app
 Spesk-英文口语AI学习
-[
-](https://apps.apple.com/us/app/speak-%E8%8B%B1%E6%96%87%E5%8F%A3%E8%AF%AD%E6%99%BA%E8%83%BD%E5%AD%A6%E4%B9%A0/id1286609883?l=zh-Hans-CN)
+
+(https://apps.apple.com/us/app/speak-%E8%8B%B1%E6%96%87%E5%8F%A3%E8%AF%AD%E6%99%BA%E8%83%BD%E5%AD%A6%E4%B9%A0/id1286609883?l=zh-Hans-CN)
 
 ### 2024.10.26
+
+### 2024.10.27
+ling Q app 英语阅读累计词汇软件
