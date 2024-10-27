@@ -335,4 +335,29 @@ The project to put them online is expected to be completed by 2016.
 
 An alleged SAT cheating scandal has been uncovered at a prestigious Long Island high school.This college student is accused of taking the college entrance exam for at least 6 students.
 
+ ### 2024.10.26
+unicorns独角兽
+
+long acronyms长长的缩写词
+
+all of its jargon can make it difficult to follow.它的所有行话可能会让您难以理解
+
+**Airdrop** *(noun, verb)*
+
+usually **regarding** the value of digital assets like cryptocurrencies and NFTs
+
+**altcoin** may now refer to any new cryptocurrency with a relatively small **market cap**.
+
+**Alts short for altcoins.**
+
+stock股票
+
+hype炒作
+
+sheer纯粹的Maybe a reference to the sheer physical strength of apes?
+
+**ATH- All Time High**
+
+**ATL- All Time Low**
+
 <!-- Content_END -->
