@@ -174,11 +174,14 @@ Third, the article notes that trains are not important in the US because they ar
 
 以下是針對其中一題不斷練習到最好的版本。
 題目：Is using group educational games in the classroom a good idea?
-回答：https://otter.ai/u/wIbH6TehXIIZSPpVngIXI70KCYs?view=summary&tab=chat
+回答：https://otter.ai/u/wIbH6TehXIIZSPpVngIXI70KCYs?utm_source=copy_url
 
 
 ### 2024.10.27
 
+以下是針對其中一題不斷練習到最好的版本。
+題目：When it comes to preparing assignments, do you prefer to start early or wait until close to the deadline?
+回答：https://otter.ai/u/OonkA-wFmkpJuupurzX8sdlzhPE?utm_source=copy_url
 
 
 ### 2024.10.28
