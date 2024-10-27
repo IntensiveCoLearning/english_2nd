@@ -896,5 +896,44 @@ Note:
 
 [Daily English Dictation 30 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=30)
 
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | It is the vegetable some look and hate. But now a new breed of brocolli -- super brocolii -- develops xxx and protects against arc diseases, even some kinds of cancer. |
+| Correct Version | It is the vegetable some **love to hate**. But now a new breed of **broccoli** -- super broccoli -- **is developed in Britain** **may protect** against **heart** disease, even some kinds of cancer. |
+
+- broccoli/ ˈbrɑːkəli /
+- love to hate 爱恨交加：一种复杂的情感体验，既有爱又有恨，通常指对某个人或事物有着矛盾的情感。
+- Britain/ ˈbrɪt(ə)n /
+- heart disease不加s <>heart attacks加s
+- developed/ dɪˈveləp**t** /
+
+[Daily English Dictation 31 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=31)
+
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | The mayor shouts out the camp be shut down Saturday because of healthy conditions and the attraction of drop dayler and fear. |
+| Correct Version | Mayor **Sam Adams ordered** **that** the camp be shut down Saturday **citing un**healthy conditions and the attraction of **drug dealers and thieves.** |
+
+- order/ ˈɔːrdər /
+- citing/ ˈsaɪtɪŋ /
+- drug dealer贩毒者；毒品走私犯
+- thieves/ θiːvz /
+
+[Daily English Dictation 32 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=32)
+
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | The prominent government asserts it take thirty years and more to dexxx become settle date and it could be decades before nearby president to completely return the area |
+| Correct Version | **A preliminary** government **report predicts it'll** take thirty years **or** more to **safely decommission the facility** and it could be decades before nearby **residents who were forced to flee can** return to the area |
+
+- preliminary/ prɪˈlɪmɪneri / *adj.*初步的，预备的
+- decommission/ ˌdiːkəˈmɪʃn / *v.*关闭，拆除（核武器等）；使（船）退役，报废
+- facility/ fəˈsɪləti /
+- flee/ fliː / *v.*逃离，逃避，逃跑
+
+### 2024.10.28
+
+[Daily English Dictation 33 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=33)
+
 <!-- Content_END -->
 
