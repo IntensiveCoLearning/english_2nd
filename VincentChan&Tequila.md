@@ -221,5 +221,11 @@ Saturday, an ultralight plane crashed into a ferris wheel at a rural festival in
 - rural n. 乡村的
 - somehow adv. 由于某种不明原因，不知为什么
 - amusement n. 娱乐
-  
+
+### 2024.10.27
+**Ditation 21**  
+Heidi won the world over with her forever cute but slightly confused look.  
+- won 的发音和 one 相同
+- won the world over with sth. 以某物赢得了全世界
+
 <!-- Content_END -->
