@@ -360,4 +360,60 @@ sheer纯粹的Maybe a reference to the sheer physical strength of apes?
 
 **ATL- All Time Low**
 
+### 2024.10.27
+
+agile
+
+/'ædmɪn/
+
+/'æməzən/
+
+/æp/
+
+archive/'ɑːkaɪv/
+
+ASCII /'æski/
+
+cache/kæʃ/
+
+context/ˈkɒntekst/
+
+debt债务/det/
+
+deque/'dek/
+
+**edition/ɪˈdɪʃ(ə)n/**
+
+epoch/ˈiːpɒk/ 美 /ˈepək/
+
+**event/ɪ'vent/**
+
+exit/ˈeksɪt/
+
+format/'fɔːmæt/
+
+hidden/'hɪdn/
+
+IEEE/aɪ ˈtrɪpəl i/
+
+image/'ɪmɪdʒ/
+
+jpg /'dʒeɪpeɡ/
+
+legacy/'leɡəsi/
+
+linear/'lɪnɪə/
+
+matrix/ˈmeɪtrɪks/
+
+native/ˈneɪtɪv/
+
+**parameter /pə'ræmɪtə/**
+
+Qt/kjuːt/
+
+**safari/sə'fɑːrɪ/**
+
+scheme/skiːm/
+
 <!-- Content_END -->
