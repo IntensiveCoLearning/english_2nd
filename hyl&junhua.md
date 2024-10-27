@@ -206,7 +206,9 @@ https://lcn2ql9ad1h5.feishu.cn/file/BIrmbqG7JoZqL7xOtLFcRjL2njg
 
 ### 2024.10.26
 https://lcn2ql9ad1h5.feishu.cn/file/UDjmbNqR5oRg6DxjxbjcxxAwnNh
-### 2024.10.14
+### 2024.10.27
+https://lcn2ql9ad1h5.feishu.cn/file/I6mabqKr6ofevbxSYDNcs3s9n6g
+
 ### 2024.10.14
 ### 2024.10.14
 ### 2024.10.14
