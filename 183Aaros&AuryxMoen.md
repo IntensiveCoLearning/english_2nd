@@ -162,6 +162,12 @@ It's nice to meet everyone in LX DAO here.
   - Dictation: Trong defended the campagign as the top *tough* medicine needed to promote Vietnam's long term stability. But the departure of so many officials has had a significant impact on getting business done. One of the core criticism of the corruption crackdown is the fact that just slowed down decision making and lead *led* to a form of theopratic(?) *bureaucratic* foralesis(?) *paralysis* . The core *with* officials to been *being* too scared to make a decision to theo(?) *fear of* being the next one to be caught. I've been Vietnam for almost 33 years. I've witness, I've been learn much part of, an enormouse amount of change in Vietnam. Now we have 18 different projects that we have developed completed in our pipelines. And the anti-corruption campaign has definatly had an impact. What used to take 3 months of *to get* approval now takes 12 months, if not longer, and more approvals necessary. But it has  encourage *hasn't discouraged* us to *from* continue to investment and move forward *here*. (7:15/9:07)
 
  - fix: bureaucratic: relating to the business of running an organization, or government 官僚主义的; paralysis: unable to make voluntary muscle movements 瘫痪;
+
+### 2024.10.27
+- 听写；原视频： "he Downfall of Vietnam’s Real Estate Queen" （6:00 ~ 7:00）, Bloomber; https://www.bloomberg.com/news/videos/2024-10-17/the-downfall-of-vietnam-s-real-estate-queen?srnd=homepage-uk; Also available in Youtube: https://www.youtube.com/watch?v=fKrXheAINcU
+  - Dictation: Writer's *Ryder is* not alone in this *his* enthusiasm, despite recent political instability, Vietnam has continue to attract foreign investment in a record rates. Even before geopolitical tensions has flare *flared* between the US and China, setting up tariff levels very high in productions in China to be exporting to the US. Vietnam has been a favorite foreign investors for a China plus one story, not only is next to China, it also prioritises sectors such as manufacturing prioritises policies that pull investment towards Vietnam. You've got companies like Samsung and Apple pledging to build *boost* investments in developing *in the* countries *country*, earlier this year we saw Tim Cook in Hanoi meeting the prime minister as he looked at the *to* highlight the country and its role as an emerging labour *global* electronics hub. (8:05/9:07)
+
+ - fix: flared: having a shape that widens progressively toward the end or bottom. 明亮地燃烧, （短暂地）旺烧, （摇曳着）燃烧;
    
 <!-- Content_END -->
 
