@@ -527,7 +527,27 @@ it's 67 years old  grandpa
 
 ### 2024.10.27
 
-笔记内容
+在青旅或旅途中，和外国人轻松聊旅程，可以从一些常见的旅行话题开始。以下是一些建议：
+
+### 1. **如何开始聊天（常见话题）**
+
+- **问对方的行程**：*“Where have you been?”* 或 *“Where are you coming from?”*
+- **询问去过的地方**：*“What places have you visited?”* 或 *“Have you traveled to other cities in this country?”*
+- **谈到住宿体验**：*“How do you like this hostel?”* 或 *“What do you think of the area?”*
+- **讨论美食**：*“Have you tried any local food?”* 或 *“What's your favorite food so far?”*
+
+### 2. **如何询问对方的旅行感受**
+
+- **感兴趣的地方**：*“What’s been your favorite place so far?”* 或 *“Is there a place you’d love to visit again?”*
+- **印象深刻的体验**：*“Any memorable experiences during your trip?”* 或 *“What surprised you the most about this country?”*
+- **旅程建议**：*“Do you have any travel tips for here?”* 或 *“Would you recommend this place to others?”*
+
+### 3. **如何表达自己的旅行感受**
+
+- **喜欢的地方**：*“I loved visiting...”* 或 *“My favorite place so far has been...”*
+- **美好的体验**：*“One of my best experiences was…”* 或 *“I’ll never forget the time I…”*
+- **文化差异**：*“I was really surprised by…”* 或 *“It’s been amazing to see how people live here.”*
+- **愉悦的氛围**：*“The vibe here is amazing!”* 或 *“I really enjoy the relaxed atmosphere in this place.”*
 
 ### 2024.10.28
 
