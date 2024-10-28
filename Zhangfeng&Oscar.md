@@ -416,4 +416,16 @@ Qt/kjuːt/
 
 scheme/skiːm/
 
+### 2024.10.28
+
+the very first decentralized, peer-to-peer, digital currency, created by the pseudonymous Satoshi Nakamoto in 2009.
+
+pseudonymous 匿名的
+
+cryptocurrency protocols 加密货币协议
+
+**Bullish** *(adjective)*
+
+a hierarchical structure等级结构
+
 <!-- Content_END -->
