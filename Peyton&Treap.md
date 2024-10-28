@@ -935,5 +935,42 @@ Note:
 
 [Daily English Dictation 33 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=33)
 
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | there were lifting you know  cheer all over the wait, broken glass , other secretary you don't want to get into. But It was terrific to save a list |
+| Correct Version | **I was** lifting, you know, **chairs out of the way**, broken glass uh, other **sanitary items** **I** don't want to get into, but uh, it was uh, **horrific to** **say the least**. |
+
+- lift chair out of the way
+- sanitary/ ˈsænəteri / *adj.*公共卫生的，公共保健的；干净的，卫生的；（用品）月经期间使用的
+- secretary/ ˈsekrəteri /
+- don't want to get into 不想讨论
+- horrific/ həˈrɪfɪk / terrific/ təˈrɪfɪk /
+- say the least 至少可以这么说：用于表示某事物的确存在或发生，但可能比说出来的更加严重或复杂。
+
+[Daily English Dictation 34 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=34)
+
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | Toyota is recalling more than  half of million vehicles with problem that will make it difficult to steer |
+| Correct Version | Toyota is recalling more than  half (of) **a** million vehicles **for** problem**s** that **could** make **them** difficult to steer |
+
+- Toyota/ toʊˈjoʊtə /
+
+[Daily English Dictation 35 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=35)
+
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | It's great. It is famous for robel king and it has been a long pleasure to get here |
+| Correct Version | It's great. It's um **been a little bit nerve-wracking**, um, and it's been a long **process** to get here. |
+
+- nerve-wracking *adj.*非常伤脑筋的，极端令人头疼的（等于 nerve-racking）
+- wrack/ ræk / *v.*使痛苦不堪，使受折磨（同 rack）
+- process: US/ ˈprɑːses / UK New Zealand/ ˈprəʊses /
+- been: US ben/bin; New Zealand bean
+
+### 2024.10.29
+
+[Daily English Dictation 36 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=36)
+
 <!-- Content_END -->
 
