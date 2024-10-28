@@ -358,4 +358,11 @@ F：我可真是个好演员。
 (2)sweat v. 出汗
 (3)panting v. 气喘，喘息
 (4)damn=really
+
+### 2024.10.27
+请假玩cambria测试
+
+### 2024.10.28
+good good study , day day up.
+i will keep study in my daily life!
 <!-- Content_END -->
