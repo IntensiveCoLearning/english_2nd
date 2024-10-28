@@ -208,7 +208,11 @@ To going on debonair debonairely, you must fully accept and love it, flaws and a
 - P36:When the family left vitnam by boat, but the boat was intersept by Paris, after years of trying the father located the son in Taihland
 - When the family left vietnam by boat, bound for Thailand, but the boat was intercepted(Rubbed on a way from A to B) by pirates, after years of trying, the father located his son in Tailland.
 
-
+### 2024.10.28
+- 完结撒花🎇🎇🎇🎇🎇🎇
+- P37:A goo in mail snail traiffic along the busy pencil daniel turn pike, a leaking vail on the tankers ride driveway see it across a forty mile stratch of each bound side.
+- Right Answer:A gooey mess snarls(make something into problem) traffic along the busy Pennsylvania Turnpike. A leaking valve on a tanker spread driveway sealant across a 40-mile stretch of the eastbound side.
+- P38: A music is being played at a church in Germany, and well it really lives up to its name. Since it started there happened(have been) just eleven chore(chord) changes, and the next one is scheduled in july, 2012
 
 
 
