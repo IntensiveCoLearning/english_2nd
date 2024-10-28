@@ -168,6 +168,12 @@ It's nice to meet everyone in LX DAO here.
   - Dictation: Writer's *Ryder is* not alone in this *his* enthusiasm, despite recent political instability, Vietnam has continue to attract foreign investment in a record rates. Even before geopolitical tensions has flare *flared* between the US and China, setting up tariff levels very high in productions in China to be exporting to the US. Vietnam has been a favorite foreign investors for a China plus one story, not only is next to China, it also prioritises sectors such as manufacturing prioritises policies that pull investment towards Vietnam. You've got companies like Samsung and Apple pledging to build *boost* investments in developing *in the* countries *country*, earlier this year we saw Tim Cook in Hanoi meeting the prime minister as he looked at the *to* highlight the country and its role as an emerging labour *global* electronics hub. (8:05/9:07)
 
  - fix: flared: having a shape that widens progressively toward the end or bottom. 明亮地燃烧, （短暂地）旺烧, （摇曳着）燃烧;
+
+### 2024.10.28
+- 听写；原视频： "he Downfall of Vietnam’s Real Estate Queen" （6:00 ~ 7:00）, Bloomber; https://www.bloomberg.com/news/videos/2024-10-17/the-downfall-of-vietnam-s-real-estate-queen?srnd=homepage-uk; Also available in Youtube: https://www.youtube.com/watch?v=fKrXheAINcU
+  - Dictation: But as Vietnam economic ambitions grow, so do the demands for greater transparency and a more robust regulartory framework. While Vietnam's short term growth outlook is bright, challenges are looming. From demographic to environmentals to geopolicitcs, and to deal with these challenges, Vietnam's political machine were need to be very nimpo *nimble*  and productive. Otherwise the challenges will be very, very difficult to overcome. For now, Vietnamese all over the country are previdate *riveted* by Lan's stunning rise and fall, and what happens next for woman for one *a woman who once* seemed enbodied *embody* to economic success.  (9:07/9:07)
+
+ - fix: nimble 灵活; riveted 铆接; embody 体现;
    
 <!-- Content_END -->
 
