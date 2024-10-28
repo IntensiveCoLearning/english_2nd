@@ -228,4 +228,14 @@ Heidi won the world over with her forever cute but slightly confused look.
 - won 的发音和 one 相同
 - won the world over with sth. 以某物赢得了全世界
 
+### 2024.10.27
+**Ditation 22**  
+The project to put them online is excepted to be completed by 2016
+- 两个 to 都发成 t'
+- 2016  two thousand sixteen/twenty sixteen， 一般两位数、两位数分开读， 读成 twenty sixteen
+- 2002 读成 two thousand two 或者 twenty o two
+- 711 seven eleven
+- 825 eight twenty five
+- 201 two hundred one, 同时有很多美国人读成 two hundred and one
+
 <!-- Content_END -->
