@@ -551,7 +551,79 @@ it's 67 years old  grandpa
 
 ### 2024.10.28
 
-笔记内容
+在旅途中或青旅中，与外国人聊旅行时，可以围绕以下几方面展开轻松自然的对话：
+
+---
+
+### 如何开始聊天（常见话题）
+
+1. **询问行程**  
+   - “Where have you been on your trip?”  
+   - “Where are you coming from?”  
+   - **示例**：  
+     - **Qiao**: Where have you been?  
+     - **Response**: I have been to Guilin! It was beautiful.  
+
+2. **探讨去过的地方**  
+   - “Where have you gone/been in [地名]?”  
+   - “What places did you visit there?”  
+   - **示例**：  
+     - **Qiao**: Where have you gone in Guilin?  
+     - **Response**: I went to Yangshuo. We explored the rivers and mountains—stunning views!
+
+3. **聊美食**  
+   - “Have you tried any local food?”  
+   - “What’s been your favorite dish so far?”  
+   - **示例**：  
+     - **Qiao**: What have you tried in Guilin?  
+     - **Response**: I tried Guilin rice noodles; it was delicious!
+
+---
+
+### 如何询问对方的旅行感受
+
+1. **询问喜欢的地方**  
+   - “What’s been your favorite part of the trip?”  
+   - “Is there a place you would love to visit again?”  
+   - **示例**：  
+     - **Qiao**: How do you like your trip to Guilin?  
+     - **Response**: I loved it! Yangshuo was incredible, and I’d definitely go back someday.  
+
+2. **了解特别的体验**  
+   - “What surprised you the most about this place?”  
+   - “Any memorable experiences you’d like to share?”  
+   - **示例**：  
+     - **Qiao**: Any memorable experiences in Bali?  
+     - **Response**: Yes, I joined a traditional healing class in Bali—it was so unique!
+
+3. **了解接下来的计划**  
+   - “Do you have any plans for your next trip?”  
+   - “Where would you like to go next?”  
+   - **示例**：  
+     - **Qiao**: Do you have any plans for your next trip?  
+     - **Response**: I’d like to go to Singapore next.  
+
+---
+
+### 如何表达自己的旅行感受
+
+1. **表达喜欢的地方**  
+   - “I loved visiting [地名].”  
+   - “My favorite place was [地名] because…”  
+   - **示例**：  
+     - **Qiao**: I loved visiting Xi’an, especially the Terra-cotta Warriors. It was amazing!  
+
+2. **分享体验**  
+   - “One of my best experiences was…”  
+   - “I’ll never forget when I…”  
+   - **示例**：  
+     - **Qiao**: One of my best experiences in Xi’an was visiting the ancient city wall.  
+
+3. **聊文化和氛围**  
+   - “The vibe here is amazing!”  
+   - “I really enjoyed the relaxed atmosphere in [地名].”  
+   - **示例**：  
+     - **Qiao**: The vibe in Xi’an’s Datang Everbright City was fantastic, especially at night!
 
 ### 2024.10.29
 
