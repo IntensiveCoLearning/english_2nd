@@ -287,6 +287,10 @@ timezone: Asia/Shanghai
 - Event Handling: JavaScript allows you to attach event listeners to DOM elements, which can respond to user interactions and trigger specific actions.
   
 ### 2024.10.28
+What is React?
+	Answer: React is a JavaScript library for building user interfaces, primarily for single-page applications. It 		allows developers to create reusable UI components and manage the state of those components efficiently.
+What is JSX?
+	Answer: JSX (JavaScript XML) is a syntax extension for JavaScript that allows writing HTML-like code within 		JavaScript. It makes it easier to create React elements and components.
 
 
 
