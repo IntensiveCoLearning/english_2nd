@@ -132,6 +132,21 @@ LXDAO Host 的英语残酷共学第 2 期将继续加强**听和说**的训练�
 | Wayne&ChenFan | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
 
+<!-- STATISTICALDATA_START -->
+
+
+## 统计数据
+
+- 总参与人数: 53
+- 完成人数: 20
+- 完成用户: Peyton&Treap, Auryx Moen&183Aaros, Junhua&hyl, Tequila&VincentChan, Zhangfeng&Oscar, Zeppeli0709, Ache&Soleil, ChenFan&Wayne, 183Aaros&AuryxMoen, Qi, hyl&junhua, VincentChan&Tequila, ifcalm, Antony, 吃汤圆&学外语, Chacha&Qi, Ayden&Fluency, qiaopengjun&Ronaldskp, Oscar&Zhangfeng, Zhangdajiang
+- 全勤用户: Peyton&Treap, Tequila&VincentChan, Zhangfeng&Oscar, hyl&junhua, ifcalm, qiaopengjun&Ronaldskp
+- 淘汰人数: 33
+- 淘汰率: 62.26%
+- Fork人数: 63
+<!-- STATISTICALDATA_END -->
+
+
 
 
 
