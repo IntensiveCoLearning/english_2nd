@@ -986,5 +986,19 @@ Note:
 
 [Daily English Dictation 37 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=37)
 
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | A going nest long traffic turned by. A tank came by stre 40 miles |
+| Correct Version | A gooey mess snarls traffic along the busy Pennsylvania Turnpike. A leaking  valve on a tanker spread driveway sealant across 40-mile stretch of the eastbound side |
+
+- gooey/ ˈɡuːi / *adj.*胶粘的；感伤的
+- snarl/ snɑːrl / （使）缠结；妨碍，使（交通等）堵塞；
+- valve/ vælv / *n.*阀，活门；
+- sealant/ ˈsiːlənt / *n.*[机] 密封剂
+- tanker *n.*油轮，油车，空中加油飞机；
+- eastbound *adj.*往东的；向东旅行的
+
+[Daily English Dictation 38 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=38)
+
 <!-- Content_END -->
 
