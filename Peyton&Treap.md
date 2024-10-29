@@ -972,5 +972,19 @@ Note:
 
 [Daily English Dictation 36 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=36)
 
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | When the family left Vietnam by boat bound for Thailand but the boat was underset by pirates. After years of trial his father located his son in Thailand. |
+| Correct Version | When the family left Vietnam by boat bound for Thailand but the boat was **intercepted** by pirates ... after years of **trying** his father located his son in Thailand. |
+
+- pirate/ ˈpaɪrət /
+- intercept/ ˌɪntərˈsept / *v.*拦截，阻截
+- bound for 前往某个地方：朝着某个方向移动，前往某个地方。
+- trial/ ˈtraɪəl / trying/ ˈtraɪɪŋ /
+
+### 2024.10.30
+
+[Daily English Dictation 37 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=37)
+
 <!-- Content_END -->
 
