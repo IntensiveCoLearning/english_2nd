@@ -998,7 +998,23 @@ Note:
 - tanker *n.*油轮，油车，空中加油飞机；
 - eastbound *adj.*往东的；向东旅行的
 
+### 2024.10.31
+
 [Daily English Dictation 38 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=38)
+
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | The music has been played at the church in Germany and well it really looks up to its name. Since it started there have been just 11 chord changes and the next one is scheduled until July in 2012. |
+| Correct Version | The music **is being** played at **a** church in Germany and well, it really **lives** up to its name. Since it started, there have been just 11 chord changes and the next one **isn't** scheduled until July 2012. |
+
+- organ 风琴
+- concert/ ˈkɑːnsərt / cancer/ ˈkænsər /
+- **lives** up to
+- isn't ... until
+
+### 2024.11.1
+
+[Daily English Dictation 39 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=39)
 
 <!-- Content_END -->
 
