@@ -1012,9 +1012,24 @@ Note:
 - **lives** up to
 - isn't ... until
 
-### 2024.11.1
+### 2024.11.8
 
 [Daily English Dictation 39 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=39)
+
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | A dozen of white rabbits were apparently dumped along the side of the road Sunday night. More than 60 bunnies were scared by shoulder. |
+| Correct Version | **Dozens** of white rabbits were apparently dumped along the side of the road Sunday night. More than 60 bunnies were **scattered on** the shoulder (of the road). |
+
+- Samaritan/ səˈmærɪtən / *n.*撒马利亚人；乐善好施者
+- scatter/ ˈskætər / *v.*撒，播撒；（使）散开，（使）散布在各处；
+- dump/ dʌmp / *v.*丢弃，扔掉 *n.*垃圾场；废料堆场
+- damp/ dæmp /*adj.*潮湿的
+- shoulder <美> （公路旁的）路肩，紧急停车道
+
+[Daily English Dictation 40 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=40)
+
+
 
 <!-- Content_END -->
 
