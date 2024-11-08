@@ -1027,7 +1027,25 @@ Note:
 - damp/ dæmp /*adj.*潮湿的
 - shoulder <美> （公路旁的）路肩，紧急停车道
 
+### 2024.11.9
+
 [Daily English Dictation 40 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=40)
+
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | So wonderful life I came across  what if you always done, what if you always do, and what you always done and what you always get, what you always got. So brilliant life! |
+| Correct Version | **There's a** wonderful **line** I came across :  if you**'ve** always done ...or,  if you always do what you've always done, you**'ll** always get what you've always got. **It's a** brilliant line! |
+
+- there's a 
+- line 台词，话 ~quotation
+
+[Daily English Dictation 41 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=41)
+
+
+
+
+
+
 
 
 
