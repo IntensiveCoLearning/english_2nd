@@ -1039,13 +1039,22 @@ Note:
 - there's a 
 - line 台词，话 ~quotation
 
+### 2024.11.10
+
 [Daily English Dictation 41 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=41)
 
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | Her story is inspiring others from xxx indiana to pay off the bills for complete strangers in these days before Chrismas. holiday shopper who heard about the layaway Santas say this sweet act of kindness has restore the faith of people. |
+| Correct Version | Her story **has inspired** others from **Montana** to Indiana to pay off the bills **of** complete strangers in these days before **Christmas**. holiday shopper**s** who**'ve** heard about the layaway Santas say this **sweeping** act**s** of kindness ha**ve** restore their faith **in** people. |
 
+- layaway
+- Montana
+- Chrismas --> Christmas
+- sweeping/ ˈswiːpɪŋ / *adj.*范围广的，影响大的；过于笼统的；弧线的，弯曲的；包含丰富信息的；（投票等中的）大胜
+- faith **in** sth.
 
-
-
-
+[Daily English Dictation 42 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=42)
 
 
 
