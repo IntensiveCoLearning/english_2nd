@@ -1054,7 +1054,26 @@ Note:
 - sweeping/ ˈswiːpɪŋ / *adj.*范围广的，影响大的；过于笼统的；弧线的，弯曲的；包含丰富信息的；（投票等中的）大胜
 - faith **in** sth.
 
+### 2024.11.11
+
 [Daily English Dictation 42 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=42)
+
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | It's brand new slay to a team get a whsile and the way  they all float like a down xxx fwil? but I heard it explain as it drailed other side. Happy Christmas to all and to all have a good night. |
+| Correct Version | He **sprang** to his **sleigh** to **his** team （reindeers） **gave** a **whistle**! <br />And away they all **flew** like the down of a **thistle**<br />But I heard him **exclaim** as he **drove out of sight**<br />"Happy Christmas to all, and to all a good night" |
+
+- poem
+- sprang/ spræŋ / 跳，跃；突然出现，涌现；突然猛烈地移动（spring 的过去式）
+- sleigh / sleɪ /*n.*雪橇 <> slay/ sleɪ / *v.*（以暴力）杀死
+- reindeer/ ˈreɪndɪr /*n.* 驯鹿
+- whistle/ ˈwɪs(ə)l /
+- thistle/ ˈθɪs(ə)l / *n.*[植]蓟，一种绒毛植物
+- exclaim/ ɪkˈskleɪm / <> explain/ ɪkˈspleɪn /
+
+
+
+[Daily English Dictation 43 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=43)
 
 
 
