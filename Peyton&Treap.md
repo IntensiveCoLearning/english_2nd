@@ -1071,11 +1071,19 @@ Note:
 - thistle/ ˈθɪs(ə)l / *n.*[植]蓟，一种绒毛植物
 - exclaim/ ɪkˈskleɪm / <> explain/ ɪkˈspleɪn /
 
-
+### 2024.11.12
 
 [Daily English Dictation 43 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=43)
 
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | Hi Geoage, do you know my friend go to scyci?<br />Really?<br />Enha, we should go sometime.<br />I'd love to go. Make an appointment. |
+| Correct Version | Hey Geoage, you know, my friend **goes** to **a** psychic?<br />Really?<br />Uh-huh, we should go sometime.<br />I'd love to go. Make an appointment. |
 
+- psychic/ ˈsaɪkɪk /*n.*通灵者；灵媒；巫师
+- fortune teller 算命师
+
+[Daily English Dictation 44 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=44)
 
 <!-- Content_END -->
 
