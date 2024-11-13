@@ -1083,7 +1083,27 @@ Note:
 - psychic/ ˈsaɪkɪk /*n.*通灵者；灵媒；巫师
 - fortune teller 算命师
 
+### 2024.11.13
+
 [Daily English Dictation 44 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=44)
+
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | A: No I beat you. Don't you remember the Ray  smashed ping-pong???<br />B: Ray, I've learned the play in Korea. FROM KOREAIAN. You think some pumpkin gonna actually beat me?<br />A: No dad you would try to win when you swing the defend???<br />B: I'm a damn fine actor. |
+| Correct Version | A: Dad, I beat you. Don't you remember the **Rayman Spinball?**<br />B: Ray, I learned the play in Korea. From Koreans. You think some **punk kid's** gonna actually beat me?<br />A: No,dad, you **were trying** to win when you **were** **sweating** and **panting**<br />B: I'm a damn fine actor. |
+
+- beat ~beat ~beat or beaten
+- Rayman Spinball is probably a nickname or title for Ray (He thought he as a man while he was a child at that time)
+- Korean/ kəˈriːən / instead of Korenian
+- punk/ pʌŋk / *n.*废物；小阿飞；年轻无知的人 *adj.*朋客，崩客；无用的，低劣的
+- punk kid 朋克小子：指那些喜欢朋克风格、行为叛逆的年轻人。
+- sweating / ˈswetɪŋ /
+- pant/ pænt / *v.*气喘，喘息；气喘吁吁地说；气喘吁吁地跑；渴望（pant for）；<文>（心）剧跳，（胸部）剧烈起伏
+- panting/ ˈpæntɪŋ / *adj.*喘气的
+- dunk shot 扣篮
+- anarchy/ ˈænərki / *n.*无政府状态；混乱，无秩序
+
+
 
 <!-- Content_END -->
 
