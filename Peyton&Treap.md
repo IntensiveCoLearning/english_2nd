@@ -1103,7 +1103,31 @@ Note:
 - dunk shot 扣篮
 - anarchy/ ˈænərki / *n.*无政府状态；混乱，无秩序
 
+### 2024.11.14
 
+[Daily English Dictation 45 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.videopod.episodes&vd_source=fd015ccdec6337c64cc98064986a4512&p=45)
+
+Seinfield
+
+|                 | Text                   |
+| --------------- | ---------------------- |
+| My dictation    | Hey, is it call??? out |
+| Correct Version | Hey, is it cold out?   |
+
+Notes:
+
+- This is from a sitcom Seinfeld.
+- cold/ koʊld / 
+- Even though "cold" is a simple word in English, I struggled to catch it during this dictation. This is the kind of detail we should pay more attention to sometimes.
+
+[Daily English Dictation 46 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=46)
+
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | For more than three hundred years, the power of the French Kings was absolute. This  man had the power to do anything. |
+| Correct Version | For more than 300 years, the power of the French king was absolute. This **meant that** **he** had the power to do anything. |
+
+- meant/ ment / vs. mean/ miːn / vs.mint/ mɪnt /
 
 <!-- Content_END -->
 
