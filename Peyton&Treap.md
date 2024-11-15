@@ -1129,5 +1129,22 @@ Notes:
 
 - meant/ ment / vs. mean/ miːn / vs.mint/ mɪnt /
 
+### 2024.11.15
+
+[Daily English Dictation 47 & Listening Comprehension_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.videopod.episodes&vd_source=fd015ccdec6337c64cc98064986a4512&p=47)
+
+|                 | Text                                                         |
+| --------------- | ------------------------------------------------------------ |
+| My dictation    | What people will do these days for their pets are washing and blowing??? dry  ??? but there are many dogs wants some ??? along some feature comfort set pet hotel and day spa |
+| Correct Version | What people will do these days for their pets.... A wash and a blow-dry -- **that goes without saying**. But **the demanding dog now** wants some limo along with other creature comfort**s at** a pet hotel and day spa! |
+
+- limo/ ˈlɪmoʊ / *n.*豪华轿车 
+- limousine/ ˈlɪməziːn; ˌlɪməˈziːn /
+- blow-dry/ ˈbloʊ draɪ / 用吹风机吹干
+- demanding/ dɪˈmændɪŋ / *adj.*费时费力的；苛刻的，难以满足的
+- creature comforts 舒适便利的物品和设施：人们在生活中所需的舒适和便利的物品和设施，例如温暖的床铺、柔软的毛巾、空调、电视等。
+
+
+
 <!-- Content_END -->
 
