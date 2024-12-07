@@ -171,6 +171,7 @@ LXDAO Host 的英语残酷共学第 2 期将继续加强**听和说**的训练�
 
 
 
+
 <!-- STATISTICALDATA_START -->
 
 
@@ -182,7 +183,7 @@ LXDAO Host 的英语残酷共学第 2 期将继续加强**听和说**的训练�
 - 全勤用户: Peyton&Treap, Tequila&VincentChan, Zhangfeng&Oscar, hyl&junhua, ifcalm, qiaopengjun&Ronaldskp
 - 淘汰人数: 33
 - 淘汰率: 62.26%
-- Fork人数: 64
+- Fork人数: 65
 <!-- STATISTICALDATA_END -->
 
 总之希望频率相同的人在 LXDAO 残酷氛围之下相互鼓励与学习交流，找到适合自己的英语精进节奏，加入进来试试吧。
