@@ -387,10 +387,44 @@ maxim 格言；箴言；座右铭
 spectrum 范围；各层次；系列；幅度
 
 ### 2024.10.21
-to be continued
+https://mp.weixin.qq.com/s/vdhG_gEF7tOv14TMm9cz0A
+
+Notes：
+
+doom 死亡；毁灭；厄运；劫数
+
+You snooze, you lose 一但不留神就会被人抢先
+
+maxim 格言；箴言；座右铭
+
 ### 2024.10.22
-to be continued
+I listened to and read a short passage
+https://mp.weixin.qq.com/s/oaQGEOz17vhp9Zgv0QCbAQ
+
+Notes: 
+
+algorithm 算法；计算程序
+
+amplify 增强，放大
+
+turnover（一定时期内的）营业额，成交量；人事变更率；人员调整率
+
+interference 干涉，干预
+
+sovereignty 主权，统治权
+
 ### 2024.10.23
-to be continued
+I listened to and read a short passage today
+
+https://mp.weixin.qq.com/s/R2oMCzekeF36wdHaIIWWyA
+
+Notes: 
+
+splashdown 作名词，表示“溅落（指航天器坠入海里）”；动词短语 splash down 表示“降落在水中/海上”
+
+manoeuvre 作名词，表示“细致巧妙的移动；机动动作”，也可以表示“策略；手段；花招；伎俩”；作动词，表示“（使谨慎或熟练地）移动，运动；转动
+
+detonation 引爆，起爆
+
 ### 2024.10.24
 <!-- Content_END -->
